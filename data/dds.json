@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "titulo": "A cabeça ainda tá na folga",
+    "setores": ["geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Antes de começar, uma pergunta pra vocês: quem aqui, sendo sincero, ainda tá com a cabeça meio no fim de semana? Pode levantar a mão, não tem problema, é a maioria. Segura essa sensação aí que ela é o assunto de hoje.",
+    "caso": "Deixa eu contar uma história real de um operador. Cara bom, seis anos na mesma função, fazia o serviço de olho fechado. Ele voltou de uma folga de três dias, daquelas boas, churrasco, família, descanso. Chegou na segunda de manhã, foi pra mesma máquina de sempre, tarefa que ele conhecia melhor que ninguém. Só que aconteceu o seguinte: a mão dele fez o trabalho no automático, mas a cabeça ainda tava no domingo. Ele pulou uma checagem que sempre fazia, aquela conferida rápida antes de acionar. Pensou 'isso aqui eu faço dormindo, não preciso'. A peça tava mal travada. Quando ele acionou, a peça se mexeu, prendeu a luva, e puxou o dedo junto. Seis anos sem um arranhão. O acidente veio no dia que ele achou que conhecia demais pra se machucar.",
+    "regra": "Presta atenção nisso, porque é o contrário do que a gente pensa. Acidente não gosta de gente concentrada, de novato com medo. Acidente gosta de gente confiante, que já domina, que baixou a guarda. E a segunda-feira depois da folga é o dia perfeito pra ele, porque o corpo tá aqui mas a cabeça demora pra chegar. A tarefa que você mais domina é justamente onde você para de prestar atenção. E onde você para de prestar atenção é onde ele te espera.",
+    "discussao": [
+      "Qual é a tarefa aqui que vocês fazem tão no automático que já nem pensam mais nela?",
+      "Alguém já teve um susto, um quase-acidente, voltando de folga ou de férias? Como foi?",
+      "O que a gente pode combinar pra segurar a atenção nos primeiros serviços do dia, quando a cabeça ainda tá acordando?"
+    ],
+    "fechamento": "Então fica o combinado de hoje, e é uma coisa só, simples: a primeira tarefa do dia, principalmente hoje que é começo de semana, ninguém faz no piloto automático. Faz devagar, conferindo cada passo, como se fosse a primeira vez. Depois que o corpo e a cabeça engrenam juntos, o ritmo volta sozinho. Vou passar aqui mais tarde e quero ver todo mundo fazendo a checagem antes de acionar. Combinado? Bom trabalho e um bom dia pra todo mundo."
+  },
+  {
+    "id": 2,
+    "titulo": "Sede é o último a chegar",
+    "setores": ["geral", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia a todos. Deixa eu começar perguntando: quem aqui já passou uma manhã inteira no sol e só foi lembrar de beber água quando já tava com dor de cabeça ou meio tonto? Guarda essa lembrança, porque hoje eu quero falar de uma coisa que engana muita gente boa.",
+    "caso": "Teve um ajudante, rapaz forte, novo, cheio de disposição. Trabalhou uma manhã inteira numa laje, sol batendo direto, sem parar pra beber água uma vez sequer. Ele tinha orgulho disso, dizia que aguentava, que água era pra fraco. Lá pelas onze horas começou a ficar tonto. Achou que era fome, comeu alguma coisa rápida e continuou. Meia hora depois as pernas amoleceram, a vista escureceu, e ele sentou no chão sem conseguir se levantar. Foi parar no posto com desidratação séria, soro na veia. E aqui tá o que quase ninguém sabe: quando bate a sede de verdade, o seu corpo já tá em falta de água faz tempo. A sede não é o aviso pra começar a beber. Ela é a reclamação de que você já bebeu de menos.",
+    "regra": "Por isso a regra no calor não é beber quando dá sede, é beber antes dela chegar. De hora em hora, um copo, com sede ou sem sede. E tem um jeito fácil de saber se você tá bebendo o suficiente: olha a cor da sua urina. Se tá bem amarela, escura, você já tá atrasado na água. Quanto mais clara, melhor.",
+    "discussao": [
+      "Quantas vezes você encheu a garrafa ontem? Se você não lembra, provavelmente foi pouco.",
+      "Onde vocês têm ponto de água aqui perto? Tá fácil de chegar ou dá preguiça?",
+      "Alguém já passou mal de calor no serviço? Como é que foi?"
+    ],
+    "fechamento": "Combinado de hoje: cada um fica com a garrafa cheia por perto e toma um gole a cada parada, não só quando apertar a sede. E olho na cor da urina, que é o seu termômetro de graça. Antes de subir pro serviço agora, todo mundo dá uma bebida de água. Vamos pra cima, e bom trabalho."
+  },
+  {
+    "id": 3,
+    "titulo": "O EPI que incomoda é o que trabalha",
+    "setores": ["geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Pergunta honesta pra começar, e ninguém vai ser cobrado por responder a verdade: quem aqui já afrouxou o óculos, empurrou o protetor pra cima, ou tirou a luva porque tava incomodando? Pode ser sincero. Esse incômodo é exatamente o que eu quero conversar hoje.",
+    "caso": "Um soldador, profissional bom, experiente, tirou o óculos de proteção por dois minutos. Só dois. O ventilador tava fraco naquele dia, o óculos embaçava, e ele queria enxergar melhor um ponto difícil da solda. Pensou 'é rapidinho, eu tiro só pra ver e ponho de novo'. Nesses dois minutos, saltou uma fagulha do jeito que fagulha faz, sem avisar. Acertou o olho dele em cheio. Ele passou a semana com o olho vendado, com dor, e com uma sorte enorme de não ter perdido a visão daquele olho pra sempre. Pensa no tamanho da troca: dois minutos sem o que incomodava, contra o risco de uma vida enxergando de um olho só.",
+    "regra": "Aqui tá a virada de chave que eu quero que vocês levem: o EPI não incomoda porque ele é ruim ou porque foi feito pra atrapalhar. Ele incomoda porque ele tá bem ali, no caminho, entre você e a coisa que ia te machucar. O óculos embaça porque tá protegendo. A luva atrapalha o tato porque tá segurando o que ia cortar. O desconforto do EPI é o preço de um dia. O desconforto de um acidente é o preço da vida inteira.",
+    "discussao": [
+      "Tem algum EPI seu que tá incomodando tanto a ponto de você querer tirar? Fala agora, é pra isso que eu tô aqui.",
+      "Vocês acham que tem EPI aqui que tá mal ajustado ou é o modelo errado pra função?",
+      "Alguém já se machucou, ou quase, no momento exato que tinha tirado a proteção?"
+    ],
+    "fechamento": "Então o combinado é esse: ninguém tira EPI pra ficar mais confortável. Mas eu também assumo a minha parte: se tá incomodando de verdade, se embaça demais, se aperta, me chama que a gente vê o ajuste ou troca o modelo. Desconforto de EPI tem solução, e não é tirar. Bom trabalho a todos."
+  },
+  {
+    "id": 4,
+    "titulo": "O quase que ninguém contou",
+    "setores": ["geral", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Quero começar com uma pergunta, e vocês nem precisam responder em voz alta, só pensar: quem aqui teve um quase-acidente essa semana, um susto, um tropeço, uma coisa que quase deu errado, e não contou pra ninguém? Segura essa resposta na cabeça, porque é sobre isso que a gente vai falar.",
+    "caso": "Vou contar um caso que mostra bem por que isso importa. Numa fábrica, um operador quase levou uma queda feia porque tinha uma poça de óleo no chão, perto de uma máquina. Ele pisou, escorregou, mas conseguiu se equilibrar na última hora, se segurou numa estrutura. Xingou, respirou aliviado, limpou o óleo com a sola do sapato meio de qualquer jeito, e continuou o serviço. Não falou nada pra ninguém. Achou que era bobagem, que já tinha passado, que não valia a pena fazer barulho. Três dias depois, no mesmo lugar exato, outro colega escorregou no mesmo óleo que não foi limpo direito. Só que esse não teve a mesma sorte. Caiu de verdade, bateu as costas no chão, ficou afastado semanas. Presta atenção na conta: a diferença entre o quase e o acidente de verdade foram três dias e uma boca fechada.",
+    "regra": "Um quase-acidente é a coisa mais valiosa que existe na segurança, e a gente joga fora toda hora. Ele é o acidente te dando um aviso de graça, uma chance de arrumar o problema antes que ele machuque alguém. Quando você vive um quase e não conta, você não tá sendo forte nem discreto. Você tá guardando pra você um aviso que era pra proteger o próximo colega. E o próximo pode não ter a sua sorte.",
+    "discussao": [
+      "Teve algum quase com você essa semana? Um tropeço, um susto, uma ferramenta que quase caiu? Conta aí, isso vale ouro.",
+      "Por que será que a gente tem tanta resistência de contar um quase-acidente? Do que é que a gente tem medo?",
+      "Como a gente pode facilitar pra todo mundo avisar um quase sem sentir que tá dedurando ou arrumando problema?"
+    ],
+    "fechamento": "O combinado de hoje é mudar isso. O próximo quase que acontecer com qualquer um de vocês, me avisa. Não é dedurar, não é fraqueza, é evitar que o acidente de verdade aconteça com o colega do lado. Quase-acidente avisado é acidente que não vai acontecer. Bom trabalho, pessoal, e se cuidem hoje."
+  },
+  {
+    "id": 5,
+    "titulo": "A coluna não avisa hoje",
+    "setores": ["logistica", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia a todos. Começando com uma pergunta pra vocês pensarem: quem aqui pega peso curvando as costas, agarrando a caixa de qualquer jeito, girando o corpo com o peso na mão, porque assim é mais rápido? Não precisa levantar a mão, todo mundo já fez. E é justamente esse jeito que eu quero conversar hoje.",
+    "caso": "Deixa eu contar de um conferente que trabalhou anos assim. Curvava as costas pra pegar caixa, girava o tronco com o peso, uma atrás da outra, o dia inteiro, todo dia. E o mais perigoso: nunca doeu nada. Ele até ria de quem falava de postura, dizia 'comigo isso não pega, minhas costas são de ferro'. Até um dia. Um dia comum, ele agachou pra pegar uma caixa leve, dessas de quase nada, e travou. Simplesmente travou. Não conseguiu levantar, ficou dobrado, teve que ser ajudado. Diagnóstico: hérnia de disco. E aqui tá o detalhe que assusta: o que estourou a coluna dele não foi a caixa pesada. Foi o acúmulo de anos pegando peso do jeito errado. Cada vez que ele curvou a coluna sem sentir nada, a conta foi somando calada. A caixa levinha foi só a gota d'água. A conta chegou toda de uma vez.",
+    "regra": "Esse é o problema traiçoeiro da coluna: ela não dói na hora que você faz errado. Ela guarda o dano e cobra tudo junto, lá na frente, quando você menos espera. Por isso não dá pra confiar no 'comigo não dói'. O jeito certo é sempre o mesmo: agacha dobrando os joelhos, não a coluna. Peso colado no corpo. E nunca, nunca gira o tronco carregando peso. Se precisa virar, vira com os pés, o corpo todo junto.",
+    "discussao": [
+      "Quem aqui já sente uma fisgada nas costas no fim do dia? Isso não é cansaço normal, é aviso.",
+      "Quais são as tarefas aqui que mais forçam a coluna? Como a gente poderia fazer diferente?",
+      "Tem peso aqui que é pesado demais pra uma pessoa só e a gente insiste em carregar sozinho por orgulho?"
+    ],
+    "fechamento": "Combinado de hoje, e é pra vida, não só pro serviço: toda vez que abaixar pra pegar peso, dobra o joelho e mantém a coluna reta. Peso perto do corpo, vira com os pés. E se tá pesado demais, chama ajuda ou usa equipamento, sem vergonha nenhuma. Herói de coluna estourada não trabalha. Bom trabalho a todos."
+  },
+  {
+    "id": 6,
+    "titulo": "O tombo bobo é o que mais machuca",
+    "setores": ["geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Vou começar com uma pergunta que engana muita gente: o que vocês acham que mais machuca trabalhador por aqui, cair de altura ou escorregar no chão plano, no mesmo nível? Pensem na resposta, porque ela normalmente surpreende.",
+    "caso": "A gente vive preocupado com as coisas grandes, altura, máquina, e tá certo, tem que se preocupar mesmo. Mas o que mais afasta gente do trabalho, na média, é o tombo bobo no chão. Deixa eu contar. Uma pessoa passou pano no piso, deixou molhado, e não sinalizou porque 'ia secar rápido, é só um pedacinho'. Um colega veio andando meio apressado, distraído, pisou naquele pedaço molhado, e os dois pés foram pra frente de uma vez. Ele caiu sentado, e no susto botou a mão pra trás pra se segurar. Resultado: fratura no punho, cirurgia com pino, dois meses afastado. Ninguém morre de escorregão, é verdade. Mas muita, muita gente sai de maca e passa meses parado por causa de um.",
+    "regra": "É por isso que os riscos pequenos merecem tanto respeito quanto os grandes. Piso molhado, fio atravessado no chão, ferramenta largada no caminho, aquele degrau que ninguém vê: é o que mais derruba gente e, olha que bom, é o mais fácil de resolver do mundo. Não precisa de equipamento caro nem de projeto. Viu no chão, você tira ou sinaliza. Simples assim. O difícil é não passar por cima achando que o próximo vai desviar.",
+    "discussao": [
+      "Tem alguma coisa no caminho de vocês agora, hoje, que pode derrubar alguém? Um fio, uma poça, um objeto largado?",
+      "Quando você deixa um chão molhado, você sinaliza ou confia que seca antes de alguém pisar?",
+      "Qual o ponto aqui do nosso setor que mais tem risco de escorregão ou tropeço?"
+    ],
+    "fechamento": "O combinado é esse: viu chão molhado ou coisa no caminho, você para e resolve, tira ou sinaliza. Não é serviço do outro, é de quem viu primeiro. Antes de começar agora, dá uma olhada rápida no seu posto e no caminho que você usa. Achou risco, resolve. Bom trabalho, pessoal."
+  },
+  {
+    "id": 7,
+    "titulo": "O cinto que ficou no armário",
+    "setores": ["construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Pergunta pra começar, e quero sinceridade: quem aqui já subiu pra fazer um serviço rápido em altura sem o cinto, porque era coisa de dois minutos e buscar o equipamento ia dar trabalho? Vamos ser honestos entre nós. Esse 'é rapidinho' é o assunto mais importante de hoje.",
+    "caso": "Vou contar de um pedreiro, profissional experiente, dez anos de obra. Ele precisava ajustar uma coisa na beira da laje, no segundo andar, uns quatro metros do chão. O cinto de segurança dele tava lá embaixo, guardado no container, uns três minutos de caminhada. Ele fez a conta na cabeça: 'se eu descer, pegar o cinto, subir de novo, ancorar, faço meia hora de rodeio pra um serviço de dois minutos. Não compensa'. Subiu sem. Chegou lá em cima, se inclinou pra alcançar o ponto, e o pé escorregou numa poeirinha de cimento que tava na laje. Não teve o que segurar, não tinha nada pra prender. Caiu os quatro metros. Sobreviveu, mas quebrado, meses de recuperação, nunca mais o mesmo. E o cinto que ia salvar a vida dele tava a três minutos de distância, guardadinho no container.",
+    "regra": "Aqui tá a regra que não tem exceção: não existe altura por pouco tempo. O chão não sabe e não quer saber se você ia ficar dois minutos ou duas horas lá em cima. Ele cobra igual. A gravidade não dá desconto pra serviço rápido. Acima de dois metros, é cinto ancorado num ponto firme, sempre, pro serviço mais rápido do mundo. Os três minutos pra buscar o cinto são o melhor investimento que você faz no dia.",
+    "discussao": [
+      "Já teve uma vez que você subiu sem cinto pra economizar tempo? O que passou pela sua cabeça na hora?",
+      "Aqui nos nossos serviços, onde é que fica mais tentador pular o cinto? Onde a gente tem que redobrar o cuidado?",
+      "O equipamento de altura tá fácil de pegar, perto, ou é longe a ponto de dar preguiça? Como a gente resolve isso?"
+    ],
+    "fechamento": "Combinado firmado: qualquer serviço em altura, ninguém sobe sem cinto e sem ponto de ancoragem, por mais rápido que pareça. E se não tem onde ancorar, você não improvisa, você para a tarefa e me chama, que a gente resolve o ponto de fixação juntos. Sua família te espera inteiro no fim do dia. Bom trabalho e subam seguros."
+  },
+  {
+    "id": 8,
+    "titulo": "Achei que tava desligado",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Quero começar contando qual é a frase que mais aparece nos relatórios de acidente grave com energia. Não é uma frase técnica, é simples: 'achei que tava desligado'. Guarda isso. E agora minha pergunta pra vocês: quantos de vocês já mexeram num equipamento elétrico confiando que tava desligado, sem testar com as próprias mãos?",
+    "caso": "Deixa eu contar de um eletricista, e olha que era gente qualificada, não era leigo. Ele foi mexer num painel. Antes de começar, perguntou pra alguém se a energia daquele circuito tava cortada. A pessoa disse que sim, que tinha desligado. Ele confiou na palavra. Não testou com o instrumento dele, não travou o disjuntor, não sinalizou. Simplesmente confiou no 'tá desligado' que veio da boca de outra pessoa. Enfiou a mão no painel pra trabalhar. Só que tinha um circuito ali que ninguém lembrou, que continuava energizado. O choque jogou ele pra trás com força, queimou a mão, e deu o susto da vida dele. Ele teve sorte de sobreviver. Muitos, na mesma situação, não sobrevivem. E o erro dele não foi técnico, ele sabia fazer o serviço. O erro foi confiar num desligamento que ele não conferiu com as próprias mãos.",
+    "regra": "Grava essa regra, porque ela salva vida: 'alguém disse que tá desligado' não vale absolutamente nada. Não importa quem falou, não importa o quanto você confia na pessoa. Enquanto VOCÊ não travou o disjuntor, sinalizou que tá trabalhando, e mediu com o SEU instrumento que não tem energia, aquilo ali tá ligado. Você testa, você trava, você bloqueia. A sua segurança não pode depender da memória ou da palavra de outra pessoa.",
+    "discussao": [
+      "Você já confiou num desligamento que outra pessoa fez, sem conferir? Deu certo, mas e se não tivesse dado?",
+      "A gente tem os instrumentos de teste e os dispositivos de bloqueio fáceis de acessar aqui? Falta alguma coisa?",
+      "Como funciona o nosso processo de travar e sinalizar um equipamento em manutenção? Todo mundo sabe fazer?"
+    ],
+    "fechamento": "Combinado de hoje pra quem mexe com energia: você trava, você sinaliza, e você testa com o seu instrumento antes de tocar em qualquer coisa. Não confia na boca de ninguém, confia no que o instrumento mostra. Energia não dá segunda chance. Bom trabalho, e trabalhem seguros hoje."
+  },
+  {
+    "id": 9,
+    "titulo": "A área que ninguém isolou",
+    "setores": ["geral", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Pergunta rápida e honesta pra começar: quem aqui já passou por baixo de uma fita de isolamento, ou desviou de um cone, porque tava com pressa e aquele era o caminho mais curto? Sem culpa, é pra pensar. Porque aquela fita tava ali por um motivo que talvez você não enxergasse.",
+    "caso": "Numa obra, a equipe isolou uma área embaixo de um andaime, com fita, porque tinha gente trabalhando lá em cima. Um encarregado, correndo pra resolver outra coisa, chegou nessa área isolada e achou o desvio longo demais. Pensou 'dar a volta toda é perda de tempo, eu passo por baixo rapidinho'. Passou por baixo da fita, cortou caminho bem por dentro da área isolada. E no exato momento que ele tava embaixo do andaime, uma ferramenta escapou da mão de quem trabalhava lá em cima. A ferramenta despencou e passou de raspão na cabeça dele. Um palmo pro lado e teria sido fatal, ali na hora. A fita não tava ali pra atrapalhar a passagem de ninguém. Tava ali exatamente porque naquele ponto, embaixo daquele andaime, tinha risco de coisa caindo de cima.",
+    "regra": "Área isolada não é sugestão, não é frescura, não é pra atrapalhar. É um aviso de que ali tem perigo, quase sempre um perigo que você não consegue ver do chão, como coisa que pode cair de cima. Se isolaram, tem motivo, mesmo que você não enxergue qual é. Então a regra é simples: dá a volta, por mais longe que seja. O caminho curto por dentro do isolamento pode ser o último caminho que você faz.",
+    "discussao": [
+      "Você sabe por que cada área isolada daqui tá isolada agora? Se não sabe, o certo é perguntar antes de chegar perto.",
+      "Já teve uma vez que você passou por um isolamento e depois descobriu o risco que tinha ali?",
+      "Quando VOCÊ precisa isolar uma área, você faz isso direito ou às vezes deixa pra lá pra não dar trabalho?"
+    ],
+    "fechamento": "Combinado: viu fita, viu cone, viu qualquer isolamento, você respeita e dá a volta, sem exceção. E se você realmente precisa entrar naquela área por serviço, fala com o responsável antes pra entender o risco. Bom trabalho, pessoal, e respeitem os isolamentos hoje."
+  },
+  {
+    "id": 10,
+    "titulo": "Um olho na tela, nenhum no serviço",
+    "setores": ["geral", "frota"],
+    "tempo": 10,
+    "abertura": "Bom dia a todos. Quero começar com uma pergunta que vale pra praticamente todo mundo hoje em dia: quem aqui já respondeu uma mensagem no celular no meio de uma tarefa, achando que dava pra fazer as duas coisas ao mesmo tempo? A gente acha que consegue. E hoje eu quero mostrar por que a gente não consegue.",
+    "caso": "Deixa eu contar de um operador de empilhadeira. No meio da operação, com a máquina ainda andando e carregada, o celular dele vibrou no bolso. Uma mensagem. Ele pensou 'é rapidinho, só uma olhada'. Baixou o olho por dois segundos pra ler a tela, com a empilhadeira em movimento. Dois segundos. Nesse tempinho, um colega a pé atravessou o corredor bem na frente da máquina. Quando o operador levantou o olho da tela, o colega já tava ali, e ele só teve tempo de pisar no freio no susto, parando a poucos centímetros de prensar o colega contra uma estante de material. Dois segundos de olho no celular quase custaram a perna, ou a vida, de outra pessoa. E tem uma coisa que a ciência já provou: o nosso cérebro não faz duas coisas com atenção ao mesmo tempo. Ele reveza rápido entre uma e outra. Então quando o olho tava na tela, o serviço, a máquina, o caminho, tudo ficou por dois segundos sem ninguém olhando de verdade.",
+    "regra": "É por isso que celular e operação não convivem, de jeito nenhum. Não é questão de ser habilidoso ou de conseguir se virar. É que fisicamente a sua atenção sai da tarefa no momento que vai pra tela, e é nesse buraco que o acidente entra. Enquanto a máquina anda, enquanto a tarefa exige as suas mãos e os seus olhos, o celular fica guardado no bolso. Mensagem espera, ligação espera. Parou a operação, desligou a máquina, saiu da área, aí sim você olha o celular.",
+    "discussao": [
+      "Você já teve um susto de verdade por causa de distração com o celular, no serviço ou até no trânsito?",
+      "Qual a pressão que a gente sente de responder na hora? De onde vem essa urgência que nem sempre é real?",
+      "Como a gente combina de lidar com o celular durante as operações de risco aqui do setor?"
+    ],
+    "fechamento": "Combinado de hoje: operou máquina, dirigiu, mexeu com equipamento, o celular fica guardado. Precisa muito responder alguma coisa? Você para, sai da operação, e aí olha com calma. Dois segundos de tela não valem a perna de um colega. Bom trabalho, pessoal, e foco no serviço hoje."
+  },
+  {
+    "id": 11,
+    "titulo": "A mão que confiou na máquina",
+    "setores": ["industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Começo com uma pergunta e quero honestidade, porque não é pra cobrar ninguém, é pra aprender: quem aqui já enfiou a mão numa máquina pra tirar uma peça travada com ela ainda ligada, ou desligando mas ainda girando, porque desligar tudo e esperar parar ia dar trabalho? Pensa na sua resposta.",
+    "caso": "Vou contar de um operador que fazia isso direto, e nunca tinha acontecido nada, o que é o mais perigoso de tudo. Um dia, uma peça entalou no meio do equipamento. A máquina tava sendo desligada, girando devagar, quase parando. Ele pensou 'não vou esperar parar tudo e travar, isso demora, é só puxar a peça rápido que ela tá quase saindo'. Enfiou a mão pra puxar. Só que a máquina, no momento que a peça travada liberou, teve um giro de sobra, aquele último movimento que a inércia ainda tinha. E esse giro pegou os dedos dele. Perdeu duas falanges ali, na hora. Faz a conta do que ele economizou: uns quinze segundos, o tempo de esperar parar de vez e travar. E faz a conta do que ele perdeu: dois pedaços do dedo, pra sempre, que ele vê toda vez que olha pra própria mão.",
+    "regra": "A regra aqui não tem meio-termo: máquina só recebe a sua mão quando tá desligada e parada de verdade, completamente, não desacelerando, não 'quase parando'. 'Quase parada' ainda tem movimento, e movimento é o que arranca dedo. Travou peça, entalou material, deu qualquer problema lá dentro: você desliga, trava a energia, espera parar por completo, confere que parou, e só aí mexe. Não existe peça travada que valha um dedo seu.",
+    "discussao": [
+      "Qual equipamento aqui você já teve vontade de destravar sem desligar direito? É nele que eu quero atenção redobrada.",
+      "A gente tem o hábito de travar a energia antes de mexer, ou a gente confia no botão de desliga e vai?",
+      "Já teve algum quase, algum susto, com a mão perto de parte móvel de máquina aqui?"
+    ],
+    "fechamento": "Combinado: deu qualquer problema na máquina, a primeira coisa que você faz é desligar e travar, e esperar parar de vez. Nenhuma peça entalada, nenhum ganho de tempo, vale a sua mão. Ela não volta a crescer. Bom trabalho, pessoal, e cuidado com as partes móveis hoje."
+  },
+  {
+    "id": 12,
+    "titulo": "A ferramenta certa não estava por perto",
+    "setores": ["geral", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar, e todo mundo já é culpado dessa, incluindo eu: quem aqui já usou uma chave de fenda como pé de cabra, um alicate como martelo, ou qualquer ferramenta pra uma coisa que ela não foi feita, porque a certa tava longe? Todo mundo já improvisou. Hoje é sobre o preço desse improviso.",
+    "caso": "Deixa eu contar de um montador. Ele precisava fazer uma alavanca pra soltar uma peça meio dura. A ferramenta certa pra aquilo tava na caixa, do outro lado do galpão, uns bons metros de caminhada. Ele tava com a chave de fenda na mão e pensou 'não vou lá longe buscar, forço com essa mesma que dá certo'. Encaixou a ponta da chave e forçou a alavanca. Só que chave de fenda não foi feita pra fazer força de alavanca, a ponta dela não aguenta esse tipo de esforço. A chave escapou de repente, com toda a força que ele tava fazendo, e a ponta veio voando na direção do rosto dele. Pegou de raspão pertinho do olho. Precisou de pontos e passou perto de perder a visão. A ferramenta errada não avisa a hora que vai escapar. Ela aguenta, aguenta, até o ponto que não aguenta mais, e nesse ponto ela vira um projétil na sua direção.",
+    "regra": "Cada ferramenta foi projetada, desenhada, feita pra uma função específica. Quando você usa ela pra outra coisa, você não tá só arriscando quebrar a ferramenta. Você tá arriscando que ela escape, quebre e vire estilhaço, ou se vire contra você. O tempo de ir buscar a ferramenta certa, por mais longe que ela esteja, é sempre, sempre menor que o tempo que você passa no pronto-socorro.",
+    "discussao": [
+      "Você tem a ferramenta certa pra tarefa de hoje, ou já tá planejando dar um jeitinho com o que tem na mão?",
+      "Tem ferramenta que falta aqui, ou que é ruim, e faz a gente improvisar? Me fala quais são.",
+      "Qual o improviso de ferramenta mais comum que você vê acontecer aqui no dia a dia?"
+    ],
+    "fechamento": "Combinado de hoje: faltou a ferramenta certa, ninguém improvisa com o que tá por perto. Você me avisa, e a gente providencia a ferramenta adequada. Improviso de ferramenta é acidente marcando hora pra acontecer. Bom trabalho, e usem a ferramenta certa pra cada serviço hoje."
+  },
+  {
+    "id": 13,
+    "titulo": "O cheiro que a gente acostuma",
+    "setores": ["industria", "geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Pergunta pra quem trabalha com produto químico, que é boa parte de vocês: quem aqui já reparou que parou de sentir o cheiro forte do ambiente porque acostumou? A gente entra, sente o cheiro no começo, e depois de um tempo nem percebe mais. Esse 'acostumar' parece bom, mas é justamente onde mora o perigo.",
+    "caso": "Deixa eu contar um caso de setor de limpeza industrial. Dois produtos químicos foram guardados perto um do outro, e num momento de correria alguém acabou misturando os dois na mesma bombona, sem querer, sem saber que não podia. A mistura reagiu e começou a soltar um gás. E aqui tá o detalhe importante: o funcionário que tava ali trabalhava havia tanto tempo naquele ambiente cheio de cheiro de químico, que o nariz dele já tinha acostumado com tudo. Ele demorou a perceber que aquele cheiro específico era diferente, era novo, era perigoso, porque pra ele todo cheiro forte já era 'normal'. Quando ele finalmente sentiu tontura e entendeu que tinha algo errado, já tinha respirado bastante daquele gás. Foi parar no hospital com irritação séria nas vias respiratórias. O corpo dele tinha se acostumado tanto que o alarme natural, que é o cheiro, parou de funcionar como aviso.",
+    "regra": "Então tem duas regras juntas aqui. A primeira: produto químico não se mistura, não se troca de embalagem, não se guarda um do lado do outro sem saber se são compatíveis. Cada um no recipiente original, com o rótulo legível, na área certa de armazenamento. E a segunda, que é sobre o cheiro: só porque você acostumou com o cheiro do ambiente, não quer dizer que ele é seguro. Se sentir um cheiro diferente do normal, mesmo que fraco, sai do lugar e avisa. Acostumar com o cheiro não protege, cega.",
+    "discussao": [
+      "Você sabe o que acontece se os produtos que você usa se misturarem? Se não sabe, essa é a pergunta que salva vida.",
+      "Os produtos aqui tão guardados e rotulados direito, ou tem bombona sem identificação, produto trocado de vasilhame?",
+      "Você saberia o que fazer agora se sentisse um cheiro estranho e forte de repente? Pra onde ir, quem avisar?"
+    ],
+    "fechamento": "Combinado de hoje: cada químico no seu lugar, no seu rótulo original, longe dos incompatíveis. E se sentir cheiro estranho, você não vai investigar sozinho de curioso, você sai da área e me chama. Bom trabalho, pessoal, e confiem no nariz de vocês hoje, principalmente quando ele estranhar."
+  },
+  {
+    "id": 14,
+    "titulo": "O barulho que rouba aos poucos",
+    "setores": ["industria", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Pergunta honesta pra começar: quem aqui já tirou o protetor auricular pra conversar com o colega, pra atender o rádio, ou só porque tava incomodando o ouvido? Sem julgamento. Só quero que vocês entendam uma coisa sobre a surdez: ela não chega de uma vez, com um estrondo. Ela vem de fininho, sem você perceber.",
+    "caso": "Deixa eu contar de um operador de um setor bem barulhento. Durante anos, ele tirava o protetor 'só um pouquinho', pra falar com alguém, pra ouvir o rádio, porque achava chato ficar com aquilo o tempo todo. Nunca sentiu nada mudar de um dia pro outro, porque não muda mesmo, o dano vai devagar. Até que um dia ele começou a reparar em umas coisas. Tava pedindo pra todo mundo repetir o que falava. Tava aumentando o volume da televisão em casa cada vez mais, e a família reclamando. Não tava ouvindo direito a esposa quando ela falava de longe. Foi no médico, e o diagnóstico veio: perda auditiva causada pelo ruído do trabalho. E aqui tá a parte mais dura: esse tipo de surdez, a que vem do barulho, não tem volta. Não tem cirurgia que conserte, não tem aparelho que devolva o que se perdeu. Ele trocou anos de 'conversa mais fácil' no serviço por uma surdez que vai carregar pro resto da vida.",
+    "regra": "O barulho engana porque ele não dói. Máquina que corta dói na hora e você aprende rápido. Barulho não, ele vai tirando pedacinho da sua audição todo dia, sem dor, sem aviso, e quando você percebe já era, não volta mais. Por isso, na área de ruído, o protetor fica o tempo todo. Não tem 'só um minutinho', não tem 'só pra falar rapidinho'. É o tempo todo enquanto você tá exposto.",
+    "discussao": [
+      "Você tem pedido pras pessoas repetirem as coisas mais do que antes? Isso pode não ser distração, pode ser o barulho cobrando.",
+      "Quais são as áreas e as tarefas mais barulhentas aqui? Todo mundo usa protetor direito nelas?",
+      "O protetor de vocês tá confortável e no tamanho certo, ou incomoda a ponto de dar vontade de tirar?"
+    ],
+    "fechamento": "Combinado: entrou na área de ruído, protetor no ouvido e fica lá. Precisa conversar de verdade, você sai da área barulhenta pra falar. A audição de vocês não tem peça de reposição. Se o protetor tá incomodando, me procura que a gente ajusta. Bom trabalho, e protejam os ouvidos hoje."
+  },
+  {
+    "id": 15,
+    "titulo": "A vaga que virou trânsito",
+    "setores": ["logistica", "frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Pergunta pra começar, pra quem anda a pé onde circula empilhadeira, que é quase todo mundo aqui: quem já atravessou o corredor de máquina olhando pro celular, ou de cabeça baixa pensando na vida, confiando que o operador ia te ver e parar? A gente confia demais em quem tá dirigindo. Hoje eu quero mostrar por que essa confiança é perigosa.",
+    "caso": "Deixa eu contar de um conferente, num centro de distribuição movimentado. Ele precisava atravessar pro outro lado, e a faixa de pedestre certa ficava uns metros à frente. Ele pensou 'pra que andar até a faixa, eu corto reto aqui mesmo, é mais rápido'. E atravessou o corredor de movimentação por fora da faixa, confiando que o empilhadeirista que vinha ia enxergar ele e parar. Só que tem uma coisa sobre empilhadeira carregada que muita gente esquece: quando ela tá com a carga levantada na frente, o operador tem um ponto cego enorme, ele simplesmente não vê quem tá logo abaixo ou atrás da carga. O operador não viu o conferente. E atropelou. O conferente não morreu por muita sorte, mas quebrou a perna em dois lugares, cirurgia, meses parado. Ele confiou que seria visto, justamente num lugar e num momento em que era impossível ser visto.",
+    "regra": "A regra de ouro pra quem anda a pé perto de máquina é: nunca, jamais, assuma que te viram. Você anda na faixa de pedestre, você olha pros dois lados, e antes de cruzar na frente de uma máquina, você faz contato de olho com o operador. Se você não viu os olhos dele te enxergando, parte do princípio de que ele não te viu. Carga levantada cega o motorista. A sua segurança, andando a pé, é você quem garante, não é o operador.",
+    "discussao": [
+      "Você faz contato visual com o operador antes de cruzar, ou você atravessa confiando que ele te viu?",
+      "Onde ficam os pontos cegos das máquinas que circulam aqui? Vocês sabem onde o operador não enxerga?",
+      "As faixas de pedestre daqui tão bem marcadas e no lugar certo, ou tem trajeto que obriga a gente a improvisar?"
+    ],
+    "fechamento": "Combinado de hoje: atravessou área de máquina, só na faixa e só depois de trocar olhar com quem tá dirigindo. Sem faixa perto, você dá a volta, não corta caminho no meio do trânsito de empilhadeira. Você não é páreo pra uma máquina carregada. Bom trabalho, pessoal, e se cuidem andando pelo pátio hoje."
+  },
+  {
+    "id": 16,
+    "titulo": "A proteção que atrapalhava",
+    "setores": ["industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta séria pra começar: quem aqui já viu, ou já ouviu falar, de tirar a grade de proteção de uma máquina, prender uma segurança com gambiarra, ou burlar um sensor, porque a proteção tava atrasando o serviço? Aquela grade, aquele sensor, não tão ali por enfeite nem pra atrapalhar a produção. Hoje é sobre isso.",
+    "caso": "Deixa eu contar um caso que mostra o lado mais cruel dessa história. Numa linha de produção, tinha uma máquina cuja proteção fazia o operador perder alguns segundos a cada peça, porque ele tinha que esperar a grade abrir e fechar. Tempos atrás, alguém, querendo produzir mais rápido, removeu essa grade de proteção. E funcionou: a produção subiu, o serviço ficou mais rápido, e como não aconteceu nada de imediato, ninguém reclamou, ninguém recolocou. A máquina rodou assim por meses. Até que chegou um operador novo naquela função, um cara que não conhecia bem aquele equipamento, não sabia dos perigos específicos dele. Num momento de trabalho, ele aproximou a mão da área que deveria estar protegida pela grade que alguém tinha tirado. A máquina fez o movimento normal, previsto, o movimento que a grade existia justamente pra impedir a mão de alcançar. E prensou a mão dele. Presta atenção no ponto mais importante: o acidente não foi com quem tirou a proteção pra ganhar tempo. Foi com o colega que chegou depois e confiou que a máquina tava do jeito seguro.",
+    "regra": "A proteção de uma máquina fica exatamente onde o fabricante colocou, porque ela foi calculada pra impedir que o corpo humano alcance a parte perigosa durante o movimento. Se ela atrapalha demais o serviço, o problema é no processo, e a gente resolve juntos, ajustando o método, nunca removendo a segurança. Máquina com proteção removida, ninguém opera, ponto final. E se você vê uma grade faltando, um sensor burlado, uma gambiarra numa segurança, você para e avisa na hora, porque aquela proteção é literalmente a mão do próximo colega que vai operar.",
+    "discussao": [
+      "Tem alguma máquina aqui operando com proteção removida, presa com gambiarra, ou com sensor burlado? Se você sabe de alguma, hoje é o dia de falar.",
+      "Já teve alguma proteção que a gente tirou 'temporariamente' e nunca mais voltou?",
+      "Quando uma proteção atrapalha muito o serviço, a gente tem pra quem levar isso e resolver do jeito certo?"
+    ],
+    "fechamento": "Combinado firme: proteção removida é máquina parada até ser arrumada. Ninguém opera equipamento sem a guarda no lugar, por mais que atrase. E se a proteção incomoda o serviço, traz pra mim que a gente resolve sem tirar a segurança. A grade que te atrasa segundos é a mão do colega inteira. Bom trabalho a todos."
+  },
+  {
+    "id": 17,
+    "titulo": "Cansado a gente vira outro",
+    "setores": ["geral", "frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Quero começar com uma pergunta e peço sinceridade de verdade, porque isso aqui não é pra cobrar ninguém: quem aqui já veio trabalhar depois de uma noite dormindo mal, exausto, com problema na cabeça, e mesmo assim foi operar máquina, dirigir, mexer com equipamento de risco? A gente acha que aguenta, que dá pra levar. O corpo tem outra opinião, e hoje eu quero falar dela.",
+    "caso": "Deixa eu contar de um motorista de empilhadeira. Ele tinha passado a noite quase toda acordado, um problema sério em casa, quase não dormiu. Chegou pro turno arrastando o pé, olheira até o chão, mas foi assim mesmo, achou que ia levando, não quis faltar nem avisar. Trabalhou o dia. E lá pro fim da jornada, já com o cansaço acumulado, com os reflexos lentos, ele foi fazer uma manobra que fazia todo santo dia, de olho fechado. Só que dessa vez, cansado do jeito que tava, a reação dele atrasou uma fração de segundo. Foi só isso, uma fração. Mas foi o suficiente pra ele não corrigir a manobra a tempo, bater a carga numa estrutura e derrubar material pesado, que por pouco não caiu em cima da própria máquina e dele. Ninguém se feriu por muita sorte. E o ponto é: cansado daquele jeito, ele não era mais o operador competente de sempre. Ele era uma versão mais lenta, mais distraída, com o julgamento pior. E ele foi o último a perceber isso.",
+    "regra": "Aqui tá o que o cansaço e a falta de sono fazem, e é traiçoeiro: eles deixam você mais lento, com reflexo pior e julgamento pior, mas não te avisam disso. Você se sente 'normal', você acha que tá dando conta, e é justamente aí que mora o perigo. Você não sente o quanto piorou. Por isso, se você chegou muito mal, sem condição de operar com segurança, o certo não é forçar calado. É falar. Melhor a gente remanejar você pra uma função de menos risco naquele dia do que insistir e você se machucar ou machucar alguém.",
+    "discussao": [
+      "Como você chegou hoje, sendo bem sincero? Se você tá exausto, é melhor eu saber agora do que descobrir depois de um acidente.",
+      "A gente tem abertura pra falar 'hoje eu não tô bem pra essa função', ou o pessoal tem medo de falar isso?",
+      "Que sinais mostram pra você mesmo que você tá cansado demais pra operar com segurança?"
+    ],
+    "fechamento": "Combinado de hoje: se você sente que não tá em condição de operar com segurança, cansaço, mal-estar, cabeça longe, você me procura antes de começar. Não tem vergonha nenhuma nisso, tem responsabilidade. Cansaço não combina com máquina de jeito nenhum. Bom trabalho, pessoal, e se cuidem hoje, por dentro também."
+  },
+  {
+    "id": 18,
+    "titulo": "A escada que não estava firme",
+    "setores": ["construcao", "geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar: quem aqui já subiu numa escada mal apoiada, meio torta, ou sem ninguém segurando embaixo, porque era só pra fazer uma coisinha rápida lá em cima? A escada é o equipamento mais subestimado que existe. Todo mundo acha que sabe usar, e é aí que mora o perigo.",
+    "caso": "Deixa eu contar um caso que parece bobo mas terminou sério. Um funcionário precisava só trocar uma lâmpada. Coisa de dois minutos. Ele pegou a escada, encostou ela meio torta numa parede lisa, sem ninguém segurando embaixo, e subiu confiante, afinal era rapidinho. Chegou lá em cima e viu que a lâmpada tava um pouco mais pro lado do que ele imaginava. Em vez de descer e mover a escada, ele fez o que quase todo mundo faz: esticou o corpo pro lado pra alcançar, sem sair do lugar. Nesse momento, o peso dele saiu do centro da escada, foi pra fora da base. A escada, que já tava torta numa parede lisa, escorregou. Ele caiu de costas de uns dois metros, bateu a cabeça no chão, teve traumatismo. Uma troca de lâmpada de dois minutos virou semanas de afastamento, por causa de dois erros simples: não ter alguém segurando embaixo, e ter esticado o corpo em vez de descer e reposicionar.",
+    "regra": "A escada quer três coisas: base firme e nivelada, apoio seguro no topo, e de preferência alguém segurando embaixo. E tem a regra de ouro da escada, que é a que mais salva: você nunca estica o corpo pra alcançar alguma coisa. Se não alcançou confortavelmente, você desce, move a escada pra mais perto, e sobe de novo. Dá trabalho? Dá. Mas o seu umbigo nunca pode passar da lateral da escada, porque quando ele passa, o peso sai e a escada vai embora.",
+    "discussao": [
+      "Quando foi a última vez que você conferiu se a escada tava firme e íntegra antes de subir, ou você só subiu?",
+      "A gente tem o costume de pedir pra alguém segurar a escada, ou acha frescura?",
+      "Tem escada aqui em mau estado, degrau frouxo, que devia ser trocada? Me mostra depois."
+    ],
+    "fechamento": "Combinado de hoje: subiu em escada, base firme e alguém de olho embaixo. E se não alcançou o ponto confortavelmente, você desce e move a escada, nunca estica o corpo lá em cima. Escada parece inofensiva, mas derruba muita gente. Bom trabalho, e subam com cuidado hoje."
+  },
+  {
+    "id": 19,
+    "titulo": "Ninguém sabia o que ele ia fazer",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Pergunta pra começar: quem aqui já começou uma tarefa de risco, uma solda, um corte, um serviço mais perigoso, sem avisar ninguém do lado que ia começar? A gente esquece de uma coisa importante: o nosso serviço pode pegar quem tá perto, quem não faz ideia do que a gente tá prestes a fazer. Hoje é sobre isso.",
+    "caso": "Deixa eu contar de um soldador. Ele foi começar um serviço de solda num canto do galpão. Ligou o equipamento, baixou a máscara e começou a soltar fagulha, do jeito normal que a solda faz. Só que ele não avisou ninguém em volta que ia começar, e não olhou direito o que tinha ao redor daquele ponto. E bem ali do lado, meio escondido atrás de um pallet, tinha um material inflamável que o pessoal de outro setor tinha deixado ali temporariamente, sem ele saber. A fagulha da solda alcançou esse material. Começou um princípio de incêndio. Deu tempo de apagar antes de virar tragédia, mas por muito pouco. E o erro do soldador não foi soldar, ele sabia soldar. O erro foi soldar sem avisar quem tava em volta, e sem checar a área ao redor antes de começar. Ele não podia adivinhar que tinha inflamável atrás do pallet. Mas ele podia ter olhado, e podia ter avisado.",
+    "regra": "A regra é: tarefa de risco você comunica antes de começar. Você avisa quem tá do seu lado 'ó, vou começar uma solda aqui, atenção'. Você olha o que tem em volta, embaixo, atrás, do lado. Você confere a área. Porque o que é rotina e controlado pra você, que sabe o que tá fazendo, pode ser um perigo invisível pra quem tá perto e nem sabe que você começou. Segurança não é só cuidar do seu serviço. É não pegar o colega de surpresa com o risco do seu serviço.",
+    "discussao": [
+      "A tarefa que você vai fazer hoje pode afetar quem tá do seu lado? Se pode, quem você precisa avisar antes de começar?",
+      "Já teve uma vez que o serviço de alguém quase te pegou de surpresa, porque você não sabia que tinha começado?",
+      "Como a gente combina de avisar uns aos outros quando vai começar uma tarefa de risco aqui?"
+    ],
+    "fechamento": "Combinado de hoje: antes de começar qualquer serviço de risco, você olha em volta e avisa quem tá perto. Checar a área e comunicar leva trinta segundos e evita tragédia. Trabalho seguro também é o que não pega o colega de surpresa. Bom trabalho, pessoal, e comuniquem os riscos hoje."
+  },
+  {
+    "id": 20,
+    "titulo": "O EPI vencido que ninguém olhou",
+    "setores": ["geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar: quem aqui, antes de pegar o EPI hoje de manhã, olhou de verdade pro estado dele, procurou um furo, um rasgo, um desgaste? Ou você só pegou e usou, confiando que tá tudo certo? Porque nem todo EPI que tá na sua mão ainda protege de verdade. E hoje é sobre enxergar isso.",
+    "caso": "Deixa eu contar de um trabalhador que usava sempre a mesma luva de proteção química. Essa luva já tava velha, bastante usada, e tinha um furinho pequeno que ele nunca reparou. Dava pra ver o furo se ele levantasse a luva contra a luz, mas ele nunca fez isso, nunca olhou com atenção. Achava que 'luva é luva, protege igual, tando na mão tá protegido'. Num manuseio de produto químico, o produto encontrou aquele furinho e passou por ele, ficando em contato direto com a pele da mão dele por um tempo, sem ele sentir nada de imediato. Resultado: queimadura química na mão. E o mais perigoso de tudo: a luva tava lá, ele tava usando ela certinho, mas ela já não protegia mais nada por causa do furo. Um EPI gasto, furado ou vencido é a mesma coisa que não ter EPI nenhum, com um agravante que é pior ainda: você acha que tá protegido, então você se expõe com confiança.",
+    "regra": "Por isso EPI se olha antes de usar, todo dia, rápido, mas se olha. Furo, rasgo, desgaste, ressecamento, prazo vencido: qualquer uma dessas coisas e ele já não protege como deveria, ele só te dá uma falsa sensação de segurança, que é o pior dos mundos. E EPI danificado não se remenda, não se dá um jeitinho, se troca. Na dúvida se ainda tá bom, você me mostra que eu avalio e troco.",
+    "discussao": [
+      "Quando foi a última vez que você olhou o estado do seu EPI de verdade? Dá uma olhada agora no que tá na sua mão.",
+      "Vocês sabem qual é o prazo de validade, ou o sinal de troca, dos EPIs que usam?",
+      "Tá fácil trocar um EPI danificado aqui, ou é burocrático a ponto da pessoa preferir usar o velho furado?"
+    ],
+    "fechamento": "Combinado de hoje: antes de usar, dá aquela conferida no EPI. Achou furo, rasgo, desgaste ou prazo vencido, vem trocar comigo, sem usar o danificado 'só por hoje'. EPI ruim engana, é pior que não ter, porque te dá coragem falsa. Bom trabalho, pessoal, e confiram os equipamentos de vocês hoje."
+  },
+  {
+    "id": 21,
+    "titulo": "A bagunça que vira armadilha",
+    "setores": ["geral", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar, e olha em volta de vocês agora antes de responder: quem aqui acha que 'lugar bagunçado' é só questão de organização, de estética, e não tem nada a ver com segurança? Segura essa resposta, porque hoje eu quero mostrar que a bagunça no chão de trabalho é uma das coisas que mais machuca gente por aí.",
+    "caso": "Deixa eu contar um caso. Num setor, foi criando o hábito de deixar as coisas fora do lugar. Uma caixa aqui, um cabo estendido ali, uma ferramenta largada no chão, material encostado no corredor de passagem. Nada disso, isolado, parecia perigoso. Era só 'depois eu arrumo'. Um dia, um funcionário ouviu um barulho de algo caindo e virou pra olhar rápido, meio de costas pra onde andava. Nesse movimento, tropeçou num cabo que atravessava o corredor, daqueles que ficam ali fazia tempo e ninguém tirava. Ele caiu pra frente e bateu o rosto na quina de uma bancada. Corte fundo, pontos, afastamento. E o pior: quando foram ver, aquele cabo não precisava nem estar ali, era de um equipamento que nem tava em uso. A armadilha que machucou ele tava montada havia semanas, na cara de todo mundo, e ninguém tinha desmontado.",
+    "regra": "Ordem e limpeza não é frescura de quem gosta de tudo no lugar, é segurança de verdade. Cada coisa fora do lugar, cada cabo no chão, cada material no corredor, é uma armadilha esperando alguém desatento, alguém com pressa, alguém carregando peso sem ver os pés. E o mais bonito disso é que resolver não custa quase nada: é guardar, recolher, organizar o caminho. O que atrapalha é o 'depois eu arrumo' que nunca chega.",
+    "discussao": [
+      "Olhando agora, tem alguma coisa fora do lugar aqui no nosso setor que pode derrubar ou machucar alguém?",
+      "Tem material ou equipamento parado, sem uso, atravancando passagem que a gente podia tirar hoje?",
+      "Por que será que a gente deixa acumular? O que atrapalha a gente de guardar na hora?"
+    ],
+    "fechamento": "Combinado de hoje: cada um cuida do seu posto e do caminho que usa. Terminou de usar, guarda. Viu algo no corredor, tira. Corredor de passagem e rota de saída ficam sempre livres. Antes de começar, dá uma ajeitada rápida no seu espaço. Bom trabalho, pessoal, e mantenham o ambiente limpo hoje."
+  },
+  {
+    "id": 22,
+    "titulo": "O buraco que parecia seguro",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é sério e quero atenção total: espaço confinado. Tanque, silo, poço, galeria, qualquer lugar fechado, de entrada apertada, feito pra não ter gente dentro o tempo todo. Pergunta pra começar: quem aqui já entrou, ou viu alguém entrar, num espaço desses achando que era rápido e seguro, sem toda aquela preparação que parece exagero?",
+    "caso": "Deixa eu contar um caso que se repete de um jeito trágico por aí, sempre parecido. Um trabalhador precisava entrar num tanque pra fazer um serviço rápido. Do lado de fora, o tanque parecia normal, sem cheiro, sem nada de estranho. Ele entrou sem medir a atmosfera lá dentro, sem ventilar antes, sem ninguém de vigia na entrada. O que ele não sabia: ali dentro faltava oxigênio, tinha sido consumido por um processo químico natural dentro do tanque. O ar parecia igual ao de fora, mas não era. Ele desmaiou em segundos, sem nem entender o que tava acontecendo, sem tempo de reagir. E aí vem a parte mais cruel dos acidentes de espaço confinado: um colega viu ele caído e entrou correndo pra socorrer, sem equipamento, no impulso de salvar. E desmaiou também, pela mesma falta de ar. É assim que espaço confinado mata mais de um de cada vez: o socorro despreparado vira a segunda vítima.",
+    "regra": "Espaço confinado é a coisa mais perigosa e mais traiçoeira que existe, porque o perigo é invisível: o ar parece normal e não é. A regra não tem exceção nenhuma: ninguém entra sem a atmosfera ser medida, sem ventilação, sem permissão de entrada, sem vigia treinado na parte de fora e sem plano de resgate. E o mais importante de todos: se alguém desmaiar lá dentro, você NÃO entra pra socorrer no impulso. Você aciona o resgate preparado. Entrar sem equipamento pra salvar é virar a próxima vítima, e é assim que morre gente boa tentando fazer o bem.",
+    "discussao": [
+      "A gente tem espaços confinados aqui na nossa operação? Todo mundo sabe identificar quais são?",
+      "Você saberia o que fazer, e principalmente o que NÃO fazer, se visse um colega desmaiado dentro de um espaço confinado?",
+      "Quem aqui é ou já foi treinado pra trabalho em espaço confinado? O que é mais importante que vocês aprenderam?"
+    ],
+    "fechamento": "Combinado, e esse é dos mais sérios: ninguém entra em espaço confinado sem medição, ventilação, permissão e vigia. E se ver alguém caído lá dentro, não entra no impulso, aciona o resgate preparado na hora. O herói despreparado vira a segunda vítima. Bom trabalho, pessoal, e respeitem os espaços confinados com a vida de vocês."
+  },
+  {
+    "id": 23,
+    "titulo": "O fogo pequeno que ninguém apagou",
+    "setores": ["geral", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar: quem aqui sabe exatamente onde tá o extintor mais próximo do seu posto de trabalho agora, e sabe usar ele? Sem olhar pros lados pra procurar. Pensem honestamente. Porque incêndio grande quase sempre começou como um fogo pequeno que dava pra apagar, mas ninguém sabia como ou onde tava o extintor.",
+    "caso": "Deixa eu contar um caso. Num setor, começou um princípio de incêndio pequeno, uma coisa num equipamento que pegou fogo, do tamanho de nada no começo. Dava pra apagar com um extintor em segundos. Só que aconteceu o seguinte: a primeira pessoa que viu se assustou e saiu correndo pra chamar ajuda em vez de pegar o extintor que tava a poucos metros. A segunda pessoa foi até o extintor, mas não sabia direito como acionar, ficou uns segundos preciosos tentando entender o lacre, o pino, o gatilho. E nesses segundos, o fogo pequeno encontrou material inflamável e cresceu. O que era pra ser apagado em dez segundos virou um incêndio que tomou parte do setor, com dano grande e gente evacuada às pressas. Não faltou extintor. Faltou gente que soubesse pegar e usar rápido, no momento em que o fogo ainda era pequeno.",
+    "regra": "Fogo tem uma janela curtíssima no começo, quando ele é pequeno e dá pra apagar fácil. Essa janela dura segundos. Depois dela, o fogo cresce rápido e vira coisa pra bombeiro, não pra gente. Por isso, saber onde está o extintor mais próximo e saber usar não é conhecimento pra guardar, é reflexo que salva o setor inteiro. E tem a outra parte: você só combate o fogo pequeno se for seguro. Cresceu, tomou conta, tá entre você e a saída? Aí você não é herói, você evacua e aciona quem é treinado.",
+    "discussao": [
+      "Sem olhar: onde tá o extintor mais perto de você? E você sabe qual tipo de fogo cada extintor apaga?",
+      "Você saberia acionar um extintor agora, o passo a passo, se precisasse em dez segundos?",
+      "Você sabe qual é a rota de fuga do nosso setor e onde é o ponto de encontro se precisar evacuar?"
+    ],
+    "fechamento": "Combinado de hoje: todo mundo vai localizar agora, com o olho, o extintor mais próximo do seu posto e a saída de emergência mais perto. Fogo pequeno e seguro, você combate rápido. Fogo grande, você evacua pela rota e aciona o resgate. Depois eu quero fazer uma revisão de quem sabe usar extintor. Bom trabalho, pessoal, e fiquem atentos hoje."
+  },
+  {
+    "id": 24,
+    "titulo": "A lâmina que veio na direção da mão",
+    "setores": ["logistica", "geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Pergunta pra começar, principalmente pra quem usa estilete, faca ou qualquer lâmina no dia a dia: quem aqui já cortou puxando a lâmina na direção da própria mão, do próprio corpo, porque naquela posição era mais fácil? A gente faz isso sem pensar. Hoje eu quero que a gente pense.",
+    "caso": "Deixa eu contar um caso comum, desses que acontecem toda semana em algum lugar. Um conferente tava abrindo caixas com um estilete, dezenas de caixas, no ritmo acelerado. Numa delas, a fita tava mais dura, e pra fazer força ele puxou o estilete na direção da mão que segurava a caixa. A lâmina venceu a fita de repente, com a força toda que ele fazia, e não parou na fita: continuou e foi direto na mão que segurava, cortando fundo entre o polegar e o indicador. Corte que precisou de pontos e afastou ele por dias, justo na mão que ele usa pra tudo. O erro não foi usar o estilete, era a ferramenta certa. O erro foi a direção do corte: puxando pra dentro, pro próprio corpo, em vez de empurrando pra fora, longe da mão e do tronco.",
+    "regra": "A regra da lâmina é simples e salva muito dedo e muita mão: você sempre corta pra fora, empurrando a lâmina pra longe do corpo, nunca puxando ela na direção da sua mão ou da sua barriga. Se a lâmina escapar, e ela escapa quando a fita ou o material cede de repente, ela vai pro lado vazio, não pro seu corpo. E lâmina cega é mais perigosa que lâmina afiada, porque exige mais força e escapa mais fácil. Estilete com a lâmina recolhida quando não tá usando.",
+    "discussao": [
+      "Você corta empurrando pra fora ou puxando pra dentro, na direção da mão? Presta atenção nisso hoje.",
+      "Suas lâminas tão afiadas ou tão cegas a ponto de você ter que fazer força e forçar a posição?",
+      "Já teve corte aqui no setor por causa de estilete ou faca? Como foi que aconteceu?"
+    ],
+    "fechamento": "Combinado de hoje: corta sempre pra fora, a lâmina indo pra longe do corpo, nunca puxando pra dentro. Lâmina recolhida quando não tá usando, e lâmina cega você troca comigo, não força. A mão de vocês é a ferramenta de trabalho de vocês. Bom trabalho, e cuidado com as lâminas hoje."
+  },
+  {
+    "id": 25,
+    "titulo": "A poeira que voou no olho",
+    "setores": ["industria", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar, pra quem lixa, esmerilha, corta, martela, faz qualquer coisa que solta partícula: quem aqui já sentiu aquela poeirinha, aquele caco, entrar no olho no meio do serviço? E quem tava de óculos de proteção na hora? Guarda essas duas respostas, porque a distância entre elas é o assunto de hoje.",
+    "caso": "Deixa eu contar de um serralheiro. Ele foi dar um acabamento numa peça com a esmerilhadeira, aquele serviço que joga um monte de faísca e partícula de metal pra todo lado. Era um serviço rápido, e o óculos de proteção dele tava na bancada, ali do lado. Ele pensou 'é rapidinho, um retoque só, nem vou pegar o óculos'. Ligou a esmerilhadeira e começou. Não deu um minuto, uma partícula de metal quente saltou e entrou no olho dele. Não foi uma poeira boba, foi um caco de metal que se cravou. Ele teve que ir pro pronto-socorro, um médico teve que remover a partícula do olho, e ele passou dias com o olho irritado, com o risco real de ter tido uma lesão permanente na visão. Tudo por um retoque de menos de um minuto sem o óculos que tava a um braço de distância.",
+    "regra": "Qualquer serviço que solte partícula, faísca, poeira, caco, estilhaço, é óculos de proteção sem exceção, mesmo pro retoque mais rápido do mundo. O olho não tem defesa nenhuma contra um caco voando, ele é a parte mais desprotegida e mais sensível do corpo. E diferente de outras partes, olho lesionado muitas vezes não recupera cem por cento. Não existe 'serviço rápido demais pra pegar o óculos'. O óculos entra antes de ligar a máquina, não depois que a poeira já tá voando.",
+    "discussao": [
+      "Qual serviço aqui você mais tem preguiça de pôr o óculos, achando que é rápido demais pra precisar?",
+      "Seu óculos de proteção tá arranhado, embaçado, a ponto de você não querer usar? Isso tem solução.",
+      "Já teve alguém aqui que machucou o olho no serviço? O que aconteceu?"
+    ],
+    "fechamento": "Combinado de hoje: soltou faísca, poeira ou partícula, óculos de proteção no rosto antes de começar, sem 'só esse retoque'. O olho não tem segunda pele, não tem remendo. Óculos arranhado ou ruim, me procura que a gente troca. Bom trabalho, pessoal, e protejam a visão de vocês hoje."
+  },
+  {
+    "id": 26,
+    "titulo": "A pressa que contaminou a equipe",
+    "setores": ["geral", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje eu quero falar de um tipo de pressa diferente, não a sua pressa individual, mas aquela pressa que pega a equipe inteira. Pergunta: quem aqui já sentiu aquele clima de 'vamos, vamos, tá atrasado, acelera' onde todo mundo começa a pular etapa junto, porque parar pra fazer certo parece que vai atrapalhar o time? Esse efeito manada é o assunto de hoje.",
+    "caso": "Deixa eu contar um caso. Uma equipe tava atrasada numa tarefa importante, prazo apertado, chefia cobrando. Aí instalou aquele clima de correria coletiva. Um começou a pular a checagem pra ganhar tempo, e como ninguém falou nada, o do lado fez igual, achando que era o certo naquele momento. Foi contaminando. Ninguém queria ser 'o cara lento que segura o time'. E nessa correria coletiva, com todo mundo pulando etapa junto, uma tarefa foi feita sem a verificação de segurança que sempre era feita. Um equipamento foi liberado sem conferir direito, e machucou o operador que foi usar depois. Quando investigaram, ninguém tinha decidido fazer errado. A pressa da equipe decidiu por todo mundo. Cada um, sozinho, faria certo. Juntos, com pressa, fizeram errado, porque ninguém quis ser o que segurava o grupo.",
+    "regra": "Existe uma pressão silenciosa que vem do grupo, do time com pressa, e ela é traiçoeira porque ninguém decide errar, o erro vira o clima do ambiente. E aqui tá a virada: ser o que para pra fazer certo, mesmo com todo mundo correndo, não é ser lento nem atrapalhar o time. É proteger o time. Quem fala 'ó, vamos fazer a checagem mesmo com pressa' tá salvando o colega que ia se machucar. Coragem, muitas vezes, é ser o único que segura o passo quando todo mundo tá acelerando pro perigo.",
+    "discussao": [
+      "Você já pulou uma etapa de segurança porque a equipe toda tava com pressa e você não quis ser o lento?",
+      "Como a gente pode se apoiar pra que parar e fazer certo não seja visto como atrapalhar o time?",
+      "Quando o prazo aperta, o que a gente NÃO pode abrir mão de jeito nenhum, por mais pressa que tenha?"
+    ],
+    "fechamento": "Combinado de hoje: prazo apertado não compra etapa de segurança. E se a equipe tá naquela correria de pular tudo, seja você o que segura e fala 'vamos fazer certo'. Isso não é travar o time, é proteger o time. Prefiro entregar um pouco depois com todo mundo inteiro. Bom trabalho, pessoal, e cuidem uns dos outros hoje."
+  },
+  {
+    "id": 27,
+    "titulo": "A saída que estava bloqueada",
+    "setores": ["geral", "industria"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar, e pensa rápido: se acontecesse uma emergência agora, um incêndio, um vazamento, e vocês tivessem que sair correndo, vocês sairiam por onde? E esse caminho tá livre agora, ou tem coisa na frente? Hoje o assunto é a saída de emergência, aquela que a gente só lembra que existe quando já é tarde.",
+    "caso": "Deixa eu contar um caso que assusta pela simplicidade. Num galpão, a saída de emergência foi virando, com o tempo, um lugar cômodo pra encostar coisa. Começou com um pallet ali perto 'só por hoje'. Depois umas caixas. Depois um equipamento que não tinha lugar. Ninguém fez por mal, foi acumulando. A porta de emergência ainda abria, mas o caminho até ela tava com obstáculo. Um dia teve um princípio de incêndio de verdade, e com a fumaça começou o pânico. As pessoas correram pra saída de emergência, que era a mais perto, e encontraram o caminho obstruído, tiveram que desviar, subir em coisa, no meio da fumaça e do desespero. Deu tudo certo por pouco, ninguém morreu, mas houve gente machucada na correria e o susto foi enorme. Numa emergência de verdade, com mais fumaça, aquele caminho bloqueado teria custado vidas.",
+    "regra": "Saída de emergência e o caminho até ela são sagrados, tem que estar livres cem por cento do tempo, não noventa por cento. Porque no dia que você precisar dela, vai ser no escuro, na fumaça, no pânico, correndo, e não vai dar pra desviar de obstáculo. Aquela porta e aquele corredor não são espaço de estoque temporário, não são lugar pra encostar nada, nem 'só por um minuto'. O caminho pra vida tem que estar sempre aberto.",
+    "discussao": [
+      "Você sabe onde ficam TODAS as saídas de emergência do nosso setor, não só a principal?",
+      "Tem alguma coisa bloqueando ou atrapalhando uma saída de emergência ou o caminho até ela agora?",
+      "Você sabe onde é o ponto de encontro lá fora, onde a gente se reúne depois de evacuar?"
+    ],
+    "fechamento": "Combinado de hoje: saída de emergência e o caminho até ela ficam sempre livres, sem exceção, sem 'só por hoje'. Viu algo bloqueando, tira na hora. E todo mundo vai memorizar agora onde tá a saída mais perto e o ponto de encontro. No dia da emergência não tem tempo de procurar. Bom trabalho, pessoal."
+  },
+  {
+    "id": 28,
+    "titulo": "O calor que cozinha por dentro",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é o calor, mas não o do sol lá fora, é o calor de ambiente fechado, de perto de forno, de caldeira, de máquina que esquenta, de lugar abafado sem ventilação. Pergunta: quem aqui já trabalhou num lugar tão quente que ficou tonto, com dor de cabeça, meio enjoado, e mesmo assim continuou achando que ia passar? Esse 'vai passar' é o perigo de hoje.",
+    "caso": "Deixa eu contar de um trabalhador que atuava perto de uma fonte de calor forte, num ambiente abafado. Naquele dia tava especialmente quente, e ele já vinha se sentindo mal fazia um tempo: cabeça latejando, camisa encharcada de suor, uma leve tontura. Mas ele era resistente, orgulhoso, e achou que era só o calor normal do serviço, que ia passar, que parar era frescura. Continuou trabalhando. O corpo dele foi esquentando por dentro, mais do que conseguia se resfriar com o suor. Chegou um ponto em que ele parou de suar, o que parece bom mas é péssimo, é sinal de que o corpo perdeu o controle da temperatura. Ele desmaiou. Intermação, insolação por calor no ambiente de trabalho. Foi levado às pressas, e esse tipo de coisa, quando não socorrida rápido, pode matar ou deixar sequela. O corpo dele tava literalmente cozinhando por dentro enquanto ele achava que era só um mal-estar passageiro.",
+    "regra": "Calor de ambiente fechado é perigoso porque o corpo tem um limite de se resfriar, e quando passa desse limite, ele entra em pane, superaquece por dentro. E os sinais, dor de cabeça, tontura, enjoo, e principalmente parar de suar num calor desses, não são 'frescura que vai passar', são o corpo gritando socorro. A regra é: nesses ambientes, faz pausa na sombra ou no fresco, bebe muita água, e no primeiro sinal de mal-estar, para e avisa. Insistir no calor achando que aguenta é como forçar uma máquina superaquecida: uma hora funde.",
+    "discussao": [
+      "Quais são os pontos mais quentes e abafados da nossa operação? Onde o calor mais pega?",
+      "Vocês sabem reconhecer os sinais de que o calor tá passando do limite, em vocês e nos colegas?",
+      "A gente tem onde fazer pausa no fresco e água suficiente perto dos serviços quentes?"
+    ],
+    "fechamento": "Combinado de hoje: nos serviços quentes e abafados, pausa no fresco, muita água, e no primeiro mal-estar você para e me avisa, não insiste. E fica de olho no colega também, porque às vezes a gente não percebe em si mesmo. Calor não é pra aguentar no orgulho, é pra respeitar. Bom trabalho, pessoal, e se cuidem no calor hoje."
+  },
+  {
+    "id": 29,
+    "titulo": "O caminhão que deu ré sem ver",
+    "setores": ["frota", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar, pra quem trabalha em pátio, em doca, em qualquer lugar onde veículo grande manobra: quem aqui já passou por trás de um caminhão, de um veículo, sem saber se o motorista tava vendo você, confiando que ele não ia se mexer naquele instante? A manobra de ré de um veículo grande é uma das que mais mata gente a pé. Hoje é sobre isso.",
+    "caso": "Deixa eu contar um caso de pátio. Um caminhão ia dar ré pra encostar numa doca de carga. O motorista, lá em cima na cabine, tem um ponto cego gigante atrás do veículo, ele simplesmente não enxerga quem tá logo atrás, no nível do chão. Um funcionário passou por trás do caminhão nesse momento, atravessando pra ir pro outro lado, distraído, achando que o caminhão ia demorar a se mexer. Não tinha ninguém orientando a manobra. O motorista começou a ré confiando no retrovisor, que não mostra o ponto cego. O caminhão avançou pra trás e prensou o funcionário contra a estrutura da doca. Foi grave. E os dois estavam de certa forma certos no que enxergavam: o motorista não viu porque não dava pra ver, e o funcionário achou que tinha tempo. O que faltou foi a regra que evita isso: ninguém passa atrás de veículo em manobra, e manobra de ré perigosa tem que ter alguém orientando.",
+    "regra": "Veículo grande dando ré é quase cego pra trás, o motorista não te vê e você não pode contar com isso. As regras que salvam: nunca passe atrás de um veículo que pode manobrar, dê a volta por longe. Se o veículo tá parado mas com motor ligado, considere que ele pode se mexer a qualquer momento. E manobra de ré em local com gente ou espaço apertado precisa de um guia orientando o motorista, alguém que enxerga o ponto cego por ele. A buzina de ré ajuda, mas não substitui o cuidado de não estar atrás.",
+    "discussao": [
+      "Onde os veículos manobram aqui, e por onde a gente passa a pé perto deles? Esses caminhos se cruzam?",
+      "A gente tem o costume de usar um guia pra orientar manobra de ré nos lugares apertados?",
+      "Você já levou um susto com veículo manobrando? Como foi?"
+    ],
+    "fechamento": "Combinado de hoje: nunca passa atrás de veículo que pode dar ré, dá a volta por longe. Motor ligado, trata como veículo que vai se mexer. E manobra de ré apertada, com gente por perto, tem que ter alguém orientando. Você não ganha de um caminhão. Bom trabalho, pessoal, e atenção redobrada no pátio hoje."
+  },
+  {
+    "id": 30,
+    "titulo": "A poeira que se respira por anos",
+    "setores": ["construcao", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é uma daquelas coisas que não machucam hoje, não machucam amanhã, mas cobram lá na frente, e cobram caro: a poeira que a gente respira. Pergunta pra começar: quem aqui trabalha com corte, lixamento, cimento, madeira, sílica, e usa a máscara respiratória o tempo todo, mesmo quando ninguém tá vendo e ela incomoda? Sejam sinceros.",
+    "caso": "Deixa eu contar, e esse caso é diferente dos outros, porque o acidente aqui não é um susto de um dia, é uma sentença que demora anos. Um trabalhador passou a vida na construção, cortando e lixando material que solta poeira fina, dessa que você quase nem vê no ar. Ele raramente usava a máscara respiratória. Achava chato, quente, atrapalhava a respiração, e o argumento dele era 'nunca me fez mal, tô respirando isso há anos e tô aqui firme'. E era verdade, no curto prazo não fazia mal nenhum aparente. Só que aquela poeira fininha, invisível, foi entrando no pulmão dele todo dia, ano após ano, e se acumulando lá dentro, num lugar que o corpo não consegue limpar. Décadas depois, veio a conta: doença pulmonar séria, dessas que não têm cura, que vão tirando o fôlego da pessoa aos poucos. Ele ficou com dificuldade de respirar pra fazer as coisas mais simples da vida. A poeira que 'nunca fez mal' tava fazendo mal o tempo todo, calada, e só mostrou o estrago quando já não tinha volta.",
+    "regra": "Esse é o perigo mais traiçoeiro de todos, porque ele não te dá susto nenhum na hora pra você aprender. A poeira fina entra, se acumula no pulmão, e o dano é pra vida, sem cura. O 'nunca me fez mal' é justamente a armadilha: não faz mal visível, faz mal invisível que aparece daqui a vinte anos. Por isso, serviço que gera poeira é máscara respiratória adequada, sempre, mesmo que incomode, mesmo que ninguém veja. E quando dá, umedecer o material, ventilar, aspirar, tudo que reduz a poeira no ar. Você tá protegendo o pulmão que você vai precisar quando for avô.",
+    "discussao": [
+      "Quais serviços aqui geram mais poeira fina, dessa que quase não se vê mas se respira?",
+      "A máscara respiratória de vocês é a adequada pro tipo de poeira, e tá em bom estado? Ou é qualquer uma?",
+      "O que a gente pode fazer pra ter menos poeira no ar, além da máscara? Umedecer, aspirar, ventilar?"
+    ],
+    "fechamento": "Combinado de hoje: serviço que solta poeira, máscara respiratória adequada no rosto, mesmo incomodando, mesmo que ninguém esteja olhando. E vamos ver juntos como reduzir a poeira no ar dos nossos serviços. Esse aqui é pelo seu pulmão daqui a vinte anos, pela sua aposentadoria respirando bem. Bom trabalho, pessoal, e protejam a respiração de vocês."
+  }
+]

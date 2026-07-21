@@ -1,26 +1,56 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  /* Código de cores de segurança — NR-26 / ABNT NBR 7195 */
+  --color-graphite: #14161a;
+  --color-surface: #20242c;
+  --color-border: #333945;
+  --color-safety-yellow: #f7c600;
+  --color-safety-green: #1e8a4c;
+  --color-safety-red: #d6301f;
+  --color-text-secondary: #9199a5;
+
+  --font-heading: var(--font-barlow-condensed);
+  --font-body: var(--font-barlow);
+  --font-mono: var(--font-ibm-plex-mono);
+
+  --radius-industrial: 4px;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  color-scheme: dark;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-graphite);
+  color: #ffffff;
+  font-family: var(--font-body), system-ui, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Faixa zebrada amarelo/preto a 45° — assinatura visual do app */
+.zebra-stripe {
+  background-image: repeating-linear-gradient(
+    45deg,
+    var(--color-safety-yellow) 0,
+    var(--color-safety-yellow) 10px,
+    var(--color-graphite) 10px,
+    var(--color-graphite) 20px
+  );
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-safety-yellow);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
