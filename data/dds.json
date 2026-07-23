@@ -598,5 +598,155 @@
       "Alguém aqui já foi picado no trabalho? Como foi e o que fizeram?"
     ],
     "fechamento": "Combinado de hoje: não enfia a mão onde não enxerga, usa luva, e antes de mover material parado, faz barulho e dá um tempo. Sacode bota e luva antes de calçar. E vamos limpar os cantos de entulho, porque bicho a gente evita tirando o convite. Bom trabalho, pessoal, e olho onde põem a mão hoje."
+  },
+  {
+    "id": 41,
+    "titulo": "Você não é mais rápido que a queda",
+    "setores": ["geral", "construcao", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje eu não vou contar história, hoje eu vou fazer um teste com vocês. Preciso de um voluntário, de preferência alguém que se ache rápido de reflexo. Pode vir aqui na frente. E o resto presta atenção, porque no fim eu quero saber o que vocês acharam.",
+    "caso": "O teste é o seguinte, e quem tá lendo isso pode fazer com uma régua, uma chave de fenda ou qualquer objeto comprido. Eu vou segurar esse objeto na vertical, pela ponta de cima. O voluntário coloca a mão aberta logo embaixo, com os dedos prontos pra fechar, quase encostando no objeto, mas sem tocar. Combinado que ele só pode fechar a mão quando ver o objeto soltar. Sem contagem, sem aviso. Eu solto quando eu quiser. [Faça o teste com duas ou três pessoas diferentes.] Repararam no que aconteceu? Quase ninguém pega, e quem pega, pega já lá embaixo, depois do objeto ter descido um bom pedaço. E olha que aqui é a situação mais fácil possível: a pessoa tava olhando, sabia que ia cair, sabia exatamente de onde e a mão já tava posicionada. Ainda assim não deu. O motivo é simples: o ser humano leva em média duas décimos de segundo entre ver uma coisa e o corpo reagir. Nesses dois décimos, um objeto caindo já desceu uns vinte centímetros. E se ele cair de dois metros de altura, chega no chão em pouco mais de meio segundo. Meio segundo é menos tempo do que você leva pra entender o que tá caindo.",
+    "regra": "Duas coisas saem desse teste. A primeira: nunca, jamais tente segurar uma ferramenta ou peça que tá caindo. É o reflexo mais natural do mundo e é o que mais corta mão e quebra dedo, porque você não vai pegar mesmo, você só vai colocar a mão no caminho de uma coisa pesada em velocidade. Ferramenta caindo, você tira o corpo e deixa cair. Ferramenta se compra, mão não. A segunda, e mais séria: se você não consegue nem pegar um objeto que você viu cair de trinta centímetros, imagina reagir a alguma coisa que despenca de um andaime em cima da sua cabeça. Por isso não existe passar embaixo de trabalho em altura. Não é questão de estar atento. Não tem atenção humana que ganhe da queda.",
+    "discussao": [
+      "Quem já tentou pegar uma ferramenta caindo por instinto? O que aconteceu?",
+      "As ferramentas que a gente usa em altura estão amarradas ou presas de alguma forma? Onde a gente poderia melhorar isso?",
+      "Tem algum ponto aqui onde a gente passa por baixo de serviço que tá acontecendo em cima?"
+    ],
+    "fechamento": "Fica o combinado: ferramenta caindo, você tira o corpo e deixa cair, não põe a mão. Quem trabalha em altura, amarra ou prende a ferramenta. E ninguém circula embaixo de serviço em cima, sem exceção. Vocês acabaram de ver com a própria mão que reflexo não salva de queda. Bom trabalho, pessoal."
+  },
+  {
+    "id": 42,
+    "titulo": "A vala que engoliu em segundos",
+    "setores": ["construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é vala, escavação, buraco no chão. E eu quero começar com um número que quase ninguém sabe: um metro cúbico de terra, aquele cubo de um metro por um metro por um metro, pesa mais de uma tonelada. Guarda esse número, porque ele explica por que soterramento mata tanto e tão rápido.",
+    "caso": "Deixa eu contar. Uma equipe abriu uma vala de pouco mais de um metro e meio de profundidade pra fazer um serviço de tubulação. A terra ali parecia firme, compacta, sem sinal nenhum de que ia ceder. O escoramento ia dar trabalho pra montar e o serviço era rápido, questão de vinte minutos lá embaixo. Um trabalhador desceu sem escoramento, pensando exatamente isso: é rápido, a terra tá firme, não vai acontecer nada. Ele tava lá embaixo havia alguns minutos quando a parede lateral cedeu. Não foi um desabamento de filme, com barulho e aviso. Foi uma parede de terra que simplesmente escorregou pra dentro, em silêncio, em menos de dois segundos. Ele foi soterrado até o peito. E aqui tá a parte que as pessoas não entendem: soterrado até o peito, ele não morreu esmagado. Ele não conseguia mais expandir a caixa torácica pra respirar, porque tinha mais de uma tonelada de terra apertando o tórax dele. Os colegas começaram a cavar com as mãos desesperados, mas terra soterrando é rápido de cair e lentíssimo de tirar. Ele não resistiu.",
+    "regra": "Vala é traiçoeira porque a terra não avisa. Ela não racha, não estala, não dá sinal antes de ceder, e a aparência de firme não quer dizer nada, principalmente depois de chuva, de vibração de máquina passando perto, ou de material empilhado na borda. As regras que salvam: escavação a partir de um metro e vinte e cinco de profundidade quer escoramento ou talude, sem discussão e sem 'é rapidinho'. Material escavado e equipamento ficam longe da borda, porque o peso na beirada é o que faz a parede ceder. Tem que ter escada ou rampa pra saída rápida a cada poucos metros. E se acontecer soterramento, ninguém pula lá dentro pra cavar no impulso, porque a segunda parede cai em cima do socorrista. Aciona resgate.",
+    "discussao": [
+      "A gente tem escavação aberta agora? Ela tem escoramento ou talude, e tem saída fácil lá de dentro?",
+      "Tem material, entulho ou equipamento encostado na borda de alguma vala?",
+      "Vocês sabiam que terra escorrega em silêncio, sem dar aviso? Isso muda alguma coisa no jeito de vocês olharem pra uma vala?"
+    ],
+    "fechamento": "Combinado de hoje: ninguém desce em escavação sem escoramento ou talude, por mais rápido que seja o serviço. Borda livre de material e de máquina, e saída sempre acessível. Uma tonelada de terra no peito não deixa você respirar, e não tem força humana que tire a tempo. Bom trabalho, pessoal, e respeitem as valas hoje."
+  },
+  {
+    "id": 43,
+    "titulo": "A checagem de cinco minutos que ninguém faz",
+    "setores": ["frota", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta pra quem opera veículo, empilhadeira, ou qualquer equipamento móvel: quem fez a checagem pré-operacional hoje de manhã, de verdade, olhando item por item? E quem assinou a ficha sem olhar, ou nem assinou, porque o equipamento tava bom ontem? Sem cobrança, é pra gente entender uma coisa importante sobre defeito.",
+    "caso": "Deixa eu contar de um operador. Ele usava a mesma máquina todo dia, conhecia ela de cor, sabia o barulho de cada coisa. Justamente por isso, tinha parado de fazer a checagem de verdade, porque 'eu ando nela todo dia, eu sinto se tiver algo errado'. Ele assinava a ficha no automático. Só que tem um tipo de defeito que não dá sinal enquanto você anda no plano, no ritmo normal: uma perda lenta de fluido de freio, por exemplo. O freio continua funcionando na frenagem leve do dia a dia, e só falha quando você precisa de frenagem forte, no dia que aparece uma emergência. Foi o que aconteceu. Ele precisou frear de verdade pela primeira vez em semanas, numa situação em que alguém apareceu na frente. O freio não respondeu como deveria. Ele conseguiu desviar por muito pouco e o susto foi enorme. Quando checaram, o vazamento tava lá, visível, num ponto que a checagem pré-operacional teria pego semanas antes. O defeito não apareceu de repente. Ele tava crescendo em silêncio, esperando o dia em que ia ser mais necessário.",
+    "regra": "A checagem pré-operacional existe pra pegar o defeito que ainda não te atrapalhou, mas que vai te faltar na hora da emergência. Freio, pneu, luz, seta, buzina, espelho, alarme de ré, cinto, nível de fluido, vazamento no chão embaixo da máquina, estado do garfo e da corrente na empilhadeira. Leva cinco minutos. E o mais importante: assinar a ficha sem olhar é pior que não assinar, porque cria um registro falso de que tá tudo bem e some com o problema. Se achou defeito, o equipamento não sai. Defeito encontrado é sucesso da checagem, não é problema seu nem motivo pra bronca.",
+    "discussao": [
+      "Você faz a checagem item por item ou assina no automático? Sem julgamento, quero entender.",
+      "Tem algum defeito conhecido rodando por aí hoje, coisa que todo mundo sabe e ninguém reportou?",
+      "Quando alguém acha defeito e para o equipamento, aqui isso é visto como coisa certa ou como quem arrumou problema?"
+    ],
+    "fechamento": "Combinado de hoje: checagem feita de verdade, item por item, antes de ligar. Achou defeito, o equipamento fica parado e você me avisa, e ninguém vai levar bronca por isso, muito pelo contrário. Cinco minutos de checagem pagam um freio que responde no dia que você precisar. Bom trabalho, e checagem feita antes de sair hoje."
+  },
+  {
+    "id": 44,
+    "titulo": "As frases que a gente repete e que não são verdade",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje é diferente, hoje não tem história. Eu separei cinco frases que a gente escuta e fala aqui direto, e eu quero passar uma por uma com vocês. Todas parecem certas, todas fazem sentido na hora que a gente fala. E todas já mataram gente. Vou ler uma de cada vez e quero ver a cara de vocês.",
+    "caso": "Primeira: 'comigo não acontece'. Todo mundo que se acidentou pensava exatamente isso cinco minutos antes. Não existe uma vítima de acidente grave que tenha saído de casa achando que ia se machucar naquele dia. Segunda: 'eu tenho experiência, eu sei o que tô fazendo'. Os dados de acidente mostram uma coisa que assusta: acidente grave pega muito trabalhador experiente, não só novato. O novato tem medo e por isso presta atenção. O experiente confia, e confiança é justamente onde a atenção sai. Terceira: 'sempre fiz assim e nunca aconteceu nada'. Isso não prova que é seguro, prova que você teve sorte até agora. Cada vez que dá certo do jeito errado, o risco não diminui, ele só continua ali esperando. Quarta: 'é rapidinho, é só um minuto'. Acidente não leva um minuto, ele leva um segundo. O tempo de exposição curto não protege de nada, porque o segundo em que dá errado cabe dentro de qualquer 'rapidinho'. E quinta, a mais perigosa de todas: 'se acontecer alguma coisa, eu reajo'. Não reage. A gente já fez o teste da queda aqui e vocês viram que nem uma ferramenta caindo de trinta centímetros dá pra pegar. Reflexo humano não é páreo pra máquina, pra queda, pra energia, pra desabamento.",
+    "regra": "As cinco frases têm a mesma raiz: elas trocam a segurança de verdade, que é procedimento e proteção, pela confiança pessoal, que é sensação. E sensação não segura carga, não corta energia, não escora vala. O que protege é o que continua funcionando mesmo quando você erra, mesmo quando você tá distraído, mesmo no seu pior dia. É por isso que a gente insiste em procedimento e em EPI em vez de confiar na habilidade de cada um. Habilidade tem dia ruim. Proteção não.",
+    "discussao": [
+      "Qual dessas cinco frases você já falou, ou já pensou, essa semana?",
+      "Tem alguma prática nossa hoje que se sustenta só no 'sempre fiz assim e nunca aconteceu nada'?",
+      "Qual dessas frases vocês mais escutam aqui no setor?"
+    ],
+    "fechamento": "Combinado de hoje: quando você se pegar falando ou pensando uma dessas cinco frases, é sinal de alerta, é a hora de parar e conferir, não de seguir. Elas parecem sabedoria de quem tem experiência, mas são o exato contrário. Bom trabalho, pessoal, e ouçam vocês mesmos hoje."
+  },
+  {
+    "id": 45,
+    "titulo": "O metal quente não tem cor",
+    "setores": ["industria"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar: como é que você sabe se uma peça de metal, uma tubulação, uma superfície aqui do setor tá quente? Pensa antes de responder. Porque a maioria vai dizer 'dá pra ver', e é justamente aí que mora o problema de hoje.",
+    "caso": "Deixa eu contar de um caso comum. Um trabalhador foi ajustar uma peça que tinha acabado de sair de um processo de aquecimento. Ele olhou pra peça e ela tava com a cor normal do metal, cinza, sem brilho vermelho, sem nada indicando calor. Encostou a mão pra reposicionar. Queimadura de segundo grau na palma. E o que ele não sabia é uma coisa de física básica que quase ninguém aprende: metal só começa a brilhar vermelho lá pelos quinhentos graus. Abaixo disso, ele tem exatamente a mesma aparência de quando tá frio. Ou seja, uma peça a duzentos, trezentos graus, que queima a pele instantaneamente e fundo, é visualmente idêntica a uma peça em temperatura ambiente. Não tem cor, não tem sinal, não tem aviso nenhum. E tem outro detalhe cruel: o vapor de água em alta pressão, aquele que vaza de tubulação, muitas vezes é invisível no trecho mais perto do furo, justo onde ele é mais quente e mais perigoso. A parte branca que a gente vê já é o vapor esfriando.",
+    "regra": "A regra que sai disso: superfície quente não se identifica pelo olho, se identifica pelo processo. Você tem que saber o que aquela peça, aquela tubulação, aquele equipamento acabou de fazer. Se saiu de processo térmico, se tem fluido quente passando, se acabou de operar, você trata como quente até provar o contrário, com instrumento ou com o tempo de resfriamento que o processo exige. Nunca testa com a mão nua, nem de leve, nem encostando a ponta do dedo. Usa luva térmica adequada, usa ferramenta pra manipular, e respeita a sinalização de superfície aquecida. E vazamento de vapor você nunca procura passando a mão pra sentir onde tá, porque o jato invisível corta como faca.",
+    "discussao": [
+      "Quais superfícies e equipamentos aqui ficam quentes sem parecer quentes?",
+      "A gente tem sinalização de superfície aquecida onde precisa, e ela tá visível?",
+      "Alguém aqui já se queimou em coisa que parecia fria? Como foi?"
+    ],
+    "fechamento": "Combinado de hoje: metal quente não muda de cor até quinhentos graus, então o olho não serve de termômetro. Saiu de processo térmico, trata como quente, com luva adequada e ferramenta. E vazamento de vapor ninguém procura com a mão. Bom trabalho, pessoal, e cuidado com o que vocês tocam hoje."
+  },
+  {
+    "id": 46,
+    "titulo": "Você viu o colega errando. E agora?",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje eu não vou dar resposta pronta, hoje eu quero que vocês decidam. Vou colocar uma situação e quero ouvir o que cada um faria de verdade, não o que fica bonito de falar. E eu quero sinceridade, porque a resposta honesta é a que vale.",
+    "caso": "A situação é essa. Você tá indo pro seu posto e vê um colega fazendo uma coisa que você sabe que é errada e perigosa. Pode ser que ele tá sem o EPI, pode ser que subiu sem cinto, pode ser que enfiou a mão numa máquina ligada. Ele não te viu. Agora complica: esse colega é mais velho de casa que você, tem mais experiência, e é conhecido por não gostar de ser corrigido. Você tá com pressa também, e sinceramente não é da sua conta, ele é adulto e sabe o que faz. Se você falar, tem chance de sobrar pra você, de virar climão no setor, de te chamarem de dedo-duro ou de puxa-saco. Se você não falar, você segue seu caminho e provavelmente não vai acontecer nada, porque na maioria das vezes não acontece mesmo. Agora eu quero ouvir: o que você faz? E antes de responder o bonito, pensa no que você fez da última vez que isso aconteceu de verdade com você. Porque acontece toda semana, com todo mundo, e a resposta real da maioria de nós é seguir andando.",
+    "regra": "Depois de ouvir vocês, deixa eu colocar duas coisas. A primeira: quase todo acidente grave teve gente que viu antes e não falou. Não por maldade, por constrangimento mesmo, pelo mesmo motivo que a gente acabou de discutir. A segunda é sobre como falar, porque isso muda tudo. Chegar cobrando, dando lição, na frente dos outros, gera briga e não gera mudança. O que funciona é curto e sem plateia: chega perto, chama pelo nome, e fala do risco, não da pessoa. Um 'ô fulano, o cinto' resolve. Não é 'você tá errado', é 'olha o risco aí'. E tem o outro lado, que é ainda mais importante: quando alguém avisar você, a sua reação vai ensinar todo mundo em volta se aqui pode avisar ou não. Se você agradecer, o próximo vai avisar. Se você tirar sarro ou ficar bravo, ninguém mais te avisa, e um dia o silêncio vai te custar caro.",
+    "discussao": [
+      "Sinceramente: da última vez que você viu alguém em risco, você falou alguma coisa? O que te impediu ou te fez falar?",
+      "Como você prefere ser avisado quando você é quem tá errando?",
+      "O que a gente pode combinar aqui pra que avisar seja normal e não vire climão?"
+    ],
+    "fechamento": "O combinado de hoje sai de vocês, não de mim: aqui a gente avisa. Curto, sem plateia, falando do risco e não da pessoa. E quando for avisado, agradece, porque aquele colega acabou de cuidar de você. Silêncio de gente educada já enterrou muito trabalhador. Bom trabalho, pessoal, e cuidem uns dos outros hoje."
+  },
+  {
+    "id": 47,
+    "titulo": "O caminhão que saiu com a empilhadeira dentro",
+    "setores": ["logistica", "frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é doca, aquele momento em que a empilhadeira entra dentro do baú do caminhão pra carregar ou descarregar. Pergunta pra começar: quando a empilhadeira tá lá dentro, o que impede o caminhão de sair? Pensa bem antes de responder, porque a resposta 'o motorista sabe que tem gente dentro' não é impedimento nenhum, é confiança.",
+    "caso": "Deixa eu contar um dos acidentes mais clássicos e mais evitáveis que existe em centro de distribuição. Um caminhão encostou na doca e a operação começou normal, empilhadeira entrando e saindo do baú. Em algum momento, o motorista achou que a carga tinha terminado. Pode ter sido um sinal mal entendido, pode ter sido pressa, pode ter sido alguém que disse 'pode ir' pensando em outro veículo. Ele soltou o freio e avançou alguns metros pra frente. Só que a empilhadeira tava dentro do baú, com o operador em cima. Quando o caminhão saiu, abriu um vão entre a doca e o baú. A empilhadeira, que tava justamente atravessando esse ponto, despencou. O operador se feriu com gravidade. E olha o detalhe que resume tudo: nenhuma das duas pessoas fez nada de absurdo. O motorista achou que tinha acabado, o operador achou que o caminhão ia ficar parado. O que faltou não foi bom senso, foi trava física. Faltou uma coisa que impedisse o caminhão de sair independente do que qualquer um dos dois achasse.",
+    "regra": "Aqui tá o princípio mais importante da segurança em doca: comunicação e boa vontade não seguram caminhão, trava segura. Por isso as regras são físicas. Calço nas rodas antes de qualquer pessoa ou máquina entrar no baú. Trava de doca acionada quando existir. Freio de estacionamento aplicado. Sinalização visível, semáforo de doca ou placa, mostrando que tem operação em andamento. Em muitos lugares se usa também a retenção da chave do caminhão, que fica com o responsável da doca enquanto a operação acontece, e só volta pro motorista quando a doca é liberada. E o motorista não decide sozinho quando sair, ele espera a liberação de quem está conduzindo a operação. Todo controle aqui é feito pra funcionar mesmo se as pessoas se entenderem mal, porque uma hora elas vão se entender mal.",
+    "discussao": [
+      "Hoje, o que impede fisicamente um caminhão de sair da nossa doca com gente ou máquina dentro?",
+      "A gente usa calço sempre, ou às vezes pula porque a operação é rápida?",
+      "Como o motorista sabe que pode sair? Tem um sinal claro ou é no 'achou que acabou'?"
+    ],
+    "fechamento": "Combinado de hoje: ninguém entra no baú sem calço nas rodas e trava acionada, e o caminhão só sai com liberação clara de quem conduz a operação. Confiança e boa comunicação são ótimas, mas quem segura caminhão é calço. Bom trabalho, pessoal, e olho nas docas hoje."
+  },
+  {
+    "id": 48,
+    "titulo": "O movimento que você faz dez mil vezes",
+    "setores": ["logistica", "industria", "escritorio"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto não é acidente, é uma coisa que machuca devagar e que muita gente aqui já sente e não fala. Pergunta pra começar, com sinceridade: quem aqui sente dor, formigamento ou dormência em ombro, punho, cotovelo ou pescoço no fim do dia, e considera isso normal do trabalho? Levanta a mão de verdade. É sobre isso que eu quero falar.",
+    "caso": "Deixa eu explicar como esse tipo de lesão se instala, porque é bem diferente dos outros. Não tem um momento de acidente, não tem um susto, não tem uma data. Uma trabalhadora fazia um movimento repetitivo na função dela, milhares de vezes por dia, todo dia, sempre igual, sempre no mesmo ângulo, quase sempre sem pausa de verdade. Cada movimento sozinho é inofensivo, não machuca ninguém. O problema é a soma. O tendão trabalha, inflama um pouquinho, e precisa de descanso pra se recuperar. Se o descanso não vem, ele inflama de novo em cima da inflamação de ontem. Começou com um incômodo leve no fim do dia, que sumia dormindo. Depois passou a doer também de manhã. Depois começou a acordar de noite com o braço dormente. Ela foi levando, achou que era normal do serviço, que era resistência que ia criar. Quando procurou médico, o quadro já era crônico, com afastamento longo e limitação que ficou. E o mais duro dessa história é que ela sentiu os avisos por meses, mas o corpo avisou tão baixinho que ela achou que era só cansaço.",
+    "regra": "Lesão por esforço repetitivo é uma das que mais afastam trabalhador no Brasil, e ela tem cura muito melhor quando pega no começo e quase nenhuma quando vira crônica. Então a parte mais importante é: dor recorrente não é normal do serviço, é aviso. As coisas que protegem: pausa curta e frequente vale muito mais que uma pausa longa no fim, porque o tendão precisa de descanso antes de inflamar, não depois. Alternar tarefa e alternar movimento sempre que der. Ajustar altura de bancada, de monitor, de pallet, pra não trabalhar com ombro levantado nem punho torto. Alongar rápido durante o turno. E o principal: se você já sente dor recorrente, você me fala agora, não daqui a seis meses, porque a diferença entre tratar cedo e tarde é a diferença entre melhorar e conviver.",
+    "discussao": [
+      "Quem sente dor, formigamento ou dormência recorrente? Não precisa detalhar aqui, mas me procura depois.",
+      "Quais tarefas nossas são as mais repetitivas, e dá pra alternar entre as pessoas durante o turno?",
+      "Tem bancada, altura de pallet ou posto aqui que obriga a gente a trabalhar em posição ruim?"
+    ],
+    "fechamento": "Combinado de hoje: dor que volta todo dia não é normal, é aviso, e eu quero saber. Vamos fazer pausas curtas de verdade, alternar tarefa quando der, e me apontem os postos que obrigam posição ruim que a gente vê o ajuste. Esse aqui é pelo braço que vocês vão precisar daqui a vinte anos. Bom trabalho, pessoal."
+  },
+  {
+    "id": 49,
+    "titulo": "O disco que voltou na direção do rosto",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é ferramenta elétrica portátil, principalmente esmerilhadeira e serra. Pergunta pra começar: quem aqui já sentiu a máquina dar aquele tranco, aquele pulo pra trás no meio do corte? Isso tem nome, chama retrocesso, e entender por que ele acontece é o que separa um susto de um acidente grave.",
+    "caso": "Deixa eu explicar o que é o retrocesso, porque muita gente já sentiu e nunca soube o que foi. Quando o disco tá cortando, ele gira numa velocidade altíssima. Se o material aperta o disco, se a peça se mexe, se o corte fecha em cima dele, ou se o disco engancha numa quina, ele para de girar de repente. Só que o motor continua com toda aquela força. Como o disco não pode mais girar dentro do material, é a máquina inteira que é arremessada, e ela vai violentamente na direção contrária ao giro, quase sempre pra cima e pra trás, ou seja, na direção do corpo e do rosto de quem tá segurando. Um serralheiro passou por isso segurando a esmerilhadeira com uma mão só, porque com a outra ele tava segurando a peça, que não tava fixada em nada. A peça se mexeu, o disco prendeu, a máquina saltou. Com uma mão só ele não teve como controlar. O disco veio na direção dele e acertou o braço, corte profundo. E tem um agravante que quase sempre aparece nesses casos: a proteção da própria esmerilhadeira, aquela capa de metal em cima do disco, tinha sido removida tempos antes porque atrapalhava a visão do corte. Justamente a peça que existe pra ficar entre o disco e o corpo.",
+    "regra": "As regras que evitam retrocesso e limitam o estrago são bem concretas. A peça tem que estar fixada, presa em morsa ou grampo, nunca segura com a mão enquanto a outra opera a máquina. Máquina se segura firme com as duas mãos e com o corpo posicionado fora da linha do disco, nunca alinhado com ela. A proteção do disco fica na máquina, sempre, é ela que segura estilhaço e desvia o disco em caso de quebra. Disco tem que ser o certo pro material e pra rotação da máquina, e disco trincado ou vencido não se usa de jeito nenhum, porque disco quebrando em alta rotação vira estilhaço em velocidade de projétil. E EPI aqui é óculos com protetor facial, não só óculos.",
+    "discussao": [
+      "Quem já sentiu retrocesso? O que você fez na hora, e o que você faria agora sabendo o que é?",
+      "A gente tem esmerilhadeira aqui com a proteção removida? Isso hoje é regra pra parar a máquina.",
+      "Vocês fixam a peça antes de cortar ou seguram com a mão porque é mais rápido?"
+    ],
+    "fechamento": "Combinado de hoje: peça fixada, máquina com as duas mãos, corpo fora da linha do disco, proteção no lugar e disco certo e íntegro. E protetor facial, não só o óculos. Retrocesso não avisa, ele acontece em um piscar de olhos, e a única coisa que te protege é a posição que você já tava. Bom trabalho, pessoal."
+  },
+  {
+    "id": 50,
+    "titulo": "O minuto antes de começar",
+    "setores": ["geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje eu quero ensinar uma rotina, uma coisa pra vocês levarem e fazerem todo dia sozinhos, sem eu estar por perto. É um minuto, antes de começar qualquer tarefa. Quatro perguntas, na mesma ordem, sempre. Vou passar as quatro com vocês agora e depois a gente faz o teste com a tarefa de hoje.",
+    "caso": "A primeira pergunta é sobre você. Como eu tô hoje? Dormi bem, tô cansado, tô com a cabeça em outro lugar, tô com dor em algum lugar, tomei algum remédio que dá sono? Se a resposta for ruim em alguma dessas, sua margem de erro hoje é menor e você precisa ir mais devagar. A segunda pergunta é sobre a tarefa. Eu sei exatamente como fazer isso? Todo passo, inclusive as etapas de segurança? Se tem qualquer parte que você faria no chute, essa é a hora de perguntar, e não depois de começar. A terceira é sobre o ambiente. O que tem em volta de mim agora? Olha pro chão, olha pra cima, olha pros lados. Tem coisa que pode cair, gente trabalhando em cima, piso escorregadio, máquina circulando, calor, químico, área isolada perto, alguém que eu preciso avisar antes de começar? A quarta é sobre o equipamento. Eu tenho a ferramenta certa e o EPI certo, e os dois estão em bom estado? Não é ter o EPI, é o EPI estar íntegro e ser o adequado pra essa tarefa específica. Quatro perguntas: eu, tarefa, ambiente, equipamento. Nessa ordem porque começa em você e vai abrindo pra fora.",
+    "regra": "Essa rotina resolve uma coisa que nenhum procedimento escrito resolve: procedimento é feito pra tarefa em geral, e você tá fazendo aquela tarefa hoje, nesse ambiente, com esse corpo, com esse equipamento. As condições mudam todo dia, e o papel não sabe disso. O minuto de checagem é o que traz o procedimento pra realidade de agora. E ele funciona porque é curto e sempre igual: se fosse longo, ninguém faria, e se mudasse de ordem, viraria esforço. Quatro perguntas, um minuto, antes de encostar a mão em qualquer coisa.",
+    "discussao": [
+      "Vamos fazer agora, com a tarefa de hoje de vocês. Passa as quatro na cabeça e me fala se apareceu alguma coisa.",
+      "Alguma dessas quatro perguntas deu resposta ruim pra alguém aqui hoje?",
+      "Qual das quatro vocês acham que a gente mais pula no dia a dia?"
+    ],
+    "fechamento": "Combinado de hoje, e esse eu quero que vire hábito e não só DDS: antes de qualquer tarefa, o minuto das quatro perguntas. Eu, tarefa, ambiente, equipamento. Um minuto por tarefa. Se em alguma delas a resposta te incomodar, para e fala comigo antes de começar. Bom trabalho, pessoal, e façam o minuto hoje."
   }
 ]
