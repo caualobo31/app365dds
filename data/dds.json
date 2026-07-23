@@ -448,5 +448,155 @@
       "O que a gente pode fazer pra ter menos poeira no ar, além da máscara? Umedecer, aspirar, ventilar?"
     ],
     "fechamento": "Combinado de hoje: serviço que solta poeira, máscara respiratória adequada no rosto, mesmo incomodando, mesmo que ninguém esteja olhando. E vamos ver juntos como reduzir a poeira no ar dos nossos serviços. Esse aqui é pelo seu pulmão daqui a vinte anos, pela sua aposentadoria respirando bem. Bom trabalho, pessoal, e protejam a respiração de vocês."
+  },
+  {
+    "id": 31,
+    "titulo": "Nunca passe embaixo da carga",
+    "setores": ["construcao", "industria", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar: quem aqui já passou embaixo de uma carga suspensa, de um guincho, de uma talha, de uma empilhadeira com material levantado, porque era o caminho e a carga parecia bem presa? A gente olha e acha que tá seguro porque tá parado ali no ar. Hoje eu quero falar do que a gente não vê nessa cinta.",
+    "caso": "Deixa eu contar um caso. Numa movimentação de material, uma carga pesada foi içada e ficou suspensa enquanto o operador ajustava a posição. Um funcionário precisava passar pro outro lado e o caminho mais curto era por baixo daquela carga. Ele olhou pra cima, viu a cinta bem colocada, a carga firme, parada, e pensou 'tá seguro, passo rápido'. E passou. Bem nesse momento, a cinta cedeu. Não porque alguém fez errado na hora, mas porque a cinta tinha um desgaste interno que ninguém enxergava por fora, um dano acumulado de uso. A carga despencou. Ele foi atingido e não teve chance de reagir, porque coisa pesada caindo de cima não dá tempo de desviar. O que ele avaliou olhando pra cima, que a carga tava firme, era verdade naquele segundo. Só que carga suspensa não avisa quando vai deixar de estar firme.",
+    "regra": "A regra da carga suspensa não tem exceção nenhuma, e é a mais absoluta que existe na segurança: ninguém, nunca, por nenhum motivo, passa ou permanece embaixo de carga içada. Não interessa se parece firme, se a cinta é nova, se vai levar dois segundos. Você não consegue avaliar por fora o desgaste de um cabo, de uma cinta, de um gancho. E se ceder, não tem reflexo humano que salve. A área embaixo e ao redor de içamento fica isolada, e o caminho de todo mundo é por fora dela, por mais longe que seja.",
+    "discussao": [
+      "Onde a gente faz içamento e movimentação de carga suspensa aqui? Essas áreas ficam isoladas de verdade?",
+      "Quem confere o estado das cintas, cabos e ganchos antes do uso? Você saberia identificar uma cinta condenada?",
+      "Já teve carga que caiu ou escorregou aqui? O que aconteceu e o que mudou depois?"
+    ],
+    "fechamento": "Combinado de hoje, e esse é dos que não tem negociação: carga suspensa, ninguém passa embaixo e ninguém fica na área. Dá a volta, por mais longe que seja. E antes de içar, confere cinta, cabo e gancho, porque o desgaste que mata é o que não se vê por fora. Bom trabalho, pessoal, e olhem pra cima antes de andar hoje."
+  },
+  {
+    "id": 32,
+    "titulo": "O novato que teve vergonha de perguntar",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje eu quero falar de uma coisa que quase nunca entra em DDS, mas que causa muito acidente: a vergonha de perguntar. Pergunta pra vocês: quem aqui, quando era novo, já fez uma tarefa sem entender direito, achando no chute, porque tinha vergonha de perguntar de novo e parecer que não sabia nada? Eu já fiz. E hoje eu quero que a gente converse sobre isso.",
+    "caso": "Deixa eu contar de um funcionário novo, primeira semana na função. Passaram a tarefa pra ele meio rápido, no meio da correria, e ele entendeu mais ou menos, uns setenta por cento. Ficou com dúvida numa parte, mas não perguntou. Por quê? Porque já tinham explicado uma vez, e ele achou que perguntar de novo ia fazer ele parecer burro, incapaz, o cara lento que não pega as coisas. Ele queria mostrar serviço, queria ser aprovado. Então foi fazer no chute a parte que não entendeu, imaginando que devia ser mais ou menos assim. Só que a parte que ele não entendeu era justamente a etapa de segurança da tarefa. Fez errado, e se machucou. Depois, quando perguntaram por que ele não tinha tirado a dúvida, a resposta foi simples e triste: tive vergonha de perguntar de novo. Um acidente que custou caro por causa de uma pergunta de dez segundos que ninguém fez.",
+    "regra": "Aqui tá o que eu quero deixar muito claro pra todo mundo, principalmente pra quem chegou agora: perguntar não te faz parecer burro, te faz parecer responsável. Quem faz no chute pra não perguntar é que tá arriscando. E isso vale nos dois lados: se você é o mais experiente, é sua obrigação criar espaço pro novato perguntar sem medo, sem gozação, sem cara feia. O colega novo que não pergunta não é culpa só dele, é do ambiente que fez ele achar que perguntar é vergonha. Ninguém aqui vai ser sacaneado por perguntar duas, três vezes.",
+    "discussao": [
+      "Quem aqui tem alguma dúvida sobre a tarefa de hoje e não perguntou ainda? Essa é a hora, sem julgamento.",
+      "A gente acolhe bem quem chega, ou tem aquela pressão de que o novato tem que se virar sozinho pra provar valor?",
+      "Você lembra de alguma coisa que você fez errado no começo por não ter perguntado?"
+    ],
+    "fechamento": "Combinado de hoje, e vale pros dois lados: não entendeu, pergunta, quantas vezes precisar, comigo ou com quem for. E quem é veterano, responde com paciência, porque um dia você foi novo também. Pergunta boba é a que não foi feita e virou acidente. Bom trabalho, pessoal, e tirem as dúvidas hoje."
+  },
+  {
+    "id": 33,
+    "titulo": "Os primeiros minutos depois do acidente",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta direta, e é pra vocês pensarem com honestidade: se um colega aqui se acidentasse agora, na sua frente, você saberia exatamente o que fazer nos primeiros minutos? Quem chamar, o que fazer, e principalmente o que NÃO fazer? A gente treina muito pra evitar acidente, e treina pouco pro que fazer quando ele acontece. Hoje é sobre isso.",
+    "caso": "Deixa eu contar um caso que mostra como a boa intenção pode piorar tudo. Um trabalhador sofreu uma queda e ficou caído, consciente mas reclamando de dor nas costas e no pescoço. Os colegas correram pra ajudar, com a melhor intenção do mundo. E fizeram o que quase todo mundo faz por instinto: pegaram ele e tentaram levantar, colocar sentado, tirar do chão frio, levar pra um lugar melhor. Só que numa suspeita de lesão na coluna, mover a pessoa errado pode transformar uma lesão que ia curar numa lesão permanente. Ele piorou no transporte improvisado. E o pior é que ninguém ali fez por mal, todo mundo tava tentando ajudar. Só que ajudar sem saber, no impulso, machucou mais do que o próprio acidente. Os primeiros minutos são decisivos, e são justamente os minutos em que todo mundo tá em pânico e agindo por instinto.",
+    "regra": "As regras dos primeiros minutos são poucas e salvam muito. Primeira: garanta que a área tá segura antes de se aproximar, porque o que machucou ele pode machucar você e virar duas vítimas. Segunda: aciona socorro imediatamente, não fica avaliando sozinho por muito tempo. Terceira, e é a mais importante: não move a vítima, principalmente se tiver suspeita de lesão de coluna, pescoço ou fratura, a não ser que ela esteja em risco de morte no lugar onde tá. Quarta: fica com ela, fala com ela, mantém calma, e não dá água nem comida. Ajudar é acionar quem sabe e proteger a cena, não é carregar no colo.",
+    "discussao": [
+      "Você sabe qual o número e o procedimento pra acionar socorro aqui, agora, de cabeça?",
+      "Quem aqui tem treinamento de primeiros socorros? Vale a gente saber com quem contar.",
+      "Onde fica a maca, o kit de primeiros socorros e o ponto de acesso pra ambulância aqui?"
+    ],
+    "fechamento": "Combinado de hoje: aconteceu acidente, primeiro você garante que a área tá segura, depois aciona socorro, e não move a vítima sem necessidade. Fica junto, acalma, e deixa quem é treinado fazer o resto. Boa intenção sem conhecimento machuca mais. Depois eu vou revisar com vocês onde fica o kit e como aciona. Bom trabalho, pessoal."
+  },
+  {
+    "id": 34,
+    "titulo": "A pilha que desabou sozinha",
+    "setores": ["logistica", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Pergunta pra quem trabalha com armazenagem, estante, pallet, empilhamento: quem aqui já empilhou material um pouco mais alto do que devia, ou meio torto, porque tava faltando espaço e ia dar certo? A pilha fica ali, parada, quieta, e a gente esquece que ela é uma coisa pesada equilibrada em cima de outra. Hoje é sobre o dia em que ela deixa de ficar quieta.",
+    "caso": "Deixa eu contar um caso de armazém. Faltou espaço num setor, e o pessoal foi empilhando material mais alto do que o normal, com o pallet de cima meio desalinhado com o de baixo, porque não encaixava direito. Ficou de pé, ficou estável, e ficou assim por semanas. Todo mundo passava do lado, ninguém achava perigoso, porque afinal tava parado. Até que uma empilhadeira passou perto e encostou de leve na base da pilha, aquele toque que normalmente não faz nada. Só que naquela pilha desalinhada, o toque foi o suficiente pra tirar o equilíbrio. A carga de cima despencou. Pegou um funcionário que passava a pé naquele corredor, que não teve tempo nenhum de reagir porque ele não tinha motivo pra estar olhando pra cima. Ficou gravemente ferido. A pilha tava ali havia semanas parecendo segura, e a insegurança dela só ficou visível no segundo em que ela caiu.",
+    "regra": "Material empilhado é energia parada esperando um empurrãozinho. As regras que evitam desabamento são simples: respeita a altura máxima de empilhamento, não improvisa altura por falta de espaço. Base alinhada com o de cima, nada de pallet torto ou saliente. Material mais pesado embaixo, mais leve em cima, nunca o contrário. Nada de empilhar material danificado ou pallet quebrado, que é o que cede primeiro. E se você olhou pra uma pilha e pensou 'essa tá meio torta', não passa e esquece, avisa, porque esse pensamento é o aviso.",
+    "discussao": [
+      "Tem alguma pilha, estante ou empilhamento aqui hoje que você olha e acha meio torto ou alto demais?",
+      "A gente respeita a altura máxima de empilhamento ou improvisa quando falta espaço?",
+      "Tem pallet quebrado ou estante amassada em uso aqui? Isso é o ponto que cede primeiro."
+    ],
+    "fechamento": "Combinado de hoje: empilhamento na altura certa, base alinhada, pesado embaixo, e pallet quebrado sai de uso. E se bateu aquela sensação de 'essa pilha tá estranha', você me avisa na hora, porque essa sensação costuma estar certa. Antes de começar, dá uma olhada nas pilhas do seu setor. Bom trabalho, pessoal."
+  },
+  {
+    "id": 35,
+    "titulo": "O dia que a chuva mudou tudo",
+    "setores": ["construcao", "frota", "geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje eu quero falar de uma coisa que a gente trata como inconveniente e devia tratar como risco: a chuva. Pergunta: quem aqui já continuou o serviço debaixo de chuva ou logo depois dela, do mesmo jeito que faz no tempo seco, sem mudar nada na forma de trabalhar? Porque quando chove, o canteiro inteiro vira outro lugar, com outras regras.",
+    "caso": "Deixa eu contar. Depois de uma chuva forte, o pessoal voltou pro serviço assim que parou de cair água, com pressa pra recuperar o tempo perdido. Um trabalhador subiu numa estrutura metálica pra continuar o serviço de onde parou. Aquela mesma estrutura que ele subia todo dia, que ele conhecia de cor, onde o pé sempre agarrava firme. Só que molhada, aquela superfície metálica virou uma outra coisa: escorregadia de um jeito que ele não esperava, porque o corpo dele tinha memória do agarre no seco. O pé escorregou na primeira pisada com peso. Ele caiu. E não foi imprudência escancarada, foi uma coisa mais sutil: ele tratou o lugar molhado com a confiança que tinha do lugar seco. A chuva mudou o piso, mudou o agarre, mudou tudo, e ele continuou o mesmo.",
+    "regra": "Chuva não é só desconforto, ela muda as condições de segurança de tudo: o piso fica escorregadio, a estrutura metálica vira gelo, a visibilidade cai, a terra amolece e cede, o risco elétrico aumenta muito, e a ferramenta escapa mais fácil da mão molhada. Depois da chuva, o lugar que você conhece não é mais o mesmo lugar. Então a regra é: com chuva ou logo depois, reduz o ritmo, redobra o apoio, reavalia se aquela tarefa em altura ou com energia pode ser feita agora, e se tiver raio na região, para o serviço em área aberta e alta.",
+    "discussao": [
+      "Quais serviços nossos ficam claramente mais perigosos com chuva ou piso molhado?",
+      "A gente tem o hábito de reavaliar a tarefa depois da chuva, ou volta no mesmo ritmo pra recuperar tempo?",
+      "Tem algum ponto aqui que fica especialmente escorregadio quando molha?"
+    ],
+    "fechamento": "Combinado de hoje: choveu, o lugar mudou, e a gente muda junto. Ritmo mais devagar, apoio redobrado, atenção no piso e na estrutura molhada. Serviço em altura ou com energia debaixo de chuva, para e fala comigo. Recuperar tempo perdido nunca vale um tombo. Bom trabalho, pessoal, e olho no chão molhado hoje."
+  },
+  {
+    "id": 36,
+    "titulo": "O remédio que deu sono",
+    "setores": ["geral", "frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é delicado e eu quero que vocês recebam ele sem se sentir cobrados, porque não é sobre julgar ninguém. Pergunta: quem aqui já tomou um remédio, um antialérgico, um relaxante muscular, um remédio de gripe, e veio trabalhar normalmente, sem nem pensar que aquilo podia afetar o serviço? Quase todo mundo já fez, porque a gente não associa remédio comum com risco no trabalho.",
+    "caso": "Deixa eu contar de um motorista. Ele tava com uma alergia forte, foi na farmácia e comprou um antialérgico comum, desses que qualquer um compra sem receita. Tomou de manhã antes de sair. Não é bebida, não é droga, é remédio de farmácia, então ele nem cogitou que fosse um problema. Só que muitos antialérgicos dão sonolência e diminuem o reflexo, e é um efeito que a pessoa não sente direito: você não se sente bêbado, você se sente normal, só um pouquinho mais lento, e não percebe o quanto. No meio da jornada, num momento que exigia reação rápida, o reflexo dele veio atrasado. Foi o suficiente pra causar um acidente. Quando investigaram, não tinha nada de errado com o veículo nem com a via. O que tinha de diferente naquele dia era um comprimido de farmácia que ninguém, nem ele, considerou perigoso.",
+    "regra": "Remédio comum pode afetar reflexo, atenção e sono, e isso vale pra antialérgico, relaxante muscular, remédio de gripe, calmante, remédio pra dor forte e vários outros. E a coisa mais traiçoeira é que a pessoa quase não sente o efeito, ela se acha normal. A regra é: leu na bula ou o médico avisou que pode dar sono ou diminuir atenção, e você opera máquina ou dirige, você precisa me avisar. Não é pra você perder o dia nem levar advertência, é pra gente ver junto se dá pra remanejar a função enquanto durar o tratamento. E álcool, isso nem se discute, não combina com nenhuma tarefa aqui, de jeito nenhum.",
+    "discussao": [
+      "Você tem o hábito de olhar na bula se o remédio dá sono, antes de vir operar ou dirigir?",
+      "Você se sentiria à vontade de me avisar que tá tomando um remédio que dá sono, ou teria receio?",
+      "Alguém já sentiu que trabalhou mais lento ou mais sonolento por causa de remédio?"
+    ],
+    "fechamento": "Combinado de hoje: tá tomando remédio que dá sono ou tira atenção, me avisa. Não é pra te punir, é pra gente ajustar a função enquanto durar. Não tem problema nenhum nisso, o problema é operar máquina lento sem ninguém saber. E olhem a bula antes de vir trabalhar. Bom trabalho, pessoal, e se cuidem."
+  },
+  {
+    "id": 37,
+    "titulo": "A gambiarra que segurou até não segurar",
+    "setores": ["geral", "industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar, e ninguém vai ser cobrado por responder a verdade: quem aqui já viu, ou já fez, uma emenda de fio com fita isolante, uma extensão puxando três equipamentos ao mesmo tempo, um plugue improvisado, um benjamim em cima de outro? A gente chama de jeitinho, de gambiarra, e ela tem uma característica bem perigosa: ela funciona. Até o dia que não funciona.",
+    "caso": "Deixa eu contar um caso. Num setor faltava tomada, e alguém fez uma extensão improvisada pra ligar mais um equipamento. Emendou fio com fita, puxou de longe, e funcionou perfeitamente. Ficou assim meses. Todo mundo via, todo mundo usava, e como funcionava, virou normal, ninguém mais enxergava aquilo como problema. Só que aquela emenda de fita, com o tempo, foi ressecando com o calor, e o fio ali dentro tava passando mais corrente do que aguentava, esquentando devagarinho todo dia. Um dia a fita cedeu e o fio ficou exposto perto de material que pega fogo. Deu curto e princípio de incêndio, e ainda por cima um funcionário que tocou naquele ponto levou choque. O que é mais importante entender: a gambiarra não falhou no primeiro dia, quando todo mundo ainda lembrava que era improviso. Ela falhou meses depois, quando já tinha virado parte do cenário e ninguém mais olhava pra ela.",
+    "regra": "Toda gambiarra elétrica tem o mesmo destino: ela funciona no começo, todo mundo se acostuma, ela vira invisível, e falha quando ninguém mais tá prestando atenção nela. Fio emendado com fita, extensão sobrecarregada, benjamim em cima de benjamim, plugue improvisado, fio passando por chão molhado, tudo isso é acidente marcando hora, seja choque ou incêndio. E a regra é: gambiarra elétrica não se usa, nem 'temporariamente', porque temporário elétrico dura anos. Precisou de tomada, de força, de mais um ponto, você me chama que a gente faz do jeito certo, com eletricista.",
+    "discussao": [
+      "Tem alguma gambiarra elétrica aqui no nosso setor que virou paisagem e ninguém mais vê? Vamos listar hoje.",
+      "Tem extensão sobrecarregada, benjamim em cima de benjamim, ou fio emendado em uso agora?",
+      "Tem fio passando por lugar que molha ou por onde passa gente e empilhadeira?"
+    ],
+    "fechamento": "Combinado de hoje: nenhuma gambiarra elétrica, nem temporária. Precisou de ponto de energia, me avisa que a gente resolve com eletricista, do jeito certo. E hoje eu quero que vocês olhem o setor com olhos de quem tá vendo pela primeira vez, procurando as gambiarras que viraram paisagem. Me mostra o que achar. Bom trabalho, pessoal."
+  },
+  {
+    "id": 38,
+    "titulo": "O acidente que acontece fora do portão",
+    "setores": ["geral", "frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o DDS é sobre um trecho do dia de vocês que não acontece aqui dentro, mas que é onde muita gente se machuca de verdade: o caminho de casa pro trabalho e do trabalho pra casa. Pergunta: quem aqui vem de moto, de bicicleta, dirigindo, ou andando na beira da pista? E quem já chegou em casa pensando 'hoje escapei de uma boa'? Esse trecho merece o mesmo cuidado que a gente tem aqui dentro.",
+    "caso": "Deixa eu contar. Um funcionário vinha de moto pro trabalho, o mesmo caminho de sempre, fazia anos. Naquele dia ele saiu de casa em cima da hora, com medo de bater ponto atrasado. Foi acelerando um pouco mais, costurando um pouco mais entre os carros, cortando um sinal amarelo que normalmente ele esperava. Fez tudo aquilo por causa de uns cinco minutos de atraso. Um carro entrou na frente dele numa conversão, coisa que acontece todo dia no trânsito, e no ritmo que ele tava não deu pra evitar. Bateu. Fratura séria na perna, meses de recuperação, e ele teve muita sorte de estar de capacete e de ter escapado com vida. E o mais duro: o motivo de tudo aquilo era chegar cinco minutos mais cedo. Ele ficou meses sem trabalhar por causa de cinco minutos.",
+    "regra": "Existe uma coisa chamada acidente de trajeto, e ele conta como acidente de trabalho, porque acontece no caminho, por causa do trabalho. E é uma das maiores causas de afastamento que existe, principalmente pra quem anda de moto. As regras são as básicas que todo mundo conhece e que a pressa faz esquecer: sai de casa com folga, porque o atraso de cinco minutos é resolvível e a fratura não. Capacete sempre bem afivelado, mesmo pra trecho curto. Não costura, não corta sinal, não usa celular. E depois de um turno pesado, quando você tá exausto, o caminho de volta é o momento de mais risco do seu dia, não o de menos.",
+    "discussao": [
+      "Quem aqui vem de moto? Você sai com folga de tempo ou geralmente em cima da hora?",
+      "Qual o trecho mais perigoso do caminho de vocês? Tem cruzamento, curva, ou lugar sem acostamento?",
+      "Você já se pegou dirigindo ou pilotando exausto na volta do turno? Como foi?"
+    ],
+    "fechamento": "Combinado de hoje: sai de casa com folga, capacete bem afivelado, sem costurar, sem celular. E na volta, se você tá exausto, para, toma um café, respira antes de pegar a estrada. O trabalho seguro só termina quando você chega em casa, não quando você bate o ponto de saída. Bom trabalho, e voltem bem pra família hoje."
+  },
+  {
+    "id": 39,
+    "titulo": "O que a luz fraca esconde",
+    "setores": ["geral", "industria", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar, pra quem trabalha no turno da noite, na madrugada, ou em qualquer canto mal iluminado: quem aqui já fez um serviço enxergando mal, no escuro parcial, com uma lâmpada queimada em cima, e mesmo assim tocou em frente porque dava pra se virar? A gente se acostuma tão rápido com pouca luz que esquece o quanto tá enxergando menos. Hoje é sobre isso.",
+    "caso": "Deixa eu contar. Num setor, uma luminária queimou e ninguém trocou, porque com as outras ainda dava pra enxergar razoavelmente. Passou uma semana, duas. O pessoal se acostumou com aquela penumbra, o olho adaptou, e ninguém mais reclamava. Um funcionário foi fazer uma tarefa naquela área e não enxergou um objeto que tava no chão, na sombra, uma coisa que em plena luz ele veria de longe. Tropeçou, caiu pra frente e bateu contra um equipamento. Machucou o braço, precisou de atendimento e ficou afastado. Quando foram investigar, a causa oficial foi o objeto no chão. Mas a causa de verdade tava no teto: uma lâmpada queimada havia duas semanas que todo mundo tinha aprendido a ignorar, porque 'ainda dava pra ver'.",
+    "regra": "Iluminação ruim é um risco silencioso porque o olho da gente se adapta, e a gente acha que tá enxergando bem quando na verdade tá enxergando muito menos e mais devagar. No escuro parcial você perde o detalhe, perde a noção de profundidade, demora mais pra identificar o perigo. Por isso: lâmpada queimada, luminária suja, luz fraca no posto de trabalho, isso não é conforto, é segurança, e tem que ser resolvido e não tolerado. E se você precisa fazer um serviço num ponto escuro, você leva luz até lá, não improvisa a vista.",
+    "discussao": [
+      "Tem lâmpada queimada ou ponto escuro aqui no nosso setor que a gente já se acostumou e nem vê mais?",
+      "Tem alguma tarefa que você faz enxergando mal, forçando a vista?",
+      "Quem trabalha à noite aqui: a iluminação tá suficiente nos pontos críticos?"
+    ],
+    "fechamento": "Combinado de hoje: lâmpada queimada e ponto escuro não se acostuma, se avisa e se resolve. E serviço em local escuro, você leva iluminação até lá. Enxergar bem é a primeira proteção que existe, antes de qualquer EPI. Me passa hoje a lista dos pontos escuros que vocês identificarem. Bom trabalho, pessoal."
+  },
+  {
+    "id": 40,
+    "titulo": "O bicho que estava no canto",
+    "setores": ["construcao", "geral", "logistica"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje o assunto é bem prático e bem do nosso dia a dia: bicho peçonhento. Cobra, aranha, escorpião, abelha, marimbondo. Pergunta pra começar: quem aqui já enfiou a mão num monte de entulho, num vão escuro, embaixo de um material parado há muito tempo, sem olhar antes? Porque é exatamente ali que esses bichos gostam de ficar, e eles não avisam que estão lá.",
+    "caso": "Deixa eu contar um caso. Um trabalhador foi mover um material que tava encostado num canto havia semanas, parado, junto com umas madeiras velhas. Ele fez o que todo mundo faz por hábito: agarrou com a mão, sem luva, sem olhar direito o que tinha atrás e embaixo. E ali, no meio daquele material parado, tinha um escorpião. Ele foi picado na mão. Sentiu a dor, o local inchou rápido, e teve que ser levado às pressas pro atendimento, porque dependendo do tipo de escorpião e da reação da pessoa, isso pode ficar muito sério, especialmente em quem tem alguma condição de saúde. Deu tudo certo com ele no final, mas o susto foi grande e o afastamento também. E o mais importante: aquele canto tava parado havia semanas, cheio de entulho, exatamente do jeito que esses bichos procuram pra se abrigar. O ambiente tinha convidado o bicho, e ninguém tinha percebido o convite.",
+    "regra": "Bicho peçonhento gosta de lugar parado, escuro, com entulho, madeira velha, material encostado que ninguém mexe. As regras que evitam: nunca enfia a mão em vão, buraco ou embaixo de material sem olhar antes. Usa luva. Antes de mover material parado há tempo, bate, faz barulho, dá um tempo pro bicho sair. Sacode bota e luva antes de calçar, principalmente as que ficaram guardadas. E olha o entulho: quanto mais canto parado e sujo a gente tem, mais convite a gente faz. Se for picado, não faz torniquete, não corta, não chupa. Lava com água e sabão, mantém a pessoa calma e leva pro atendimento rápido, e se der, identifica o bicho de longe pra informar.",
+    "discussao": [
+      "Tem cantos com entulho, material parado ou mato aqui que são convite pra bicho?",
+      "Vocês têm o hábito de sacudir bota e luva antes de calçar?",
+      "Alguém aqui já foi picado no trabalho? Como foi e o que fizeram?"
+    ],
+    "fechamento": "Combinado de hoje: não enfia a mão onde não enxerga, usa luva, e antes de mover material parado, faz barulho e dá um tempo. Sacode bota e luva antes de calçar. E vamos limpar os cantos de entulho, porque bicho a gente evita tirando o convite. Bom trabalho, pessoal, e olho onde põem a mão hoje."
   }
 ]
