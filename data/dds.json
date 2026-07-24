@@ -1068,5 +1068,165 @@
     ],
     "frase": "Carga se repõe. Veículo se recupera. Você, não.",
     "fechamento": "Combinado de hoje: não reage, entrega, preserva a vida. Ninguém aqui vai ser cobrado por isso, nunca. E na prevenção, varia rotina, não deixa valor à vista e escolhe parada movimentada. Me passem os pontos que vocês acham arriscados que eu levo pra frente. Bom trabalho, pessoal, e voltem bem."
+  },
+  {
+    "id": 71,
+    "titulo": "O andaime que foi crescendo",
+    "setores": ["construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é andaime, e eu quero começar com uma pergunta: quem aqui já subiu num andaime que não foi você que montou, sem conferir nada, confiando que quem montou fez direito? A gente sobe no que tá pronto. Hoje eu quero que a gente aprenda a olhar antes de subir.",
+    "caso": "Deixa eu contar como quase todo acidente de andaime acontece, porque quase nunca é um desabamento espetacular. Um andaime foi montado direitinho no começo da obra, com tudo no lugar. Aí o serviço subiu de altura e alguém acrescentou um nível. Depois faltou uma prancha e ficou um vão no piso, daqueles que dá pra passar por cima com cuidado. Depois tiraram o guarda-corpo de um lado porque atrapalhava passar material. Depois alguém colocou um caixote em cima do piso pra alcançar um ponto um pouco mais alto. Nenhuma dessas mudanças, sozinha, parecia grave, e cada uma foi feita por alguém resolvendo um problema real do momento. Só que no fim daquela semana o andaime não era mais o que tinha sido montado e aprovado. Um trabalhador pisou perto do vão, se desequilibrou, e do lado onde ele foi não tinha guarda-corpo. Caiu. O andaime não falhou de uma vez, ele foi sendo desmontado aos poucos, por gente bem-intencionada, e ninguém notou o momento em que ele deixou de ser seguro.",
+    "regra": "Antes de subir em qualquer andaime, você faz uma leitura rápida de cinco itens. Piso completo, sem vão, com as pranchas travadas e não apenas apoiadas. Guarda-corpo e rodapé nos lados abertos, e o rodapé existe pra ferramenta não cair na cabeça de quem tá embaixo. Base apoiada em superfície firme e nivelada, com sapata, nunca em cima de tijolo, bloco ou terra mole. Amarração na estrutura da edificação conforme a altura, porque andaime alto e solto tomba. E acesso próprio, escada de acesso, porque escalar pela estrutura é como muita gente cai. Além disso: não se ganha altura colocando caixote ou escada em cima do piso do andaime, não se move andaime com gente ou material em cima, e se você achou alguma coisa fora do lugar, você não sobe e me chama.",
+    "discussao": [
+      "Tem andaime montado aqui agora? Vamos passar os cinco itens nele depois desse DDS.",
+      "Já teve alguém que tirou uma prancha ou um guarda-corpo pra resolver um problema e não recolocou?",
+      "Quem monta e quem libera o andaime aqui? Todo mundo sabe pra quem falar quando achar algo errado?"
+    ],
+    "frase": "Andaime não desaba de uma vez. Ele vai sendo desmontado aos poucos, por gente bem-intencionada.",
+    "fechamento": "Combinado de hoje: antes de subir, os cinco itens. Piso completo, guarda-corpo e rodapé, base firme, amarração e escada de acesso. Achou qualquer coisa fora, não sobe e me chama. E se você tirar alguma peça pra passar material, você recoloca antes de sair. Bom trabalho, pessoal."
+  },
+  {
+    "id": 72,
+    "titulo": "O cilindro que virou foguete",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje eu quero falar de uma coisa que fica encostada num canto de quase toda oficina e que quase ninguém trata com o respeito que merece: o cilindro de gás. Pergunta: quem aqui já viu cilindro deitado no chão, encostado numa parede sem corrente, ou sendo rolado deitado pra atravessar o galpão? Isso é rotina em muito lugar. Hoje vocês vão entender por que não pode ser.",
+    "caso": "Deixa eu explicar o que tem dentro de um cilindro. Não é só gás, é gás comprimido a uma pressão altíssima, com uma quantidade enorme de energia guardada num tubo de metal. E o ponto mais frágil desse tubo é a válvula, aquela peça de metal na parte de cima. Se o cilindro cai ou tomba e a válvula bate em alguma coisa e quebra, todo aquele gás sob pressão escapa de uma vez por um buraco pequeno. E aí acontece o que acontece com uma bexiga que você solta: o cilindro é lançado no sentido contrário ao do escape. Só que ele não é uma bexiga, é um tubo de metal de dezenas de quilos, e ele sai em uma velocidade absurda. Existem casos documentados de cilindro que atravessou parede de alvenaria e continuou. Quem estiver no caminho não tem chance nenhuma. E tem outro risco menos conhecido e igualmente sério: em cilindro de oxigênio, qualquer traço de óleo ou graxa na válvula ou na conexão pode entrar em ignição espontânea quando o oxigênio é liberado, porque oxigênio puro reage violentamente com gordura. Mão suja de graxa abrindo válvula de oxigênio já causou incêndio grave.",
+    "regra": "As regras: cilindro fica sempre em pé, preso com corrente ou cinta, nunca deitado nem só encostado. Capacete de proteção da válvula colocado sempre que não estiver em uso. Transporte em carrinho próprio, nunca rolando, nunca arrastando, nunca carregado pela válvula. Nada de óleo, graxa ou mão engordurada perto de válvula e conexão de oxigênio. Armazenamento em local ventilado, longe de fonte de calor, e com gases incompatíveis separados, principalmente oxigênio longe de inflamável. E se um cilindro cair e a válvula for danificada, ninguém tenta segurar nem consertar: todo mundo se afasta e evacua a área.",
+    "discussao": [
+      "Como estão nossos cilindros agora? Em pé e presos, ou tem algum deitado ou solto?",
+      "A gente usa carrinho pra transportar ou às vezes rola no chão porque é mais rápido?",
+      "Nossos cilindros de oxigênio estão separados dos inflamáveis e longe de graxa?"
+    ],
+    "frase": "É um tubo de metal com pressão dentro. Se a válvula quebra, ele atravessa parede.",
+    "fechamento": "Combinado de hoje: cilindro em pé, preso, com capacete de válvula, transportado em carrinho. E mão engordurada nunca chega perto de válvula de oxigênio. Depois desse DDS eu quero passar com vocês nos cilindros do setor e corrigir o que estiver errado. Bom trabalho, pessoal."
+  },
+  {
+    "id": 73,
+    "titulo": "O incêndio que começa depois que você foi embora",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta pra quem solda, corta, esmerilha, qualquer serviço que solta faísca: quando você termina o serviço, quanto tempo você fica olhando a área antes de ir embora? A resposta honesta da maioria é: nenhum, terminou, guardou e saiu. Hoje eu vou explicar por que esse é o momento mais perigoso do trabalho a quente.",
+    "caso": "Deixa eu contar. Uma equipe fez um serviço de corte num galpão. Fizeram tudo direitinho durante a execução: afastaram o que dava, tomaram cuidado, ninguém se machucou. Terminaram no fim da tarde, guardaram o equipamento e foram embora. O incêndio começou quase uma hora depois, com o galpão vazio. E aqui tá o que quase ninguém sabe sobre faísca de corte e solda: ela não morre onde cai. Uma faísca dessas viaja vários metros, entra em fresta, cai por vão de piso, passa por trás de painel, se aloja em pilha de material, em pano, em serragem, em pó acumulado. E ali ela fica queimando devagarinho, sem chama visível, às vezes por muito tempo, até encontrar oxigênio suficiente pra virar fogo de verdade. Por isso incêndio em trabalho a quente quase sempre começa depois que a equipe já saiu, quando não tem mais ninguém pra apagar enquanto é pequeno. E é por isso também que ele costuma virar incêndio grande, e não um princípio.",
+    "regra": "Por isso trabalho a quente tem três partes, e a maioria das pessoas só faz a do meio. Antes: libera a área de material combustível num raio generoso, protege com manta o que não dá pra tirar, tapa fresta, vão e ralo por onde faísca pode cair, e confere o que tem do outro lado da parede e no piso de baixo, porque o calor atravessa. Durante: extintor à mão e alguém de olho na área, não só no ponto de solda. Depois, que é a parte esquecida: alguém fica vigiando a área por pelo menos meia hora depois de terminar, e em serviço maior por uma hora, procurando cheiro de queimado, fumaça e ponto quente. Ninguém fecha e vai embora logo depois de desligar o equipamento.",
+    "discussao": [
+      "Quando a gente termina um serviço a quente, alguém fica de olho na área? Por quanto tempo?",
+      "Nos nossos pontos de solda e corte, tem fresta, vão ou ralo por onde faísca pode cair pra outro lugar?",
+      "A gente confere o que tem do outro lado da parede antes de começar?"
+    ],
+    "frase": "A faísca não morre onde cai. Ela espera você ir embora.",
+    "fechamento": "Combinado de hoje: trabalho a quente tem antes, durante e depois. Área liberada e frestas tapadas antes, extintor e vigia durante, e no mínimo meia hora de vigilância depois de terminar. Ninguém desliga o equipamento e vai direto embora. Bom trabalho, pessoal."
+  },
+  {
+    "id": 74,
+    "titulo": "O clarão que dói de madrugada",
+    "setores": ["industria", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Pergunta pra todo mundo, não só pra quem solda: quem aqui já olhou pro clarão de uma solda, mesmo de longe, mesmo de relance, sem proteção nenhuma? Uma olhadinha rápida, aquela curiosidade de ver o que o colega tá fazendo. Guarda essa lembrança, porque hoje é sobre o que aquela olhadinha faz com o olho de vocês.",
+    "caso": "Deixa eu explicar por que essa lesão é diferente de todas as outras que a gente já falou aqui. O arco de solda emite radiação ultravioleta, a mesma que queima a pele na praia, só que muito mais intensa. Quando essa radiação bate no olho sem proteção, ela queima a superfície da córnea. E o detalhe que engana todo mundo é o seguinte: você não sente nada na hora. Não dói, não arde, não incomoda. A pessoa olha, acha que não foi nada porque não sentiu nada, e continua o dia normalmente. A dor começa a aparecer várias horas depois, normalmente de madrugada, quando a pessoa já tá em casa dormindo. E aí vem uma dor forte, com sensação de areia dentro do olho, lacrimejamento, e uma sensibilidade à luz tão grande que a pessoa não consegue nem abrir o olho num ambiente iluminado. Isso tem nome de ceratite, e é conhecida entre soldadores como olho de solda. Um ajudante passou por isso sem nunca ter soldado na vida: ele só trabalhava perto e olhava de vez em quando. Normalmente melhora em um ou dois dias com atendimento, mas a exposição repetida ao longo dos anos vai cobrando o preço na visão.",
+    "regra": "Então a regra vale pra quem solda e pra quem passa perto, e é por isso que existe biombo. Quem solda usa a máscara com a proteção adequada, sempre, mesmo pro ponto mais rápido. E a área de solda tem que ser isolada com biombo ou cortina própria, pra proteger quem trabalha ao lado, quem passa e quem só olhou de relance. Ajudante e quem fica perto usa óculos com filtro. E se acontecer de você tomar o clarão: não coça o olho de jeito nenhum, porque coçar com a córnea queimada piora muito, e procura atendimento em vez de esperar passar sozinho.",
+    "discussao": [
+      "Quem aqui já acordou de madrugada com o olho ardendo e não associou com solda?",
+      "A gente usa biombo nas áreas de solda ou o pessoal solda no meio do galpão aberto?",
+      "Quem trabalha perto de solda aqui tem óculos com filtro adequado?"
+    ],
+    "frase": "Você não sente nada na hora. A conta chega de madrugada.",
+    "fechamento": "Combinado de hoje: solda isolada com biombo, máscara adequada pra quem solda, óculos com filtro pra quem trabalha perto. E ninguém olha pro arco, nem de relance, nem de longe. Se tomar clarão, não coça e procura atendimento. Bom trabalho, pessoal."
+  },
+  {
+    "id": 75,
+    "titulo": "Carregando sem ver os pés",
+    "setores": ["geral", "logistica"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar: quem aqui já carregou uma pilha de caixas, ou um volume grande, tão alto que você não enxergava o chão na sua frente, e foi andando assim mesmo porque era perto? Todo mundo já fez, principalmente pra não ter que fazer duas viagens. Hoje é sobre essa segunda viagem que a gente evita.",
+    "caso": "Deixa eu contar. Um funcionário precisava levar material de um ponto a outro. Daria duas viagens tranquilas, mas ele resolveu levar tudo de uma vez, empilhando na frente do corpo. A pilha ficou na altura do rosto e ele passou a enxergar só pelos lados. Ele conhecia o caminho de cor, então foi andando com confiança. E aí aconteceram três coisas ao mesmo tempo, que é o que sempre acontece nesse caso. Primeiro: ele não viu que tinha um obstáculo no chão, uma coisa que tinha sido deixada ali depois da última vez que ele passou. Segundo: com as duas mãos ocupadas segurando a pilha, ele não tinha como se apoiar em nada nem amortecer a queda. Terceiro: com o peso na frente do corpo, o centro de equilíbrio dele já estava jogado pra frente, então o tropeço virou queda imediata. Ele caiu de cara, com o material por cima, e ainda machucou o punho tentando se apoiar no último instante. E o mais irônico é que a segunda viagem que ele quis evitar levaria menos de um minuto.",
+    "regra": "As regras aqui são simples. Você carrega no máximo até a altura em que ainda enxerga o caminho e os seus pés. Se não dá pra ver o chão, o volume tá alto demais e você divide em duas viagens ou pega um carrinho. Antes de carregar, você olha o percurso inteiro uma vez, sem carga, pra saber onde tem obstáculo, degrau, piso molhado e porta. Deixa uma mão livre sempre que possível, principalmente em escada, e em escada com volume grande não sobe, usa outro meio. E a regra mais importante e mais ignorada: não existe orgulho nenhum em fazer uma viagem só. A segunda viagem custa um minuto, a queda custa semanas.",
+    "discussao": [
+      "Você já tropeçou carregando coisa que tapava a visão? O que aconteceu?",
+      "A gente tem carrinho suficiente e disponível aqui, ou é longe e dá preguiça de buscar?",
+      "Quais trajetos do nosso setor têm mais obstáculo, degrau ou desnível?"
+    ],
+    "frase": "Se você não enxerga os próprios pés, você já está caindo, só falta o obstáculo.",
+    "fechamento": "Combinado de hoje: só carrega até a altura em que você ainda vê o chão. Olha o percurso antes, deixa uma mão livre, e faz duas viagens sem vergonha nenhuma. Carrinho tá aí pra ser usado. Bom trabalho, pessoal."
+  },
+  {
+    "id": 76,
+    "titulo": "Garfo não é elevador de gente",
+    "setores": ["logistica", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Pergunta direta e quero sinceridade, porque isso acontece em todo lugar do Brasil: quem aqui já subiu no garfo de uma empilhadeira, ou em cima de um pallet no garfo, pra alcançar alguma coisa lá em cima? Ou já viu alguém fazer? É uma das improvisações mais comuns que existe, e é uma das que mais mata.",
+    "caso": "Deixa eu explicar por que isso é tão perigoso, porque parece controlado quando a gente vê. Um funcionário precisava alcançar um material no alto de uma estante. A escada certa tava longe, e a empilhadeira tava ali do lado com o colega operando. Combinaram rápido: sobe no pallet que eu levanto. Ele subiu, o operador levantou, e no começo tava tudo tranquilo. O problema é que o garfo não foi feito pra isso, e três coisas conspiram contra. Primeiro: o pallet não é preso ao garfo de jeito nenhum, ele só está apoiado, então qualquer movimento, qualquer inclinação da torre, qualquer piso irregular faz ele deslizar. Segundo: a pessoa lá em cima não tem guarda-corpo, não tem cinto, não tem nada, é um homem em pé numa plataforma solta a metros do chão. Terceiro: a empilhadeira não é feita pra ficar estável com peso em cima e alto, ela é feita pra carga presa e baixa. Naquele caso, o operador fez um movimento pequeno pra ajustar a posição, o pallet deslizou, e o funcionário caiu. Queda de altura em piso de concreto, e ele não tinha nada segurando ele.",
+    "regra": "A regra é: garfo de empilhadeira levanta carga, não levanta pessoa, nunca, em nenhuma hipótese, nem por um minuto, nem com o operador experiente, nem com o pallet 'bem posicionado'. Se precisa alcançar altura, existe escada adequada, plataforma, andaime ou plataforma elevatória. Existem gaiolas específicas, projetadas e certificadas pra elevação de pessoas em empilhadeira, com guarda-corpo e fixação ao garfo, mas isso é um equipamento próprio, com regras de uso, não é um pallet com alguém em cima. E além disso: ninguém circula nem trabalha embaixo do garfo elevado, e ninguém pega carona na empilhadeira, em pé ao lado do operador ou sentado em qualquer parte dela.",
+    "discussao": [
+      "Isso já aconteceu aqui? Sem apontar dedo, quero saber se a prática existe.",
+      "Quando a gente precisa alcançar altura no armazém, qual é o equipamento certo e ele tá disponível?",
+      "Tem alguém pegando carona em empilhadeira aqui? Isso também acaba hoje."
+    ],
+    "frase": "O pallet não está preso no garfo. Ele só está apoiado, e você está em cima dele.",
+    "fechamento": "Combinado de hoje, e esse é dos que não têm exceção: ninguém sobe em garfo, em pallet levantado, nem pega carona em empilhadeira. Precisou de altura, usa escada ou plataforma, e se não tiver disponível, me chama que eu resolvo. Bom trabalho, pessoal."
+  },
+  {
+    "id": 77,
+    "titulo": "Quem se machuca é quem recolhe",
+    "setores": ["geral", "industria", "logistica"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje o DDS é sobre uma pessoa que quase nunca aparece nas nossas conversas de segurança, mas que se machuca com o que a gente joga fora: quem recolhe o lixo daqui. Pergunta: quando você descarta uma lâmina de estilete velha, um caco de vidro, um arame, uma agulha, você joga direto no saco de lixo comum?",
+    "caso": "Deixa eu contar. Alguém trocou a lâmina do estilete, daquelas que ficam cegas rápido, e jogou a lâmina velha no lixo comum do setor. Coisa de um segundo, sem pensar duas vezes. Horas depois, a pessoa responsável pela limpeza foi recolher aquele saco. E o jeito que a gente recolhe saco de lixo é sempre o mesmo: você agarra, aperta pra fechar, e encosta no corpo ou apoia na perna pra carregar. A lâmina atravessou o plástico e cortou a mão dela. Corte fundo, com uma lâmina suja, que já tinha cortado sabe-se lá o quê. Além do ferimento, teve todo o risco de infecção e a preocupação com contaminação, que é uma angústia real pra quem sofre esse tipo de acidente. E a parte que dói é que a pessoa que se feriu não teve absolutamente nada a ver com a tarefa que gerou aquela lâmina. Ela nem sabia que estava carregando um objeto cortante. Quem decidiu o risco foi uma pessoa, e quem pagou foi outra.",
+    "regra": "A regra é: material perfurocortante nunca vai pro saco de lixo comum. Isso inclui lâmina de estilete, caco de vidro, arame, prego, rebarba de metal, seringa e agulha, e qualquer coisa que possa furar ou cortar através do plástico. Esse material vai pra recipiente rígido, identificado e fechado, próprio pra descarte cortante. Se não tem esse recipiente no seu setor, você me avisa hoje que eu providencio, e enquanto isso você não improvisa jogando no lixo comum. E vale a mesma lógica pra tudo que a gente descarta: se aquilo pode machucar alguém que não sabe o que tem ali dentro, você precisa avisar ou embalar de outro jeito.",
+    "discussao": [
+      "A gente tem recipiente rígido pra descarte de cortante nos setores? Onde ele fica?",
+      "Você já se cortou recolhendo ou movendo lixo aqui?",
+      "Que outros materiais nossos podem machucar quem recolhe sem saber o que tem dentro?"
+    ],
+    "frase": "Quem decide o descarte é uma pessoa. Quem se corta é outra.",
+    "fechamento": "Combinado de hoje: nada de cortante no saco de lixo comum, vai pra recipiente rígido e identificado. Se não tem no seu setor, me fala hoje que eu providencio. A gente cuida de quem cuida do nosso ambiente. Bom trabalho, pessoal."
+  },
+  {
+    "id": 78,
+    "titulo": "De costas pro trânsito",
+    "setores": ["construcao", "frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é trabalhar na beira da pista, na rua, no acostamento, em qualquer lugar onde passa veículo em velocidade. Pergunta pra começar: quando você tá trabalhando na via, você fica de frente ou de costas pro trânsito? A maioria nem pensa nisso, fica do jeito que a tarefa pede. E é aí que mora o risco.",
+    "caso": "Deixa eu contar. Uma equipe fazia um serviço na beira de uma via movimentada. Colocaram alguns cones bem em volta de onde estavam trabalhando, o suficiente pra marcar o lugar. Um trabalhador ficou de costas pro sentido do trânsito, porque era assim que dava pra fazer o serviço. Um motorista distraído, mexendo no celular, não percebeu os cones a tempo. Quando percebeu, já estava em cima. O trabalhador não teve nem a chance de perceber que algo estava vindo, porque estava de costas. E quando investigaram, apareceram dois erros que se repetem em quase todo caso desse tipo. O primeiro: os cones estavam só ao redor do serviço, sem o afunilamento, aquela fila de cones que começa bem antes e vai puxando o trânsito pro lado aos poucos. Sem esse afunilamento, o motorista só descobre o obstáculo quando já está perto demais pra reagir na velocidade da via. O segundo: ninguém estava de olho no trânsito. Todo mundo estava olhando pro serviço.",
+    "regra": "Então as regras: sinalização começa muito antes do serviço, com afunilamento gradual, e quanto maior a velocidade da via, mais longe ela tem que começar. Colete refletivo sempre, e refletivo de verdade, não colete velho e desbotado que não reflete mais nada. Trabalhar de frente pro trânsito sempre que a tarefa permitir, pra você ver o que vem. Quando não permitir, tem que ter alguém de olho no trânsito, com a função de avisar, e essa pessoa não faz outra coisa ao mesmo tempo. Veículo posicionado como barreira entre o trânsito e a equipe quando der. À noite e com chuva, tudo isso vale em dobro, porque a visibilidade cai muito e o motorista te enxerga bem mais tarde do que você imagina.",
+    "discussao": [
+      "Quando a gente trabalha na via, a sinalização começa com antecedência ou só em volta do serviço?",
+      "Nossos coletes refletem bem ainda, ou já estão desbotados de tanto uso e lavagem?",
+      "A gente designa alguém só pra olhar o trânsito, ou todo mundo fica olhando pro serviço?"
+    ],
+    "frase": "De costas pro trânsito, você não tem nem a chance de desviar.",
+    "fechamento": "Combinado de hoje: sinalização com afunilamento começando bem antes, colete refletivo em bom estado, e trabalhar de frente pro trânsito. Quando não der, alguém fica só olhando a via, sem outra função. Bom trabalho, pessoal, e muito cuidado na pista hoje."
+  },
+  {
+    "id": 79,
+    "titulo": "Quando o colega começa a passar mal",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto não é acidente, é uma coisa que pode acontecer com qualquer um de nós aqui, a qualquer momento, inclusive comigo: infarto e AVC. E o motivo de isso ser DDS é simples. Nos dois casos, cada minuto perdido é dano permanente, e o que mais atrasa o socorro não é a ambulância, é a gente achando que vai passar.",
+    "caso": "Deixa eu passar os sinais, porque reconhecer é a parte que salva. No infarto, o mais conhecido é a dor no peito, aquela sensação de aperto ou peso, que pode se espalhar pro braço, principalmente o esquerdo, pro pescoço, pra mandíbula ou pras costas. Junto costuma vir suor frio, falta de ar, enjoo e uma sensação forte de mal-estar. E aqui tem um alerta importante: em mulheres, em idosos e em diabéticos, o infarto muitas vezes não vem com a dor clássica, vem com cansaço extremo, falta de ar, enjoo ou dor no estômago, e por isso é confundido com má digestão. No AVC, os sinais principais são três e são fáceis de lembrar. Um lado do rosto caído, que dá pra ver pedindo pra pessoa sorrir. Fraqueza ou dormência em um lado do corpo, que dá pra ver pedindo pra levantar os dois braços e vendo se um cai. E fala enrolada ou confusa, que dá pra ver pedindo pra pessoa repetir uma frase simples. Aparecendo qualquer um desses três, mesmo que passe em seguida, é emergência. E o que mais mata nos dois casos é a demora: a pessoa sente, acha que é gastura, cansaço ou coisa passageira, senta pra melhorar, e perde exatamente as horas em que o tratamento funciona melhor.",
+    "regra": "Então o combinado é: sinal desses, você liga pra emergência imediatamente, o SAMU é o 192, e não espera pra ver se passa. Enquanto o socorro não chega: deixa a pessoa em repouso, sentada ou deitada com conforto, afrouxa roupa apertada, mantém o ambiente arejado e conversa com ela pra acompanhar o estado. Não dá água, não dá comida e não dá remédio nenhum por conta própria. Anota a hora em que os sinais começaram, porque essa informação muda o tratamento no hospital, principalmente em AVC. E não deixa a pessoa sozinha nem manda ela ir pra casa descansar, que é o erro mais comum de todos.",
+    "discussao": [
+      "Você saberia reconhecer esses sinais num colega agora? Vamos repetir os três do AVC juntos.",
+      "Quem aqui tem pressão alta, diabetes ou já teve alerta médico? Não precisa responder alto, mas eu quero saber.",
+      "Você sabe onde fica o telefone de emergência daqui e por onde a ambulância entra?"
+    ],
+    "frase": "O que mais atrasa o socorro não é a ambulância. É a gente achando que vai passar.",
+    "fechamento": "Combinado de hoje: sinal de infarto ou AVC, liga 192 na hora, sem esperar passar. Anota o horário do início, mantém a pessoa em repouso, sem água, sem comida, sem remédio, e nunca sozinha. Guardem os três sinais do AVC: rosto, braço, fala. Bom trabalho, pessoal, e cuidem uns dos outros."
+  },
+  {
+    "id": 80,
+    "titulo": "Água e ferramenta elétrica",
+    "setores": ["geral", "construcao", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Pergunta pra começar: quem aqui já usou furadeira, lixadeira ou qualquer ferramenta elétrica com o chão molhado, com a mão suada, ou debaixo de garoa, sem pensar duas vezes? A gente respeita muito o painel elétrico e respeita pouco a ferramenta de mão. Hoje eu quero mostrar por que a ferramenta de mão é onde mais gente leva choque grave.",
+    "caso": "Deixa eu explicar por que a água muda tudo. A pele seca oferece uma resistência razoável à passagem de corrente elétrica. Quando a pele tá molhada de água ou de suor, essa resistência despenca, e a mesma tensão que daria um susto passa a mandar uma corrente muito maior pelo corpo. Não é preciso alta tensão: a tensão da tomada comum mata, e mata bastante gente todo ano. Um trabalhador usava uma furadeira num ambiente úmido, com o cabo já com um trecho remendado com fita, daqueles remendos que ficam ali há meses e ninguém troca. A umidade encontrou o ponto do remendo, a carcaça ficou energizada, e ele estava com a mão molhada, apoiado numa estrutura metálica aterrada. Ou seja, o corpo dele virou o caminho perfeito da corrente: entrou pela mão que segurava e saiu pelo corpo em contato com o metal. Choque com esse trajeto passa perto do coração, e é o que causa parada cardíaca. Ele sobreviveu, mas por muito pouco.",
+    "regra": "As regras: cabo e plugue íntegros, sem remendo de fita, sem fio exposto, sem emenda. Ferramenta com aterramento adequado ou com dupla isolação, que é aquele símbolo de dois quadrados na carcaça. E o item mais importante e o mais ausente das obras e oficinas: dispositivo diferencial residual, o DR, que é o disjuntor que corta a energia em uma fração de segundo quando percebe que a corrente está fugindo pelo corpo de alguém. Ele é o que transforma um choque fatal em um susto. Além disso: não usar ferramenta elétrica com o corpo, a mão ou o piso molhado, não deixar cabo passando por poça, não puxar a ferramenta pelo cabo, e desligar da tomada antes de trocar broca, disco ou qualquer acessório.",
+    "discussao": [
+      "Nossos cabos e plugues estão íntegros ou tem remendo de fita rodando por aí?",
+      "A gente tem DR nos quadros e nas extensões que usamos com ferramenta elétrica?",
+      "Onde a gente usa ferramenta elétrica em área úmida ou com risco de molhar?"
+    ],
+    "frase": "Com a pele molhada, a tomada comum deixa de ser susto e vira risco de morte.",
+    "fechamento": "Combinado de hoje: cabo íntegro sem remendo, ferramenta aterrada ou com dupla isolação, e DR no circuito. Nada de ferramenta elétrica com mão ou piso molhado, e desliga da tomada antes de trocar acessório. Me tragam hoje toda ferramenta com cabo remendado. Bom trabalho, pessoal."
   }
 ]
