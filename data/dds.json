@@ -1868,5 +1868,165 @@
     ],
     "frase": "A razão não amortece a batida. Estar certo não é estar seguro.",
     "fechamento": "Combinado de hoje: estar certo é bom, mas não protege. Antecipa o erro do outro, deixa margem, deixa saída, confere mesmo tendo a preferencial. A pergunta certa não é de quem é a culpa, é o que eu faço pra não dar errado mesmo que o outro erre. Bom trabalho, pessoal, e voltem bem."
+  },
+  {
+    "id": 121,
+    "titulo": "O grão que engole como areia movediça",
+    "setores": ["industria", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é silo e depósito de material a granel: grão, ração, areia, cimento, serragem, qualquer material solto e fino guardado em quantidade. Pergunta pra começar: você entraria em cima de uma pilha de grãos dentro de um silo pra desentupir ou soltar o material? Muita gente entra achando que é chão firme. É armadilha, e funciona igual areia movediça.",
+    "caso": "Deixa eu explicar por que material a granel engole uma pessoa. Quando o grão está escoando por baixo, sendo retirado, ou quando ele forma uma crosta por cima com vazio embaixo, a superfície parece firme mas não é. A pessoa pisa, e o material começa a ceder e a puxar pra baixo, como areia movediça. E aqui está o número que assusta: uma pessoa afundando em grão fica presa até a altura da cintura em poucos segundos, e nesse ponto já é praticamente impossível puxar ela pra fora, porque o grão em volta a aperta com uma força enorme. Afundou até o peito, ela não consegue mais respirar, porque o material comprime o tórax e ainda pode soterrar por cima. Um trabalhador entrou num silo pra soltar material que tinha empedrado, ficou em cima da pilha, e o material cedeu. Afundou em segundos. E de novo, como em espaço confinado, veio a segunda tragédia: um colega entrou pra tentar puxar e também começou a afundar. Silo é um dos lugares que mais mata em atividade rural e industrial, e quase sempre com mais de uma vítima.",
+    "regra": "As regras são as do espaço confinado, porque silo é espaço confinado, mais as específicas do granel. Ninguém entra em silo com material sem permissão de entrada, sem a retirada de material interrompida e bloqueada, sem vigia do lado de fora, e sem cinto ligado a um sistema que permita puxar a pessoa por cima. Nunca se entra e se caminha sobre a superfície do material achando que é chão. Desentupimento e quebra de crosta são feitos de fora, com ferramenta, sem entrar, sempre que possível. Além do afogamento no grão, silo tem os outros riscos: falta de oxigênio, gases da fermentação do material, e poeira que pode explodir. E a regra que salva o socorrista: se alguém afundar, não entra atrás no impulso, aciona o resgate, porque quem entra pra salvar vira a próxima vítima em segundos.",
+    "discussao": [
+      "A gente tem silo ou depósito de material a granel onde alguém precisa entrar?",
+      "Vocês sabiam que grão engole uma pessoa em segundos, igual areia movediça?",
+      "Quando precisa desentupir, a gente faz de fora ou alguém entra em cima do material?"
+    ],
+    "frase": "O grão parece chão firme. Ele engole até a cintura em segundos, e daí não sai mais.",
+    "fechamento": "Combinado de hoje: silo é espaço confinado, ninguém entra sem permissão, retirada bloqueada, vigia e cinto com resgate. Ninguém caminha sobre o material. E se alguém afundar, não entra atrás, aciona o resgate. Bom trabalho, pessoal."
+  },
+  {
+    "id": 122,
+    "titulo": "Nem toda luva serve pra tudo",
+    "setores": ["geral", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. A gente fala muito em usar luva. Hoje eu quero falar de uma coisa mais fina: usar a luva certa. Pergunta pra vocês: existe uma luva que protege de tudo? A resposta é não, e usar a luva errada pra um risco não é meia proteção, às vezes é pior do que não usar luva nenhuma. Hoje eu vou explicar por quê.",
+    "caso": "Deixa eu dar os casos, porque vocês vão reconhecer. Luva de raspa, aquela de couro grosso, é ótima pra pegar coisa áspera, quente e cortante. Mas se você mexe com produto químico usando luva de raspa, o couro absorve o produto e segura ele encostado na sua pele por horas, piorando o contato. A luva certa pra químico é a de borracha específica pro produto. Luva de pano ou de malha é boa pra trabalho leve, mas é péssima e perigosa perto de máquina rotativa, porque ela enrola no eixo e puxa a mão, e nesse caso a luva certa é nenhuma. Luva de procedimento, aquela fininha descartável, protege de contato biológico leve mas não protege de corte nenhum. E tem a questão do corte: existe luva com resistência a corte, com níveis, e pra manusear coisa cortante de verdade tem que ser a do nível certo, não uma luva comum. Um trabalhador usou luva de raspa achando que estava protegido pra manusear um solvente, porque luva é luva. O solvente encharcou o couro e ficou contra a pele dele. Ele teve lesão química justamente por causa da luva, que virou uma esponja segurando o produto na mão.",
+    "regra": "A regra é: cada risco tem a sua luva, e o risco da tarefa é que define qual luva usar, não o que está mais à mão. Risco químico pede luva de borracha compatível com aquele produto específico, informação que está na ficha de segurança. Risco de corte pede luva anticorte do nível adequado. Risco térmico pede luva térmica. Trabalho áspero e pesado pede raspa. Contato biológico pede luva de procedimento ou nitrílica. E máquina rotativa pede mão sem luva, porque ali luva é risco. Além do tipo, importa o estado: luva furada, rasgada, ressecada ou vencida não protege, principalmente contra químico, onde um furinho já deixa passar. E o tamanho: luva folgada demais engancha e atrapalha, luva apertada cansa e rasga. Na dúvida sobre qual luva usar pra uma tarefa, me pergunta, porque a errada dá falsa segurança.",
+    "discussao": [
+      "Vocês sabem qual é a luva certa pra cada tarefa que fazem?",
+      "A gente usa a mesma luva pra tudo, ou tem a luva certa pra cada risco disponível?",
+      "Alguém já usou luva de raspa ou de pano pra mexer com produto químico?"
+    ],
+    "frase": "A luva errada não é meia proteção. Às vezes ela segura o perigo encostado na sua pele.",
+    "fechamento": "Combinado de hoje: cada risco tem a sua luva. Químico pede borracha compatível, corte pede anticorte, máquina rotativa pede mão sem luva. Na dúvida de qual usar, me pergunta. Luva errada engana. Bom trabalho, pessoal."
+  },
+  {
+    "id": 123,
+    "titulo": "O degrau que se move",
+    "setores": ["geral", "logistica"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje o DDS é sobre escada rolante e esteira de passageiro, comum em quem trabalha em shopping, aeroporto, estação, grande varejo. Pergunta pra começar: quando você sobe ou desce numa escada rolante carregando mercadoria ou empurrando algo, como você faz? Porque escada rolante parece a coisa mais segura do mundo, e ela tem uns perigos específicos que pegam quem trabalha perto dela todo dia.",
+    "caso": "Deixa eu contar os riscos, porque são diferentes do que a gente imagina. O primeiro é a distração pelo hábito: quem passa por ela cem vezes por dia para de prestar atenção, sobe olhando pro celular, pra mercadoria, pra qualquer lugar menos pros pés, e é aí que tropeça na entrada ou na saída, onde os degraus se formam e se desfazem. O segundo é carregar coisa: subir escada rolante com carga na mão tira o equilíbrio e ocupa a mão que deveria segurar o corrimão, e uma queda na escada rolante é pior que numa escada normal, porque os degraus continuam se movendo e a pessoa rola por eles. O terceiro é o aprisionamento nas bordas e na saída: cadarço solto, barra de saia comprida, ponta de sacola, dedo de criança, tudo isso pode ser puxado pra dentro da fresta onde o degrau some, e já causou amputação. Um funcionário desceu uma escada rolante empurrando um carrinho de mercadoria, coisa que ele não devia fazer, o carrinho desequilibrou, e ele caiu junto com a carga rolando pelos degraus.",
+    "regra": "As regras: não se transporta carrinho, carga volumosa nem material pesado por escada rolante; pra isso existe elevador ou monta-carga. Segura o corrimão, olha os degraus na entrada e na saída, que é onde se tropeça. Nada solto que possa ser puxado pra fresta: cadarço amarrado, pontas de roupa e de sacola longe das bordas e da saída. Não sobe degraus da escada rolante correndo. Fica atento a criança e idoso perto, que são os que mais se machucam. E o mais importante pra quem trabalha ali: todo mundo precisa saber onde fica o botão de parada de emergência da escada rolante, que fica nas pontas, embaixo, e serve pra parar na hora se alguém for puxado ou cair. Saber onde ele está e apertar rápido já evitou amputação.",
+    "discussao": [
+      "Sem olhar: você sabe onde fica o botão de parada de emergência da escada rolante daqui?",
+      "A gente transporta carga ou carrinho por escada rolante quando devia usar o elevador?",
+      "Você sobe olhando os pés ou olhando o celular e a mercadoria?"
+    ],
+    "frase": "Os degraus continuam andando enquanto você cai. Por isso a queda nela é pior.",
+    "fechamento": "Combinado de hoje: nada de carga e carrinho na escada rolante, segura o corrimão, olho nos pés na entrada e na saída, e nada solto perto das bordas. E todo mundo vai localizar o botão de parada de emergência. Bom trabalho, pessoal."
+  },
+  {
+    "id": 124,
+    "titulo": "O que ferve dentro pode escapar",
+    "setores": ["industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é vapor, água quente sob pressão e equipamento que trabalha aquecido: caldeira, autoclave, linha de vapor, tubulação quente. Pergunta pra quem trabalha perto: você sabe que a água dentro de uma linha de vapor pode estar bem acima de cem graus e mesmo assim líquida, por causa da pressão? E que quando ela escapa, ela vira uma coisa muito mais perigosa do que água fervendo?",
+    "caso": "Deixa eu explicar, porque isso engana a intuição. A gente aprende que água ferve a cem graus. Mas isso é ao ar livre. Sob pressão, dentro de uma caldeira ou de uma linha, a água pode passar bem dos cem graus continuando líquida, porque a pressão impede ela de virar vapor. Aí, quando essa água super aquecida escapa de repente por uma falha, por uma válvula aberta na hora errada, por uma junta que cede, ela despressuriza instantaneamente e vira uma explosão de vapor, com uma quantidade enorme de vapor se formando de uma vez e com gotículas de água fervente sendo lançadas com força. Queimadura por vapor é das piores que existe, porque o vapor carrega muito mais calor que a água quente e penetra em tudo. Um trabalhador foi abrir uma linha achando que estava fria ou despressurizada, sem confirmar. Tinha água quente sob pressão ali dentro. Ao abrir, o jato de vapor e água fervente escapou contra ele. Além disso, existe o risco maior, que é a explosão de caldeira: uma caldeira mal operada ou mal mantida pode explodir com uma violência que destrói o prédio, e por isso caldeira é operada só por pessoa certificada.",
+    "regra": "As regras: caldeira é operada só por operador certificado, com a inspeção e a manutenção em dia, porque explosão de caldeira é catastrófica. Antes de abrir qualquer linha, válvula ou equipamento que possa ter vapor ou água quente sob pressão, confirma que está despressurizado e resfriado, com o bloqueio da energia e da alimentação feito, e nunca confia no 'acho que está frio'. Abre válvula devagar, ficando de lado, nunca com o corpo e o rosto na frente da saída. EPI para calor onde exigido. Respeita a sinalização de superfície e linha quente. E purga e dreno são feitos com o procedimento correto, direcionando pra longe de pessoas. A regra que resume: linha e equipamento de vapor você trata como carregados e quentes até provar, com procedimento, que não estão.",
+    "discussao": [
+      "A gente tem caldeira, autoclave ou linha de vapor aqui? Quem opera é certificado?",
+      "Vocês sabiam que a água sob pressão passa dos cem graus continuando líquida?",
+      "Antes de abrir uma linha, a gente confirma que está despressurizada e fria, ou confia no 'acho que está'?"
+    ],
+    "frase": "A água sob pressão escapa fervendo e virando vapor de uma vez. Ela não avisa que estava quente.",
+    "fechamento": "Combinado de hoje: caldeira só com operador certificado, e antes de abrir linha de vapor, confirma despressurização e resfriamento, sem 'acho que está frio'. Abre devagar e de lado. Trata como quente e carregado até provar o contrário. Bom trabalho, pessoal."
+  },
+  {
+    "id": 125,
+    "titulo": "A última hora do expediente",
+    "setores": ["geral", "frota", "industria"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje o DDS é sobre um horário específico do dia que concentra acidente: a última hora antes de ir embora. Pergunta honesta: na última hora do turno, você trabalha do mesmo jeito que na primeira, ou você já está mais acelerado, com a cabeça no caminho de casa, querendo terminar logo? Esse 'querer terminar logo' é o assunto de hoje.",
+    "caso": "Deixa eu explicar por que a última hora é perigosa, porque tem vários fatores juntos. Primeiro, o cansaço acumulado do dia: o corpo está mais lento e o reflexo pior do que estava de manhã, mesmo que você não sinta. Segundo, a pressa de terminar: aquela vontade de fechar o serviço, guardar tudo e bater o ponto faz a gente pular etapa, correr, pegar atalho, exatamente as coisas que a gente evita quando está com calma. Terceiro, a cabeça já foi embora: a pessoa está pensando no ônibus, no filho, no jantar, no compromisso da noite, e a atenção que devia estar no serviço está no caminho de casa. Junta cansaço, pressa e distração, e você tem o coquetel perfeito pra acidente, tudo na última hora. Um trabalhador se machucou faltando pouco pro fim do turno, fazendo uma tarefa que ele fez sem problema o dia inteiro. Na última vez, com pressa de guardar e ir embora, ele pulou a etapa de segurança que tinha feito nas anteriores. A tarefa era a mesma. O que mudou foi a cabeça dele, que já estava no portão.",
+    "regra": "As regras pra última hora: reconhece que ela é mais perigosa e redobra a atenção justamente quando a vontade é relaxar. Não acelera pra terminar; se o serviço não deu pra acabar com segurança, ele fica pra amanhã, porque nenhuma tarefa vale se acidentar na porta de saída. A hora de guardar ferramenta, limpar e organizar também é hora de acidente, então faz com o mesmo cuidado. Não emenda tarefa de risco em cima do fim do turno com pressa; se precisa começar algo que exige atenção total, avalia se dá tempo de fazer com calma ou se é melhor deixar. E cuidado com o trajeto de volta, que a gente já falou: exausto e distraído, o caminho de casa é o momento de mais risco do dia. A regra que resume: o serviço só termina quando você chega em casa inteiro, não quando o ponteiro bate a hora.",
+    "discussao": [
+      "Você sente que trabalha diferente na última hora, mais acelerado e com a cabeça no caminho de casa?",
+      "A gente tem o hábito de correr pra terminar tudo antes de bater o ponto?",
+      "Já teve acidente ou quase aqui perto do fim do expediente?"
+    ],
+    "frase": "Na última hora, o corpo está cansado, a cabeça já foi embora, e a pressa faz o resto.",
+    "fechamento": "Combinado de hoje: última hora é hora de redobrar atenção, não de relaxar. Não acelera pra terminar, o que não deu com segurança fica pra amanhã. E guardar e limpar também tem risco. O serviço só acaba quando você chega em casa inteiro. Bom trabalho, pessoal."
+  },
+  {
+    "id": 126,
+    "titulo": "A árvore não cai pra onde você pensa",
+    "setores": ["construcao", "geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é corte e poda de árvore, serviço comum em manutenção, em roçado, em limpeza de terreno, e que parece simples mas tem muito acidente grave. Pergunta pra quem já derrubou árvore ou galho: dá pra ter certeza da direção que a árvore vai cair? A resposta honesta é não, e é justamente essa falsa certeza que machuca.",
+    "caso": "Deixa eu contar os perigos, porque são vários e todos subestimados. O primeiro é a direção da queda: a gente calcula pra onde a árvore vai cair pela inclinação e pelo corte, mas o peso dos galhos, o vento, um apodrecimento interno que ninguém vê, tudo isso pode fazer a árvore cair pra um lado diferente do previsto, inclusive pra trás, em cima de quem está cortando. O segundo é o galho que fica preso e cai depois: durante a poda, um galho cortado pode não cair na hora, ficar enganchado lá em cima, e despencar minutos depois na cabeça de quem passa, e por isso ele tem o apelido de galho viúvo. O terceiro é a rede elétrica: muita árvore está perto de fiação, e o galho ou a árvore caindo na rede energizada, ou o próprio podador tocando na rede, causa choque, como a gente já falou. Um trabalhador cortou uma árvore calculando a queda pra um lado, ficou naquele que julgava seguro, e a árvore, por causa do peso mal distribuído dos galhos, girou e caiu pra outra direção, na direção dele.",
+    "regra": "As regras: avalia a árvore antes, a inclinação, o peso dos galhos, sinais de apodrecimento, e o que tem em volta, principalmente rede elétrica e construção. Planeja a direção de queda e, mais importante, planeja a sua rota de fuga, o caminho por onde você se afasta rápido no momento da queda, sempre pra trás e pra o lado, nunca pra onde a árvore vai. Isola a área embaixo e ao redor, considerando que a árvore pode cair mais longe ou em direção diferente do previsto. Ninguém fica na zona de queda. Motosserra com todas as regras que já vimos, EPI anticorte, e nunca cortando acima do ombro nem em cima de escada. Atenção ao galho preso, que pode cair depois. Árvore grande, perto de rede ou de construção, é serviço de equipe especializada, não é pra improvisar. E se tem rede elétrica envolvida, aciona a concessionária.",
+    "discussao": [
+      "A gente faz corte e poda aqui? Quem faz é treinado e tem EPI anticorte?",
+      "Vocês planejam a rota de fuga antes de derrubar, ou focam só na direção de queda?",
+      "Tem árvore perto de rede elétrica na nossa área?"
+    ],
+    "frase": "Você calcula pra onde a árvore cai. Ela é que decide, com o vento e o peso que você não vê.",
+    "fechamento": "Combinado de hoje: antes de cortar, avalia a árvore e o entorno, planeja a queda e a sua rota de fuga, e isola a área. Atenção ao galho preso e à rede elétrica. Árvore grande ou perto de rede é serviço especializado. Bom trabalho, pessoal."
+  },
+  {
+    "id": 127,
+    "titulo": "Sangue e o que não se vê nele",
+    "setores": ["geral", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto vale pra todo mundo, porque qualquer um pode socorrer um colega ferido: o contato com sangue e material biológico. Pergunta: se um colega se cortar e sangrar agora, e você for ajudar, você usaria luva, ou colocaria a mão direto? A maioria coloca a mão direto no impulso de ajudar, e hoje eu quero falar por que isso merece cuidado.",
+    "caso": "Deixa eu explicar sem alarmar, mas com seriedade. O sangue e outros materiais do corpo podem transmitir doenças que a gente não vê e a pessoa muitas vezes nem sabe que tem, como algumas hepatites e outras infecções que passam pelo contato com o sangue quando você tem qualquer ferimento, corte ou pele machucada nas mãos, ou se o sangue respinga no olho ou na boca. Não é pra ter medo de socorrer, de jeito nenhum, socorrer é importante e a chance de transmissão num socorro rápido é baixa. É pra socorrer com o cuidado certo. Um trabalhador socorreu um colega que tinha se cortado feio, segurou o ferimento com a mão nua por um tempo pra estancar, e ele mesmo tinha uma pequena ferida na própria mão. Deu tudo certo, mas gerou uma preocupação e um acompanhamento que teriam sido evitados com uma luva. E vale também pra quem lida com material biológico na função, como limpeza, coleta de lixo de saúde, e para quem se fere com objeto que pode estar contaminado, aquela lâmina no lixo que a gente já falou.",
+    "regra": "As regras: sempre que possível, usa luva pra socorrer alguém que está sangrando, e por isso o kit de primeiros socorros tem que ter luva de procedimento, e todo mundo tem que saber onde ele fica. Se não tem luva na hora e o socorro é urgente, você pode usar um plástico, um pano grosso, qualquer barreira entre a sua mão e o sangue, e a própria pessoa ferida pode fazer pressão no próprio ferimento enquanto você organiza. Evita contato do sangue com o seu olho, boca e feridas. Depois do contato, lava bem a área com água e sabão. Se houve contato de sangue com o seu olho, boca, ou com uma ferida sua, isso merece avaliação médica, porque existe conduta preventiva que funciona melhor quando feita cedo. E descarte de material com sangue e de perfurocortante é feito do jeito certo, em recipiente próprio, pra proteger quem recolhe. Nada disso é pra você deixar de socorrer, é pra socorrer protegido.",
+    "discussao": [
+      "Nosso kit de primeiros socorros tem luva? Onde ele fica?",
+      "Você já socorreu alguém sangrando com a mão nua? Tinha alguma ferida na mão na hora?",
+      "A gente descarta material com sangue e perfurocortante do jeito certo?"
+    ],
+    "frase": "Socorrer é certo e importante. Só que com uma barreira entre a sua mão e o sangue.",
+    "fechamento": "Combinado de hoje: socorrer sempre, mas com luva quando der, ou com qualquer barreira se não tiver. Evita contato com olho, boca e ferida sua. Contato de risco, avaliação médica. E o kit tem que ter luva. Bom trabalho, pessoal."
+  },
+  {
+    "id": 128,
+    "titulo": "O barulho que vem de repente",
+    "setores": ["industria", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. A gente já falou do barulho contínuo que vai tirando a audição devagar. Hoje é sobre outro tipo, que muita gente não sabe que é perigoso: o barulho de impacto, o estouro súbito. Batida de martelo em metal, tiro de finca-pino, estouro, prensa, queda de material pesado. Pergunta: você usa protetor pra esse tipo de barulho, ou só pro barulho contínuo da máquina?",
+    "caso": "Deixa eu explicar a diferença, porque é importante. O barulho contínuo, o da máquina zumbindo o dia todo, danifica a audição pela soma da exposição. Já o barulho de impacto, o estouro súbito e muito forte, pode danificar a audição de uma vez só, num único evento, se for intenso o bastante. É como a diferença entre o sol que queima devagar e uma explosão de luz. Um estouro muito forte pertinho do ouvido pode causar uma perda auditiva imediata, ou aquele zumbido que fica no ouvido depois, chamado tinnitus, que às vezes não vai embora nunca mais. E tem um agravante do barulho de impacto: como ele é súbito, a pessoa não tem tempo de se preparar nem de proteger o ouvido, ele já aconteceu quando ela percebeu. Um trabalhador estava perto de uma operação que gerava impactos fortes, sem protetor, porque achava que protetor era só pra máquina barulhenta contínua, e aquilo ali era só umas batidas. Depois de um estouro mais forte, ficou com zumbido no ouvido que persistiu.",
+    "regra": "As regras: protetor auricular também é pra barulho de impacto, não só pro contínuo, e em área onde tem estouro, batida forte de metal, prensa, finca-pino, o protetor fica o tempo todo, porque você não sabe a hora que vem o impacto mais forte. Quem trabalha com o que gera o impacto e quem está perto, os dois se protegem. Onde dá, reduz o barulho na fonte, com material que amortece, com manutenção que diminui a batida, com barreira. E o sinal de alerta pra levar a sério: se depois de um barulho forte você ficar com o ouvido zumbindo, abafado, ou com a audição estranha, mesmo que melhore depois, isso foi um aviso de que aquele barulho passou do limite, e você me conta, porque é sinal de que a proteção precisa melhorar ali.",
+    "discussao": [
+      "A gente tem operação com barulho de impacto, estouro ou batida forte de metal aqui?",
+      "Vocês usam protetor nessas operações, ou só na máquina de barulho contínuo?",
+      "Alguém já ficou com zumbido no ouvido depois de um barulho forte no serviço?"
+    ],
+    "frase": "O barulho contínuo tira a audição devagar. O estouro pode tirar de uma vez só.",
+    "fechamento": "Combinado de hoje: protetor também pra barulho de impacto, e em área de estouro e batida forte, protetor o tempo todo. Zumbido ou ouvido abafado depois de barulho forte é aviso, e eu quero saber. Bom trabalho, pessoal."
+  },
+  {
+    "id": 129,
+    "titulo": "Carregar em dupla exige combinar",
+    "setores": ["logistica", "construcao", "geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje o DDS é sobre uma coisa que parece a mais simples do mundo e machuca bastante: carregar peso em dupla ou em grupo. Aquele volume pesado que duas pessoas pegam juntas. Pergunta: quando vocês pegam algo pesado em dupla, vocês combinam o movimento antes, ou cada um pega e vai no improviso? Porque a maioria dos acidentes de carga em dupla é falta de combinação.",
+    "caso": "Deixa eu contar. Duas pessoas foram carregar uma peça pesada e comprida juntas. Não combinaram nada, só pegaram e foram, cada um numa ponta. No meio do caminho, um deles precisou desviar de um obstáculo e mudou de direção sem avisar. O outro, que não esperava, foi puxado de repente, torceu a coluna, e a carga desequilibrou e quase caiu no pé dos dois. Noutra situação comum, um dos dois resolveu abaixar a carga e soltou primeiro, sem avisar, e todo o peso caiu de uma vez no outro, que não estava preparado pra segurar sozinho. Carregar em dupla parece que divide o esforço e o risco, e divide, mas só se os dois se moverem como um só. Quando cada um faz o seu movimento na sua hora, a dupla vira mais perigosa que carregar sozinho, porque um pega o outro de surpresa, e o peso que era pra ser dividido cai inteiro em quem não esperava.",
+    "regra": "As regras do transporte em dupla ou em grupo: combina antes quem comanda, e essa pessoa dá a voz pra levantar, andar, virar e abaixar, tudo junto e ao mesmo tempo. Um levanta no três, os dois abaixam no mesmo momento, ninguém solta primeiro sem avisar. As pessoas da dupla devem ter altura e força parecidas quando possível, porque muito diferente faz o peso pender pra um lado. Ninguém muda de direção sem avisar o outro. O caminho é olhado antes, e a pessoa da frente avisa os obstáculos, os degraus, o piso molhado, porque a de trás pode não estar vendo. E se o peso é grande demais pra dupla, chama mais gente ou usa equipamento, sem forçar. A regra que resume: em dupla, o combinado é o que segura a carga tanto quanto a força.",
+    "discussao": [
+      "Quando vocês carregam em dupla, combinam o movimento antes ou vão no improviso?",
+      "Já aconteceu de alguém soltar ou mudar de direção sem avisar e machucar o parceiro?",
+      "Tem carga aqui que a gente insiste em levar em dois quando devia ser em quatro ou com equipamento?"
+    ],
+    "frase": "Em dupla, quem solta ou vira sem avisar entrega o peso inteiro pra quem não esperava.",
+    "fechamento": "Combinado de hoje: carga em dupla se combina antes, um comanda, levanta e abaixa todo mundo junto, e ninguém solta nem vira sem avisar. Peso grande demais, chama mais gente. O combinado segura tanto quanto a força. Bom trabalho, pessoal."
+  },
+  {
+    "id": 130,
+    "titulo": "O EPI que fica no bolso",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje eu quero ter uma conversa honesta sobre uma coisa que todo mundo já fez e ninguém fala: deixar de usar o EPI de propósito, não por esquecimento, mas porque incomoda, atrapalha, ou porque parece exagero pra aquela tarefa. Pergunta sincera, e ninguém vai levar bronca por responder: qual EPI você mais deixa de lado quando acha que ninguém está vendo?",
+    "caso": "Deixa eu falar sem hipocrisia, porque eu sei como é. A gente não deixa de usar o EPI por burrice nem por não saber que é importante. A gente deixa porque o óculos embaça, porque a luva tira o tato, porque o protetor incomoda, porque a máscara abafa, porque pra aquela tarefa rapidinha parece que não precisa. São motivos reais, não são desculpa idiota. O problema é que o acidente não pergunta se o motivo era razoável. Um trabalhador tirou o óculos porque embaçava, num serviço que ele fez mil vezes sem óculos e nunca aconteceu nada. Na milésima primeira, aconteceu. E aqui está o ponto que eu quero deixar claro, e é uma responsabilidade minha também: se o EPI incomoda a ponto de você preferir não usar, isso é um problema pra resolver, não uma falha de caráter sua. Óculos que embaça tem solução, tem antiembaçante, tem modelo melhor, tem ventilação. Protetor que incomoda tem outros modelos e tamanhos. Máscara que abafa demais pode ser a errada pra função. Quando eu só cobro o uso e não resolvo o incômodo, eu estou empurrando você pra escolher entre o desconforto e o risco, e essa escolha nunca deveria existir.",
+    "regra": "Então o combinado de hoje é uma via de mão dupla. Da minha parte: se o EPI incomoda de verdade, me procura, e a gente resolve o incômodo, seja trocando o modelo, o tamanho, seja arrumando um antiembaçante, seja vendo uma alternativa. EPI desconfortável é problema pra resolver, e resolver o desconforto é o que faz o EPI ser usado. Da sua parte: enquanto a gente não resolve, você não abre mão da proteção, porque o acidente não espera a gente achar o modelo perfeito. E principalmente: não deixa de usar o EPI 'porque é rapidinho', porque o acidente cabe inteiro dentro do rapidinho. A gente já viu isso aqui várias vezes: o óculos tirado por dois minutos, o cinto que ficou no armário, a luva que não estava na mão. O combinado é: você usa, e eu resolvo o que faz você não querer usar. Assim a escolha entre desconforto e risco deixa de existir.",
+    "discussao": [
+      "Sendo sincero, qual EPI você mais deixa de lado, e por qual motivo real?",
+      "Tem EPI aqui que incomoda a ponto de fazer o pessoal não querer usar? Quais?",
+      "O que a gente poderia melhorar pra o EPI ser confortável o suficiente pra usar sem pensar?"
+    ],
+    "frase": "Ninguém tira o EPI por burrice. Tira porque incomoda. Então o incômodo é o que a gente resolve.",
+    "fechamento": "Combinado de hoje, via de mão dupla: você não abre mão da proteção, e eu resolvo o que te faz não querer usar. EPI que incomoda me procura, a gente troca o modelo, o tamanho, acha solução. A escolha entre desconforto e risco não deveria existir. Bom trabalho, pessoal."
   }
 ]
