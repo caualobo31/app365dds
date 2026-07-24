@@ -1708,5 +1708,165 @@
     ],
     "frase": "O que adoece a cabeça não deixa marca no corpo, mas afasta igual a uma fratura.",
     "fechamento": "Combinado de hoje: saúde mental é assunto de segurança, assédio não é gestão, e pedir ajuda é força. A gente cuida uns dos outros, repara em quem está diferente. E se a vida pesar demais, procure ajuda, procure alguém, e existe o CVV no 188, de graça e em sigilo. Bom trabalho, pessoal, e se cuidem por dentro também."
+  },
+  {
+    "id": 111,
+    "titulo": "Obra em prédio com gente dentro",
+    "setores": ["construcao", "geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é serviço de reforma e manutenção em lugar que continua funcionando: loja aberta, escritório com gente trabalhando, prédio ocupado, área com público passando. Pergunta pra começar: quando a gente faz um serviço desses, quem é que a gente precisa proteger além da nossa própria equipe? Porque tem muita gente ali que não faz ideia do risco que a gente está gerando.",
+    "caso": "Deixa eu contar. Uma equipe fazia uma reforma num local que continuava aberto e com movimento de pessoas. Eles isolaram a área do serviço com o que tinham à mão, uns cavaletes, e foram tocando. O problema é que as pessoas que circulavam ali não eram trabalhadores treinados, eram pessoas comuns, distraídas, mexendo no celular, empurrando carrinho, com criança pela mão, sem a menor noção de segurança de obra. Uma dessas pessoas contornou o isolamento improvisado, porque pra ela era só um cavalete no caminho, e entrou na zona onde a equipe trabalhava em cima. Quase foi atingida por material. Noutro momento, alguém escorregou num piso que a equipe tinha molhado e não sinalizou de um jeito que um leigo entendesse. E aqui está a diferença que a gente esquece: a nossa equipe conhece os riscos e se protege; a pessoa que passa não conhece nada, não usa EPI, não sabe ler os sinais, e por isso ela precisa de uma proteção muito maior, não menor.",
+    "regra": "As regras pra trabalho em local ocupado: isolamento robusto e claro, que um leigo entenda e que não seja fácil de contornar, com placa em linguagem simples, não só a fita técnica que só a gente entende. Proteção contra queda de material pra quem passa embaixo ou do lado, com tela, tapume, bandeja. Rota alternativa segura e sinalizada pra circulação das pessoas, longe do risco. Piso molhado e obstáculo sinalizados de um jeito bem visível, pensando em quem está distraído e não em quem está atento. Serviço mais perigoso, como o que joga material ou faísca, feito preferencialmente fora do horário de movimento. E alguém da equipe atento ao público, principalmente onde tem criança e idoso, que não percebem o risco e não obedecem sinalização. A regra que resume: quanto menos a pessoa conhece o risco, mais responsabilidade é sua de protegê-la dele.",
+    "discussao": [
+      "A gente faz serviço em local com público ou com gente de outros setores circulando? Onde?",
+      "Nosso isolamento é claro pra um leigo, ou é fácil de contornar sem perceber o risco?",
+      "A gente protege quem passa embaixo e do lado do nosso serviço?"
+    ],
+    "frase": "A sua equipe conhece o risco. Quem passa não conhece nada, e por isso precisa de mais proteção.",
+    "fechamento": "Combinado de hoje: em local ocupado, isolamento robusto e claro, proteção pra quem passa, rota segura sinalizada e serviço perigoso fora do horário de movimento. Quem não conhece o risco é responsabilidade nossa. Bom trabalho, pessoal."
+  },
+  {
+    "id": 112,
+    "titulo": "A serra que pode voltar pra você",
+    "setores": ["construcao", "geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é motosserra e serra de corrente, uma das ferramentas mais perigosas que existe, e que muita gente opera sem treinamento porque 'é só apertar o gatilho e cortar'. Pergunta pra quem já usou: você sabe o que é o rebote da motosserra, aquele movimento em que ela pula pra trás na direção do seu rosto? Se não sabe, é justamente esse movimento que mais fere e mata operador.",
+    "caso": "Deixa eu explicar o rebote, porque é o perigo principal e o mais mal compreendido. A corrente da motosserra gira em altíssima velocidade em volta do sabre, aquela lâmina comprida. Existe uma região, na ponta superior do sabre, que se chama zona de rebote. Quando essa parte específica encosta em alguma coisa, num galho, num toco, no chão, ou fica prensada no corte, a corrente que está girando é freada de repente naquele ponto, e a reação joga a máquina inteira violentamente pra cima e pra trás, num arco que vai exatamente na direção do rosto e do pescoço do operador. É muito rápido, mais rápido do que qualquer reflexo. Um trabalhador estava cortando com a ponta do sabre sem perceber, encostou a zona de rebote num galho escondido, e a máquina voltou contra ele. Cortes de motosserra são graves porque a corrente não faz um corte limpo, ela dilacera, e no rosto e no pescoço isso é fatal com facilidade. E teve o agravante clássico: ele operava sem os EPIs específicos, sem a calça com proteção anticorte, sem protetor facial, porque 'ia ser rápido'.",
+    "regra": "As regras da motosserra: só opera quem é treinado, porque essa não é ferramenta pra aprender no improviso. EPI específico completo, que é diferente do EPI comum: capacete com protetor facial e auricular, luva, e principalmente a calça ou perneira com proteção anticorte, que trava a corrente se ela encostar na perna. Segura firme com as duas mãos, com o polegar envolvendo o cabo por completo, nunca com uma mão só. Corpo posicionado de lado em relação ao plano do sabre, nunca alinhado atrás dele. Não corta com a ponta do sabre, que é a zona de rebote, e fica atento ao que a ponta pode encostar sem você ver. Pé firme, nunca corta acima da altura do ombro, e nunca em cima de escada ou de galho. Freio de corrente funcionando, que é o dispositivo que para a corrente no rebote. E corrente afiada e bem tensionada, porque corrente cega obriga a forçar e escapa mais.",
+    "discussao": [
+      "Quem opera motosserra aqui é treinado e tem o EPI específico anticorte?",
+      "Vocês conheciam a zona de rebote na ponta do sabre? Muda o jeito de cortar?",
+      "Nossas máquinas têm freio de corrente funcionando e corrente afiada?"
+    ],
+    "frase": "A ponta do sabre é a que devolve a serra pro seu rosto.",
+    "fechamento": "Combinado de hoje: motosserra só com treinamento e EPI anticorte completo. Duas mãos firmes, corpo de lado, sem cortar com a ponta e sem cortar acima do ombro. Sem o EPI específico, ninguém liga a máquina. Bom trabalho, pessoal."
+  },
+  {
+    "id": 113,
+    "titulo": "Um cadeado pra cada pessoa",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. A gente já falou de travar a energia antes de mexer numa máquina. Hoje é sobre um detalhe que decide vida e morte quando mais de uma pessoa trabalha na mesma máquina: de quem é o cadeado que trava aquela energia? Pergunta: se três pessoas estão fazendo manutenção num equipamento, quantos cadeados travam a energia dele? Se a resposta não for três, tem gente em risco.",
+    "caso": "Deixa eu contar o acidente clássico, que se repete no mundo inteiro. Uma máquina grande estava em manutenção, com várias pessoas trabalhando nela, algumas em pontos onde não davam pra ver as outras. Uma pessoa travou a energia com o cadeado dela e todo mundo começou a trabalhar confiando naquela trava. Em determinado momento, essa pessoa terminou a parte dela, e, achando que já podia, tirou o cadeado e liberou a energia pra testar, sem saber que dois colegas ainda estavam com as mãos dentro da máquina, num ponto que ela não enxergava. A máquina ligou com gente trabalhando dentro. O resultado foi grave. E o erro não foi de má-fé: a pessoa achou que estava tudo certo porque ela tinha acabado a parte dela. O problema é que a segurança de todos dependia de um cadeado só, controlado por uma pessoa só, que não tinha como saber o que os outros estavam fazendo.",
+    "regra": "A regra que resolve isso se chama bloqueio múltiplo, e é simples e genial. Cada pessoa que trabalha na máquina coloca o seu próprio cadeado no ponto de bloqueio da energia, usando um dispositivo que aceita vários cadeados ao mesmo tempo. E cada um tem a única chave do seu cadeado. Assim, a energia só pode ser liberada quando o último cadeado for retirado, e cada pessoa só retira o seu quando ela mesma terminou e tirou as mãos de dentro. Ninguém consegue religar enquanto tiver um cadeado de qualquer colega ali. Isso garante uma coisa fundamental: a sua vida não fica na mão do julgamento de outra pessoa sobre se pode ligar ou não. Fica na sua mão, no seu cadeado, na sua chave. Junto com o cadeado vai a etiqueta de identificação, dizendo quem travou e por quê. E a regra de ouro: você só confia na energia travada pelo seu próprio cadeado. Chegou pra trabalhar numa máquina já bloqueada por outro? Você põe o seu também.",
+    "discussao": [
+      "Quando várias pessoas mexem na mesma máquina aqui, cada uma põe o seu cadeado?",
+      "A gente tem o dispositivo que aceita vários cadeados e cadeado individual pra cada um?",
+      "Já aconteceu de alguém liberar energia achando que os outros já tinham terminado?"
+    ],
+    "frase": "Sua vida não pode depender de outra pessoa achar que já pode ligar. Põe o seu cadeado.",
+    "fechamento": "Combinado de hoje: trabalho de mais de uma pessoa na mesma máquina, cada um com o seu cadeado e a sua chave. A energia só volta quando o último cadeado sai. Chegou numa máquina já travada, põe o seu também. Bom trabalho, pessoal."
+  },
+  {
+    "id": 114,
+    "titulo": "O motor ligado no lugar fechado",
+    "setores": ["geral", "frota", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é um gás que você não vê, não cheira e não sente, e que já matou muita gente que não fez nada de errado aparente: o monóxido de carbono, aquele que sai do escapamento de qualquer motor a combustão. Pergunta: você já deixou um veículo, um gerador, uma máquina a gasolina ou diesel ligada num lugar fechado ou mal ventilado, mesmo que por pouco tempo?",
+    "caso": "Deixa eu explicar por que esse gás é tão traiçoeiro. O monóxido de carbono sai de todo motor a combustão, e ele é completamente invisível e sem cheiro. Você não tem como perceber que ele está se acumulando. E ele age de um jeito silencioso: ocupa no sangue o lugar que era do oxigênio, e vai sufocando a pessoa por dentro sem ela sentir falta de ar como sentiria se faltasse oxigênio no ar. Os sinais são traiçoeiros porque parecem outra coisa: dor de cabeça, tontura, sonolência, enjoo, uma moleza. A pessoa acha que está cansada, com sono, e senta, ou continua o serviço mais devagar, exatamente enquanto o gás continua entrando. Um trabalhador ligou um equipamento a combustão dentro de um galpão parcialmente fechado pra fazer um serviço rápido. Começou a sentir dor de cabeça e sonolência, achou que era o cansaço do dia, e continuou. Desmaiou. Teve sorte de alguém entrar e perceber. Muita gente, nessa situação, dorme e não acorda, principalmente se estiver sozinha.",
+    "regra": "As regras: nunca deixe motor a combustão funcionando em ambiente fechado ou mal ventilado, e isso vale pra veículo, gerador, compressor, máquina de solda a motor, lavadora de alta pressão a gasolina, qualquer coisa que queime combustível. Se o serviço exige o motor ligado num ambiente fechado, tem que ter exaustão direcionando o gás pra fora ou ventilação forçada de verdade, não uma janelinha aberta. Atenção especial com gerador, que é uma causa comum de morte quando ligado dentro de casa, de container, de galpão fechado. E o mais importante: se você começar a sentir dor de cabeça, tontura, sono ou enjoo perto de motor ligado, não pensa que é cansaço, sai imediatamente pro ar livre e avisa, porque esses são os sinais e a sua percepção já está comprometida. Na dúvida, sai primeiro e pensa depois.",
+    "discussao": [
+      "A gente liga motor a combustão em algum lugar fechado ou mal ventilado aqui?",
+      "Vocês sabiam que dor de cabeça e sono perto de motor ligado pode ser envenenamento por gás?",
+      "A gente usa gerador ou máquina a combustível em ambiente fechado alguma vez?"
+    ],
+    "frase": "O gás do escapamento não avisa. Ele dá sono, e o sono vira o último.",
+    "fechamento": "Combinado de hoje: motor a combustão nunca em ambiente fechado sem exaustão de verdade. E dor de cabeça, tontura ou sono perto de motor ligado, você sai pro ar livre na hora e avisa, não trata como cansaço. Na dúvida, sai primeiro. Bom trabalho, pessoal."
+  },
+  {
+    "id": 115,
+    "titulo": "O EPI é a última defesa, não a primeira",
+    "setores": ["geral", "industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. A gente fala muito de EPI aqui, e com razão. Mas hoje eu quero falar de uma coisa que parece contra o EPI e não é: o EPI é a última linha de defesa, não a primeira. Pergunta pra vocês: se tem um risco numa tarefa, qual é a primeira coisa que a gente deveria tentar, dar o EPI pra pessoa ou eliminar o risco? A resposta muda o jeito de pensar segurança.",
+    "caso": "Deixa eu explicar com uma ordem que existe e que se chama hierarquia de controle. Imagina um risco qualquer, tipo uma poça de óleo que faz gente escorregar. A pior solução, a mais fraca, é dar uma bota antiderrapante e um aviso pra pessoa tomar cuidado. Por quê? Porque o risco continua ali, e a proteção depende da pessoa usar certo, o tempo todo, sem falhar nunca, e ainda depende de a bota não estar gasta. A melhor solução é eliminar o risco: descobrir de onde vem o óleo e parar o vazamento. Aí não tem mais poça, não tem mais risco, não depende de ninguém lembrar de nada. Entre uma e outra, tem os caminhos do meio: substituir o que causa o risco por algo menos perigoso, isolar o risco com uma barreira ou proteção coletiva, mudar o jeito de trabalhar pra reduzir a exposição. O EPI vem só no fim dessa fila, quando não deu pra eliminar, substituir, isolar ou reduzir, ou como reforço a mais. Um setor convivia com um risco dando EPI pra todo mundo e cobrando o uso, ano após ano, quando bastava um ajuste no equipamento pra o risco simplesmente deixar de existir. Eles estavam protegendo da consequência em vez de resolver a causa.",
+    "regra": "A hierarquia de controle, do mais forte pro mais fraco: primeiro, eliminar o risco, fazer ele deixar de existir. Segundo, substituir por algo menos perigoso. Terceiro, controle de engenharia, que é isolar o risco com proteção, enclausurar a máquina, instalar exaustão, colocar guarda-corpo, ou seja, proteção coletiva que protege todo mundo sem depender de comportamento. Quarto, controle administrativo, que é mudar o procedimento, o rodízio, o treinamento, a sinalização. E só em quinto, por último, o EPI. Isso não quer dizer que EPI não importa, importa muito e às vezes é indispensável. Quer dizer que EPI não pode ser a única resposta nem a primeira, e que quando a gente consegue eliminar ou isolar um risco, isso vale mais do que qualquer EPI, porque protege sem depender de ninguém acertar todo dia. A pergunta certa diante de um risco não é 'qual EPI eu dou', é 'dá pra fazer esse risco deixar de existir'.",
+    "discussao": [
+      "Tem algum risco aqui que a gente só combate com EPI, quando dava pra eliminar ou isolar a causa?",
+      "Onde a gente tem proteção coletiva, que protege todo mundo, e onde a gente depende só do EPI de cada um?",
+      "Que risco vocês acham que dava pra simplesmente acabar, em vez de proteger dele todo dia?"
+    ],
+    "frase": "EPI protege da consequência. Eliminar o risco resolve a causa. Sempre tenta a causa primeiro.",
+    "fechamento": "Combinado de hoje: diante de um risco, a primeira pergunta é se dá pra eliminar ou isolar, não qual EPI dar. EPI é a última defesa e é importante, mas não é a primeira nem a única. Me tragam os riscos que vocês acham que dá pra simplesmente acabar. Bom trabalho, pessoal."
+  },
+  {
+    "id": 116,
+    "titulo": "Treinar não é perder tempo",
+    "setores": ["geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje eu vou falar de uma coisa que eu sei que parte de vocês pensa, mesmo que não fale: que treinamento de segurança, reciclagem, esse próprio DDS, às vezes parece perda de tempo, tempo que dava pra estar produzindo. Pergunta honesta: quem aqui já pensou 'lá vem mais uma reunião dessas, enquanto o serviço acumula'? Pode ser sincero, e hoje eu quero conversar sobre isso de frente.",
+    "caso": "Deixa eu contar de um jeito diferente. Todo procedimento de segurança que a gente tem, toda regra, todo treinamento obrigatório, cada um deles existe porque alguém, em algum lugar, se machucou ou morreu, e daquela tragédia veio a regra pra não acontecer de novo. Não foi um burocrata numa sala que inventou que precisa de cinto em altura por diversão. Foi porque gente caiu e morreu. Não foi frescura que criou a regra de travar a energia. Foi porque gente perdeu a mão e a vida em máquina que ligou na hora errada. Cada linha de norma de segurança está escrita, de certa forma, com o acidente de alguém. Quando a gente trata o treinamento como perda de tempo, a gente está desprezando a lição que custou o dedo, a perna, a vida de um trabalhador que veio antes da gente. E tem o lado prático: o treinamento é onde a gente aprende a reconhecer o perigo ANTES de ele acontecer, no papel, na conversa, com calma, em vez de aprender na hora do acidente, na carne, sem chance de refazer. A pessoa que acha treinamento perda de tempo é a que vai aprender a lição do jeito caro.",
+    "regra": "Então o combinado é sobre como a gente encara esses momentos. Primeiro: treinamento e DDS não são o tempo que atrasa a produção, são o tempo que garante que você vai estar aqui amanhã pra produzir. Trabalhador afastado ou morto não produz. Segundo: participa de verdade, presta atenção, pergunta, traz seu caso, porque quanto mais você se envolve, mais aquilo vira reflexo lá na hora que importa. Treinamento que entra por um ouvido e sai pelo outro não salva ninguém. Terceiro: reciclagem existe porque a gente esquece e porque a gente relaxa com o tempo, então repetir não é redundância, é manutenção. E quarto: leva a sério a parte prática. Saber a teoria e não saber executar não adianta na emergência. A regra que resume: o treinamento é o único lugar onde você pode errar sem se machucar. Aproveita ele.",
+    "discussao": [
+      "Sinceramente, o que faria esses nossos momentos de segurança valerem mais a pena pra vocês?",
+      "Tem algum treinamento que vocês sentem que precisam e não tiveram ainda?",
+      "Vocês preferem mais prática e menos teoria? Como a gente melhora isso?"
+    ],
+    "frase": "Cada regra de segurança foi escrita com o acidente de alguém. Treinar é aprender sem pagar o preço.",
+    "fechamento": "Combinado de hoje: treinamento não é o tempo que atrasa a produção, é o que garante que você volta amanhã. É o único lugar onde dá pra errar sem se machucar. Participem, perguntem, tragam o caso de vocês. E me digam como melhorar esses momentos. Bom trabalho, pessoal."
+  },
+  {
+    "id": 117,
+    "titulo": "A pistola que não é brinquedo",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é ferramenta pneumática de impacto: pistola de pintura, pistola de pregos, grampeador pneumático, essas que funcionam com pressão de ar e disparam alguma coisa. Pergunta pra quem usa: você já apontou uma dessas pra um colega de brincadeira, ou já deixou o dedo no gatilho enquanto andava com ela? A gente esquece que elas disparam com força de arma.",
+    "caso": "Deixa eu contar sobre a finca-pino e a pistola de pregos, que são as mais perigosas. Elas cravam prego ou pino com uma força enorme, capaz de atravessar madeira dura e até concreto. Ou seja, elas atravessam o corpo humano com facilidade absoluta. Existem muitos casos de trabalhador que se feriu ou morreu com pistola de prego, e boa parte deles por um mecanismo específico: o ricochete e o disparo acidental. Um trabalhador estava usando uma finca-pino com o dispositivo de segurança da ponta burlado, aquele que só deixa disparar quando está pressionado contra a superfície. Com a segurança anulada, a ferramenta virou uma que dispara só no gatilho, apontando pra qualquer lugar. Num movimento, o gatilho foi acionado sem querer enquanto a ponta não estava apoiada em nada, e o pino foi disparado no ar. Noutros casos, o pino atravessa um material fino, uma madeira mole, e sai do outro lado, atingindo quem está atrás, do outro lado da parede, que ninguém via. E tem o clássico da brincadeira: gente que apontou pro colega achando que estava travada.",
+    "regra": "As regras: trata ferramenta pneumática de impacto como se fosse uma arma, com o mesmo respeito. Nunca aponta pra ninguém, nem de brincadeira, nem 'descarregada'. Dedo fora do gatilho enquanto você não está efetivamente disparando, e principalmente ao andar, virar e ajustar. Nunca burla o dispositivo de segurança da ponta, que existe justamente pra ela só disparar apoiada na superfície. Confere o que tem do outro lado do material que você está pregando, porque o pino pode atravessar e atingir alguém atrás. Óculos e protetor facial, por causa de ricochete e estilhaço. Desconecta do ar antes de fazer manutenção, destravar ou limpar, porque com ar conectado ela pode disparar sozinha. E pistola de ar comprimido pra limpeza, aquela que a gente já falou, nunca contra pessoa.",
+    "discussao": [
+      "A gente usa pistola de prego, finca-pino ou grampeador pneumático aqui? Todo mundo respeita como arma?",
+      "Já teve brincadeira de apontar ferramenta pneumática pra alguém?",
+      "A gente confere o que tem do outro lado antes de pregar numa parede ou material fino?"
+    ],
+    "frase": "Ela atravessa concreto. O corpo humano não oferece resistência nenhuma.",
+    "fechamento": "Combinado de hoje: ferramenta pneumática de impacto é tratada como arma. Nunca aponta pra ninguém, dedo fora do gatilho, segurança da ponta nunca burlada, e confere o outro lado antes de pregar. Desconecta do ar antes de mexer nela. Bom trabalho, pessoal."
+  },
+  {
+    "id": 118,
+    "titulo": "Quando o céu avisa, pare",
+    "setores": ["construcao", "frota", "geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje o assunto é raio, e é rápido e direto porque é pra vocês guardarem uma regra simples que salva vida. Pergunta pra quem trabalha em área aberta, em altura, ou com estrutura metálica: quando começa a trovoar ao longe, mas ainda não está chovendo onde você está, você para o serviço ou continua até a chuva chegar? A resposta certa surpreende muita gente.",
+    "caso": "Deixa eu explicar por que raio é traiçoeiro. A gente acha que só corre risco quando a tempestade está bem em cima. Mas o raio pode cair a vários quilômetros de onde está chovendo, num lugar onde o céu ainda está aberto. Existe o registro de raio que caiu longe da chuva, em área que parecia segura. Por isso a referência que os especialistas usam é o tempo entre o relâmpago e o trovão: se você vê o relâmpago e conta menos de trinta segundos até ouvir o trovão, a tempestade já está perto o suficiente pra ser perigosa, mesmo que não esteja chovendo aí. E quem trabalha em altura, em área aberta, perto de estrutura metálica, guindaste, andaime, torre, ou operando equipamento alto, está entre os mais expostos, porque o raio busca o ponto mais alto e o caminho da eletricidade. Um trabalhador continuou o serviço em altura numa estrutura metálica porque ainda não estava chovendo onde ele estava, confiando que dava tempo de descer quando a chuva chegasse. O raio não esperou a chuva.",
+    "regra": "A regra é: começou a trovejar, e se do relâmpago ao trovão vai menos de trinta segundos, para o serviço e procura abrigo seguro, mesmo que não esteja chovendo. Abrigo seguro é dentro de uma edificação fechada ou dentro de um veículo fechado, não é embaixo de árvore, não é embaixo de estrutura metálica, não é num abrigo aberto. Desce de altura, sai de perto de estrutura metálica alta, para de operar guindaste e plataforma. Afasta-se de coisas que conduzem e atraem, como cercas metálicas, tubulação, água. E só volta ao serviço depois de trinta minutos sem trovão nem relâmpago, porque o último raio de uma tempestade pode cair já com o céu clareando. A regra em uma frase, que os americanos resumem bem: quando o trovão ronca, entra pra dentro.",
+    "discussao": [
+      "Quem aqui trabalha em altura, área aberta ou com estrutura metálica, mais exposto a raio?",
+      "A gente para o serviço quando começa a trovejar, ou espera a chuva chegar?",
+      "Onde é o abrigo seguro mais próximo dos nossos serviços em área aberta?"
+    ],
+    "frase": "O raio não espera a chuva. Ele cai onde o céu ainda está aberto.",
+    "fechamento": "Combinado de hoje: trovejou e do relâmpago ao trovão vai menos de trinta segundos, para e busca abrigo fechado, mesmo sem chuva. Desce da altura, sai do metal. Só volta trinta minutos depois do último trovão. Bom trabalho, pessoal, e olho no céu hoje."
+  },
+  {
+    "id": 119,
+    "titulo": "O guindaste e o vento que não se vê",
+    "setores": ["construcao", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é içamento com guindaste e o inimigo mais subestimado dessa operação: o vento. Pergunta pra começar: numa operação de içamento, o que vocês acham que mais causa acidente grave, o peso da carga ou o vento? A maioria responde o peso. E o vento é o que pega muita gente de surpresa, porque ninguém o vê chegando.",
+    "caso": "Deixa eu explicar. Numa operação de içamento, calcula-se o peso da carga com cuidado, escolhe-se o guindaste certo, monta-se tudo. O peso todo mundo respeita. O vento não. E o vento faz duas coisas perigosas. A primeira: ele empurra a carga suspensa, que vira uma vela balançando lá no alto, e essa carga balançando puxa o guindaste pro lado, podendo levar ao tombamento do equipamento inteiro, ou fazer a carga bater em estruturas e em pessoas. Quanto maior e mais 'chapada' a carga, tipo uma placa, um painel, uma parede, mais o vento pega nela, mesmo que ela não seja tão pesada. A segunda: o vento dificulta o controle da carga na hora de posicionar, justamente quando tem gente perto pra receber e guiar. Uma operação de içamento de uma peça de grande área foi feita num dia de vento que parecia tolerável no chão. Lá em cima, na altura da lança, o vento era muito mais forte, porque vento aumenta com a altura. A carga começou a girar e a balançar, o operador perdeu o controle fino, e a peça atingiu a estrutura e pessoas próximas. O peso estava certo. O vento não foi respeitado.",
+    "regra": "As regras: todo guindaste tem um limite de velocidade de vento pra operar, definido pelo fabricante, e esse limite diminui conforme a carga é maior e mais 'chapada'. Respeitar isso não é opcional. Antes e durante o içamento, mede-se o vento, com anemômetro, e considera-se que na altura da lança o vento é bem mais forte que no chão. Carga de grande área pega muito mais vento, então exige ainda mais cuidado ou nem deve ser içada em vento. Usa-se cabo-guia, aquela corda amarrada na carga que uma pessoa no chão segura pra controlar o giro, mantendo a pessoa longe da projeção da carga. Área isolada embaixo e ao redor. E a decisão mais importante e mais difícil: se o vento está acima do limite, a operação para e espera, por mais que isso atrase tudo. Ninguém iça com vento acima do seguro pra cumprir prazo.",
+    "discussao": [
+      "A gente mede o vento antes de içar, ou avalia no olho pelo que sente no chão?",
+      "Vocês sabiam que o vento é muito mais forte lá em cima, na altura da lança?",
+      "A gente já içou carga de grande área em dia de vento? Como foi?"
+    ],
+    "frase": "O peso todo mundo calcula. É o vento, que ninguém vê, que derruba o guindaste.",
+    "fechamento": "Combinado de hoje: içamento respeita o limite de vento do guindaste, que cai com carga grande e chapada. Mede o vento, usa cabo-guia, isola a área. E vento acima do limite, a operação para e espera. Prazo nenhum vale um tombamento. Bom trabalho, pessoal."
+  },
+  {
+    "id": 120,
+    "titulo": "Estar certo não é estar seguro",
+    "setores": ["geral", "frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje eu quero fechar com uma ideia que vale pra vida toda, dentro e fora do trabalho, principalmente pra quem dirige e pra quem trabalha perto de máquina. Pergunta: já aconteceu de você estar completamente certo numa situação, a razão toda do seu lado, e mesmo assim se dar mal? Porque no trânsito e na operação, estar certo e estar seguro são duas coisas diferentes, e confundir as duas machuca.",
+    "caso": "Deixa eu explicar com o exemplo mais claro, o do trânsito. Você está na preferencial, o outro tem que parar. O sinal está verde pra você. A faixa de pedestre é sua. Você está certo, sem dúvida nenhuma. Mas se o outro motorista não parar, se ele furar o sinal, se ele não te ver, de que adianta você estar certo? A razão não conserta a fratura, não desfaz a batida, não traz ninguém de volta. Um motorista tinha a preferencial e seguiu confiante, no direito dele, sem reduzir, porque o outro tinha que parar. O outro não parou. Ele estava certíssimo, e se machucou do mesmo jeito, tanto quanto se estivesse errado. A razão dele não amorteceu nada. E isso vale na operação também: você pode estar seguindo o procedimento certo, mas se o colega do lado não estiver, se a máquina falhar, se algo inesperado acontecer, estar certo não te protege sozinho. Segurança de verdade é não contar só com o seu acerto, é contar também com a possibilidade do erro do outro e do imprevisto.",
+    "regra": "A postura que sai disso se chama, no trânsito, direção defensiva, e vale pra tudo. É partir do princípio de que o outro pode errar, e se proteger disso antes que aconteça. Na prática: mesmo na preferencial, você reduz e confere se o outro vai parar. Mesmo com o sinal verde, você olha pros lados antes de cruzar. Mesmo seguindo o procedimento certo, você fica atento ao que os outros estão fazendo em volta. Você deixa margem, deixa distância, deixa uma saída, porque a margem é o que te salva quando o imprevisto ou o erro do outro acontece. Estar certo é bom e importante, mas não é proteção. Proteção é antecipar o erro que não é seu. A pergunta que vale ouro, no trânsito e na operação, não é 'de quem é a culpa se der errado', é 'o que eu faço agora pra não dar errado, mesmo que o outro erre'.",
+    "discussao": [
+      "Você já se deu mal estando completamente certo? No trânsito ou no trabalho?",
+      "Onde a gente confia demais em estar certo, em vez de se precaver contra o erro do outro?",
+      "O que é deixar uma margem de segurança na tarefa de vocês hoje?"
+    ],
+    "frase": "A razão não amortece a batida. Estar certo não é estar seguro.",
+    "fechamento": "Combinado de hoje: estar certo é bom, mas não protege. Antecipa o erro do outro, deixa margem, deixa saída, confere mesmo tendo a preferencial. A pergunta certa não é de quem é a culpa, é o que eu faço pra não dar errado mesmo que o outro erre. Bom trabalho, pessoal, e voltem bem."
   }
 ]
