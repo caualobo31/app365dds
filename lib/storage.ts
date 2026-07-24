@@ -3,6 +3,7 @@ import { toIsoDate } from "./day";
 
 const HISTORY_KEY = "365dds:history";
 const ONBOARDING_KEY = "365dds:onboarding-seen";
+const COMPANY_KEY = "365dds:company";
 
 export interface HistoryEntry {
   id: number;
@@ -72,4 +73,28 @@ export function hasSeenOnboarding(): boolean {
 export function markOnboardingSeen(): void {
   if (!isBrowser()) return;
   window.localStorage.setItem(ONBOARDING_KEY, "1");
+}
+
+export interface CompanyConfig {
+  logo?: string; // data URL (base64), já redimensionado
+  nome?: string;
+  unidade?: string;
+  responsavel?: string;
+}
+
+export function getCompanyConfig(): CompanyConfig {
+  if (!isBrowser()) return {};
+  try {
+    const raw = window.localStorage.getItem(COMPANY_KEY);
+    if (!raw) return {};
+    const parsed = JSON.parse(raw);
+    return typeof parsed === "object" && parsed !== null ? (parsed as CompanyConfig) : {};
+  } catch {
+    return {};
+  }
+}
+
+export function saveCompanyConfig(config: CompanyConfig): void {
+  if (!isBrowser()) return;
+  window.localStorage.setItem(COMPANY_KEY, JSON.stringify(config));
 }

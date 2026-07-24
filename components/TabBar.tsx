@@ -2,12 +2,13 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { HistoryIcon, HomeIcon, ListIcon } from "./icons";
+import { HistoryIcon, HomeIcon, ListIcon, MenuLinesIcon } from "./icons";
 
 const TABS = [
   { href: "/", label: "Hoje", icon: HomeIcon },
   { href: "/lista", label: "Lista", icon: ListIcon },
   { href: "/historico", label: "Histórico", icon: HistoryIcon },
+  { href: "/mais", label: "Mais", icon: MenuLinesIcon },
 ];
 
 export function TabBar() {

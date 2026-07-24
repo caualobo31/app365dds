@@ -76,6 +76,13 @@ export default async function DetalhePage({
         <DdsBlock label="Fechamento" text={dds.fechamento} />
       </div>
 
+      <Link
+        href="/mais/guia"
+        className="mt-1 inline-block text-xs text-text-secondary hover:text-safety-yellow"
+      >
+        Ninguém respondeu? Veja o guia de condução →
+      </Link>
+
       <div className="pb-10 pt-4">
         <MarkDoneButton dds={dds} />
       </div>
