@@ -1548,5 +1548,165 @@
     ],
     "frase": "Sem a jugular, o capacete cai antes de você. E você bate a cabeça sem ele.",
     "fechamento": "Combinado de hoje: jugular afivelada, sempre, o dia inteiro. Carneira ajustada, sem boné por baixo, e capacete trincado ou vencido vem pra mim que eu troco. Antes de sair daqui eu quero ver todo mundo com a jugular presa. Bom trabalho, pessoal, e cabeça protegida hoje."
+  },
+  {
+    "id": 101,
+    "titulo": "O vigia que salva sem entrar",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. A gente já falou de espaço confinado pelo lado de quem entra. Hoje eu quero falar da pessoa mais importante dessa operação, que é justamente a que não entra: o vigia. Pergunta: você já foi vigia de espaço confinado? E ficou ali parado achando que era a função mais sem graça do serviço? Hoje eu quero mostrar que é a que segura a vida de quem está dentro.",
+    "caso": "Deixa eu explicar por que o vigia é tudo. Quem entra num espaço confinado pode ser surpreendido por falta de oxigênio ou por gás tóxico e perder a consciência em segundos, sem tempo de pedir ajuda. Se não tem ninguém do lado de fora observando o tempo todo, ninguém percebe que a pessoa parou de responder, e o socorro só vem quando já é tarde. O vigia é o elo. A função dele é ficar na entrada, sem sair dali por nada, mantendo contato constante com quem está dentro, por voz ou por rádio, e observando qualquer sinal de que algo está errado. E tem a regra que é a alma da função, aquela que a gente já falou e que precisa ser repetida sempre: se acontecer alguma coisa lá dentro, o vigia NÃO entra pra socorrer. Ele aciona o resgate preparado. Porque o instinto de entrar pra salvar o colega é exatamente o que transforma uma vítima em duas. A maior parte das mortes múltiplas em espaço confinado é assim: entra o trabalhador, ele cai, entra o vigia pra salvar, o vigia cai, entra o terceiro. O vigia que respeita a regra e não entra não é covarde, é o único que ainda pode salvar, porque ele é quem chama quem tem equipamento.",
+    "regra": "As funções do vigia: fica na entrada o tempo todo e não abandona o posto por nenhum motivo, nem pra buscar ferramenta, nem pra atender outra coisa; se ele precisar sair, a operação para e todo mundo sai de dentro. Mantém contato constante com quem está dentro e controla quem entra e quem sai, anotando. Fica de olho no monitor de gases e no ambiente externo, porque o perigo pode vir de fora, como um vazamento próximo ou um veículo com escapamento perto da entrada. E se algo der errado, ele aciona o resgate, opera o sistema de retirada por fora se houver, e não entra. Do outro lado, quem entra tem que ter a permissão de entrada preenchida, a atmosfera medida antes e durante, ventilação, e cinto com sistema que permita puxar de fora. Espaço confinado sem vigia não se entra, ponto.",
+    "discussao": [
+      "Quem aqui já foi vigia? Você sabia que não podia entrar de jeito nenhum pra socorrer?",
+      "A gente respeita o vigia ficar parado ali, ou já mandaram o vigia 'dar uma ajudinha' em outra coisa?",
+      "A gente tem sistema de retirada por fora nos nossos espaços confinados?"
+    ],
+    "frase": "O vigia salva quem está dentro justamente por não entrar atrás dele.",
+    "fechamento": "Combinado de hoje: espaço confinado só com vigia, e o vigia não abandona o posto e não entra pra socorrer, ele aciona o resgate. Quem entra tem permissão, medição e ventilação. A função mais parada é a que mais salva. Bom trabalho, pessoal."
+  },
+  {
+    "id": 102,
+    "titulo": "O caminho da carga é terra de ninguém",
+    "setores": ["industria", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é ponte rolante e talha, esses equipamentos que levam carga pesada pelo alto, atravessando o galpão por cima da gente. Pergunta pra começar: quando a ponte rolante passa carregada por cima, você para de trabalhar e sai de baixo, ou continua no seu serviço confiando que ela não vai deixar cair?",
+    "caso": "Deixa eu contar. Numa operação, a ponte rolante movimentava uma peça pesada de um ponto a outro do galpão. No caminho entre a origem e o destino, tinha gente trabalhando embaixo, cada um no seu serviço, porque parar todo mundo toda vez que a ponte passa parece perda de tempo, e afinal a carga estava bem presa. No meio do trajeto, a peça se soltou. Pode ter sido o dispositivo de fixação, pode ter sido o desgaste do cabo, pode ter sido a carga mal balanceada que escorregou do gancho. A peça caiu no caminho, e no caminho tinha gente. Não deu aviso e não deu tempo. E a investigação apontou o de sempre: a carga não deveria ter passado por cima de área com pessoas, e o trajeto dela não estava livre nem sinalizado. A ponte não escolheu cair em cima de alguém; o problema é que alguém estava no caminho de uma coisa que, se caísse, cairia ali.",
+    "regra": "As regras: nunca passe nem permaneça embaixo de carga suspensa em movimento, e o trajeto da carga tem que ser planejado pra passar longe de pessoas sempre que possível. O operador só movimenta com a certeza de que o caminho está livre, e usa o sinal sonoro pra avisar. A carga é levantada só o suficiente pra passar, nunca mais alto que o necessário, e nunca é arrastada de lado nem içada na diagonal, porque isso balança e solta. Antes do uso, confere cabo, gancho com trava, freio e o dispositivo de fixação da carga. Respeita a capacidade, e carga desbalanceada se reposiciona antes de subir. E ninguém fica na região pra onde a carga pode balançar se o freio falhar. A regra que resume: a carga anda por cima, as pessoas andam por fora do caminho dela.",
+    "discussao": [
+      "Quando a ponte passa carregada aqui, o pessoal sai de baixo ou continua trabalhando?",
+      "O trajeto das nossas cargas passa por cima de postos de trabalho? Dá pra mudar a rota?",
+      "Quem confere cabo, gancho e freio antes do uso? Com que frequência?"
+    ],
+    "frase": "A carga anda por cima. As pessoas andam por fora do caminho dela.",
+    "fechamento": "Combinado de hoje: ninguém embaixo de carga suspensa em movimento, trajeto planejado longe de gente, e carga levantada só o necessário. Operador confere o caminho e avisa antes de mover. Bom trabalho, pessoal, e olho pra cima quando a ponte passar."
+  },
+  {
+    "id": 103,
+    "titulo": "Quem trabalha sentado também se machuca",
+    "setores": ["escritorio", "geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o DDS é pra quem passa boa parte do dia sentado, no computador, na mesa, atendendo, digitando. Pergunta pra vocês: quem aqui acha que quem trabalha sentado num escritório não corre risco de saúde no trabalho? A gente associa acidente com máquina e altura, e esquece que passar o dia mal sentado também adoece, só que devagar e calado.",
+    "caso": "Deixa eu contar. Uma pessoa trabalhava o dia inteiro no computador, digitando muito, com o mesmo posto de sempre, aquele que a gente arruma no primeiro dia e nunca mais mexe. A cadeira estava um pouco baixa, então os ombros ficavam levemente levantados o dia todo. O monitor estava abaixo da linha dos olhos, então o pescoço ficava inclinado pra frente o tempo todo, sustentando o peso da cabeça numa posição ruim por horas. O mouse exigia esticar o braço um pouco além do confortável. Nenhuma dessas coisas doía. Eram só pequenos desconfortos que a pessoa nem notava mais, porque tinha se acostumado. Mas cada hora nessa posição foi somando. Primeiro veio uma tensão no pescoço e no ombro no fim do dia. Depois dor de cabeça frequente. Depois formigamento no braço e na mão de digitar. Quando procurou ajuda, o diagnóstico foi lesão por esforço repetitivo e problema postural crônico, com afastamento. O corpo dela adoeceu na cadeira, exatamente como o corpo de quem opera máquina adoece na máquina.",
+    "regra": "As regras da postura sentada: a tela na altura dos olhos, pra você não inclinar o pescoço; se o monitor é baixo, levanta ele com um suporte ou até com um pacote de papel. Cadeira ajustada pra os pés ficarem apoiados no chão e os joelhos em ângulo reto, com a coluna apoiada no encosto. Ombros relaxados, cotovelos perto do corpo em ângulo reto, punhos retos ao digitar, não dobrados pra cima. Teclado e mouse perto, sem precisar esticar o braço. E a regra que vale mais que todas as outras: o corpo não foi feito pra ficar parado na mesma posição por horas, então levanta e movimenta a cada meia hora, nem que seja pra beber água ou dar uns passos. Pausa curta e frequente vale mais que aguentar direto e esticar só no fim. E se você já sente dor recorrente no pescoço, no ombro, no punho, isso é aviso, e eu quero saber.",
+    "discussao": [
+      "Olha o seu posto agora: a tela está na altura dos olhos? Os pés apoiados? O punho reto?",
+      "Quem aqui sente dor recorrente no pescoço, ombro, punho ou coluna no fim do dia?",
+      "A gente levanta e movimenta durante o dia, ou fica horas sem sair da cadeira?"
+    ],
+    "frase": "O corpo adoece na cadeira do mesmo jeito que adoece na máquina. Só que mais quieto.",
+    "fechamento": "Combinado de hoje: tela na altura dos olhos, pés apoiados, punho reto, e levantar pra movimentar a cada meia hora. E quem já sente dor recorrente, me procura, porque cedo tem solução. Vamos ajustar os postos que estiverem ruins. Bom trabalho, pessoal."
+  },
+  {
+    "id": 104,
+    "titulo": "A escada que vai reta pro alto",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é escada fixa vertical, aquela tipo marinheiro, presa na parede ou na estrutura, que sobe reta pra caixa d'água, pra plataforma, pro topo de um equipamento. Pergunta: quem aqui sobe uma dessas com a mão ocupada, segurando ferramenta ou material? A gente faz isso sem pensar, e é aí que a queda acontece.",
+    "caso": "Deixa eu contar. Um trabalhador precisava subir por uma escada vertical até uma plataforma elevada pra fazer um serviço. Levou a ferramenta na mão, porque voltar depois pra buscar dava trabalho, e subiu. Numa escada vertical, o corpo fica quase na vertical, e a única coisa que segura você é a força das mãos e dos pés nos degraus. Com uma mão ocupada, ele tinha só três pontos, e num movimento o pé escorregou. Com uma mão só livre, ele não conseguiu segurar o próprio peso. Caiu de costas. Queda em escada vertical costuma ser de altura considerável e direto no piso duro embaixo. E aqui tem um detalhe que muita gente não sabe: escada vertical a partir de certa altura precisa de proteção, que pode ser a guarda-corpo tipo gaiola em volta, ou um sistema de trava-quedas com trilho ou cabo, onde você prende o cinto e ele te segura se você soltar. Aquela escada não tinha nenhum dos dois, ou tinha e ele não usou porque ia demorar.",
+    "regra": "As regras da escada vertical: as duas mãos sempre livres pra subir e descer, mantendo três pontos de apoio. Ferramenta e material sobem em bolsa a tiracolo, em mochila, ou içados por corda depois, nunca na mão. Onde existe trava-quedas, cinto conectado nele obrigatoriamente, do primeiro degrau ao último. Onde existe gaiola de proteção, ela tem que estar íntegra. Sobe e desce de frente pra escada, nunca de costas. Uma pessoa por vez no lance. Confere se os degraus estão firmes, sem ferrugem que enfraquece, sem gordura que escorrega. E não sobe em escada vertical molhada, com vento forte, ou se você não estiver bem, porque ali não tem como parar pra descansar no meio sem esforço.",
+    "discussao": [
+      "A gente tem escada vertical aqui? Ela tem gaiola ou trava-quedas?",
+      "Como a gente leva ferramenta pra cima hoje? Na mão ou em bolsa e corda?",
+      "Os degraus das nossas escadas estão firmes, sem ferrugem e sem gordura?"
+    ],
+    "frase": "Numa escada vertical, suas mãos são a única coisa que te segura. Não ocupa nenhuma delas.",
+    "fechamento": "Combinado de hoje: escada vertical com as duas mãos livres, ferramenta em bolsa ou içada por corda, e cinto no trava-quedas onde existir. Três pontos de apoio sempre. Se falta proteção na escada, me avisa antes de subir. Bom trabalho, pessoal."
+  },
+  {
+    "id": 105,
+    "titulo": "Tem produto que não pode ver água",
+    "setores": ["industria", "geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje eu vou falar de uma coisa que vai contra tudo que a gente aprende sobre acidente com produto químico. A gente aprende que, no contato ou no vazamento, joga água. E é verdade pra maioria. Mas existe um grupo de produtos em que jogar água é a pior coisa que você pode fazer, porque eles reagem violentamente com a água. Pergunta: você sabe se algum produto que você usa é assim?",
+    "caso": "Deixa eu explicar. Existem substâncias que, em contato com água, liberam muito calor de uma vez, ou soltam gás inflamável, ou soltam gás tóxico. Cal virgem, por exemplo, esquenta tanto ao encontrar água que pode causar queimadura e chegar a ferver. Alguns metais e alguns produtos reagem com água liberando hidrogênio, que é o gás que explode. Outros liberam gás tóxico. Um trabalhador teve contato de um produto desses com a pele. O reflexo dele foi o certo pra quase tudo: correr pro chuveiro e jogar bastante água. Só que aquele produto específico reagia com água gerando calor, e a água, em vez de aliviar, iniciou uma reação que piorou a queimadura. Ele não errou por ignorância comum, ele aplicou a regra geral num caso que era exceção. E a única forma de ele saber que aquele produto era exceção estava escrita num lugar que ninguém tinha lido: a ficha de segurança do produto.",
+    "regra": "É por isso que a gente insiste tanto na ficha de segurança, a FISPQ, antes de trabalhar com qualquer produto. Ela diz, entre outras coisas, se o produto reage com água, e diz qual é o procedimento correto em caso de contato e de vazamento pra aquele produto específico. Alguns produtos, no lugar da água, pedem que você remova o excesso a seco primeiro, ou usam outro procedimento. As regras práticas: leia a ficha antes de manusear produto que você não conhece, e saiba de antemão o que fazer em caso de contato, porque na hora do acidente não dá tempo de ler. Produtos que reagem com água são armazenados protegidos de umidade e longe de fontes de água. E se você não sabe se o seu produto reage com água, essa é a pergunta que você me faz hoje, antes de precisar da resposta.",
+    "discussao": [
+      "Vocês sabem se algum produto que usam reage com água? Vamos verificar na ficha juntos.",
+      "Onde ficam as fichas de segurança dos nossos produtos, e todo mundo sabe consultar?",
+      "A gente guarda os produtos protegidos de umidade e de vazamento de água?"
+    ],
+    "frase": "Água apaga quase tudo. Mas com alguns produtos, ela é que acende.",
+    "fechamento": "Combinado de hoje: antes de manusear produto que você não conhece, lê a ficha e descobre se ele reage com água e o que fazer em caso de contato. Na dúvida, me pergunta hoje. Saber antes é o que separa o socorro do agravamento. Bom trabalho, pessoal."
+  },
+  {
+    "id": 106,
+    "titulo": "O primeiro dia é o mais perigoso",
+    "setores": ["geral", "construcao", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje eu quero falar de uma estatística que assusta e que quase ninguém conhece: o trabalhador tem muito mais chance de se acidentar nos primeiros dias e nas primeiras semanas de um serviço do que depois de meses nele. Vale pro contratado novo, pro terceirizado que chegou hoje, pra quem mudou de função. Pergunta: tem alguém aqui na primeira semana? Presta atenção dobrada.",
+    "caso": "Deixa eu explicar por que o começo é tão perigoso, porque tem lógica. Quem chegou agora não conhece os perigos específicos daquele lugar. Não sabe onde a máquina é traiçoeira, não sabe qual piso escorrega, não sabe que atrás daquela porta tem um desnível, não sabe a mania perigosa daquela ferramenta, não conhece o significado dos sinais e dos alarmes dali. Sabe fazer o serviço, mas não conhece o ambiente. E tem um segundo fator que agrava: quem é novo quer mostrar serviço, quer ser aprovado, tem medo de parecer lento ou de dar trabalho, e por isso hesita em perguntar e hesita em recusar uma tarefa que não entendeu. Junta as duas coisas, o desconhecimento do ambiente com a vontade de agradar, e você tem o momento de maior risco da vida profissional da pessoa. Isso é ainda mais grave com terceirizado, que muitas vezes chega, é mandado direto pro serviço sem ninguém apresentar os riscos do local, e ninguém se sente responsável por ele porque 'é de outra empresa'.",
+    "regra": "As regras que protegem quem chegou: ninguém começa a trabalhar num lugar sem receber a integração de segurança daquele lugar, conhecendo os riscos específicos, as regras, os EPIs, as saídas de emergência e a quem recorrer. Isso vale pra contratado e vale pra terceirizado, sem exceção; terceirizado sem integração não entra na operação. Quem é novo tem que ter alguém de referência, um padrinho, alguém a quem perguntar sem medo. E do outro lado, os veteranos têm um papel: fica de olho em quem chegou, corrige com paciência e sem gozação, e não deixa o novato fazer no chute pra não perguntar. E se você é o novo: perguntar não te faz parecer incapaz, te faz voltar pra casa inteiro. Ninguém aqui vai te achar ruim por perguntar. Vão te achar ruim por se machucar por vergonha de perguntar.",
+    "discussao": [
+      "Tem alguém aqui na primeira semana ou que mudou de função há pouco? Como você está se sentindo com o serviço?",
+      "Quando chega gente nova ou terceirizado, a gente faz a integração de segurança ou manda direto pro serviço?",
+      "Quem pode ser a referência, o padrinho, de quem está chegando agora?"
+    ],
+    "frase": "Quem chegou sabe fazer o serviço. O que ele não conhece ainda é o perigo do lugar.",
+    "fechamento": "Combinado de hoje: ninguém começa sem integração de segurança do local, e isso inclui terceirizado. Quem é novo tem padrinho e pergunta sem medo. E veterano cuida de quem chegou. O começo é o mais perigoso, então é onde a gente mais se cuida. Bom trabalho, pessoal."
+  },
+  {
+    "id": 107,
+    "titulo": "O que rola sozinho",
+    "setores": ["logistica", "industria", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é o material que tem formato redondo: bobina, tubo, cano, tambor, rolo. Pergunta pra começar: como vocês guardam tubo e bobina aqui? Empilhado? Encostado na parede? Deitado solto? Porque coisa redonda tem uma característica que material quadrado não tem: ela rola. E ela rola quando ninguém está esperando.",
+    "caso": "Deixa eu contar. Num setor, tubos foram empilhados encostados numa parede, deitados uns sobre os outros, formando uma pilha que ficou estável por semanas. Coisa redonda empilhada fica equilibrada, mas é um equilíbrio frágil: basta um tubo da base se deslocar um pouco, uma vibração, um esbarrão, uma retirada errada lá de cima, pra a pilha inteira desmoronar rolando. Um funcionário foi retirar um tubo da pilha, e puxou um que estava travando os outros. A pilha desabou, e os tubos rolaram pra cima dele. Material redondo pesado rolando tem força pra prensar, quebrar e prender embaixo. Ele ficou preso com uma perna esmagada. E o mesmo risco existe com bobina em pé que tomba, com tambor que rola de uma rampa, com tubo que escorrega de um caminhão na hora de descarregar. Coisa redonda sempre está querendo rolar; a gente é que segura ela, e quando a gente segura errado, ela vai.",
+    "regra": "As regras: material redondo empilhado precisa de calço, cunha ou berço que impeça o rolamento, na base e nas laterais, e não pode ser só encostado. Respeita a altura máxima de empilhamento, porque quanto mais alto, mais violento o desabamento. Na retirada, você tira de cima pra baixo e das laterais pra dentro, nunca puxa uma peça da base que está segurando as outras. Bobina em pé precisa de calço pra não tombar. Tambor e cilindro em local com inclinação ficam travados. E na hora de descer material redondo de veículo, ninguém fica na direção pra onde ele pode rolar, porque na descarga é onde ele mais escapa. A pergunta que você faz antes de mexer numa pilha de coisa redonda é simples: se isso rolar agora, pra onde vai, e tem alguém no caminho?",
+    "discussao": [
+      "Tem material redondo empilhado aqui sem calço ou berço, só encostado?",
+      "A gente retira de cima pra baixo, ou às vezes puxa uma peça da base?",
+      "Na descarga de tubo e bobina, alguém fica na direção pra onde pode rolar?"
+    ],
+    "frase": "Coisa redonda está sempre querendo rolar. Você é que segura, até segurar errado.",
+    "fechamento": "Combinado de hoje: material redondo com calço e berço, retirada de cima pra baixo, e ninguém na direção pra onde pode rolar. Antes de mexer numa pilha dessas, pergunta pra onde vai se rolar. Bom trabalho, pessoal."
+  },
+  {
+    "id": 108,
+    "titulo": "O choque que não parece perigoso",
+    "setores": ["geral", "industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. A gente respeita muito a alta tensão, aquela dos painéis grandes e das redes. Hoje eu quero falar do choque que a gente não respeita: o da tomada comum, o dos 127 e 220 volts, aquele choquinho do dia a dia que quase todo mundo aqui já levou. Pergunta: quem aqui já levou um choque desses e riu, achando que não foi nada? Hoje eu quero mostrar por que esse é o que mais mata.",
+    "caso": "Deixa eu explicar, porque é contraintuitivo. A gente acha que quanto maior a tensão, mais perigoso, e no geral é. Mas o que faz o choque matar não é só a tensão, é a corrente passando pelo corpo e o caminho que ela faz. E a tensão da tomada comum é perfeitamente capaz de fazer passar uma corrente que mata, principalmente porque ela está em todo lugar e a gente lida com ela sem nenhum respeito. Tem um detalhe que quase ninguém sabe e que é aterrorizante: uma corrente elétrica passando pelo corpo pode causar o que se chama tetania, que é a contração travada dos músculos. Quando isso acontece com a mão que está segurando o fio ou a ferramenta, o músculo trava fechado e a pessoa não consegue soltar. Ela fica presa na fonte de energia, recebendo choque continuamente, sem conseguir se libertar, e é isso que leva à parada cardíaca. Um trabalhador levou um choque de tomada comum segurando uma ferramenta com defeito, com a mão um pouco úmida. A mão travou fechada na ferramenta. Se um colega não tivesse desligado a energia na tomada, ele não teria conseguido soltar sozinho.",
+    "regra": "As regras: trata a tomada comum com respeito, não como brincadeira. Cabo e plugue íntegros, sem remendo, sem fio exposto. DR no circuito, que é o dispositivo que corta em fração de segundo quando a corrente foge pelo corpo, e é ele que transforma o choque fatal em susto. Nada de ferramenta elétrica com mão ou piso molhado. E o que salva vida se acontecer: se você vê alguém tomando choque e preso na fonte, você NÃO toca na pessoa, porque a corrente passa pra você e vira duas vítimas. Você desliga a energia primeiro, na tomada, no disjuntor, na chave geral. Se não dá pra desligar rápido, você afasta a pessoa da fonte usando material isolante e seco, como um cabo de madeira, nunca com a mão. E depois do choque, mesmo que a pessoa pareça bem, ela precisa de avaliação médica, porque o choque pode afetar o coração com efeito retardado.",
+    "discussao": [
+      "Quem aqui já levou choque de tomada e achou graça? Você sabia que podia ter travado a mão?",
+      "A gente tem DR nos nossos circuitos e extensões?",
+      "Você saberia o que fazer, e o que não fazer, se visse um colega preso tomando choque?"
+    ],
+    "frase": "O choque da tomada comum trava a mão fechada. E preso na fonte, ninguém solta sozinho.",
+    "fechamento": "Combinado de hoje: respeito com a tomada comum, cabo íntegro, DR no circuito. E se ver alguém preso em choque, não toca, desliga a energia primeiro. Depois de qualquer choque, avaliação médica. Bom trabalho, pessoal, e nada de brincar com choque."
+  },
+  {
+    "id": 109,
+    "titulo": "Ficar pendurado também é perigo",
+    "setores": ["construcao", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é a parte da segurança em altura que quase ninguém pensa: o que acontece DEPOIS que o cinto te salvou de uma queda. Pergunta pra vocês: se alguém cair e ficar pendurado pelo cinto, salvo pela trava-queda, mas suspenso no ar, qual é a pressa? Se você acha que agora está tudo bem e é só chamar com calma, esse DDS pode mudar sua ideia.",
+    "caso": "Deixa eu explicar uma coisa que se chama síndrome da suspensão, ou trauma da suspensão, e que muita gente que trabalha em altura não conhece. Quando a pessoa fica pendurada parada pelo cinto, imóvel, as tiras do cinto apertam a parte de cima das pernas e comprimem as veias. O sangue que desce pras pernas fica represado ali e não volta direito pro coração, porque o que ajuda o sangue a voltar é o movimento dos músculos das pernas, e a pessoa pendurada parada não consegue se mexer. Com o passar dos minutos, falta sangue voltando pro coração e pro cérebro, e a pessoa pode desmaiar e, em casos graves, chegar a morrer, mesmo sem ter se machucado na queda. Ou seja: o cinto salvou ela do impacto, mas ficar pendurada parada por tempo demais virou um novo perigo. Foi o que quase aconteceu com um trabalhador que caiu, foi salvo pelo cinto, e ficou pendurado enquanto a equipe se organizava pra resgatar sem pressa, achando que o pior já tinha passado. Ele começou a passar mal pendurado.",
+    "regra": "É por isso que quem trabalha em altura precisa de mais do que o cinto: precisa de um plano de resgate rápido, montado antes de o serviço começar, e não improvisado na hora. A regra é que o resgate de alguém suspenso tem que ser rápido, questão de minutos, não pode esperar bombeiro se houver meio de resgatar antes com segurança. Enquanto o resgate não chega, se a pessoa está consciente, ela deve tentar se mexer, empurrar com as pernas contra algo, ou usar o estribo de alívio, que é uma alça que alguns cintos têm justamente pra a pessoa apoiar os pés e aliviar a pressão nas pernas. Depois de resgatada, a pessoa não deve ser deitada totalmente na horizontal de forma brusca, e precisa de avaliação médica mesmo parecendo bem, porque o sangue represado volta de uma vez e pode sobrecarregar o coração. E a lição maior: trabalho em altura não termina no cinto, ele exige o plano de como tirar a pessoa de lá se ela cair.",
+    "discussao": [
+      "Vocês conheciam a síndrome da suspensão? Muda alguma coisa em como vocês veem o resgate?",
+      "A gente tem plano de resgate antes de começar serviço em altura, ou a gente confia só no cinto?",
+      "Nossos cintos têm estribo de alívio? Vocês sabem usar?"
+    ],
+    "frase": "O cinto te salva da queda. Mas ficar pendurado parado vira o próximo perigo.",
+    "fechamento": "Combinado de hoje: trabalho em altura precisa de plano de resgate rápido montado antes, não só do cinto. Caiu e ficou pendurado, o resgate é questão de minutos, e a pessoa se mexe e usa o estribo enquanto espera. Depois, avaliação médica sempre. Bom trabalho, pessoal."
+  },
+  {
+    "id": 110,
+    "titulo": "O que adoece sem deixar marca",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o DDS não é sobre um risco físico, é sobre um risco que não deixa marca no corpo mas adoece de verdade: o ambiente de trabalho pesado, a pressão constante, o assédio, a humilhação, o medo. Pergunta pra vocês, e podem só pensar na resposta: você já saiu daqui algum dia com um peso no peito que não era cansaço físico, era outra coisa?",
+    "caso": "Deixa eu falar disso com seriedade, porque hoje inclusive existe uma exigência legal de as empresas olharem pros chamados riscos psicossociais, que são esses fatores do ambiente que afetam a saúde mental. E não é frescura nem modernidade: pressão excessiva e constante, metas impossíveis, humilhação, gritaria, assédio moral, medo de errar, jornada que não deixa a pessoa descansar, tudo isso adoece. Começa com irritação, insônia, aquela angústia de domingo à noite. Passa pra dor de cabeça, dor no estômago, pressão alta, que são o corpo respondendo ao que a cabeça está aguentando. E pode chegar a ansiedade e depressão, que afastam tanto quanto uma fratura, e às vezes por muito mais tempo. E tem uma ligação direta com a segurança física que pouca gente faz: uma pessoa angustiada, sem dormir, com a cabeça tomada de preocupação e medo, é uma pessoa distraída, com reflexo pior e julgamento pior. O sofrimento mental não fica só na mente, ele vira acidente na máquina, porque quem está sofrendo não está prestando atenção no perigo.",
+    "regra": "Então o combinado de hoje tem algumas partes. A primeira é reconhecer que isso é assunto de segurança do trabalho, não é fraqueza e não é 'mimimi'. A segunda: assédio moral, humilhação e gritaria não são métodos de gestão, são violência, e aqui não é pra ser assim, nem de chefe pra baixo, nem entre colegas. Se está acontecendo com você ou com alguém do lado, isso pode e deve ser falado, e existe canal pra isso. A terceira: cuidar uns dos outros também é reparar em quem mudou, quem se isolou, quem está diferente, e chegar perto, perguntar, ouvir sem julgar. E a quarta, a mais importante: se você está sofrendo, angustiado, sem dormir, sem sentido nas coisas, isso tem tratamento e tem ajuda, e procurar ajuda é sinal de força, não de fraqueza. Se em algum momento a vida parecer pesada demais, procure alguém de confiança, procure ajuda profissional, e saiba que existe o CVV, o telefone 188, que atende de graça, a qualquer hora, em sigilo.",
+    "discussao": [
+      "O ambiente aqui deixa a gente trabalhar sem medo, ou tem pressão e clima pesado que a gente já normalizou?",
+      "A gente repara quando um colega está diferente, mais quieto, mais isolado, ou cada um cuida só do seu?",
+      "Você sabe pra quem falar aqui se estiver passando por assédio ou por um momento difícil?"
+    ],
+    "frase": "O que adoece a cabeça não deixa marca no corpo, mas afasta igual a uma fratura.",
+    "fechamento": "Combinado de hoje: saúde mental é assunto de segurança, assédio não é gestão, e pedir ajuda é força. A gente cuida uns dos outros, repara em quem está diferente. E se a vida pesar demais, procure ajuda, procure alguém, e existe o CVV no 188, de graça e em sigilo. Bom trabalho, pessoal, e se cuidem por dentro também."
   }
 ]
