@@ -34,6 +34,8 @@ export interface Dds {
   caso: string;
   regra: string;
   discussao: string[];
+  /** Frase de destaque opcional. Ainda não usada em nenhuma tela. */
+  frase?: string;
   fechamento: string;
 }
 
@@ -117,6 +119,12 @@ export function validateDdsList(data: unknown): Dds[] {
       );
       if (invalidas.length > 0) {
         errors.push(`${label}: "discussao" tem ${invalidas.length} item(ns) que não são texto não vazio.`);
+      }
+    }
+
+    if ("frase" in item && item.frase !== undefined) {
+      if (typeof item.frase !== "string" || item.frase.trim().length === 0) {
+        errors.push(`${label}: campo "frase", quando presente, precisa ser um texto não vazio. Recebido: ${describe(item.frase)}.`);
       }
     }
   });

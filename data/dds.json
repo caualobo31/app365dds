@@ -748,5 +748,165 @@
       "Qual das quatro vocês acham que a gente mais pula no dia a dia?"
     ],
     "fechamento": "Combinado de hoje, e esse eu quero que vire hábito e não só DDS: antes de qualquer tarefa, o minuto das quatro perguntas. Eu, tarefa, ambiente, equipamento. Um minuto por tarefa. Se em alguma delas a resposta te incomodar, para e fala comigo antes de começar. Bom trabalho, pessoal, e façam o minuto hoje."
+  },
+  {
+    "id": 51,
+    "titulo": "Pra onde vai a força se soltar",
+    "setores": ["geral", "industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje eu quero ensinar um jeito de pensar que, se vocês levarem pra vida, vai evitar muita coisa. Chama linha de fogo. E antes de eu explicar, eu quero que vocês olhem pra tarefa que vão fazer daqui a pouco e respondam uma pergunta na cabeça: se alguma coisa soltar aí, pra onde ela vai?",
+    "caso": "Linha de fogo é o caminho que a força percorre quando ela escapa. Toda tarefa tem energia guardada em algum lugar: uma peça sob tensão, uma mangueira com pressão, uma corda esticada, uma carga apoiada, uma ferramenta fazendo força. Enquanto tá tudo certo, a energia fica onde deve. Quando escapa, ela vai em uma direção específica, e não é aleatória, dá pra prever. Deixa eu dar exemplos que vocês reconhecem. Quando você força uma chave, a energia vai na direção do seu movimento, então se escapar, sua mão vai bater no que estiver na frente dela. Quando uma cinta de amarração tá esticada e arrebenta, ela chicoteia na direção do esticamento. Quando uma mangueira pressurizada solta, ela vem no sentido do jato. Quando você corta uma peça apoiada, ela cai no lado de menor apoio. Quando um cabo tracionado rompe, ele volta na direção de onde vinha a tração. Agora presta atenção no que isso muda na prática: na maior parte dos acidentes de mão, de rosto e de tronco, a pessoa não fez a tarefa errada. Ela fez a tarefa certa, com o corpo parado no lugar errado. E o lugar errado é sempre o mesmo: dentro da linha de fogo.",
+    "regra": "Então antes de começar, você faz essa leitura rápida: onde tá a energia aqui, e pra onde ela vai se escapar? Aí você posiciona o corpo, e principalmente as mãos e o rosto, fora dessa direção. Empurra em vez de puxar quando der. Fica de lado da linha em vez de na frente dela. Não põe a mão no ponto de fechamento entre duas coisas. Não fica na direção de uma cinta esticada nem embaixo de carga. Isso não custa tempo nenhum, é só onde você planta o pé antes de fazer força.",
+    "discussao": [
+      "Pega a sua tarefa de hoje: onde tá a energia guardada nela, e pra onde ela vai se soltar?",
+      "Alguém já se machucou porque tava no lugar errado, mesmo fazendo o serviço certo?",
+      "Que tarefas nossas obrigam a gente a ficar na linha de fogo? Dá pra mudar o jeito de fazer?"
+    ],
+    "frase": "Na maioria dos acidentes, a tarefa tava certa. O corpo é que tava no caminho.",
+    "fechamento": "Combinado de hoje: antes de fazer força em qualquer coisa, você para um segundo e pergunta pra onde a energia vai se escapar. Depois planta o corpo fora dali. É de graça, leva um segundo, e é uma das coisas que mais salva mão e rosto. Bom trabalho, pessoal, e fiquem fora da linha de fogo."
+  },
+  {
+    "id": 52,
+    "titulo": "O ar que parece inofensivo",
+    "setores": ["industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Pergunta pra começar, e eu quero mãos levantadas de verdade: quem aqui já usou a mangueira de ar comprimido pra tirar poeira da roupa, do cabelo, do braço, no fim do serviço? Ou já brincou de dar um jato no colega? É uma das coisas mais comuns que existe em fábrica, e é uma das mais perigosas. Hoje eu vou explicar por quê.",
+    "caso": "A gente olha pro ar comprimido e vê ar. Ar não corta, não queima, não pesa. Só que o ar da nossa rede sai a uma pressão altíssima, várias vezes a pressão de um pneu de carro, num jato concentrado. E aí acontece uma coisa que quase ninguém sabe: nessa pressão, o ar consegue atravessar a pele. Não precisa de ferimento, não precisa de corte. Se o bico fica encostado ou muito próximo da pele, o ar entra no corpo e vai pra dentro da corrente sanguínea, formando bolhas. Isso se chama embolia, e uma bolha de ar circulando no sangue pode chegar no coração ou no cérebro. Existem casos documentados de trabalhador que morreu de uma brincadeira de segundos com mangueira de ar. E tem os outros riscos, que são mais comuns e igualmente sérios: o jato direcionado no ouvido pode romper o tímpano, no olho pode arrancar a visão, e mesmo sem encostar, o ar comprimido pega toda a poeira e o cavaco que tá na roupa e no chão e transforma em projétil na velocidade do jato, na direção de quem tiver por perto.",
+    "regra": "A regra é simples e absoluta: ar comprimido é ferramenta de processo, nunca de limpeza de pessoa. Não se usa pra tirar poeira da roupa, do cabelo, da pele, nem de brincadeira, nem de longe, nem 'só de leve'. Pra limpar roupa e corpo, existe aspirador, escova, pano. E quando usar ar comprimido no processo, tem que ser com bico de pressão reduzida, com óculos e protetor facial, e sem apontar pra ninguém e pra nenhuma direção onde tenha gente. Brincadeira com mangueira de ar é o tipo de coisa que todo mundo acha engraçada até o dia em que alguém não levanta.",
+    "discussao": [
+      "A gente usa ar comprimido pra limpeza de roupa ou corpo aqui? Isso acaba hoje.",
+      "Nossos bicos de ar têm redução de pressão, ou é jato direto na mangueira?",
+      "Já teve brincadeira com mangueira de ar aqui? Como a gente combina de cortar isso?"
+    ],
+    "frase": "Ar comprimido atravessa a pele. Não é brincadeira, é ferramenta.",
+    "fechamento": "Combinado de hoje, e esse não tem exceção nenhuma: ar comprimido não encosta em pessoa, nem pra limpar, nem de brincadeira. Poeira na roupa se tira com escova ou aspirador. E se alguém apontar mangueira pra outro aqui, eu quero saber. Bom trabalho, pessoal."
+  },
+  {
+    "id": 53,
+    "titulo": "A máquina desligada que ainda tinha força",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. A gente já falou aqui sobre travar a energia antes de mexer numa máquina, e todo mundo entendeu. Hoje eu quero falar do passo que quase todo mundo esquece, e que é onde muita gente se machuca mesmo tendo feito tudo certo: a energia que fica guardada dentro da máquina depois de desligada.",
+    "caso": "Deixa eu contar. Um mecânico foi fazer manutenção num equipamento. Ele fez tudo certo no começo: desligou, travou o disjuntor, sinalizou, conferiu que não tinha energia elétrica chegando. Do ponto de vista dele, a máquina tava morta, sem energia nenhuma. Ele começou a soltar um componente. Só que aquela parte da máquina tinha um sistema hidráulico com pressão ainda acumulada, que não sai só porque a bomba desligou. Quando ele soltou o último parafuso, a pressão que tava presa liberou de uma vez e arremessou a peça com força. Ele foi atingido e se feriu. E o mais frustrante: ele não foi imprudente, ele fez o bloqueio elétrico direitinho. O que faltou foi entender que desligar a fonte de energia não esvazia a energia que já estava armazenada lá dentro.",
+    "regra": "Toda máquina guarda energia mesmo depois de desligada, e ela tem várias formas: pressão em sistema hidráulico ou pneumático, mola comprimida ou esticada, peça suspensa que cai por gravidade quando solta, volante ou rotor que continua girando por inércia, capacitor que segura carga elétrica, e linha com produto ou vapor sob pressão. Por isso o bloqueio completo tem quatro passos, não dois. Desliga a fonte. Trava e sinaliza. Dissipa a energia residual, que é aliviar pressão, descer ou escorar o que está suspenso, aliviar mola, esperar parar por completo. E aí testa, tentando acionar, pra confirmar que não responde. Só depois disso a máquina é sua.",
+    "discussao": [
+      "Que equipamentos nossos guardam pressão, mola ou peça suspensa depois de desligados?",
+      "A gente tem o hábito de aliviar pressão e escorar antes de abrir, ou para no travar e sinalizar?",
+      "Alguém já foi surpreendido por uma peça que se moveu com a máquina desligada?"
+    ],
+    "frase": "Desligar corta a fonte. Não esvazia o que já estava guardado dentro.",
+    "fechamento": "Combinado de hoje: bloqueio não termina na trava. Depois de desligar e travar, você alivia a pressão, escora o que está suspenso, espera parar de vez, e testa se responde. Máquina desligada ainda tem força guardada. Bom trabalho, pessoal."
+  },
+  {
+    "id": 54,
+    "titulo": "Ninguém sabia que ele estava lá",
+    "setores": ["geral", "frota", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Pergunta pra começar, e pensa com sinceridade: se você se machucasse agora, no lugar onde você vai trabalhar hoje, quanto tempo levaria até alguém perceber? Cinco minutos? Uma hora? Até o fim do turno? Pra muita gente aqui a resposta é assustadora, e é sobre isso que a gente vai falar.",
+    "caso": "Deixa eu contar. Um trabalhador foi fazer um serviço numa área afastada, sozinho, uma coisa rotineira que ele fazia sempre. Ninguém achou estranho, ele sempre fazia sozinho mesmo. Ele sofreu um acidente ali, ficou caído, consciente mas sem conseguir se levantar nem alcançar o celular que tinha ficado longe. E aí começou a parte cruel: ninguém sabia exatamente onde ele estava. Não tinha combinado horário de retorno com ninguém, não tinha avisado a área certa, e como ele costumava sumir por horas nesse tipo de serviço, demorou muito até alguém estranhar. Quando encontraram, tinha passado tempo demais. O acidente em si não teria sido tão grave se o socorro tivesse chegado logo. O que agravou tudo foi o tempo sozinho, e o tempo sozinho aconteceu porque ninguém sabia onde ele estava nem quando ele deveria voltar.",
+    "regra": "Trabalhar sozinho não é proibido, mas exige uma coisa que quase ninguém faz: combinar. Antes de ir pra uma área isolada, você avisa alguém onde vai estar, o que vai fazer e a que horas volta ou dá notícia. Combina um horário de contato, e se você não der sinal naquele horário, a pessoa vem atrás. Leva o celular ou o rádio no corpo, não deixa na bolsa nem no carro. E tarefa de risco alto, como altura, espaço confinado, energia e içamento, não se faz sozinho de jeito nenhum, mesmo que dê pra fazer tecnicamente. Porque no trabalho isolado o que mata não costuma ser o acidente, é o tempo até alguém chegar.",
+    "discussao": [
+      "Quem aqui trabalha sozinho em alguma parte do dia, ou em área que ninguém passa?",
+      "Alguém sabe hoje onde você vai estar e a que horas você deveria voltar?",
+      "Como a gente combina um jeito simples de dar sinal de vida, sem burocracia?"
+    ],
+    "frase": "No trabalho sozinho, o que mata não é o acidente. É o tempo até alguém chegar.",
+    "fechamento": "Combinado de hoje: vai pra área isolada, avisa alguém onde vai, o que vai fazer e a que horas dá notícia. Celular ou rádio no corpo. E tarefa de risco alto ninguém faz sozinho, me chama que a gente organiza. Bom trabalho, pessoal, e mantenham contato hoje."
+  },
+  {
+    "id": 55,
+    "titulo": "A tampa que não estava presa",
+    "setores": ["construcao", "industria"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é uma coisa que a gente vê todo dia e para de enxergar: buraco no piso, vão, abertura, poço, canaleta aberta, tudo que é vazio no chão coberto com alguma coisa por cima. Pergunta: quem aqui já pisou numa chapa ou numa madeira cobrindo um buraco, confiando que ela ia aguentar? A gente confia demais no que tá no chão.",
+    "caso": "Deixa eu contar. Numa obra, tinha uma abertura no piso, dessas de passagem de tubulação. Alguém cobriu com um pedaço de compensado que tava sobrando, o que já resolvia visualmente, ficava tapado e ninguém caía. Só que aquela tampa não foi fixada, não foi sinalizada, e ninguém sabia se aguentava peso. Ficou ali por semanas, e todo mundo aprendeu a pisar em cima sem pensar, porque nunca tinha acontecido nada. Um dia um trabalhador passou por cima carregando material, ou seja, com peso a mais e sem enxergar bem os pés. O compensado, que já tava enfraquecido, cedeu. Ele caiu pelo vão pro pavimento de baixo. E o mais duro é que a proteção tava lá, todo mundo via a tampa e se sentia seguro por causa dela. Só que era uma proteção que não protegia: não era fixada, não era dimensionada e não era sinalizada.",
+    "regra": "Abertura no piso é uma das coisas que mais mata em obra e em manutenção, porque a queda é vertical e quase sempre de altura. As regras: toda abertura tem que ter proteção fixada, que não sai do lugar com um chute nem com o vento, dimensionada pra aguardar peso de gente e material, e sinalizada, pra todo mundo saber que ali embaixo tem vão. Guarda-corpo quando a abertura é grande. E o mais importante no dia a dia: se você abriu, você protege antes de sair de perto, nem que seja provisório. Ninguém deixa buraco aberto 'só um instante', porque o instante é justo o tempo de alguém passar.",
+    "discussao": [
+      "Tem alguma abertura, vão ou canaleta aqui coberta com tampa improvisada e sem fixação?",
+      "Você saberia dizer, olhando, se aquela tampa aguenta seu peso com material na mão?",
+      "Quando a gente abre um piso pra serviço, quem fica responsável por proteger?"
+    ],
+    "frase": "Tampa solta não é proteção. É um buraco disfarçado.",
+    "fechamento": "Combinado de hoje: abertura no piso, proteção fixada, dimensionada e sinalizada, sempre. Abriu, protege antes de sair de perto. E se você viu tampa solta ou improvisada hoje, me avisa que a gente resolve agora. Bom trabalho, pessoal, e olho no chão."
+  },
+  {
+    "id": 56,
+    "titulo": "O que passa atrás da parede",
+    "setores": ["construcao", "geral", "industria"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Pergunta pra quem fura parede, piso, laje, teto, pra fixar qualquer coisa: quando você encosta a furadeira, você sabe o que tem do outro lado? Ou você fura e torce? Sejam sinceros, porque essa é uma das tarefas mais banais do dia a dia e uma das que mais dá susto grande.",
+    "caso": "Deixa eu contar. Um trabalhador foi fixar um suporte numa parede, serviço de cinco minutos, coisa que ele fazia toda semana. Escolheu o ponto pelo que era prático pro suporte, marcou e furou. A broca atravessou e encontrou um eletroduto com fiação energizada passando por dentro da parede. Deu um curto violento, a furadeira saltou da mão dele e ele levou choque. Teve sorte de não ter sido pior. E o detalhe que resume tudo: não tinha nenhuma marcação na parede indicando aquele eletroduto. Ninguém sabia, porque a instalação era antiga e o desenho tinha se perdido. Ele não foi negligente, ele só não tinha como adivinhar. Mas ele podia ter feito duas coisas antes: usar um detector, e desligar o circuito daquela área enquanto furava.",
+    "regra": "Dentro de parede, piso e laje passa muita coisa invisível: fiação energizada, tubulação de água, gás, ar comprimido, esgoto, e em laje passa armadura e cabo protendido, que se você corta compromete a estrutura. As regras: antes de furar, consulta o desenho da instalação se existir e pergunta pra quem conhece o local. Usa detector de metal e de tensão, que hoje é barato e resolve a maioria dos casos. Quando dá, desliga o circuito da área durante a furação. E desconfia especialmente das trajetórias óbvias: acima e abaixo de tomadas e interruptores quase sempre tem eletroduto subindo ou descendo em linha reta. Esse é o lugar que mais gente fura sem pensar.",
+    "discussao": [
+      "A gente tem detector aqui? Quem sabe usar?",
+      "Existe desenho ou registro do que passa dentro das nossas paredes e pisos?",
+      "Já teve alguém aqui que furou e acertou fiação ou tubulação? O que aconteceu?"
+    ],
+    "frase": "Toda parede tem alguma coisa dentro. A dúvida é só se você vai descobrir antes ou depois.",
+    "fechamento": "Combinado de hoje: antes de furar, pergunta, consulta e usa detector. E foge da linha vertical de tomada e interruptor, que é onde o eletroduto sobe. Se tiver qualquer dúvida sobre o ponto, me chama antes de encostar a broca. Bom trabalho, pessoal."
+  },
+  {
+    "id": 57,
+    "titulo": "A porta que fechou por fora",
+    "setores": ["logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é câmara fria, e eu quero começar com uma pergunta pra quem entra em uma: se a porta fechar com você lá dentro, agora, você sabe como sair? Sem precisar que alguém abra por fora? Se a resposta for não, esse DDS é o mais importante que você vai ouvir esse mês.",
+    "caso": "Deixa eu contar. Um funcionário entrou numa câmara fria pra pegar material, coisa rápida, dois minutos. A porta encostou atrás dele. E aí veio o problema: aquela câmara não tinha o dispositivo de abertura pelo lado de dentro funcionando, tinha sido danificado tempos antes e ninguém consertou porque 'nunca ninguém ficou preso'. Ele ficou trancado. Gritou, bateu na porta, mas câmara fria é isolada e o barulho não passa. E o frio de uma câmara não é como o frio da rua: ele tira calor do corpo muito rápido, principalmente de quem entrou de roupa normal pra pegar uma coisa rapidinho. Em pouco tempo os dedos param de responder, o raciocínio fica lento, e a pessoa perde a capacidade de reagir. Ele foi encontrado depois de um tempo longo demais, com hipotermia séria. E como sempre, o dispositivo que ia salvar ele existia no projeto, mas tava quebrado havia meses e ninguém tinha reportado, porque nunca tinha feito falta.",
+    "regra": "Câmara fria tem quatro riscos que andam juntos: aprisionamento, hipotermia, piso escorregadio por gelo, e em muitos sistemas de refrigeração tem amônia, que é gás tóxico se vazar. As regras: nunca entra sem conferir se o dispositivo de abertura interno funciona, e testar isso é rápido. Avisa alguém que vai entrar, sempre, mesmo pra dois minutos. Usa a roupa térmica de verdade, não entra de camiseta achando que é rápido. Não bloqueia nem escora a porta com material. E se o dispositivo de abertura interno estiver quebrado, a câmara não recebe ninguém até ser consertada, isso não é negociável. Se sentir cheiro forte e irritante perto do sistema de refrigeração, sai da área e avisa, porque pode ser vazamento de amônia.",
+    "discussao": [
+      "O dispositivo de abertura por dentro das nossas câmaras funciona? Alguém testou recentemente?",
+      "A gente avisa alguém antes de entrar, ou entra e sai sem falar nada?",
+      "Vocês entram com roupa térmica adequada ou entram de roupa normal quando é rápido?"
+    ],
+    "frase": "Entrar leva dois segundos. Sair, só se a porta deixar.",
+    "fechamento": "Combinado de hoje: antes de entrar em câmara fria, testa a abertura interna e avisa alguém. Roupa térmica sempre, mesmo pra serviço rápido. E dispositivo quebrado significa câmara interditada até consertar. Hoje eu vou testar todas com vocês. Bom trabalho, pessoal."
+  },
+  {
+    "id": 58,
+    "titulo": "O instinto de pular é o que mata",
+    "setores": ["logistica", "frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje eu vou falar uma coisa que vai contra o instinto de vocês, e eu preciso que vocês guardem, porque no dia que acontecer não vai dar tempo de pensar. Pergunta: se a empilhadeira que você tá operando começar a tombar, o que você faz? A resposta que vem na cabeça de quase todo mundo é pular pra fora. E é exatamente ela que mata.",
+    "caso": "Deixa eu explicar por que o instinto engana. Quando uma empilhadeira começa a tombar de lado, o operador sente a máquina indo e o corpo grita pra sair dali, porque parece que ficar dentro é ser esmagado junto. Só que a empilhadeira tem o protetor de cabine, aquela estrutura de metal em cima da cabeça do operador, e é justamente ela que forma um espaço protegido quando a máquina deita. Quem fica dentro, preso pelo cinto, fica dentro desse espaço. Quem pula, sai do espaço protegido e cai no chão exatamente na direção pra onde a máquina tá indo. E aí o protetor de cabine, que ia proteger, desce em cima dele. É o que acontece na maioria dos casos fatais de tombamento: a vítima não morreu esmagada dentro da máquina, morreu esmagada do lado de fora, depois de pular. O tombamento acontece em pouco mais de um segundo, tempo em que ninguém consegue correr pra longe o suficiente.",
+    "regra": "Se a empilhadeira começar a tombar, a regra treinada é: não pula. Você se segura firme no volante, planta os pés, se inclina no sentido contrário ao tombamento e continua no assento, com o cinto preso. O cinto é o que te mantém dentro da área protegida. E é por isso que o cinto na empilhadeira não é frescura de fiscalização, ele é a peça que decide se você fica dentro ou vai parar embaixo. Mas antes disso tudo, o que evita o tombamento é o básico: não excede a capacidade de carga, não anda com garfo alto, reduz nas curvas, atenção em piso irregular, rampa e beira de doca, e nunca faz curva com carga elevada.",
+    "discussao": [
+      "Quem aqui usaria cinto na empilhadeira mesmo se ninguém cobrasse? Depois desse DDS, mudou alguma coisa?",
+      "Onde nossos pisos, rampas e docas oferecem mais risco de tombamento?",
+      "A gente já se pegou andando com o garfo alto ou fazendo curva com carga levantada?"
+    ],
+    "frase": "Quem fica dentro é protegido pela cabine. Quem pula, é esmagado por ela.",
+    "fechamento": "Combinado de hoje: cinto sempre na empilhadeira, garfo baixo pra circular, e se tombar, você não pula, você se segura e se inclina pro lado contrário. Guarda isso, porque na hora não vai dar tempo de raciocinar, só de reagir. Bom trabalho, pessoal."
+  },
+  {
+    "id": 59,
+    "titulo": "A faísca que veio do nada",
+    "setores": ["frota", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta pra começar: quem aqui já levou aquele choquinho ao encostar na porta do carro ou na maçaneta, daqueles secos que dão um estalo? Isso é eletricidade estática. Parece só um incômodo bobo. Perto de combustível ou de produto inflamável, é a coisa que acende o fogo.",
+    "caso": "Deixa eu explicar como isso acontece, porque é uma das causas de incêndio que mais surpreende as pessoas. Quando um líquido escorre por uma mangueira, quando você atrita duas superfícies, quando você levanta e senta no banco do veículo, o movimento vai acumulando carga elétrica. Ela fica guardada no corpo ou no equipamento, sem você sentir nada. Quando você encosta em alguma coisa que descarrega essa carga, sai uma faísca, aquele estalo. É pequena, quase invisível, e não machuca ninguém. Só que perto de um bocal de abastecimento, o ar tá cheio de vapor de combustível, e vapor de combustível pega fogo com uma faísca minúscula. É por isso que existem casos de incêndio em posto e em transferência de produto onde o motorista jura que não tinha fogo nenhum ali, ninguém fumou, ninguém acendeu nada. Não tinha mesmo. A faísca veio do próprio corpo dele, quando ele voltou pro veículo durante o abastecimento e desceu de novo, gerando carga no atrito com o banco.",
+    "regra": "Por isso, em abastecimento e em transferência de inflamável, as regras são: motor desligado sempre. Aterramento e ligação equipotencial conectados antes de começar a transferir, e é isso que dá caminho pra carga escoar sem virar faísca. Não entra e não sai do veículo durante o abastecimento, porque é o atrito com o banco que carrega o corpo. Se precisar sair, encosta na parte metálica longe do bocal antes de chegar perto. Nada de celular na área. E não abastece recipiente que esteja em cima da carroceria ou de superfície isolante, ele tem que estar no chão.",
+    "discussao": [
+      "A gente faz aterramento nas transferências de produto aqui? Quem confere se está conectado?",
+      "Alguém já entrou e saiu do veículo durante o abastecimento? Isso é justamente o que carrega o corpo.",
+      "Onde a gente tem risco de vapor inflamável no ar sem perceber?"
+    ],
+    "frase": "Não precisa de fogo pra começar um incêndio. Precisa só de uma faísca do seu próprio corpo.",
+    "fechamento": "Combinado de hoje: abastecimento e transferência com motor desligado, aterramento conectado, e ninguém entra e sai do veículo no meio. Faísca de estática você não vê e não sente, mas o vapor de combustível vê. Bom trabalho, pessoal."
+  },
+  {
+    "id": 60,
+    "titulo": "O que o turno passado deixou pra você",
+    "setores": ["geral", "industria", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje eu quero falar de um momento específico do dia que é mais perigoso do que parece: a troca de turno. Pergunta pra vocês: hoje de manhã, quando vocês assumiram, alguém contou o que ficou pendente do turno anterior? Ou vocês assumiram no escuro, descobrindo os problemas ao longo do dia?",
+    "caso": "Deixa eu contar. Num turno da noite, uma equipe deixou um equipamento parcialmente desmontado, no meio de uma manutenção que não terminou. Eles sabiam exatamente o estado da coisa: faltava recolocar uma peça e o sistema não podia ser acionado. Quando o turno acabou, a passagem de serviço foi corrida, no portão, com meia dúzia de palavras, e essa informação específica não foi dita, ou foi dita e não foi entendida no barulho. O turno da manhã chegou, viu o equipamento no lugar de sempre, e acionou pra começar a produzir, porque não tinha motivo nenhum pra desconfiar. O equipamento estava incompleto e falhou de um jeito perigoso, e alguém se machucou. Ninguém errou tecnicamente. O turno da noite fez o serviço certo e o da manhã fez o procedimento certo. O acidente aconteceu no vão entre os dois, num lugar onde não tem máquina nem ferramenta: na conversa de trinta segundos que não aconteceu direito.",
+    "regra": "Passagem de turno é uma tarefa de segurança, não é formalidade. Ela precisa de quatro coisas ditas em voz alta e, quando possível, registradas: o que ficou pendente ou incompleto, o que quebrou ou tá com defeito, o que mudou em relação ao normal, e o que aconteceu de anormal no turno, incluindo quase-acidente. E ela tem que ser feita com os dois lados presentes, sem pressa de bater o ponto. Se você não recebeu essas informações ao assumir, você não começa achando que tá tudo normal: você pergunta. Assumir turno no escuro é começar o dia com riscos que outra pessoa conhecia e você não.",
+    "discussao": [
+      "Hoje, quando vocês assumiram, ficou claro o que estava pendente e o que estava com defeito?",
+      "Como a gente faz a passagem hoje? Dá pra combinar um jeito rápido e que não dependa de memória?",
+      "Já teve aqui algum susto por causa de informação que não passou entre turnos?"
+    ],
+    "frase": "O acidente não mora no turno da noite nem no da manhã. Mora no vão entre os dois.",
+    "fechamento": "Combinado de hoje: passagem de turno com os dois lados presentes, dizendo o que ficou pendente, o que quebrou, o que mudou e o que aconteceu de anormal. E se você assumiu sem receber isso, pergunta antes de acionar qualquer coisa. Bom trabalho, pessoal, e passem bem o bastão hoje."
   }
 ]
