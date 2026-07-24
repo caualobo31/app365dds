@@ -1388,5 +1388,165 @@
     ],
     "frase": "Com raiva, a atenção diminui e a força aumenta. É a pior combinação que existe.",
     "fechamento": "Combinado de hoje: cabeça quente é condição de trabalho, e eu quero saber. Chegou muito abalado, me procura antes de encostar na máquina que a gente ajusta. E briga entre a gente se resolve antes de voltar pra operação. Bom trabalho, pessoal, e se cuidem por dentro também."
+  },
+  {
+    "id": 91,
+    "titulo": "O rótulo está te avisando",
+    "setores": ["industria", "geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje eu quero ensinar a ler uma coisa que passa na frente de vocês todo dia e que quase ninguém olha de verdade: o rótulo do produto químico. Pergunta: você sabe o que significam aqueles losangos vermelhos com desenho preto dentro? Se não sabe, o rótulo está te avisando de um perigo e você não está escutando.",
+    "caso": "Deixa eu passar os principais, porque são poucos e são padronizados no mundo inteiro. Aquela caveira com dois ossos quer dizer que o produto é tóxico e pode matar em pouca quantidade, por ingestão, contato ou inalação. O desenho de líquido pingando e corroendo uma mão e uma superfície quer dizer corrosivo: queima a pele e o olho no contato. A chama quer dizer inflamável. A chama em cima de um círculo é diferente e engana muita gente: quer dizer oxidante, ou seja, ele não pega fogo sozinho, mas faz o fogo dos outros ficar muito mais violento. O ponto de exclamação é irritante, causa alergia e irritação, é o menos grave da lista. E tem um que quase ninguém sabe e é dos mais sérios: a silhueta de uma pessoa com uma estrela no peito. Esse quer dizer perigo grave à saúde, e é o pictograma de produto que pode causar câncer, dano a órgão ou problema respiratório com a exposição repetida. Ele não te avisa de nada hoje, ele avisa do que vem em dez anos. E tem mais uma coisa no rótulo: a palavra de advertência. Quando está escrito PERIGO, o risco é mais grave. Quando está escrito ATENÇÃO, é menos grave. Não é a mesma coisa e não é escolha de quem escreveu.",
+    "regra": "Então a rotina é: antes de usar um produto que você não conhece, você olha os pictogramas, lê a palavra de advertência e lê as frases de precaução, que dizem qual EPI usar e o que fazer em caso de contato. E existe a FISPQ, a ficha de segurança do produto, que tem que estar acessível pra todo mundo que manuseia. Ela diz tudo: os riscos, o EPI certo, o que fazer em vazamento, o que fazer em contato com a pele e o olho, e o que informar ao médico. Se você não sabe onde ela fica, me pergunta hoje. E a regra que fecha: produto sem rótulo legível ninguém usa, porque produto sem identificação é produto desconhecido, mesmo que alguém jure que sabe o que é.",
+    "discussao": [
+      "Alguém consegue me dizer agora qual pictograma tem no produto que vocês mais usam?",
+      "Vocês sabem onde ficam as fichas de segurança dos nossos produtos?",
+      "Tem produto rodando aqui com rótulo apagado, rasgado ou sem identificação?"
+    ],
+    "frase": "O rótulo não é enfeite da embalagem. É a bula do que aquilo faz com você.",
+    "fechamento": "Combinado de hoje: antes de usar produto novo, olha o pictograma e lê a precaução. Produto sem rótulo legível não se usa. E hoje eu vou mostrar pra vocês onde ficam as fichas de segurança, pra ninguém mais ficar sem saber. Bom trabalho, pessoal."
+  },
+  {
+    "id": 92,
+    "titulo": "A barba que deixa o ar entrar",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje eu vou falar uma coisa que incomoda e que eu preciso falar mesmo assim, porque é sobre a proteção respiratória de vocês funcionar ou não funcionar. Pergunta: quem aqui usa respirador com máscara que veda no rosto e tem barba? E quem sabia que a barba faz aquela máscara proteger muito menos, às vezes quase nada?",
+    "caso": "Deixa eu explicar como funciona, porque não é implicância. O respirador com vedação facial funciona assim: o ar tem que ser obrigado a passar pelo filtro, e não por nenhum outro caminho. Pra isso, a borracha da máscara precisa encostar na pele e formar um selo, sem nenhuma folga. Quando tem pelo no caminho desse selo, o pelo cria pequenos canais por onde o ar entra sem passar pelo filtro. E o ar sempre vai pelo caminho mais fácil: se tem uma fresta, ele entra por ali, não pelo filtro que oferece resistência. Estudos com medição mostram que a proteção despenca com barba, e não é só barba cheia: até a barba por fazer de um ou dois dias já compromete o selo. Um trabalhador usou respirador durante anos, com barba, e se sentia protegido porque estava usando o equipamento certo, com o filtro certo, todo dia. Ele estava respirando o contaminante o tempo todo. O equipamento não falhou. O selo nunca existiu.",
+    "regra": "Então as regras: quem usa respirador de vedação facial precisa estar barbeado na região onde a borracha encosta. Bigode e cavanhaque fora da área do selo podem ficar. Antes de cada uso, faz o teste rápido de vedação, que leva cinco segundos: tapa a saída de ar com a mão e expira devagar, a máscara tem que inflar levemente sem vazar pelas bordas; depois tapa a entrada dos filtros e inspira, a máscara tem que colar no rosto e ficar colada. Se vazar em qualquer um dos dois, o tamanho está errado, a borracha está ressecada ou tem pelo no caminho. E se por qualquer motivo alguém não puder se barbear, existe alternativa: equipamento com ar mandado ou capuz com pressão positiva, que não depende do selo na pele. A solução existe, o que não existe é usar máscara de vedação com barba e achar que está protegido.",
+    "discussao": [
+      "Quem aqui usa respirador de vedação e tem barba na área do selo? Preciso saber pra a gente resolver.",
+      "Quem já fez o teste de vedação antes de usar? Vamos fazer todo mundo junto agora.",
+      "As borrachas dos nossos respiradores estão macias ou já estão ressecadas e duras?"
+    ],
+    "frase": "O ar entra pelo caminho mais fácil. Se tem barba no selo, o filtro é enfeite.",
+    "fechamento": "Combinado de hoje: quem usa respirador de vedação, barbeado na área do selo e teste de vedação antes de cada uso. E se não der pra barbear, me procura que a gente vê o equipamento alternativo. Não quero ninguém achando que está protegido sem estar. Bom trabalho, pessoal."
+  },
+  {
+    "id": 93,
+    "titulo": "O protetor que quase todo mundo usa errado",
+    "setores": ["industria", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Pergunta pra quem usa protetor auricular de inserção, aquele de espuma ou de silicone que entra no ouvido: como você coloca? Se a sua resposta for pegar e enfiar direto no ouvido, você está usando errado, e a maior parte das pessoas usa errado. E usado errado, ele protege uma fração do que deveria.",
+    "caso": "Deixa eu explicar. O canal do ouvido não é reto e não é largo. Quando você pega o protetor de espuma e simplesmente empurra na entrada do ouvido, ele fica parado na boca do canal, sem entrar de verdade e sem vedar. Fica parecendo que está protegido, mas o barulho continua entrando pelas frestas. Medições feitas em campo mostram exatamente isso: a proteção que o fabricante testou em laboratório com inserção correta é muito maior do que a proteção que a pessoa realmente recebe no dia a dia, e a diferença é quase toda por causa da inserção errada. Um operador usou protetor todo dia por anos, sempre, sem falhar um dia, e mesmo assim desenvolveu perda auditiva. Ele não foi negligente. Ele nunca soube que existia jeito certo de colocar.",
+    "regra": "O jeito certo do protetor de espuma tem três passos e leva dez segundos. Primeiro: enrola e comprime a espuma entre os dedos até ficar bem fininha, como um palito. Segundo: passa a mão por cima da cabeça e puxa a orelha pra cima e pra trás, porque isso endireita o canal e abre caminho. Terceiro: insere e segura o dedo ali por alguns segundos, até a espuma expandir dentro do canal. Se você soltar antes de expandir, ele volta pra fora sozinho. Pra conferir se ficou certo, tem um teste simples: com os dois colocados, você fala em voz alta e a sua própria voz tem que soar abafada e cheia dentro da cabeça. Se sua voz soar normal, não vedou. E pro protetor tipo concha, o que estraga a vedação é o que passa por baixo: haste de óculos, capuz, gorro, cabelo grosso, e a própria concha frouxa ou com espuma ressecada.",
+    "discussao": [
+      "Vamos fazer todo mundo colocar agora, com os três passos. Enrola, puxa a orelha, segura até expandir.",
+      "Agora fala em voz alta: a sua voz ficou abafada? Se não, tira e coloca de novo.",
+      "Quem usa concha: tem haste de óculos ou capuz passando por baixo da vedação?"
+    ],
+    "frase": "Enfiar não é inserir. Se a sua voz soa normal, o protetor não está protegendo.",
+    "fechamento": "Combinado de hoje: enrola, puxa a orelha pra cima e pra trás, insere e segura até expandir. E confere pela própria voz. Todo mundo vai fazer isso agora comigo antes de ir pro serviço. Bom trabalho, pessoal, e protejam a audição direito hoje."
+  },
+  {
+    "id": 94,
+    "titulo": "O cesto sobe com você dentro",
+    "setores": ["construcao", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é plataforma elevatória, aquela de tesoura e a de lança com cesto. Ela é bem mais segura que andaime e que escada, e é justamente por isso que ela engana: como o cesto tem guarda-corpo em volta, a pessoa sobe achando que está numa varanda. Não está. Pergunta: quem aqui já subiu em plataforma e não usou o cinto lá dentro, porque tinha guarda-corpo?",
+    "caso": "Deixa eu explicar o que mata em plataforma elevatória, porque quase nunca é a plataforma quebrando. São três coisas, todas de comportamento. A primeira é a ejeção: se a máquina passa num buraco, encosta em alguma coisa, ou é atingida, o cesto balança lá em cima com uma amplitude enorme, e a pessoa é catapultada por cima do guarda-corpo. É por isso que existe cinto lá dentro. A segunda é a esmagamento entre o cesto e uma estrutura acima: a pessoa está operando o comando, sobe olhando pra frente e não pra cima, e o corpo dela é prensado entre o guarda-corpo e uma viga, um teto, um duto. Isso mata em segundos e é uma das causas mais frequentes. A terceira é o tombamento da máquina inteira, quase sempre por piso mole, buraco, desnível, rampa ou peso mal distribuído. E teve um caso clássico que junta duas: o trabalhador precisava alcançar um ponto um pouco mais alto do que a plataforma chegava, então subiu no guarda-corpo do próprio cesto pra ganhar altura. Perdeu o equilíbrio e caiu por fora.",
+    "regra": "As regras: cinto de segurança sempre, com o talabarte preso no ponto de ancoragem que fica dentro do cesto, e nunca preso em estrutura fora do cesto, porque se a máquina se mover você fica pendurado. Nunca subir no guarda-corpo, em escada ou em caixote dentro do cesto pra ganhar altura, porque não existe altura extra segura. Antes de subir, avalia o piso: firme, nivelado, sem buraco, sem tampa de bueiro, sem borda de vala, e respeita a inclinação máxima da máquina. Olha pra cima antes e durante a subida, procurando viga, duto, rede elétrica e teto. Portão do cesto fechado e travado. Respeita a capacidade de carga, que conta gente mais ferramenta mais material. E ninguém circula embaixo da plataforma enquanto ela estiver operando.",
+    "discussao": [
+      "A gente usa plataforma aqui? Todo mundo que opera é treinado e habilitado?",
+      "Onde fica o ponto de ancoragem dentro do cesto? Quem sabe apontar?",
+      "Nossos pisos de operação são firmes, ou tem lugar com buraco, rampa e desnível?"
+    ],
+    "frase": "O guarda-corpo não é varanda. Ele segura você em pé, não segura você dentro.",
+    "fechamento": "Combinado de hoje: cinto preso no ponto dentro do cesto, ninguém sobe no guarda-corpo, piso avaliado antes, e olho pra cima o tempo todo na subida. Precisou de mais altura, desce e reposiciona a máquina. Bom trabalho, pessoal."
+  },
+  {
+    "id": 95,
+    "titulo": "A poeira que explode",
+    "setores": ["industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje eu vou falar de uma coisa que parece mentira e é real: poeira pode explodir. Farinha, açúcar, serragem, ração, pó de alumínio, carvão, amido. Material que na mão da gente é inofensivo, quando vira nuvem de pó fina no ar, explode com força de bomba. Pergunta: alguém aqui já tinha ouvido falar disso?",
+    "caso": "Deixa eu explicar por que acontece. Um punhado de farinha não pega fogo fácil, porque o oxigênio só alcança a superfície de fora. Agora, quando essa mesma farinha vira uma nuvem de partículas finas suspensas no ar, cada partícula fica cercada de oxigênio por todos os lados, e a queima acontece em todas ao mesmo tempo. Isso não é fogo, é explosão. Pra acontecer, precisam de cinco coisas juntas: o pó combustível, o oxigênio, uma fonte de ignição, a dispersão em nuvem e o confinamento do ambiente. E agora vem a parte mais importante desse DDS, e a que explica por que essas tragédias são tão devastadoras: a primeira explosão quase nunca é a que mata. Ela costuma ser pequena, num equipamento, num silo, num elevador de canecas. O que ela faz é sacudir o prédio inteiro e levantar toda a poeira que estava acumulada em cima das vigas, dos dutos, das luminárias, dos cantos altos, aquela poeira que ninguém limpa porque está fora do alcance e não incomoda ninguém. Essa poeira levantada forma uma nuvem gigante por todo o galpão. E aí vem a segunda explosão, que é a que destrói a instalação e mata as pessoas.",
+    "regra": "Por isso a principal medida de prevenção contra explosão de pó não é sofisticada, é limpeza, e principalmente limpeza das superfícies altas onde ninguém olha. Camada fina de pó acumulada em viga e duto é combustível estocado esperando o dia. E tem o jeito de limpar: nunca com ar comprimido, porque ele faz exatamente o que a explosão faria, levanta a nuvem. Se limpa com aspirador adequado, ou com método úmido, ou varrendo com cuidado pra não levantar. Além disso: controle das fontes de ignição, o que inclui equipamento elétrico adequado, aterramento contra estática, e nada de solda e esmerilhadeira na área sem liberação. E vazamento de pó em equipamento se corrige, não se convive.",
+    "discussao": [
+      "A gente trabalha com algum material que vira pó fino? Vamos listar quais.",
+      "Tem poeira acumulada em viga, duto e luminária aqui? Quando foi a última vez que alguém olhou pra cima?",
+      "A gente limpa pó com ar comprimido em algum lugar? Isso precisa mudar."
+    ],
+    "frase": "A primeira explosão não é a que mata. Ela só levanta a poeira pra segunda.",
+    "fechamento": "Combinado de hoje: limpeza de poeira sem ar comprimido, e olho nas superfícies altas, que é onde o combustível se acumula. E qualquer vazamento de pó em equipamento eu quero saber. Hoje a gente vai olhar pra cima juntos. Bom trabalho, pessoal."
+  },
+  {
+    "id": 96,
+    "titulo": "Onde o celular não entra",
+    "setores": ["industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é área classificada, que é como a gente chama o lugar onde pode existir gás, vapor ou pó inflamável no ar. Pergunta pra começar: você sabe quais áreas daqui são classificadas? E sabe por que o celular comum não pode entrar nelas, mesmo que você não vá usar?",
+    "caso": "Deixa eu explicar a lógica, porque ela é diferente de tudo que a gente já conversou. Nas outras áreas, a regra é não gerar faísca. Em área classificada, a premissa é outra: parte-se do princípio de que pode existir uma mistura explosiva no ar a qualquer momento, e por isso todo equipamento que entra ali precisa ser incapaz de gerar faísca ou calor suficiente pra acender essa mistura. Isso é o que se chama equipamento à prova de explosão, o equipamento Ex, e ele tem certificação e placa de identificação. E aí está a questão do celular: o celular comum não é certificado. Ele tem bateria, tem circuito, esquenta e pode gerar faísca em situação de falha ou de choque. Ninguém consegue garantir que ele não vai gerar ignição. Não é sobre tocar ou vibrar, é sobre não ter garantia nenhuma. A mesma lógica vale pra lanterna comum, rádio comum, câmera, ferramenta elétrica comum, e até pro carro que entra na área. Um trabalhador entrou numa área dessas com o celular no bolso, não pra usar, só porque estava no bolso e ele nem lembrou. Não aconteceu nada naquele dia, e é por isso que a prática vira hábito: porque na esmagadora maioria das vezes não acontece nada. Até o dia em que as três coisas coincidem.",
+    "regra": "As regras: em área classificada só entra equipamento certificado pra aquela área. Celular, rádio e lanterna comuns ficam do lado de fora, mesmo desligados, mesmo no bolso. Ferramenta que gera faísca só com liberação e com a atmosfera medida. Roupa sintética favorece acúmulo de estática, então usa a vestimenta indicada e calçado adequado, e respeita os pontos de aterramento. Nada de fumar em raio nenhum. E o mais importante do dia a dia: você precisa saber onde começa e onde termina a área classificada, porque ela é delimitada e sinalizada justamente pra isso. Se você não sabe apontar os limites, você não sabe quando está dentro.",
+    "discussao": [
+      "Quais são as áreas classificadas daqui? Vocês conseguem apontar onde elas começam?",
+      "A gente tem entrado com celular nessas áreas sem pensar?",
+      "Os nossos equipamentos nessas áreas são certificados? Alguém sabe identificar a placa?"
+    ],
+    "frase": "Não é sobre o celular tocar. É sobre ninguém poder garantir que ele não vai faiscar.",
+    "fechamento": "Combinado de hoje: área classificada só recebe equipamento certificado. Celular e rádio comuns ficam fora, mesmo desligados. E hoje eu vou mostrar pra todo mundo onde exatamente começam essas áreas aqui. Bom trabalho, pessoal."
+  },
+  {
+    "id": 97,
+    "titulo": "Uma mão só comanda",
+    "setores": ["construcao", "logistica", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é a comunicação durante manobra e içamento, quando o operador não enxerga tudo e depende de alguém no chão. Pergunta: quando a gente faz uma manobra dessas aqui, quantas pessoas ficam dando sinal pro operador? Se a resposta for mais de uma, esse é o problema que eu quero resolver hoje.",
+    "caso": "Deixa eu contar. Numa movimentação de carga, o operador estava com a visão parcialmente bloqueada e dependia de sinal. Tinha o sinaleiro designado, mas tinha também outras pessoas em volta acompanhando o serviço, e com a melhor das intenções elas também começaram a fazer gestos e a gritar orientação. O operador, lá de cima, com o barulho do equipamento, passou a receber informação de três lugares diferentes ao mesmo tempo. Uma pessoa mandava seguir, outra mandava parar, outra apontava pra um lado. Ele fez o que qualquer um faria: tentou interpretar e escolheu uma. Escolheu errado, ou obedeceu com atraso, e a carga foi parar onde não devia. Alguém se machucou. E não teve um culpado óbvio, porque todo mundo estava tentando ajudar. O erro estava no arranjo: quando todo mundo comanda, ninguém comanda.",
+    "regra": "As regras da comunicação em manobra são poucas e salvam muito. Primeira e mais importante: um único sinaleiro designado, identificado, e o operador obedece só a ele. Segunda: os sinais têm que ser combinados antes de começar, e todo mundo tem que conhecer os mesmos gestos. Terceira: se o operador perder o sinaleiro de vista, ele para imediatamente, e só volta a se mover quando reencontrar o sinal. Não improvisa, não continua no que estava fazendo. Quarta, e essa é a exceção que existe de propósito: o sinal de parada de emergência pode ser dado por qualquer pessoa, não só pelo sinaleiro, e o operador para na hora, sem discutir e sem procurar entender quem foi. E o sinaleiro fica sempre num ponto de onde ele enxerga a carga inteira e de onde o operador enxerga ele, e nunca embaixo da carga nem na linha de movimento.",
+    "discussao": [
+      "Nas nossas manobras, tem um sinaleiro definido ou todo mundo ajuda a orientar?",
+      "Todo mundo aqui conhece os mesmos sinais de mão? Vale a gente combinar hoje.",
+      "Vocês sabiam que qualquer um pode dar o sinal de parada de emergência?"
+    ],
+    "frase": "Quando todo mundo comanda, ninguém comanda. Um sinaleiro só.",
+    "fechamento": "Combinado de hoje: um sinaleiro designado por manobra, sinais combinados antes, e operador para na hora que perder o sinaleiro de vista. E parada de emergência qualquer um pode dar, e o operador para sem discutir. Bom trabalho, pessoal."
+  },
+  {
+    "id": 98,
+    "titulo": "A carga que empurra o caminhão",
+    "setores": ["frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. A gente já falou aqui sobre amarração de carga sólida. Hoje é sobre um tipo de carga que não dá pra amarrar de jeito nenhum: líquido em tanque. Pergunta pra quem já dirigiu tanque parcialmente cheio: você sente a diferença? Aquela sensação de que o caminhão continua empurrando depois que você freou é real, e tem explicação.",
+    "caso": "Deixa eu explicar. Quando o tanque está completamente cheio, o líquido não tem pra onde ir, ele fica travado e se comporta quase como carga sólida. Quando o tanque está vazio, não tem massa nenhuma se mexendo. O problema é o meio termo, o tanque parcialmente cheio, que é a situação mais comum durante uma rota com várias entregas. Ali o líquido tem espaço pra se movimentar dentro do tanque, e ele se movimenta com toda a massa dele. Na frenagem, aquela massa toda avança pra frente e bate na parede dianteira, empurrando o veículo pra frente depois que você já pisou no freio, aumentando a distância de parada. Na curva, ela joga pro lado de fora e ajuda a tombar. E na aceleração e nas ondulações da pista, ela balança de um lado pro outro criando um efeito de pêndulo que pode ir aumentando. Um motorista experiente, que dirigia carga seca havia anos, passou a fazer transporte de líquido e frenou como sempre frenava numa aproximação. O veículo não parou onde ele esperava, porque o líquido continuou empurrando. Ele não errou o freio, ele calculou com a experiência de uma carga que se comporta de outro jeito.",
+    "regra": "Então as regras pra quem transporta líquido: freia com muito mais antecedência e mais suave, porque a distância de parada real é maior do que a sensação. Reduz mais e mais cedo antes da curva, e nunca corrige velocidade no meio dela. Evita frenagem e manobra brusca, porque é a mudança repentina que joga a massa. Atenção redobrada em rotatória, alça de acesso, curva descendente e vento lateral, que é onde o tombamento acontece. Cuidado especial com o tanque parcialmente cheio, que é a pior condição das três. E respeita a diferença entre tanque com quebra-ondas e tanque liso, porque a compartimentação muda muito o comportamento. Acima de tudo: a experiência que você tem de carga seca não vale aqui, esse veículo responde diferente.",
+    "discussao": [
+      "Quem aqui já sentiu o líquido empurrar o veículo numa freada? Como foi?",
+      "Nossos tanques têm quebra-ondas ou são lisos? A gente sabe a diferença no comportamento?",
+      "Quais trechos das nossas rotas têm curva ou rotatória que merecem atenção redobrada?"
+    ],
+    "frase": "Você freou. A carga não. Ela ainda vem vindo por dentro.",
+    "fechamento": "Combinado de hoje: com líquido, frenagem antecipada e suave, redução antes da curva e nada de manobra brusca. E atenção máxima com tanque pela metade, que é a pior condição. Bom trabalho, pessoal, e boa viagem."
+  },
+  {
+    "id": 99,
+    "titulo": "O sol de todo dia cobra depois",
+    "setores": ["construcao", "frota", "geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. A gente já falou aqui de calor e de hidratação. Hoje é sobre outra coisa que o sol faz e que ninguém sente no dia: o dano na pele e no olho. Pergunta pra quem trabalha exposto: quem aqui passa protetor solar antes de começar o turno? Provavelmente pouca gente. E quem já teve uma mancha, uma ferida que não cicatriza, uma pinta que mudou?",
+    "caso": "Deixa eu colocar em números, porque é o que convence. Uma pessoa que trabalha exposta ao sol recebe, ao longo dos anos, uma dose de radiação ultravioleta muitas vezes maior do que quem trabalha em ambiente fechado e vai à praia nos fins de semana. Não é a queimadura de um dia de praia que causa o problema, é a soma de milhares de dias de exposição comum, aquela do trabalho normal, que nem parece exposição porque não queima e não dói. E o dano é cumulativo e permanente. O câncer de pele é o câncer mais comum do Brasil, e trabalhador exposto está no grupo de maior risco. Além da pele, o ultravioleta atinge o olho e contribui pra catarata. Um trabalhador de canteiro passou trinta anos assim, sem nunca ter tido uma queimadura séria, sem nunca ter se preocupado, porque sol era só parte do serviço. Descobriu uma lesão no rosto que não cicatrizava e demorou a procurar médico, porque parecia coisa de nada. Era câncer de pele. Foi tratável porque ele procurou a tempo, e o alerta que ficou foi esse: o dano estava se acumulando havia trinta anos e nunca tinha doído um dia.",
+    "regra": "As proteções são simples e todas juntas funcionam melhor que qualquer uma sozinha. Camisa de manga comprida e calça, com tecido de trama fechada, protege mais do que qualquer protetor solar. Protetor de nuca acoplado ao capacete, porque nuca e orelha são pontos muito atingidos e muito esquecidos. Protetor solar no rosto, orelha, nuca e mãos, aplicado antes de começar e reaplicado a cada duas ou três horas, principalmente com suor. Óculos com proteção ultravioleta, e escuro não significa protegido, o que protege é o filtro. Sombra na hora do sol mais forte sempre que a tarefa permitir. E a parte que salva de verdade: fica de olho na própria pele. Ferida que não cicatriza em algumas semanas, mancha que cresce, pinta que muda de cor, de forma ou de tamanho, tudo isso é motivo pra procurar médico, e quanto mais cedo, mais simples é o tratamento.",
+    "discussao": [
+      "A gente tem protetor solar disponível aqui? Se não tem, isso é EPI e eu vou providenciar.",
+      "Quem usa protetor de nuca no capacete? Quem nunca usou?",
+      "Alguém aqui tem alguma mancha ou ferida que não cicatriza e nunca mostrou pra ninguém?"
+    ],
+    "frase": "O sol do trabalho não queima, não dói e não avisa. Ele só soma.",
+    "fechamento": "Combinado de hoje: manga comprida, protetor de nuca, protetor solar reaplicado e óculos com filtro. E olho na própria pele: ferida que não fecha e pinta que muda, procura médico. Vou providenciar o que faltar de protetor aqui. Bom trabalho, pessoal."
+  },
+  {
+    "id": 100,
+    "titulo": "A jugular é o que segura",
+    "setores": ["geral", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje, no nosso DDS de número cem, o assunto é o EPI mais simbólico de todos e o mais mal usado: o capacete. Pergunta direta: quem aqui está com a jugular afivelada agora? Aquela tira que passa embaixo do queixo. Se está solta, pendurada ou tirada, seu capacete tem grande chance de não estar na sua cabeça no momento em que você mais precisar dele.",
+    "caso": "Deixa eu explicar por que a jugular importa tanto, porque muita gente acha que ela é só pra não voar com o vento. Pensa no que acontece numa queda: você tropeça, você desequilibra, você cai de uma altura. Antes de a cabeça bater, o corpo gira, se inclina, e o capacete solto simplesmente sai. Ele cai antes de você, e você bate a cabeça sem ele. A mesma coisa acontece quando a pessoa se abaixa pra pegar alguma coisa ou olha pra baixo trabalhando: o capacete escorrega e sai da cabeça, e é exatamente naquela posição, com a cabeça baixa e desprotegida, que o objeto pode cair de cima. A jugular é o que garante que o capacete esteja no lugar no instante do impacto, e não no chão do lado. Existem casos de trabalhador que estava usando capacete e sofreu traumatismo craniano mesmo assim, porque o equipamento se soltou milésimos antes do impacto. Ele fez tudo certo, menos afivelar.",
+    "regra": "Além da jugular, tem outras coisas que decidem se o capacete protege. A carneira, que é aquele conjunto plástico de dentro, tem que estar ajustada ao seu tamanho e íntegra, porque é ela que absorve o impacto e mantém o espaço entre o casco e o crânio. Capacete não se usa em cima de boné, porque o boné altera o ajuste e a distância. Casco com trinca, com deformação, ou que já sofreu um impacto forte, sai de uso mesmo que pareça inteiro, porque ele absorveu energia e não absorve de novo. Capacete tem prazo de validade e envelhece com sol e calor, então não se guarda no painel do carro nem em cima do vidro, que é onde ele mais se degrada. E não se perfura, não se pinta com solvente e não se cola adesivo com cola agressiva, porque tudo isso enfraquece o plástico exatamente onde ele deveria resistir.",
+    "discussao": [
+      "Olha agora pro colega do lado: quantos estão com a jugular afivelada?",
+      "Alguém aqui está com capacete trincado, com carneira quebrada ou fora do prazo?",
+      "Quem tem o hábito de usar boné por baixo ou deixar o capacete no painel do carro?"
+    ],
+    "frase": "Sem a jugular, o capacete cai antes de você. E você bate a cabeça sem ele.",
+    "fechamento": "Combinado de hoje: jugular afivelada, sempre, o dia inteiro. Carneira ajustada, sem boné por baixo, e capacete trincado ou vencido vem pra mim que eu troco. Antes de sair daqui eu quero ver todo mundo com a jugular presa. Bom trabalho, pessoal, e cabeça protegida hoje."
   }
 ]
