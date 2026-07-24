@@ -2028,5 +2028,165 @@
     ],
     "frase": "Ninguém tira o EPI por burrice. Tira porque incomoda. Então o incômodo é o que a gente resolve.",
     "fechamento": "Combinado de hoje, via de mão dupla: você não abre mão da proteção, e eu resolvo o que te faz não querer usar. EPI que incomoda me procura, a gente troca o modelo, o tamanho, acha solução. A escolha entre desconforto e risco não deveria existir. Bom trabalho, pessoal."
+  },
+  {
+    "id": 131,
+    "titulo": "Por que a prensa pede as duas mãos",
+    "setores": ["industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é prensa e equipamento de acionamento, e uma pergunta pra quem opera: você sabe por que muita prensa exige apertar dois botões ao mesmo tempo, um com cada mão, pra funcionar? Não é frescura de fabricante nem pra atrapalhar. É um dos sistemas de segurança mais inteligentes que existe, e hoje eu quero que vocês entendam a lógica, porque quem entende não burla.",
+    "caso": "Deixa eu explicar. A prensa desce com uma força enorme, capaz de esmagar e amputar num instante. O perigo é a mão estar embaixo na hora que ela desce. O comando bimanual, os dois botões, resolve isso com uma lógica simples e genial: se as suas duas mãos estão obrigatoriamente ocupadas apertando os dois botões, que ficam afastados um do outro, então é fisicamente impossível a sua mão estar embaixo da prensa no momento que ela desce. As duas mãos estão nos botões, longe da zona de perigo. Por isso os dois botões têm que ser apertados juntos e ficam distantes um do outro, pra não dar pra apertar os dois com uma mão só. Agora vem a parte trágica: um operador achava aquilo uma burocracia lenta, que atrasava a produção. Ele burlou, prendeu um dos botões com fita pra ficar sempre apertado, e passou a acionar a prensa com uma mão só, deixando a outra livre pra ajeitar a peça mais rápido. Num ciclo, a mão que ajeitava a peça ainda estava embaixo quando ele acionou com a outra. A prensa desceu. O sistema que existia exatamente pra impedir isso tinha sido anulado por ele.",
+    "regra": "As regras: dispositivo de segurança de prensa e de qualquer máquina não se burla, nunca, por nenhum motivo, e principalmente não pra ganhar velocidade. Comando bimanual existe pra garantir que suas mãos estão fora da zona de perigo, e prender um botão anula toda a proteção. Cortina de luz, aquela barreira invisível que para a máquina se algo cruza, não se desativa nem se contorna. Proteção física, grade e enclausuramento ficam no lugar. Máquina com dispositivo de segurança burlado, quebrado ou desativado não opera, e quem encontrar assim para e avisa. Ferramenta pra ajeitar e retirar peça, nunca a mão dentro da zona da prensa com ela ativa. E a regra que resume: todo dispositivo que parece atrapalhar e deixar a máquina mais lenta está te deixando mais lento de propósito, porque a lentidão dele é a distância entre a sua mão e a amputação.",
+    "discussao": [
+      "Tem alguma máquina aqui com dispositivo de segurança burlado, botão preso ou cortina desativada?",
+      "Vocês entendem por que o comando bimanual protege? Muda a vontade de burlar?",
+      "Alguém já sentiu vontade de burlar uma proteção porque ela deixava o serviço mais lento?"
+    ],
+    "frase": "Os dois botões existem pra que suas duas mãos estejam longe. Burlar é escolher onde a mão vai ficar.",
+    "fechamento": "Combinado de hoje: dispositivo de segurança não se burla, nunca, e menos ainda pra ganhar velocidade. Botão preso, cortina desativada, proteção removida, a máquina para e me avisa. A lentidão da proteção é a distância entre sua mão e a prensa. Bom trabalho, pessoal."
+  },
+  {
+    "id": 132,
+    "titulo": "A poeira da pedra que vira vidro no pulmão",
+    "setores": ["construcao", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. A gente já falou de poeira em geral. Hoje eu quero falar de uma poeira específica, a mais perigosa de todas na construção e em várias indústrias: a poeira de sílica, que vem de cortar, furar e lixar concreto, pedra, tijolo, argamassa, granito, mármore. Pergunta: quando você corta piso, bloco ou pedra a seco e levanta aquela nuvem branca, você sabe o que está respirando?",
+    "caso": "Deixa eu explicar por que a sílica é diferente e pior que a poeira comum. A sílica é o principal componente da maioria das pedras e do concreto. Quando você corta ou lixa esse material a seco, ele vira uma poeira finíssima, e as partículas menores são tão pequenas que passam por todas as defesas do corpo e chegam ao fundo do pulmão, num lugar de onde não saem mais. Lá, elas causam uma cicatrização progressiva do tecido pulmonar, uma doença que se chama silicose, que é incurável e que continua avançando mesmo depois que a pessoa para de se expor. O pulmão vai endurecendo, e a pessoa vai perdendo o fôlego pro resto da vida, até pra tarefas simples. A silicose também aumenta muito o risco de tuberculose e de câncer de pulmão. Um trabalhador cortou piso e bloco a seco por anos, sempre naquela nuvem branca, sem máscara adequada, porque parecia só poeira de obra, dessas que todo mundo respira. A doença se instalou calada e só se manifestou muito depois, quando o dano já estava feito. E o mais revoltante é que a silicose é cem por cento evitável: ela só existe porque a poeira foi respirada, e dava pra não respirar.",
+    "regra": "As regras, e a principal muda tudo: corte e furação de material que contém sílica devem ser feitos com água, o chamado corte úmido, que faz a água prender a poeira e impedir que ela vire nuvem no ar. Isso reduz a poeira drasticamente e é a medida mais eficaz que existe. Onde não dá corte úmido, usa aspiração acoplada à ferramenta, que puxa a poeira no ponto onde ela nasce. Respirador adequado para poeira fina, do tipo certo, não a máscara de pano nem a descartável comum de poeira grossa, porque a partícula de sílica é fininha demais pra elas. Ventilação e não trabalhar em ambiente fechado com a nuvem. E quem está perto também respira, então a proteção não é só de quem opera a máquina. A regra que resume: material de pedra e concreto se corta molhado, porque a poeira seca dele é vidro entrando no seu pulmão pra ficar.",
+    "discussao": [
+      "A gente corta piso, bloco, pedra ou concreto a seco em algum serviço?",
+      "Dá pra usar corte úmido ou aspiração acoplada nas nossas ferramentas?",
+      "O respirador que a gente usa é o adequado pra poeira fina, ou é máscara comum?"
+    ],
+    "frase": "A poeira da pedra é fina demais pra sair do pulmão. Ela entra pra endurecer, pra sempre.",
+    "fechamento": "Combinado de hoje: material de pedra e concreto se corta molhado, com água ou com aspiração, nunca a seco na nuvem. Respirador adequado pra poeira fina. Silicose é incurável e cem por cento evitável. Vamos ver como molhar os nossos cortes. Bom trabalho, pessoal."
+  },
+  {
+    "id": 133,
+    "titulo": "O corpo em pé o dia inteiro",
+    "setores": ["industria", "logistica", "geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. A gente falou de quem trabalha sentado. Hoje é pra quem passa o dia inteiro em pé, parado no mesmo lugar, numa bancada, numa linha, num balcão, num posto fixo. Pergunta: quem aqui termina o dia com dor nas pernas, nos pés, na lombar, com as pernas pesadas ou inchadas, e acha que é só o normal de quem trabalha em pé? Esse normal tem solução, e hoje é sobre ela.",
+    "caso": "Deixa eu explicar o que ficar em pé parado faz com o corpo. Quando você fica muito tempo em pé e imóvel, o sangue tem dificuldade de voltar das pernas pro coração, porque o que empurra o sangue de volta é o movimento dos músculos das pernas, e parado eles não se movem. O sangue se acumula, as pernas incham, ficam pesadas e doloridas, e ao longo dos anos isso favorece as varizes e problemas de circulação. Além disso, ficar em pé parado na mesma postura sobrecarrega a lombar, os joelhos e os pés, principalmente em piso duro, de concreto, e com calçado ruim. É diferente de quem anda o dia todo, porque andar movimenta e alivia; o problema é ficar parado em pé, que junta o peso da postura com a falta de movimento. Uma trabalhadora passava o turno inteiro em pé num posto fixo, no concreto, e foi acumulando dor nas pernas e na lombar que ela achava inevitável. Com o tempo virou um problema de circulação e uma dor crônica que atrapalhava até em casa.",
+    "regra": "As regras que aliviam: se dá, alterna posições, ficar em pé, sentar um pouco, andar, porque a variação é o que protege, não uma posição só. Onde o trabalho é em pé fixo, um apoio pra descansar um pé de cada vez, tipo uma barra ou um estrado baixo, ajuda muito a lombar. Tapete ergonômico ou estrado sobre o piso de concreto reduz o impacto nas pernas e na coluna. Calçado adequado, com bom amortecimento e que sirva bem, faz diferença enorme, e calçado ruim piora tudo. Pausas curtas pra sentar e pra caminhar um pouco, movimentando as pernas, ajudam o sangue a voltar. Mexer os pés e as pernas de vez em quando mesmo parado, subir na ponta dos pés, também ajuda a circulação. E se você já tem dor recorrente, pernas muito inchadas ou varizes doloridas, isso é aviso, e vale falar comigo e procurar avaliação.",
+    "discussao": [
+      "Quem aqui trabalha em pé parado e termina o dia com dor ou peso nas pernas?",
+      "A gente tem apoio pro pé, estrado ou tapete no piso duro onde se trabalha em pé?",
+      "Dá pra alternar entre ficar em pé e sentar em alguns postos?"
+    ],
+    "frase": "Ficar em pé parado não é só cansaço nas pernas. É o sangue sem conseguir voltar.",
+    "fechamento": "Combinado de hoje: quem trabalha em pé, alterna posição quando der, usa apoio pro pé, estrado no concreto e calçado bom. Pausa pra movimentar as pernas. Dor e inchaço recorrente é aviso, me procura. Vamos ver o que melhorar nos postos. Bom trabalho, pessoal."
+  },
+  {
+    "id": 134,
+    "titulo": "O cheiro de gás e o que não fazer",
+    "setores": ["geral", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é vazamento de gás, o GLP do botijão e da rede, aquele que a gente usa em cozinha industrial, em empilhadeira a gás, em maçarico, em vários lugares. Pergunta que decide vida ou morte: se você sentir cheiro forte de gás num ambiente agora, qual é a primeira coisa que você faz? Muita gente responde 'acendo a luz pra ver' ou 'ligo o exaustor', e essas duas respostas podem explodir o lugar.",
+    "caso": "Deixa eu explicar por que aquelas reações comuns são perigosas. O gás GLP, quando vaza e se acumula num ambiente, forma uma mistura com o ar que explode com qualquer faísca. E aqui está o que quase ninguém pensa na hora: acender ou apagar uma luz gera uma faísca minúscula dentro do interruptor. Ligar o exaustor ou o ventilador gera faísca no motor. Ligar um aparelho, atender o celular que toca, tudo isso pode ser a faísca que acende o ambiente cheio de gás. Ou seja, as coisas que a pessoa faz por instinto pra 'resolver', enxergar melhor ou ventilar apertando um botão, são justamente as que podem detonar a explosão. Um trabalhador sentiu cheiro forte de gás num ambiente fechado e, no reflexo de clarear pra ver de onde vinha, foi até o interruptor e acendeu a luz. A faísca do interruptor encontrou o gás acumulado. Além disso, o GLP é mais pesado que o ar, então ele se acumula embaixo, no chão, nos ralos, nos porões, e não sobe, o que engana quem acha que ventilar a parte de cima resolve.",
+    "regra": "As regras diante de cheiro de gás, na ordem: não acende nem apaga luz, não liga nem desliga nenhum aparelho, não mexe em interruptor, não atende celular ali dentro, porque qualquer um desses gera faísca. Não acende fogo, isqueiro, cigarro, nada. Abre portas e janelas com a mão pra ventilar naturalmente, sem usar exaustor elétrico. Fecha o registro do gás, do botijão ou da rede, se der pra chegar com segurança. Tira as pessoas do local. E aciona quem é responsável, de um telefone longe do vazamento, do lado de fora. Só volta quando o ambiente estiver ventilado e o vazamento controlado. Pra quem usa empilhadeira a gás, a troca de cilindro é feita em local ventilado, com o motor desligado, e conferindo se não há vazamento na conexão. A regra que resume: sentiu gás, não aperta nenhum botão, ventila abrindo na mão, fecha o registro e sai.",
+    "discussao": [
+      "Vocês sabiam que acender a luz e ligar o exaustor podem detonar um ambiente com gás?",
+      "Onde a gente usa GLP aqui, botijão, rede, empilhadeira a gás, maçarico?",
+      "Todo mundo sabe onde fica o registro pra fechar o gás em caso de vazamento?"
+    ],
+    "frase": "Sentiu gás? A luz que você vai acender pra enxergar é a faísca que explode o lugar.",
+    "fechamento": "Combinado de hoje: cheiro de gás, não aperta nenhum botão, não acende luz nem aparelho, ventila abrindo portas e janelas na mão, fecha o registro e tira todo mundo. Aciona de longe. Vamos localizar os registros de gás hoje. Bom trabalho, pessoal."
+  },
+  {
+    "id": 135,
+    "titulo": "Quem se afoga não grita",
+    "setores": ["construcao", "frota", "geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é risco de afogamento no trabalho, pra quem trabalha perto de água: obra perto de rio, barragem, poço, tanque, estação de tratamento, cais, plataforma, ou até quem faz limpeza de reservatório. Pergunta pra começar: você reconheceria uma pessoa se afogando na sua frente? A maioria diz que sim, imaginando alguém se debatendo e gritando. E quase sempre não é assim que acontece.",
+    "caso": "Deixa eu contar uma coisa que salva vida e que quase ninguém sabe: quem está se afogando de verdade, na maioria das vezes, não grita e não se debate como nos filmes. A pessoa que está afogando entra num estado em que ela não consegue gritar, porque está lutando pra respirar e a boca fica mais tempo embaixo d'água do que fora; não consegue acenar pedindo ajuda, porque instintivamente estica os braços pros lados empurrando a água pra tentar manter a cabeça fora; e fica numa posição vertical, quieta, sem chutar, com os olhos vidrados ou fechados. Pra quem olha de longe, parece que a pessoa está boiando, se ajeitando na água, ou brincando, quando na verdade ela está se afogando silenciosamente e tem menos de um minuto antes de submergir. É por isso que existem casos de pessoa que se afogou perto de outras, e ninguém percebeu, porque esperavam gritos e agitação que não vieram. Um trabalhador caiu na água perto de onde a equipe trabalhava, e os colegas demoraram a entender que ele estava em apuros, porque ele não estava se debatendo nem gritando, estava quieto, lutando calado.",
+    "regra": "As regras: onde tem risco de queda na água, colete salva-vidas é EPI, e se usa, não fica pendurado. Guarda-corpo e proteção na beira. Nunca trabalhar sozinho perto de água de risco. Ter à mão equipamento de resgate, como boia com corda, pra jogar pra pessoa, porque a regra de ouro do resgate na água é: não pula pra salvar se você não é treinado, porque quem se afoga se agarra no socorrista com uma força descontrolada e afunda os dois; joga alguma coisa que flutue e estende algo pra pessoa se segurar, do seco. E aprende a reconhecer o afogamento silencioso: pessoa quieta e vertical na água, cabeça baixa, boca na linha d'água, olhar vidrado, sem responder quando você chama, isso é emergência, não é alguém relaxando. Se a pessoa não responde ao seu chamado, aja imediatamente.",
+    "discussao": [
+      "A gente trabalha perto de água de risco em algum serviço? Onde?",
+      "Vocês sabiam que quem se afoga geralmente não grita nem se debate?",
+      "A gente tem colete e equipamento de resgate, tipo boia com corda, onde precisa?"
+    ],
+    "frase": "Quem se afoga não grita e não se debate. Fica quieto e vertical, e você tem menos de um minuto.",
+    "fechamento": "Combinado de hoje: perto de água de risco, colete é EPI, ninguém trabalha sozinho, e tem equipamento de resgate à mão. Não pula pra salvar, joga algo que flutua. E aprende o sinal do afogamento silencioso: quieto e vertical é emergência. Bom trabalho, pessoal."
+  },
+  {
+    "id": 136,
+    "titulo": "A linha amarela existe por um motivo",
+    "setores": ["industria", "logistica"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje o DDS é sobre uma coisa que está pintada no chão de quase todo galpão e que a gente pisa em cima sem pensar: a demarcação, as faixas amarelas, as áreas pintadas no piso. Pergunta: você sabe o que significa cada faixa e cada cor pintada no chão daqui? Ou você anda por cima de tudo sem reparar? Porque cada linha daquela está te dizendo alguma coisa.",
+    "caso": "Deixa eu explicar, porque a demarcação de piso é uma linguagem, e quem não a lê perde avisos importantes. As faixas delimitam onde é corredor de pedestre, por onde é seguro andar, e onde é rota de empilhadeira e de veículo, onde você não deve estar a pé. Marcam a área que tem que ficar livre na frente de equipamento de emergência, extintor, quadro elétrico, saída, porque bloquear ali significa não alcançar na hora que precisa. Marcam a área de risco em volta de uma máquina, onde você não deve entrar enquanto ela opera. Marcam onde pode e onde não pode estacionar equipamento e empilhar material. Um setor tinha a demarcação apagada, gasta pelo tempo e pelo trânsito, e ninguém repintou. Com as faixas apagadas, as pessoas passaram a andar por qualquer lugar, inclusive pela rota das empilhadeiras, e material foi sendo empilhado na frente do quadro elétrico e do extintor, porque sem a faixa ninguém lembrava que aquele espaço tinha que ficar livre. Quando houve uma emergência, o extintor estava atrás de uma pilha de material.",
+    "regra": "As regras: aprende o significado da demarcação do seu setor, o que cada faixa e cor quer dizer, e se você não sabe, pergunta hoje. Anda nos corredores de pedestre, não na rota de veículo. Mantém sempre livre a área demarcada na frente de extintor, quadro elétrico, saída de emergência e equipamento de segurança, porque a faixa ali é justamente pra ninguém bloquear. Não empilha material nem estaciona equipamento sobre demarcação que indica passagem ou área que deve ficar livre. Respeita as faixas de área de risco de máquina. E do lado da manutenção da demarcação: faixa apagada é como sinal de trânsito apagado, deixa de avisar, então demarcação gasta precisa ser repintada, e se você vê que está sumindo, avisa. A regra que resume: a linha no chão é um aviso silencioso, e apagada ou ignorada, o aviso some.",
+    "discussao": [
+      "Vocês sabem o que significa cada faixa e cor pintada no chão do nosso setor?",
+      "Tem material ou equipamento em cima de demarcação que devia ficar livre, tipo na frente de extintor?",
+      "Nossa demarcação está visível ou já está apagada e ignorada?"
+    ],
+    "frase": "A faixa no chão é um aviso silencioso. Apagada ou ignorada, o aviso deixa de existir.",
+    "fechamento": "Combinado de hoje: respeita a demarcação, anda no corredor de pedestre, e mantém livre a área na frente de extintor, quadro e saída. Faixa apagada me avisa que a gente repinta. A linha amarela existe por um motivo. Bom trabalho, pessoal."
+  },
+  {
+    "id": 137,
+    "titulo": "Improviso em altura é o pior de todos",
+    "setores": ["construcao", "geral", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. A gente já falou de altura várias vezes, de cinto, de andaime, de plataforma. Hoje eu quero falar do improviso em altura, que é quando a pessoa precisa alcançar um ponto alto e, sem o equipamento certo à mão, inventa um jeito. Pergunta: quem aqui já subiu numa cadeira, numa mesa, numa pilha de pallet, numa escada em cima de outra coisa, pra alcançar algo no alto? Esse improviso é o que mais mata em queda de baixa altura.",
+    "caso": "Deixa eu contar, e é importante entender que queda não precisa ser de muito alto pra ser grave. A maior parte das quedas com morte e sequela grave acontece de alturas relativamente baixas, dois, três metros, justamente porque nessas alturas a pessoa acha que não precisa de proteção e improvisa. Um trabalhador precisava alcançar um ponto no alto pra um serviço rápido. Não tinha escada adequada por perto, então ele fez o que parecia prático: empilhou umas coisas, subiu em cima de um tambor, ou pôs uma cadeira em cima de uma bancada, qualquer improviso desses. Aquilo não foi feito pra receber peso de gente em cima, não tinha estabilidade, não tinha apoio pra mão. Bastou ele se inclinar pra alcançar o ponto, e a base improvisada cedeu ou tombou. Ele caiu de uma altura que parecia inofensiva, mas caiu sem controle, muitas vezes batendo a cabeça ou caindo sobre algo, e o resultado foi grave. A altura era baixa, o improviso é que era mortal.",
+    "regra": "As regras: pra alcançar altura, usa o equipamento feito pra isso, escada adequada e em bom estado, escada plataforma, andaime, plataforma elevatória, banqueta ou escada apropriada pra alturas pequenas. Nunca improvisa base subindo em cadeira, mesa, bancada, tambor, pilha de pallet, caixote, ou empilhando um equipamento em cima do outro. Não coloca escada em cima de qualquer coisa pra ganhar altura. Se o equipamento certo não está disponível, você não improvisa, você para e me chama, e a gente providencia o certo, porque o improviso em altura não vale o tempo economizado. E lembra: altura baixa não é altura segura, a queda de dois metros na cabeça mata igual. A regra que resume: se pra alcançar você precisou inventar em que subir, é sinal de que falta o equipamento certo, e é hora de parar, não de improvisar.",
+    "discussao": [
+      "Você já improvisou em que subir pra alcançar altura? O que usou?",
+      "Quando falta escada ou plataforma adequada aqui, o pessoal para ou improvisa?",
+      "A gente tem escada e banqueta em bom estado e disponíveis onde precisa?"
+    ],
+    "frase": "A altura baixa engana. O improviso pra alcançar ela é o que mais mata.",
+    "fechamento": "Combinado de hoje: pra alcançar altura, só equipamento feito pra isso, nunca cadeira, mesa, tambor ou pilha. Faltou o certo, para e me chama, não improvisa. Altura baixa não é altura segura. Bom trabalho, pessoal."
+  },
+  {
+    "id": 138,
+    "titulo": "O sono ao volante não avisa",
+    "setores": ["frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o DDS é pra quem dirige em viagem, principalmente longa, e é sobre um inimigo que mata muito na estrada e que a gente subestima: o sono ao volante. Pergunta pra quem roda: você já pegou no sono, ou sentiu aquele piscar que não consegue controlar, dirigindo? E continuou porque faltava pouco pra chegar? Esse 'falta pouco' é uma das frases mais perigosas da estrada.",
+    "caso": "Deixa eu explicar por que o sono ao volante é tão traiçoeiro. Existe uma coisa chamada microssono, que é quando o cérebro apaga por alguns segundos, mesmo com os olhos abertos, sem a pessoa perceber que dormiu. Segundos. Num carro a cem por hora, alguns segundos dormindo é o veículo andando dezenas e dezenas de metros completamente sem controle, sem ninguém dirigindo. É o suficiente pra sair da pista, bater na traseira de outro veículo, ou invadir a contramão. E o mais perigoso é que a pessoa não escolhe dormir, o corpo desliga sozinho quando a privação de sono passa do limite, e ela nem percebe que aconteceu. Um motorista dirigia de madrugada, no fim de uma jornada longa, com sono, mas achava que aguentava porque faltava pouco pra chegar. Ele teve um microssono. O veículo saiu da pista. E aqui está a comparação que assusta: dirigir com muitas horas sem dormir prejudica o motorista de um jeito comparável a dirigir alcoolizado, com o reflexo e o julgamento igualmente comprometidos. A diferença é que ninguém acha bonito dirigir bêbado, mas todo mundo acha normal dirigir com sono.",
+    "regra": "As regras: sono ao volante não se vence com força de vontade, café, música alta, janela aberta ou banho, isso dá no máximo alguns minutos e engana. A única coisa que resolve o sono é dormir. Então, sentiu sono de verdade, aquele piscar difícil de controlar, cabeça pesando, bocejo atrás de bocejo, dificuldade de manter na faixa, você para em local seguro e tira um cochilo, nem que seja de vinte minutos, que já ajuda muito. Planeja a viagem com paradas de descanso e não emenda direção com noite mal dormida. Respeita os limites de tempo de direção e os intervalos, que existem exatamente por isso. Não conta com café pra substituir sono. E a decisão mais importante: se você está com muito sono e ainda falta caminho, é melhor chegar atrasado do que não chegar. Ninguém está esperando você morto por causa de pressa.",
+    "discussao": [
+      "Você já teve um microssono ou pegou no sono dirigindo? O que aconteceu?",
+      "A gente planeja parada de descanso nas viagens, ou tenta emendar tudo direto?",
+      "Vocês sabiam que dirigir com muito sono é comparável a dirigir alcoolizado?"
+    ],
+    "frase": "O microssono não avisa. O cérebro desliga por segundos, e o carro anda sozinho.",
+    "fechamento": "Combinado de hoje: sono só se resolve dormindo, café e janela aberta não vencem. Sentiu sono de verdade, para e cochila. Planeja parada, respeita os intervalos. Melhor chegar atrasado do que não chegar. Bom trabalho, pessoal, e durmam antes de pegar a estrada."
+  },
+  {
+    "id": 139,
+    "titulo": "O especialista que baixou a guarda",
+    "setores": ["geral", "industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje eu quero falar de um paradoxo da segurança que assusta quando a gente entende: quem mais domina uma tarefa perigosa é, muitas vezes, quem tem mais chance de se acidentar nela. O especialista, o mais experiente, o que faz de olho fechado. Pergunta: como pode o que mais sabe ser o que mais se machuca? A resposta explica muito acidente grave que a gente vê.",
+    "caso": "Deixa eu explicar, porque é contraintuitivo mas tem lógica clara. Quando você começa uma tarefa perigosa, você tem medo, e o medo te mantém atento, cuidadoso, seguindo cada passo. Com o tempo e a repetição, você domina, e o domínio traz confiança. Só que a confiança, se você não tomar cuidado, vira excesso de confiança, e o excesso de confiança é a queda da guarda. O especialista para de ver o perigo, porque fez mil vezes e nunca aconteceu nada. Ele pula etapas de segurança que considera desnecessárias 'pra quem sabe', ele improvisa porque 'domina o assunto', ele não usa a proteção porque 'sabe o que está fazendo'. E aí, quando o imprevisto acontece, aquele um por cento, ele está sem a proteção e sem a atenção que o iniciante medroso teria. Um profissional muito experiente, referência na função, se acidentou fazendo justamente o que fazia melhor, porque tinha deixado de seguir um cuidado que ele considerava básico demais pra alguém do nível dele. A experiência dele era real. O problema é que a experiência tinha virado confiança, e a confiança tinha virado descuido.",
+    "regra": "A regra que sai disso vale pra todos, e principalmente pros melhores: a experiência é pra ser usada pra enxergar mais perigo, não menos. O verdadeiro especialista não é o que dispensa a segurança porque domina, é o que respeita a segurança justamente porque domina e sabe do que a tarefa é capaz. Segue o procedimento sempre, por mais que conheça, porque o procedimento protege inclusive do dia em que você está distraído ou azarado. Usa o EPI sempre, porque o imprevisto não pergunta o seu nível. E desconfia da própria confiança: quando você se pegar pensando 'isso aqui eu faço dormindo, não preciso desse cuidado', esse é exatamente o pensamento que precede o acidente do experiente. E tem um papel a mais pro veterano: ele é exemplo. Quando o mais experiente burla a segurança, ele ensina os mais novos que burlar é o certo, que segurança é coisa de iniciante. O especialista de verdade protege a equipe inteira pelo exemplo.",
+    "discussao": [
+      "Você já se pegou pulando um cuidado de segurança porque 'já domina' aquela tarefa?",
+      "A gente tem a cultura de que segurança é coisa de novato, que veterano dispensa?",
+      "Os mais experientes daqui dão bom exemplo de segurança, ou mostram que dá pra burlar?"
+    ],
+    "frase": "O medo do iniciante protege ele. A confiança do especialista é que baixa a guarda.",
+    "fechamento": "Combinado de hoje: experiência é pra ver mais perigo, não menos. O especialista de verdade respeita a segurança porque sabe do que a tarefa é capaz. Desconfia do 'isso eu faço dormindo'. E veterano é exemplo, protege a equipe pelo que faz. Bom trabalho, pessoal."
+  },
+  {
+    "id": 140,
+    "titulo": "Antes de ligar, olhe em volta",
+    "setores": ["industria", "construcao", "frota"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje o DDS é sobre um gesto de três segundos que evita muito acidente e que quase ninguém faz: olhar em volta antes de acionar, ligar ou movimentar qualquer coisa. Pergunta: antes de você ligar a máquina, dar partida no veículo, acionar a esteira, você dá uma olhada pra ver quem e o que está por perto? Ou você liga no automático, confiando que está tudo certo?",
+    "caso": "Deixa eu contar como muitos acidentes de acionamento acontecem, porque o padrão é sempre parecido. Uma pessoa vai ligar ou movimentar um equipamento, e faz isso no automático, sem conferir o entorno, porque na cabeça dela está tudo como ela deixou. Só que entre a última vez que ela olhou e o momento de acionar, alguma coisa mudou: um colega foi ajeitar algo perto da parte móvel, alguém passou atrás do veículo, uma pessoa entrou na zona da máquina pra pegar um material, alguém pôs a mão pra limpar. E a pessoa que aciona não sabe, porque não olhou. Um operador deu partida e movimentou o equipamento sem conferir, e um colega estava justamente num ponto de risco que ele não viu, porque tinha chegado ali depois. O acionamento pegou o colega de surpresa. E o mais frustrante é que evitar isso custava três segundos e uma olhada. A máquina não sabe quem está perto. O veículo não sabe quem está atrás. Só a pessoa que aciona pode olhar, e quando ela não olha, ninguém olha.",
+    "regra": "A regra é simples e cabe em qualquer tarefa: antes de acionar, ligar, dar partida ou movimentar qualquer coisa, você olha em volta. Confere quem está por perto, principalmente nas partes móveis, atrás do veículo, na zona da máquina, no caminho da carga. Se tem alguém em zona de risco, você avisa e espera a pessoa sair e confirmar antes de acionar. Usa o sinal sonoro, a buzina, o aviso de partida, quando existir, pra alertar quem está em volta. Não confia em 'estava tudo certo quando eu olhei da última vez', porque as coisas mudam em segundos. E cria o hábito de fazer isso sempre, até virar automático, porque o dia que você mais vai precisar é justamente o dia distraído em que você ligaria sem olhar. A regra que resume: entre você e o botão, cabe sempre uma olhada em volta.",
+    "discussao": [
+      "Você tem o hábito de olhar em volta antes de acionar, ou liga no automático?",
+      "Já teve aqui um susto de alguém acionar algo com um colega em zona de risco?",
+      "Onde a gente tem partida de máquina ou veículo com gente circulando perto?"
+    ],
+    "frase": "A máquina não sabe quem está perto. Só quem aciona pode olhar. Se ele não olha, ninguém olha.",
+    "fechamento": "Combinado de hoje: antes de acionar, ligar ou movimentar qualquer coisa, uma olhada em volta. Tem alguém em zona de risco, avisa e espera sair. Usa o aviso sonoro. Vira hábito, porque o dia distraído é o que mais precisa. Bom trabalho, pessoal."
   }
 ]
