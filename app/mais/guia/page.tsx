@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { GUIA_CONDUCAO } from "@/data/guia";
 import { ZebraBar } from "@/components/ZebraBar";
-import { ChevronLeftIcon } from "@/components/icons";
+import { ChevronLeftIcon, DownloadIcon } from "@/components/icons";
 
 export default function GuiaPage() {
   return (
@@ -17,6 +17,15 @@ export default function GuiaPage() {
       <h1 className="mt-4 font-heading text-4xl font-extrabold uppercase leading-none text-white">
         {GUIA_CONDUCAO.titulo}
       </h1>
+
+      <a
+        href="/guia-conducao-dds.pdf"
+        download
+        className="mt-4 flex min-h-14 w-full items-center justify-center gap-2 rounded-[4px] border border-safety-yellow px-6 font-heading text-base font-bold uppercase tracking-wide text-safety-yellow hover:bg-safety-yellow hover:text-graphite"
+      >
+        <DownloadIcon className="h-5 w-5" />
+        Baixar o guia em PDF
+      </a>
 
       <ZebraBar className="my-5" />
 
