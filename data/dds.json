@@ -908,5 +908,165 @@
     ],
     "frase": "O acidente não mora no turno da noite nem no da manhã. Mora no vão entre os dois.",
     "fechamento": "Combinado de hoje: passagem de turno com os dois lados presentes, dizendo o que ficou pendente, o que quebrou, o que mudou e o que aconteceu de anormal. E se você assumiu sem receber isso, pergunta antes de acionar qualquer coisa. Bom trabalho, pessoal, e passem bem o bastão hoje."
+  },
+  {
+    "id": 61,
+    "titulo": "Olha pra você agora",
+    "setores": ["industria", "geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje eu não vou contar história logo de cara, hoje eu quero que vocês façam uma coisa. Olha pra si mesmo agora, de cima a baixo. Olha a manga da camisa, olha a mão, olha o pescoço, olha o crachá, olha o cabelo. E vai respondendo na cabeça enquanto eu passo por cada item, porque tem coisa aí em vocês que máquina rotativa adora.",
+    "caso": "Vamos por partes. A manga da camisa: tá abotoada no punho ou tá solta e larga? Manga solta é a coisa que mais entra em eixo girando, porque ela balança e encosta antes de você perceber. Anel na mão: parece inofensivo, mas anel enganchado em qualquer coisa enquanto o corpo se move causa uma lesão que os médicos chamam de avulsão, que é o anel arrancando a pele e o tecido do dedo inteiro. Existe muito caso de gente que perdeu o dedo pulando de um degrau baixo com o anel enganchado. Relógio, pulseira, corrente no pescoço, crachá pendurado em cordão: tudo isso balança e alcança a máquina antes de você. Cabelo comprido solto perto de furadeira, torno ou qualquer eixo girando é uma das coisas mais graves que existe, porque quando o cabelo enrola não tem como soltar, a máquina puxa a cabeça inteira. E tem um item que quase ninguém sabe e é o mais importante de todos: luva não se usa em furadeira, torno, esmeril e qualquer coisa que gire. Parece o contrário do certo, mas é assim mesmo. Mão nua que encosta num eixo girando escapa. Luva enrola no eixo e puxa a mão inteira pra dentro.",
+    "regra": "A regra perto de qualquer parte que gira é: nada solto e nada pendurado. Manga abotoada ou camisa justa, sem anel, sem relógio, sem pulseira, sem corrente, cabelo preso e preso de verdade, crachá com cordão de segurança que solta sozinho quando puxa, ou guardado no bolso. E luva você tira antes de operar equipamento rotativo, não coloca. Máquina que gira não morde, ela agarra e enrola, e ela é muito mais forte e mais rápida do que qualquer reação sua.",
+    "discussao": [
+      "Olhando pra você agora, tem alguma coisa solta, pendurada ou no dedo que devia sair antes de você começar?",
+      "Alguém aqui já viu roupa, cabelo ou luva sendo puxado por máquina? Conta pra turma.",
+      "A gente tem crachá com cordão de segurança, daquele que solta quando puxa, ou é cordão comum?"
+    ],
+    "frase": "Máquina que gira não morde. Ela agarra e enrola, e não solta.",
+    "fechamento": "Combinado de hoje: antes de chegar em qualquer coisa rotativa, você faz essa conferida em si mesmo. Manga, mão, pescoço, cabelo, crachá. E luva sai da mão em equipamento que gira. Agora, antes de começar, quero todo mundo ajustando o que precisa ajustar. Bom trabalho, pessoal."
+  },
+  {
+    "id": 62,
+    "titulo": "O último degrau que ninguém usa",
+    "setores": ["frota", "logistica", "geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Pergunta pra quem sobe e desce de caminhão, de empilhadeira, de máquina, de plataforma, várias vezes por dia: quem aqui desce pulando o último degrau, aquele salto de nada pra chegar no chão mais rápido? Todo mundo faz. E esse salto bobo é uma das maiores causas de afastamento que existe, mais até que muito acidente grave.",
+    "caso": "Deixa eu explicar por que uma coisa tão pequena machuca tanto. Quando você pula do último degrau, você cai de uma altura pequena, mas cai com o corpo inteiro, muitas vezes com algo na mão, e quase sempre aterrissando com o pé em posição ruim, porque você não olhou onde ia pisar. O impacto todo vai pro tornozelo, pro joelho e pro calcanhar de uma vez. E aí acontecem as lesões clássicas: entorse de tornozelo, torção de joelho, e fratura de calcâneo, que é o osso do calcanhar, uma fratura chata que demora muito pra recuperar. Um motorista fez isso a vida inteira, milhares de vezes, sem nunca acontecer nada. Um dia ele pulou como sempre, só que o chão embaixo tinha uma pedra, ou tava molhado, ou ele desceu com o corpo torto porque tava com o prancheta na mão. O pé virou. Fratura, cirurgia, meses parado. E o número que assusta: essa descida do veículo é uma das principais causas de acidente em transporte no mundo inteiro, e ninguém trata ela como risco porque ela é banal demais.",
+    "regra": "A regra é a dos três pontos de apoio, e ela é simples de fazer e difícil de lembrar. Ao subir e ao descer, você mantém sempre três dos quatro membros em contato: duas mãos e um pé, ou dois pés e uma mão. Isso quer dizer duas coisas na prática: você desce de frente pra máquina, não de costas, e você desce com as mãos livres. Se você tá com prancheta, celular, garrafa, ferramenta na mão, você não tem três pontos, você tem dois. Guarda tudo antes, desce, e depois pega. E o último degrau se usa, não se pula, por mais baixo que ele pareça.",
+    "discussao": [
+      "Quantas vezes por dia você sobe e desce de veículo ou máquina? Multiplica isso por um ano.",
+      "Você desce de frente ou de costas? E com as mãos livres ou carregando coisa?",
+      "Alguém aqui já torceu o pé ou o joelho descendo de veículo? Como foi?"
+    ],
+    "frase": "O degrau que mais machuca é o que ninguém usa: o último.",
+    "fechamento": "Combinado de hoje: subir e descer sempre de frente, com três pontos de apoio e mãos livres. Guarda o que tá na mão antes de descer. E o último degrau se pisa. É a coisa mais chata de lembrar e uma das que mais tira gente de circulação. Bom trabalho, pessoal."
+  },
+  {
+    "id": 63,
+    "titulo": "O telhado que não avisa",
+    "setores": ["construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é trabalho em telhado e cobertura, e eu quero começar com uma coisa que muita gente não sabe: existe telha que aguenta peso e existe telha que não aguenta nenhum, e as duas parecem exatamente iguais quando você tá olhando de cima. Pergunta: quem aqui já andou em cima de telhado pisando direto na telha?",
+    "caso": "Deixa eu contar. Um profissional subiu numa cobertura pra fazer um serviço rápido, coisa de trocar uma peça. Era um telhado de fibrocimento, dessas telhas comuns, e ele já tinha andado em telhado a vida inteira. Ele pisou com cuidado, procurando as partes que pareciam mais firmes, andando devagar. Só que telha de fibrocimento, principalmente quando já tem alguns anos de sol e chuva, fica quebradiça de um jeito que não dá pra ver. Ela não racha antes, não afunda devagar, não faz barulho de aviso. Ela simplesmente parte, de uma vez, no momento que recebe o peso. Ele passou por dentro do telhado e caiu direto no piso lá embaixo. Queda de cobertura quase sempre é de altura grande, e quase sempre é grave. E tem um agravante que pega muita gente: claraboia. A claraboia, aquela telha transparente que deixa entrar luz, é ainda mais frágil que a telha comum, e quando tá suja de poeira ela fica com a mesma cor do resto do telhado. A pessoa simplesmente não vê que pisou num vidro.",
+    "regra": "A regra em cobertura é: você nunca confia na telha, você distribui o peso em cima da estrutura. Isso significa usar tábua, prancha ou passarela apoiada nas terças, que são as vigas que sustentam, e caminhar só em cima delas. Cinto de segurança ancorado em ponto firme, com linha de vida quando o percurso é longo. Nunca subir em cobertura molhada, com vento forte, ou sozinho. E claraboia se trata como buraco, não como piso: identifica antes de subir, sinaliza, e não pisa nunca, nem pra atravessar. Se o serviço dá pra ser feito de baixo, com plataforma elevatória, é melhor que subir.",
+    "discussao": [
+      "A gente tem serviço em cobertura previsto? Como a gente costuma fazer hoje?",
+      "Vocês sabem identificar onde passam as terças, que é onde a estrutura aguenta?",
+      "Tem claraboia nas coberturas daqui? Elas estão sinalizadas ou protegidas?"
+    ],
+    "frase": "A telha não racha, não afunda e não avisa. Ela parte de uma vez.",
+    "fechamento": "Combinado de hoje: ninguém pisa direto em telha. Passarela ou tábua apoiada nas terças, cinto ancorado, e claraboia é buraco, não é piso. E ninguém sobe em cobertura sozinho. Se tiver serviço de cobertura hoje, fala comigo antes de subir. Bom trabalho, pessoal."
+  },
+  {
+    "id": 64,
+    "titulo": "A garrafa que enganou",
+    "setores": ["geral", "industria", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje o DDS é curto e é sobre uma coisa que a gente vê em quase todo lugar de trabalho do Brasil: garrafa de refrigerante ou de água usada pra guardar outra coisa. Pergunta direta: tem alguma garrafa de bebida aqui no nosso setor com produto químico, com óleo, com solvente, com qualquer coisa dentro que não seja bebida?",
+    "caso": "Deixa eu contar por que isso é mais sério do que parece. Alguém precisava transportar um pouco de produto químico de um lugar pro outro, uma quantidade pequena. Não tinha um recipiente adequado por perto, e tinha uma garrafa de refrigerante vazia ali. Colocou o produto na garrafa, fez o serviço e deixou a garrafa em cima de uma bancada, com a intenção de guardar depois. Passou o tempo, a garrafa ficou. E aí entra a parte que se repete em todo caso desse tipo: outra pessoa, num momento de calor e pressa, viu uma garrafa e bebeu. Não foi burrice, foi exatamente o que o cérebro da gente faz: garrafa de refrigerante contém refrigerante, isso é automático, ninguém para pra analisar. A pessoa teve queimadura na boca, na garganta e no esôfago. Esse tipo de acidente acontece direto no Brasil, com trabalhador e principalmente com criança em casa, e alguns são fatais.",
+    "regra": "A regra não tem exceção: produto químico nunca vai pra embalagem de bebida ou de alimento. Nem pra transportar, nem por cinco minutos, nem com aviso escrito na garrafa a caneta, porque a pessoa que bebe não leu, ela viu uma garrafa e agiu no automático. Produto fica no recipiente original com o rótulo original. Se precisar fracionar, tem que ser em recipiente adequado, com rótulo claro do produto e do risco. E se você encontrar uma garrafa de bebida com qualquer coisa suspeita dentro, você não prova, não cheira e não deixa lá: descarta com segurança ou me chama.",
+    "discussao": [
+      "Vamos olhar agora: tem garrafa de bebida com outra coisa dentro no nosso setor?",
+      "Onde a gente guarda produto quando precisa fracionar uma quantidade pequena?",
+      "Você tem esse hábito em casa também, de guardar produto em garrafa de refrigerante?"
+    ],
+    "frase": "Ninguém lê uma garrafa de refrigerante. A pessoa vê e bebe.",
+    "fechamento": "Combinado de hoje: nenhum produto em embalagem de bebida ou comida, nunca, nem por cinco minutos. Achou uma, me traz. E leva esse combinado pra casa também, porque em casa isso pega criança. Bom trabalho, pessoal."
+  },
+  {
+    "id": 65,
+    "titulo": "A carga que continua andando",
+    "setores": ["frota", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta pra quem carrega e pra quem dirige: quando você freia forte, o que acontece com a carga lá atrás? Ela para junto com o caminhão? A resposta é não, e o número que explica isso é o assunto de hoje, porque ele muda o jeito de olhar pra amarração.",
+    "caso": "Deixa eu explicar o que a física faz com a sua carga. Quando o veículo freia bruscamente, a carga não freia junto, ela continua na velocidade em que estava e tenta seguir em frente. E a força que ela faz nesse momento é muito maior do que o peso dela parada. Numa frenagem forte, uma carga pode empurrar pra frente com uma força equivalente a várias vezes o próprio peso. Ou seja, aquele volume de cem quilos que tá quietinho ali atrás pode chegar na cabine com força de meia tonelada. Um motorista aprendeu isso do jeito ruim. Ele levava uma carga que sempre levou, amarrada com uma cinta só, do jeito que sempre deu certo, porque o percurso era curto e a carga não era pesada. Precisou frear de verdade por causa de uma freada de outro veículo à frente. A cinta única não segurou. A carga se deslocou, parte dela tombou e parte caiu na pista, atingindo outro veículo atrás. Não foi o peso que fez estrago, foi o peso multiplicado pela frenagem.",
+    "regra": "Amarração não é pra segurar a carga parada, é pra segurar a carga na pior frenagem que pode acontecer no percurso. Por isso: usa a quantidade e o tipo de cinta certos pro peso e pro formato, não a que tá sobrando. Confere o estado das cintas e catracas, porque cinta rasgada, desfiada ou com costura solta rompe com facilidade. Distribui o peso e calça pra carga não deslizar nem tombar. E o passo que quase todo mundo pula: reconfere a amarração depois dos primeiros quilômetros, porque a vibração acomoda a carga e afrouxa a cinta que estava firme na saída. E carga que cai na pista não machuca só você, machuca quem vem atrás e não tinha nada a ver com isso.",
+    "discussao": [
+      "A gente confere as cintas depois de começar o percurso, ou amarra e vai até o fim?",
+      "Nossas cintas e catracas estão em bom estado? Alguém já viu uma desfiada em uso?",
+      "Tem carga aqui que a gente amarra 'do jeito que sempre deu certo' sem olhar o peso de verdade?"
+    ],
+    "frase": "Na freada, a carga não pesa o que pesa. Ela pesa várias vezes mais.",
+    "fechamento": "Combinado de hoje: amarração dimensionada pro peso, cinta em bom estado, carga calçada, e reconferência depois dos primeiros quilômetros. Carga solta não fica lá atrás quando você freia, ela vem junto e ainda cai na pista de quem vem atrás. Bom trabalho, pessoal, e boa viagem."
+  },
+  {
+    "id": 66,
+    "titulo": "A fumaça que você respira sem ver",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Pergunta pra quem solda e pra quem trabalha perto de quem solda: quando você vê aquela fumacinha subindo do ponto de solda, o que você acha que é aquilo? A maioria responde que é fumaça, calor, coisa de queimado. É metal. Metal virou vapor e agora tá no ar que você respira. Hoje é sobre isso.",
+    "caso": "Deixa eu explicar direito, porque muda o jeito de encarar. O arco de solda é tão quente que ele derrete o metal e evapora parte dele. Esse vapor de metal esfria no ar e vira uma poeira finíssima, tão fina que ela passa por qualquer filtro grosseiro e vai direto pro fundo do pulmão. Isso é o fumo metálico. E dependendo do que tá sendo soldado, o efeito é diferente. Soldar aço galvanizado, que é o aço com camada de zinco, produz vapor de zinco. E vapor de zinco causa uma coisa chamada febre dos fumos metálicos, que é bem conhecida entre soldadores: horas depois do serviço a pessoa tem calafrio, febre, dor no corpo, gosto metálico na boca, exatamente igual uma gripe forte. Muito soldador passa por isso e nem associa com o trabalho, acha que pegou uma virose. E tem materiais piores, com metais que causam dano permanente no pulmão e no sistema nervoso com exposição repetida. Um soldador trabalhou anos em galpão fechado, sem exaustão, achando que o cheiro forte era normal da profissão. O dano se acumulou calado, do mesmo jeito que a poeira faz.",
+    "regra": "As regras: solda quer ventilação de verdade, e o ideal é exaustão puxando o fumo no ponto onde ele nasce, não um ventilador espalhando pelo galpão. Respirador adequado pra fumo metálico, que não é a máscara descartável comum de poeira grossa. Nunca soldar em espaço fechado sem exaustão, e nunca soldar material galvanizado ou pintado sem exaustão e sem remover a camada antes, porque a pintura e o galvanizado é que geram os vapores piores. E quem trabalha ao lado do soldador também tá respirando, então a proteção não é só de quem segura o eletrodo.",
+    "discussao": [
+      "Quem aqui já teve calafrio e febre depois de um dia de solda e achou que era gripe?",
+      "A gente tem exaustão no ponto de solda ou conta com a ventilação natural do galpão?",
+      "A gente solda material galvanizado ou pintado? Como é feito hoje?"
+    ],
+    "frase": "Aquela fumacinha não é fumaça. É metal virado pó indo pro seu pulmão.",
+    "fechamento": "Combinado de hoje: solda com exaustão no ponto, respirador adequado, e nunca em ambiente fechado sem ventilação. E quem trabalha perto também se protege. Se você já teve aquela febre depois de soldar, me procura pra gente conversar. Bom trabalho, pessoal."
+  },
+  {
+    "id": 67,
+    "titulo": "Não precisa encostar",
+    "setores": ["construcao", "frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é rede elétrica aérea, aqueles fios que passam por cima de tudo e que a gente para de enxergar de tanto ver. Pergunta pra começar, e é uma pergunta que salva vida: pra tomar choque de uma rede de alta tensão, você precisa encostar nela? A resposta é não, e é isso que a maioria das pessoas não sabe.",
+    "caso": "Deixa eu explicar, porque é o ponto mais importante desse DDS. Em rede de alta tensão, a eletricidade consegue saltar pelo ar quando alguma coisa condutora chega perto o suficiente. Isso se chama arco elétrico. Ou seja, o guindaste, a caçamba levantada, a lança do caminhão munck, o andaime metálico, a escada de alumínio, nada disso precisa tocar no fio: basta aproximar. Um operador foi manobrar um equipamento com a lança levantada num terreno onde passava rede em cima. Ele calculou a distância no olho, achou que tinha espaço de sobra, e continuou a manobra. O arco saltou. A descarga passou pela máquina inteira. E aí vem o detalhe que decide vida e morte: o motorista dentro da cabine tende a ficar relativamente protegido enquanto permanece lá dentro sem tocar o solo. Quem morre nesses casos, muitas vezes, é quem tá do lado de fora e corre pra ajudar, encostando no veículo energizado, ou quem tá pisando no chão perto, porque a corrente se espalha pelo solo em volta e a diferença de tensão entre um pé e o outro é suficiente pra matar.",
+    "regra": "Então as regras são: antes de qualquer serviço com equipamento alto, olha pra cima e identifica a rede. Respeita a distância mínima de segurança, que depende da tensão da linha, e na dúvida você não estima no olho, você consulta a concessionária ou pede o desligamento e o isolamento da rede. Escada de alumínio não se usa perto de rede elétrica, porque alumínio conduz. E se um equipamento encostar ou arcar com a rede: quem está na cabine fica onde está e não desce, ninguém encosta no veículo, ninguém se aproxima, e alguém aciona a concessionária e a emergência imediatamente. Se for absolutamente necessário sair, a orientação é saltar com os dois pés juntos, sem tocar o veículo e o chão ao mesmo tempo, e se afastar com passos curtinhos, os pés sempre juntos.",
+    "discussao": [
+      "Tem rede elétrica aérea passando sobre alguma área nossa de trabalho ou de manobra?",
+      "Vocês sabiam que não precisa encostar pra tomar o arco? Isso muda alguma coisa no jeito de operar?",
+      "A gente usa escada de alumínio em algum serviço perto de rede?"
+    ],
+    "frase": "A eletricidade salta. Chegar perto já é encostar.",
+    "fechamento": "Combinado de hoje: antes de levantar qualquer coisa, olha pra cima. Distância de segurança respeitada, nada de estimar no olho, e escada de alumínio longe de rede. E se acontecer contato, ninguém corre pra socorrer encostando no veículo. Guardem isso. Bom trabalho, pessoal."
+  },
+  {
+    "id": 68,
+    "titulo": "O macaco levanta, mas não segura",
+    "setores": ["frota", "industria"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Pergunta pra quem mexe com veículo e com equipamento: quem aqui já entrou embaixo de um veículo suspenso só pelo macaco, pra fazer uma coisa rápida? Sem cavalete, sem calço, confiando no macaco. Hoje eu quero deixar uma frase gravada na cabeça de vocês: macaco é ferramenta de levantar, não é ferramenta de sustentar.",
+    "caso": "Deixa eu contar. Um mecânico levantou um veículo com o macaco hidráulico pra fazer um serviço embaixo. Ele ia demorar poucos minutos e o cavalete tava do outro lado da oficina. Pensou o de sempre: é rápido, o macaco tá firme, não vale a pena buscar. Entrou embaixo. O macaco hidráulico funciona com óleo sob pressão dentro de um sistema com vedação, e vedação envelhece. Não precisa de defeito escancarado: uma vedação cansada pode ceder devagar ou de uma vez, e o veículo desce. Foi o que aconteceu. Ele ficou preso embaixo. Peso de veículo em cima do tórax não dá tempo nem chance, e quem tá em volta não consegue levantar com as mãos. E o detalhe cruel de sempre: o cavalete que ia salvar ele tava a poucos metros, e colocar levaria menos de um minuto.",
+    "regra": "As regras são curtas e não têm exceção. O macaco levanta, o cavalete sustenta. Depois de levantar, você coloca cavalete ou torre em ponto firme da estrutura e desce um pouco o macaco até o peso descansar no cavalete. Calço nas rodas que ficam no chão, sempre, pra máquina não correr. Solo firme e nivelado embaixo do macaco, porque em piso mole o macaco afunda de um lado e tomba. E ninguém entra embaixo de nada suspenso só por sistema hidráulico, seja macaco de veículo, seja caçamba levantada, seja lança de máquina. Caçamba levantada quer trava mecânica antes de qualquer pessoa passar por baixo.",
+    "discussao": [
+      "A gente tem cavalete suficiente e em bom estado aqui, ou às vezes falta e a pessoa improvisa?",
+      "Alguém já entrou embaixo de veículo só no macaco? O que passou pela cabeça na hora?",
+      "Tem equipamento aqui com caçamba ou parte que levanta? A gente usa a trava mecânica?"
+    ],
+    "frase": "Macaco levanta. Cavalete sustenta. Quem confunde os dois fica embaixo.",
+    "fechamento": "Combinado de hoje: nada de corpo embaixo de peso sustentado só por hidráulico. Levantou com macaco, apoia no cavalete e calça as rodas. Caçamba levantada, trava mecânica antes de passar por baixo. Se faltar cavalete, me avisa que eu providencio hoje. Bom trabalho, pessoal."
+  },
+  {
+    "id": 69,
+    "titulo": "O furo que você não enxerga",
+    "setores": ["industria", "frota", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é vazamento em sistema hidráulico, dessas máquinas com mangueira e pressão alta. Pergunta pra começar: quando você desconfia que tem vazamento numa mangueira, como você procura? Se a sua resposta é passar a mão pra sentir onde tá molhando, esse DDS pode salvar a sua mão hoje.",
+    "caso": "Deixa eu explicar o que é uma injeção hidráulica, porque é a lesão mais traiçoeira que existe e quase ninguém conhece. Quando uma mangueira de alta pressão desenvolve um furo minúsculo, do tamanho de uma agulha, o óleo sai por ali num jato tão fino e tão rápido que muitas vezes você não enxerga o jato. Você vê só uma névoa, ou nem isso. E esse jato, nessa pressão, corta a pele igual uma lâmina e injeta óleo dentro do tecido. Um operador passou a mão perto da mangueira procurando o vazamento. Sentiu uma fisgada pequena, como uma picada de inseto, olhou a mão e viu só um pontinho, quase nada. Não deu importância, achou que não era nada, continuou o serviço e foi pra casa. Só que o óleo já estava dentro da mão dele, se espalhando por dentro entre os tecidos. Nas horas seguintes a mão inchou, ficou roxa e a dor virou insuportável. Quando ele finalmente procurou atendimento, já tinha passado tempo demais. Injeção hidráulica é emergência cirúrgica e exige cirurgia nas primeiras horas. Quando demora, o desfecho comum é amputação. Ele perdeu dedos por causa de um pontinho que parecia picada de mosquito.",
+    "regra": "As regras são: nunca procura vazamento com a mão ou com qualquer parte do corpo. Se precisa localizar, você despressuriza o sistema primeiro, e se for inevitável procurar com pressão, usa um pedaço de papelão ou madeira passando na frente, nunca a mão. Óculos e protetor facial, porque o jato acerta o olho com a mesma facilidade. E o mais importante de tudo: se alguém for atingido, mesmo que pareça um furinho de nada, mesmo sem dor forte no começo, é hospital imediatamente, e a pessoa tem que dizer ao médico que foi injeção hidráulica de óleo em alta pressão, porque muito médico que não conhece trata como ferimento simples e perde o tempo que importa.",
+    "discussao": [
+      "Como a gente procura vazamento hoje nas nossas máquinas?",
+      "Vocês conheciam essa lesão? Alguém já viu ou ouviu falar de caso parecido?",
+      "As mangueiras dos nossos equipamentos estão em bom estado, sem ressecamento ou desgaste?"
+    ],
+    "frase": "Um furinho que parece picada de mosquito pode custar a mão.",
+    "fechamento": "Combinado de hoje: vazamento hidráulico ninguém procura com a mão, se procura com papelão e de preferência com o sistema despressurizado. E se alguém for atingido, é hospital na hora, mesmo parecendo nada, avisando que foi injeção de óleo em alta pressão. Bom trabalho, pessoal."
+  },
+  {
+    "id": 70,
+    "titulo": "O que não se negocia é você",
+    "setores": ["frota", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o DDS é sobre um risco que não vem de máquina nem de altura, mas que é real pra quem trabalha na rua: assalto e violência. Pergunta pra quem dirige, entrega, ou trabalha fora: alguém aqui já passou por uma situação de risco na rua, ou já sentiu que ia passar? Hoje eu quero combinar o que a gente faz, antes de acontecer.",
+    "caso": "Vou começar pelo mais importante, e é a única coisa que eu quero que fique se vocês esquecerem todo o resto: nada que tá no veículo vale a sua vida. Carga se repõe, veículo se recupera, celular se compra, dinheiro a empresa perde e segue. Você não. A empresa nunca vai cobrar de vocês por ter entregue o que pediram numa abordagem, e quem manda vocês protegerem carga com o corpo tá errado, seja quem for. Dito isso, deixa eu falar do que reduz o risco antes da coisa acontecer, que é onde a gente tem controle de verdade. A maior parte das abordagens não é sorte, é observação. Quem age observa antes, e o que ele observa é rotina: mesmo horário, mesmo trajeto, mesma parada, mesmo comportamento. Ele também observa oportunidade: veículo parado com motor ligado e porta aberta, pessoa distraída no celular, valores e equipamento à vista, parada em ponto isolado e mal iluminado.",
+    "regra": "Então o combinado tem duas partes. Antes: varie horário e trajeto sempre que possível, não anuncie percurso e carga em grupo de rede social, nada de valor à vista dentro da cabine, atenção redobrada na chegada e na saída, que são os momentos mais visados, e escolha parada em local movimentado e iluminado. Ao parar, olhe em volta antes de descer, e não desça no automático mexendo no celular. Durante: não reage, não corre, não discute, não encara, mantém as mãos visíveis, faz movimento devagar e avisa o que vai fazer antes de fazer. Entrega o que for pedido. Não persegue e não filma depois. E depois: se afaste, acione a emergência, avise a empresa e procure ajuda, inclusive apoio emocional, porque susto grande deixa marca e não tem vergonha nenhuma em falar disso.",
+    "discussao": [
+      "Alguém já passou por isso ou por um quase? Se quiser falar, é um espaço seguro aqui.",
+      "Nossos trajetos e horários são muito previsíveis? Dá pra variar alguma coisa?",
+      "Tem algum ponto de parada ou de entrega que vocês consideram arriscado? Quero saber quais."
+    ],
+    "frase": "Carga se repõe. Veículo se recupera. Você, não.",
+    "fechamento": "Combinado de hoje: não reage, entrega, preserva a vida. Ninguém aqui vai ser cobrado por isso, nunca. E na prevenção, varia rotina, não deixa valor à vista e escolhe parada movimentada. Me passem os pontos que vocês acham arriscados que eu levo pra frente. Bom trabalho, pessoal, e voltem bem."
   }
 ]
