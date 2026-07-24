@@ -1228,5 +1228,165 @@
     ],
     "frase": "Com a pele molhada, a tomada comum deixa de ser susto e vira risco de morte.",
     "fechamento": "Combinado de hoje: cabo íntegro sem remendo, ferramenta aterrada ou com dupla isolação, e DR no circuito. Nada de ferramenta elétrica com mão ou piso molhado, e desliga da tomada antes de trocar acessório. Me tragam hoje toda ferramenta com cabo remendado. Bom trabalho, pessoal."
+  },
+  {
+    "id": 81,
+    "titulo": "Entre o que se mexe e o que não se mexe",
+    "setores": ["industria", "logistica", "frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje eu quero ensinar a enxergar uma coisa que tá em todo lugar aqui e que a gente não vê: o ponto de esmagamento. Pergunta pra começar: olha em volta e me diz onde tem uma coisa que se mexe passando perto de uma coisa que não se mexe. Portão, veículo e parede, máquina e estrutura, carga e estante. Todo espaço entre esses dois é um lugar onde o corpo humano não cabe.",
+    "caso": "Deixa eu contar. Um funcionário estava orientando a aproximação de um veículo que dava ré até encostar numa plataforma. Pra enxergar melhor a distância e ir dizendo quanto faltava, ele se posicionou justamente no espaço entre a traseira do veículo e a estrutura fixa. Ele estava fazendo o serviço certo, orientando a manobra, que é uma coisa que a gente inclusive pede pra fazer. O motorista continuou a ré um pouco além do que devia, ou o pé escapou, ou entendeu errado o sinal, tanto faz: o veículo avançou os últimos centímetros e ele foi prensado. E aqui tem uma coisa que muita gente não sabe sobre esmagamento: não precisa de velocidade nem de impacto. Um veículo andando devagar, uma máquina fechando devagar, uma carga descendo devagar, tudo isso tem força suficiente pra romper por dentro sem sequer deixar marca grande por fora. Muitas vítimas de esmagamento chegam ao hospital aparentemente sem ferimento visível e com lesão interna grave.",
+    "regra": "A regra que sai disso é uma frase pra levar pra vida: nunca coloque o corpo entre uma coisa que pode se mexer e uma coisa que não vai sair do lugar. Isso vale pra orientar manobra, e por isso o guia fica sempre de lado, na visão do motorista, nunca no vão. Vale pra portão automático e porta de doca, que fecham sem saber que você está ali. Vale pra máquina com parte que avança contra estrutura. Vale pra carga sendo encostada em estante. E vale pro momento mais banal de todos, que é passar entre dois veículos estacionados no pátio, porque um deles pode dar partida. Se você precisa estar perto, você fica de lado, nunca no meio, e garante que quem opera está te vendo.",
+    "discussao": [
+      "Olhando o nosso setor, onde estão os pontos de esmagamento? Vamos listar agora.",
+      "Quando a gente orienta manobra, o guia fica de lado ou fica no vão pra enxergar melhor?",
+      "Tem portão, porta de doca ou máquina aqui que fecha sozinho e pode pegar alguém no meio?"
+    ],
+    "frase": "Esmagamento não precisa de velocidade. Devagar também mata.",
+    "fechamento": "Combinado de hoje: o corpo nunca entra no vão entre o que se mexe e o que não sai do lugar. Guia de manobra fica de lado e na visão do motorista. E hoje eu quero que vocês me mostrem os pontos de esmagamento que identificarem no setor. Bom trabalho, pessoal."
+  },
+  {
+    "id": 82,
+    "titulo": "A correia que não solta",
+    "setores": ["industria", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é correia transportadora, esteira, qualquer coisa que leva material rodando. Pergunta pra começar: quem aqui já tirou alguma coisa de cima da esteira com ela andando, ou já mexeu num material entalado sem parar a máquina? É o serviço mais corriqueiro do mundo e é onde a esteira pega gente.",
+    "caso": "Deixa eu explicar onde exatamente uma esteira agarra, porque não é na parte lisa que a gente vê. O perigo mora nos pontos de convergência, aqueles lugares onde a correia encontra um rolete, um tambor, uma guia. Ali a correia entra por baixo e forma um ponto que fecha e puxa pra dentro, igual um rolo de máquina de lavar antiga. E esse ponto tem uma característica cruel: ele não precisa de muita força pra começar. Basta uma ponta de luva, uma manga, um cordão, uma ponta de pano encostar ali. Um operador foi tirar um material que tinha caído fora do lugar, com a esteira andando, porque parar significava perder produção e ele já tinha feito aquilo dezenas de vezes. A luva encostou no ponto onde a correia entra no tambor. Não deu tempo de nada: o ponto puxou a luva, a luva puxou a mão, e a mão puxou o braço. Esteira não solta o que agarra e não para porque você gritou. Ela só para quando alguém aciona a parada de emergência, e naquele momento a parada mais próxima estava a metros de distância, com mais ninguém por perto.",
+    "regra": "As regras: limpeza, desentupimento, ajuste e retirada de material só com a esteira parada e bloqueada, com a energia travada, nunca em movimento. Proteção nos pontos de convergência tem que estar no lugar, e esteira com proteção removida não opera. Nada de subir, sentar, atravessar por cima ou passar por baixo de esteira em funcionamento; onde precisa atravessar, tem passarela. Nada solto no corpo, e luva perto de ponto de convergência é risco e não proteção. E o item que salva vida: todo mundo precisa saber onde estão os pontos de parada de emergência da esteira, e eles precisam estar acessíveis, não escondidos atrás de material empilhado.",
+    "discussao": [
+      "Onde estão as paradas de emergência das nossas esteiras? Todo mundo sabe alcançar de onde trabalha?",
+      "A gente desentope e limpa com a esteira parada, ou o hábito é resolver andando?",
+      "Tem ponto de convergência sem proteção nas nossas esteiras?"
+    ],
+    "frase": "A esteira não para porque você gritou. Ela só para se alguém apertar.",
+    "fechamento": "Combinado de hoje: nada de mão em esteira andando, nem pra tirar material entalado. Para, trava e aí mexe. E depois desse DDS eu quero passar com vocês nos pontos de parada de emergência pra todo mundo saber onde ficam. Bom trabalho, pessoal."
+  },
+  {
+    "id": 83,
+    "titulo": "A cinta aberta trabalha muito mais",
+    "setores": ["industria", "construcao", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje eu vou falar de uma coisa de física que muda completamente o jeito de olhar pra um içamento, e que a maioria das pessoas que amarra carga não sabe. Pergunta: se você levanta uma carga de mil quilos com duas cintas, cada cinta está segurando quinhentos quilos, certo? Parece óbvio. E está errado.",
+    "caso": "Deixa eu explicar. Cada cinta só segura metade do peso se ela estiver na vertical, subindo reta. Assim que as cintas abrem em ângulo, indo pros lados até o gancho, a força dentro de cada uma aumenta, e aumenta muito mais rápido do que a gente imagina. Quanto mais aberta a cinta, ou seja, quanto mais deitada em direção à horizontal, maior a tensão nela. Num ângulo bem aberto, cada cinta pode passar a segurar praticamente a carga inteira sozinha, e não metade. Ou seja, aquela mesma carga de mil quilos, com as cintas bem abertas, faz cada cinta trabalhar como se estivesse levantando mil quilos. Foi o que aconteceu numa equipe que precisava içar uma peça larga e usou cintas curtas, porque eram as que estavam à mão. Cinta curta em peça larga obriga o ângulo a abrir. Elas fizeram a conta do jeito que todo mundo faz, dividindo o peso por dois, e escolheram cintas com capacidade de sobra pra essa conta. Uma delas rompeu no meio do içamento. Ninguém tinha errado o peso da carga. Erraram o ângulo, e o ângulo é que decide quanto cada cinta aguenta de verdade.",
+    "regra": "Então as regras práticas: quanto mais fechado o ângulo, ou seja, quanto mais as cintas sobem na vertical, menor a força nelas. Cinta comprida abre menos o ângulo que cinta curta, então em peça larga você usa cinta longa ou uma barra espaçadora. Existe uma referência simples e conservadora que vale guardar: cinta muito deitada, chegando perto da horizontal, é sinal de perigo, e nesse ponto a capacidade que está escrita na etiqueta já não vale mais. Além disso: sempre olhe a etiqueta com a capacidade, proteja a cinta de quina viva com cantoneira, porque quina corta cinta com facilidade, e cinta com corte, desfiado, costura solta ou etiqueta ilegível sai de uso e não volta.",
+    "discussao": [
+      "Quando a gente iça alguma coisa aqui, alguém olha o ângulo ou só o peso?",
+      "A gente tem cintas de comprimentos diferentes disponíveis, ou usa sempre as que estão à mão?",
+      "Nossas cintas têm etiqueta legível e proteção de quina?"
+    ],
+    "frase": "O peso da carga não muda. O que a cinta aguenta muda com o ângulo.",
+    "fechamento": "Combinado de hoje: no içamento, olha o ângulo, não só o peso. Cinta muito deitada é sinal de parar e repensar. Peça larga pede cinta longa. E cinta com corte ou etiqueta ilegível sai de circulação hoje. Bom trabalho, pessoal."
+  },
+  {
+    "id": 84,
+    "titulo": "O corpo ainda está processando",
+    "setores": ["geral", "frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é álcool, e eu quero começar deixando uma coisa clara: isso aqui não é sermão sobre a vida particular de ninguém. O que cada um faz fora daqui é da conta de cada um. O que eu quero é falar de uma coisa técnica que quase ninguém sabe, que é quanto tempo o álcool realmente fica no corpo. E a resposta é bem mais do que a gente pensa.",
+    "caso": "Deixa eu explicar o número. O corpo elimina álcool numa velocidade quase fixa, mais ou menos o equivalente a uma dose por hora, e isso não acelera com banho frio, café, comida ou noite de sono. Faz a conta com isso: se alguém bebe bastante até tarde da noite, o corpo ainda vai estar processando álcool na manhã seguinte, mesmo depois de dormir. A pessoa acorda se sentindo mais ou menos normal, toma banho, toma café e vem trabalhar achando que já passou. E tem uma segunda parte, que pega até quem já eliminou o álcool inteiro: a ressaca sozinha, com álcool zero no sangue, já reduz atenção, reflexo, coordenação e paciência, por causa da desidratação e do sono ruim. Um motorista passou por isso. Ele não bebeu no trabalho, não bebeu de manhã, e sinceramente achava que estava apto. Mas o reflexo dele naquele dia estava mais lento do que o normal, e ele não tinha como perceber isso, porque o álcool e a ressaca reduzem justamente a nossa capacidade de avaliar o quanto a gente piorou. Foi o suficiente pra uma reação atrasada virar acidente.",
+    "regra": "Então o combinado tem duas partes. A regra objetiva: aqui ninguém opera máquina, dirige, trabalha em altura ou com energia sob efeito de álcool, e isso inclui a manhã seguinte de uma noite pesada, porque o corpo ainda está processando. E a parte que eu quero deixar aberta: se alguém aqui sente que a bebida está atrapalhando, seja no trabalho ou na vida, isso não é assunto de punição, é assunto de saúde, e eu quero que você me procure. É muito melhor a gente conversar hoje e remanejar sua função enquanto você resolve isso, do que a gente ter essa conversa depois de um acidente. Você não vai levar advertência por vir falar comigo.",
+    "discussao": [
+      "Vocês sabiam que o corpo leva cerca de uma hora por dose e que nada acelera isso?",
+      "A gente consegue conversar sobre isso aqui sem julgamento, ou o pessoal tem medo de falar?",
+      "Como a gente pode se apoiar quando um colega chega claramente sem condição de trabalhar?"
+    ],
+    "frase": "Banho frio e café não eliminam álcool. Só o tempo elimina.",
+    "fechamento": "Combinado de hoje: ninguém opera sob efeito, e isso inclui a manhã depois de uma noite pesada. E se isso for um problema pra alguém aqui, minha porta está aberta, sem punição e sem alarde. Preciso de vocês inteiros, hoje e daqui a dez anos. Bom trabalho, pessoal."
+  },
+  {
+    "id": 85,
+    "titulo": "A ferramenta que ficou perigosa com o uso",
+    "setores": ["industria", "construcao", "geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. A gente já falou aqui sobre usar a ferramenta certa. Hoje é sobre a ferramenta certa que ficou perigosa de tanto trabalhar. Pergunta: quando foi a última vez que você olhou de verdade pro estado do martelo, da talhadeira, da chave que você usa todo dia? A gente confere EPI e esquece que ferramenta também envelhece e vira risco.",
+    "caso": "Deixa eu passar os três casos clássicos, porque vocês vão reconhecer todos. O primeiro é o martelo com a cabeça frouxa no cabo. Ele funciona normalmente por meses, até que numa martelada mais forte a cabeça sai voando. Ela não cai no chão, ela sai na direção do golpe, com velocidade, e vai parar em quem estiver na frente. O segundo é a talhadeira, o ponteiro e a cunha com a cabeça cogumelada, aquela borda que vai se abrindo e virando uma flor de metal com o tempo, de tanto apanhar do martelo. Aquelas rebarbas ficam soltas, e quando você bate ali, elas se soltam e viram estilhaço voando em alta velocidade, quase sempre na direção do rosto e dos olhos de quem está segurando. Um trabalhador perdeu a visão de um olho exatamente assim, com uma talhadeira que ele usava havia anos e que estava cogumelada havia muito tempo, à vista de todo mundo. O terceiro é a chave com a boca gasta e o alicate com a garra lisa: eles escapam do parafuso no meio da força, e a mão vai bater com toda a força acumulada no que estiver ali perto.",
+    "regra": "Então a rotina é: antes de usar, você olha. Cabo firme, sem rachadura, sem estar frouxo na cabeça e sem gambiarra de arame ou fita. Cabeça de talhadeira, ponteiro e cunha sem cogumelo, e se estiver cogumelada, ela vai pro esmeril pra ser recuperada ou é descartada, nunca se usa assim. Boca de chave e garra de alicate sem desgaste que faça escapar. Lima nunca sem cabo, porque a ponta traseira dela entra na palma da mão quando escapa. E ferramenta danificada não fica no meio das boas esperando alguém usar por engano: ela sai da caixa e vem pra mim.",
+    "discussao": [
+      "Vamos olhar agora as ferramentas de vocês: alguém tem cabo frouxo ou cabeça cogumelada aí?",
+      "A gente tem esmeril e o hábito de recuperar talhadeira e ponteiro, ou usa até quebrar?",
+      "Onde a gente separa ferramenta danificada pra não voltar pro uso por engano?"
+    ],
+    "frase": "A ferramenta não avisa que ficou perigosa. Ela só funciona até o dia que não funciona.",
+    "fechamento": "Combinado de hoje: antes de usar, confere cabo, cabeça e boca. Cogumelou, sai de uso. Cabo frouxo, sai de uso. E ferramenta ruim não volta pra caixa, vem pra mim que eu troco. Hoje eu quero fazer essa conferida com vocês nas caixas. Bom trabalho, pessoal."
+  },
+  {
+    "id": 86,
+    "titulo": "Se um colega ficar preso",
+    "setores": ["industria", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o DDS é sobre um cenário que ninguém quer imaginar, e é exatamente por isso que a gente precisa combinar antes: o que fazer se um colega ficar preso numa máquina. Pergunta séria: se acontecesse agora, na sua frente, qual seria seu primeiro movimento? Pensa na resposta honesta, porque o instinto quase sempre erra.",
+    "caso": "O instinto de todo mundo é o mesmo: correr e puxar a pessoa. E é o pior movimento possível, por dois motivos. Primeiro, se a máquina ainda está acionada, ela continua puxando, e quem puxa acaba entrando junto, virando a segunda vítima. Segundo, membro preso em máquina muitas vezes está segurando a própria hemorragia: puxar com força pode agravar a lesão e provocar sangramento grave que não existia enquanto estava preso. Deixa eu contar. Numa ocorrência, um trabalhador ficou com o braço preso num equipamento. Os colegas correram e a primeira reação foi tentar puxar, sem antes acionar a parada. Perderam segundos preciosos e quase colocaram mais gente no risco. Foi um terceiro colega, mais afastado, que teve a presença de espírito de correr até a parada de emergência e apertar. E ainda teve outro ponto crítico depois: alguém sugeriu inverter o sentido da máquina pra soltar, achando que ia liberar. Reverter uma máquina com alguém preso pode piorar muito, dependendo do mecanismo, e só quem conhece o equipamento pode decidir isso. Eles esperaram o resgate.",
+    "regra": "Então a sequência é: primeiro, parada de emergência e bloqueio da energia, antes de qualquer outra coisa e antes de encostar em qualquer pessoa. Segundo, aciona socorro imediatamente. Terceiro, não puxa a pessoa e não reverte a máquina por conta própria. Quarto, fica com ela, fala com ela, mantém ela aquecida e consciente, e se houver sangramento visível você faz pressão direta no ponto do sangramento. E se a pessoa estiver com alguma coisa perfurando o corpo, você não remove de jeito nenhum: aquilo pode estar tamponando um vaso, e a remoção é feita no hospital. A regra que resume tudo: a sua função nos primeiros segundos é cortar a energia e chamar quem sabe, não é arrancar o colega.",
+    "discussao": [
+      "Onde estão as paradas de emergência das máquinas do nosso setor? Todo mundo alcança?",
+      "Você conseguiria acionar socorro agora? Sabe o número e o procedimento daqui?",
+      "Vocês sabiam que puxar e reverter podem piorar? Isso mudou alguma coisa no seu instinto?"
+    ],
+    "frase": "Nos primeiros segundos, sua função é cortar a energia. Não é arrancar o colega.",
+    "fechamento": "Combinado de hoje: colega preso, primeiro parada de emergência e bloqueio, depois socorro. Não puxa, não reverte, não remove objeto perfurante. Fica junto e faz pressão se tiver sangramento. Hoje a gente vai mapear as paradas de emergência do setor. Bom trabalho, pessoal."
+  },
+  {
+    "id": 87,
+    "titulo": "A bateria solta um gás que explode",
+    "setores": ["frota", "industria", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta pra quem já deu chupeta em veículo, trocou bateria ou trabalha perto de sala de carga de empilhadeira: vocês sabiam que uma bateria comum solta um gás explosivo enquanto está carregando? Não é o ácido que é o maior perigo ali. É o gás que ninguém enxerga.",
+    "caso": "Deixa eu explicar. Bateria de chumbo-ácido, que é a do caminhão, do carro e da empilhadeira, libera hidrogênio durante a carga. O hidrogênio é o gás mais inflamável que existe, não tem cheiro, não tem cor, e ele fica acumulado bem em cima da bateria e ao redor dela. Aí acontece o seguinte: quando você conecta o último cabo direto no polo da bateria, aquele momento solta uma faísca, sempre. Faísca pequena, banal, que a gente vê e nem liga. Só que se tiver hidrogênio acumulado ali, essa faísca acende o gás. A bateria explode, e explosão de bateria arremessa a carcaça e espalha ácido sulfúrico no rosto e nos olhos de quem está debruçado em cima, que é exatamente a posição de quem está conectando. Foi assim com um motorista que foi dar chupeta num veículo. Ele fez o que quase todo mundo faz: conectou os quatro cabos direto nos polos das duas baterias, inclinado por cima. A faísca do último contato encontrou o gás. Ele teve queimadura química no rosto e escapou dos olhos por muito pouco.",
+    "regra": "As regras: em chupeta, o último cabo, o negativo do veículo que vai receber a carga, não vai no polo negativo da bateria. Ele vai numa parte metálica do chassi ou do bloco do motor, longe da bateria. Isso é feito exatamente pra que a faísca aconteça longe do gás. Na hora de desconectar, faz o caminho inverso, começando por esse ponto. Nunca se debruça em cima da bateria enquanto conecta. Nada de fogo, cigarro ou faísca perto. Sala de carga de bateria de empilhadeira precisa de ventilação de verdade e sinalização, porque ali o hidrogênio acumula em quantidade. E se o ácido cair na pele ou no olho, é água em abundância imediatamente, por bastante tempo, e atendimento médico, sem tentar neutralizar com nada.",
+    "discussao": [
+      "Como a gente dá chupeta aqui? O último cabo vai no chassi ou direto no polo?",
+      "Nossa sala ou área de carga de bateria tem ventilação adequada?",
+      "Alguém aqui já viu ou ouviu falar de bateria que estourou? O que aconteceu?"
+    ],
+    "frase": "A faísca é sempre pequena. O gás em cima da bateria é que não é.",
+    "fechamento": "Combinado de hoje: último cabo no chassi, longe da bateria, e ninguém debruçado por cima na hora de conectar. Área de carga ventilada e sem fonte de faísca. E ácido na pele ou no olho é água em abundância e atendimento na hora. Bom trabalho, pessoal."
+  },
+  {
+    "id": 88,
+    "titulo": "Os primeiros segundos valem o olho",
+    "setores": ["industria", "geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Pergunta rápida e quero que ninguém olhe pros lados pra responder: onde fica o lava-olhos e o chuveiro de emergência mais próximo daqui? Consegue apontar agora, de memória? Porque no dia que você precisar, você vai estar com o olho ardendo e sem enxergar direito, e não vai dar pra procurar.",
+    "caso": "Deixa eu contar por que os primeiros segundos decidem tudo. Quando um produto químico atinge o olho ou a pele, o dano não acontece no instante do contato e para: ele continua acontecendo enquanto o produto estiver ali, corroendo. Cada segundo a mais em contato é mais tecido comprometido. Por isso o tempo até começar a lavar é o fator que mais determina se a pessoa fica com sequela ou não. Um trabalhador foi respingado no rosto durante um manuseio. Ele reagiu como quase todo mundo reage: fechou os olhos com força, se afastou, e ficou alguns instantes tentando entender o que tinha acontecido e chamando por ajuda. Depois foi procurar onde ficava o lava-olhos, e teve que ser guiado por um colega porque não conseguia abrir os olhos. Foram alguns minutos entre o respingo e a primeira água. Não foi negligência de ninguém, foi a reação natural de quem se assusta. Mas foram justamente os minutos que mais importavam.",
+    "regra": "As regras: lava-olhos e chuveiro de emergência precisam estar a poucos segundos de onde se manuseia produto, com o caminho sempre desobstruído, e todo mundo tem que saber onde ficam sem pensar. Ao ser atingido, você vai direto pra água, sem tirar a roupa antes, sem procurar ninguém, sem tentar entender o que era. No olho, mantém a pálpebra aberta com os dedos, porque o reflexo é fechar com força e a água não entra, e move o olho em todas as direções pra lavar tudo. Lava por pelo menos quinze minutos, contando no relógio, porque parece uma eternidade e a maioria das pessoas para antes. Tira roupa e calçado contaminados debaixo do chuveiro. E não neutraliza com nada, não passa creme, não passa outro produto: só água. Depois disso, atendimento médico com o nome do produto em mãos.",
+    "discussao": [
+      "Sem olhar: onde fica o lava-olhos mais próximo do seu posto? Quanto tempo você leva até lá?",
+      "O caminho até ele está livre, ou tem material atravancando?",
+      "Alguém aqui saberia que precisa segurar a pálpebra aberta e lavar quinze minutos?"
+    ],
+    "frase": "O relógio começa a correr no respingo. Cada segundo procurando é tecido a mais.",
+    "fechamento": "Combinado de hoje: todo mundo vai localizar agora o lava-olhos e o chuveiro mais próximo, e a gente confere se o caminho está livre. Respingou, vai direto pra água, pálpebra aberta, quinze minutos no relógio, só água. Bom trabalho, pessoal."
+  },
+  {
+    "id": 89,
+    "titulo": "O dedo que fica branco",
+    "setores": ["construcao", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Pergunta pra quem usa marteletes, esmerilhadeira, parafusadeira de impacto, motosserra, compactador, qualquer ferramenta que treme na mão: quem aqui já terminou o dia com as mãos formigando, dormentes, ou com a sensação de que os dedos não respondem direito? Isso não é só cansaço. É a vibração cobrando, e ela cobra de um jeito que não tem volta.",
+    "caso": "Deixa eu explicar o que a vibração faz. Quando a mão recebe vibração intensa por muito tempo, dia após dia, os vasos sanguíneos pequenos dos dedos e os nervos vão sendo danificados. No começo aparece o formigamento e a dormência no fim do turno, que passa durante a noite. Com o tempo passa a demorar mais pra passar. E aí aparece o sinal mais característico, que dá nome à doença: o dedo branco. Em contato com o frio, ou até de manhã cedo, um ou mais dedos ficam completamente brancos, sem circulação, gelados e sem sensibilidade, e depois voltam à cor normal com dor e formigamento. Um trabalhador conviveu com isso por anos achando que era normal da profissão, coisa de quem trabalha pesado. Quando o quadro avançou, ele passou a ter dificuldade em coisas simples: não conseguia segurar objetos pequenos com firmeza, deixava ferramenta cair, não sentia direito o que estava pegando. E o mais duro é que, em estágio avançado, esse dano nos vasos e nos nervos não se recupera. Ele fica.",
+    "regra": "As regras que protegem: limitar o tempo contínuo com a ferramenta vibrando, alternando tarefa e revezando entre as pessoas em vez de um só passar o dia inteiro no martelete. Manter as mãos aquecidas, porque frio piora muito o quadro, então luva térmica em serviço frio e evitar começar com a mão gelada. Não apertar a ferramenta com mais força do que o necessário, porque quanto mais forte o aperto, mais vibração entra no corpo. Manter a ferramenta em bom estado, porque ferramenta desbalanceada, com disco gasto, broca cega ou ponteira ruim vibra muito mais e obriga a fazer mais força. Usar luva antivibração onde for adequado. E o principal: se você já sente formigamento recorrente ou já viu um dedo branquear, me procura, porque quanto mais cedo a gente reduz a exposição, mais chance de não virar permanente.",
+    "discussao": [
+      "Quem aqui sente formigamento ou dormência nas mãos depois do turno?",
+      "Alguém já viu o próprio dedo ficar branco no frio? Isso é sinal e eu quero saber.",
+      "Dá pra revezar as tarefas com ferramenta vibratória entre a equipe, em vez de um só ficar o dia todo?"
+    ],
+    "frase": "Formigamento no fim do dia não é cansaço. É a vibração cobrando adiantado.",
+    "fechamento": "Combinado de hoje: reveza tarefa com ferramenta vibratória, mantém as mãos aquecidas, não aperta mais que o necessário e mantém a ferramenta afiada e balanceada. E quem já sente formigamento ou viu dedo branquear, me procura hoje. Bom trabalho, pessoal."
+  },
+  {
+    "id": 90,
+    "titulo": "Trabalhar com a cabeça quente",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o DDS não é sobre máquina nem sobre EPI. É sobre uma coisa que todo mundo aqui já viveu: começar o turno com raiva, com preocupação, ou depois de uma discussão. Pergunta honesta: quem já veio trabalhar depois de brigar em casa, ou depois de uma discussão aqui mesmo, e sentiu que estava fazendo tudo mais bruto e mais rápido do que o normal?",
+    "caso": "Deixa eu explicar o que a raiva faz com a gente no trabalho, porque não é frescura. Quando a gente está com a cabeça quente, três coisas acontecem ao mesmo tempo. A primeira: a atenção afunila. A cabeça fica ocupada remoendo a discussão, e a percepção do que está em volta diminui, então a gente para de reparar no que mudou no ambiente. A segunda: o corpo fica mais bruto e mais rápido. A gente bate mais forte, puxa com mais força, anda mais depressa, e faz movimento sem medir. A terceira, e a mais perigosa: a tolerância a risco aumenta. Coisa que num dia normal você não faria, com raiva você faz, porque naquele momento não parece grave. Um trabalhador teve uma discussão séria pouco antes de assumir a função. Ele foi trabalhar mesmo assim, porque não ia deixar de trabalhar por causa disso, e porque falar sobre o assunto pareceria fraqueza. Fez uma tarefa que fazia sempre, só que com pressa e com força demais. Se machucou num movimento que ele nunca tinha errado. Não foi falta de conhecimento, foi a cabeça em outro lugar e o corpo mais bruto que o normal.",
+    "regra": "Então o combinado é: a cabeça também é condição de trabalho, igual sono e igual saúde. Se você chegou muito abalado, com raiva forte ou com uma preocupação grande, o certo não é engolir e ir pra máquina. Você me procura, e a gente vê o que dá pra fazer: começar por uma tarefa de menos risco, esperar alguns minutos, trocar de função naquele dia. E se a discussão for aqui dentro, entre a gente, a regra é resolver antes de voltar pra operação, e não voltar remoendo. Isso não é frescura nem terapia, é que gente com a cabeça quente se machuca mais, e eu não quero perder ninguém por causa de uma briga que passa em dois dias.",
+    "discussao": [
+      "Você já se pegou fazendo o serviço mais bruto e mais rápido por estar com raiva?",
+      "Aqui a gente conseguiria falar 'hoje eu não tô bem da cabeça' sem virar motivo de gozação?",
+      "Quando tem atrito entre colegas aqui, a gente resolve na hora ou fica remoendo trabalhando?"
+    ],
+    "frase": "Com raiva, a atenção diminui e a força aumenta. É a pior combinação que existe.",
+    "fechamento": "Combinado de hoje: cabeça quente é condição de trabalho, e eu quero saber. Chegou muito abalado, me procura antes de encostar na máquina que a gente ajusta. E briga entre a gente se resolve antes de voltar pra operação. Bom trabalho, pessoal, e se cuidem por dentro também."
   }
 ]
