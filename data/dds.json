@@ -2348,5 +2348,165 @@
     ],
     "frase": "Segurança é uma corrente. Não adianta ser o elo forte se o elo do lado está solto.",
     "fechamento": "Combinado de hoje, e é o que resume todos: aqui a gente não se cuida sozinho, se cuida junto. Avisa o colega, reporta o perigo, não deixa armadilha pro próximo, olha pelo mais vulnerável, dá exemplo. O objetivo de todo dia é um só: todo mundo voltar pra casa inteiro. Bom trabalho, pessoal, e obrigado por esses cento e cinquenta dias de cuidado."
+  },
+  {
+    "id": 151,
+    "titulo": "A pressão que não dá sintoma",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o DDS é sobre saúde, e sobre uma coisa que muita gente aqui tem e não sabe: pressão alta. Pergunta pra vocês: quando foi a última vez que você mediu a sua pressão? Se você não lembra, ou faz muito tempo, presta atenção hoje, porque a pressão alta é chamada de assassina silenciosa justamente por não avisar.",
+    "caso": "Deixa eu explicar por que a pressão alta é traiçoeira. A maioria das pessoas com pressão alta não sente absolutamente nada. Não dói, não incomoda, não dá sinal. A pessoa se sente perfeitamente bem, trabalha normal, e por dentro a pressão elevada vai, ano após ano, forçando o coração, danificando os vasos, sobrecarregando os rins. E um dia, sem aviso, isso se manifesta de uma vez, na forma de um infarto ou de um AVC, que a gente já falou aqui, que podem matar ou deixar sequela grave. E tem uma ligação direta com o trabalho: a pressão descontrolada aumenta muito o risco desses eventos acontecerem, inclusive durante o serviço, inclusive operando máquina ou dirigindo. Um trabalhador se sentia bem, forte, nunca reclamava de nada, e por isso nunca media a pressão, achava desnecessário. A pressão dele estava alta havia anos, silenciosa. O aviso veio na forma de um problema sério que poderia ter sido evitado se ele soubesse e tratasse. E o mais importante: pressão alta tem tratamento simples e eficaz, o problema é que a pessoa só descobre quando mede, e muita gente nunca mede porque se sente bem.",
+    "regra": "Então o combinado de hoje é sobre cuidar dessa parte que não dá sintoma. Meça a pressão de vez em quando, mesmo se sentindo bem, principalmente se você tem mais de quarenta anos, tem parente com pressão alta, é acima do peso, fuma, bebe muito, ou vive sob estresse. Se a empresa oferece exame periódico de saúde ocupacional, faça, leve a sério, porque é uma chance de descobrir cedo. Se descobrir que tem pressão alta, trate, tome o remédio certo, não pare porque se sente bem, porque o remédio é justamente o que mantém você bem. E cuide dos hábitos que ajudam: menos sal, menos bebida, mais movimento, controle do peso, e lidar com o estresse. Isso não é assunto separado do trabalho: um trabalhador com a saúde descontrolada corre mais risco na operação e pode ter um evento grave no serviço. Cuidar da sua saúde é parte de voltar pra casa inteiro.",
+    "discussao": [
+      "Quando foi a última vez que você mediu a sua pressão?",
+      "A gente aproveita os exames de saúde que tem direito, ou deixa passar por se sentir bem?",
+      "O que dificulta a gente cuidar mais da saúde no dia a dia?"
+    ],
+    "frase": "A pressão alta não dói e não avisa. Ela só se apresenta no dia do infarto.",
+    "fechamento": "Combinado de hoje: mede a pressão de vez em quando, mesmo se sentindo bem, faz os exames que tem direito, e se descobrir alta, trata e não para o remédio. Saúde controlada é parte de voltar pra casa inteiro. Bom trabalho, pessoal, e se cuidem."
+  },
+  {
+    "id": 152,
+    "titulo": "A ligação que podia esperar",
+    "setores": ["geral", "frota", "industria"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. A gente já falou de celular na operação. Hoje eu quero pegar por outro lado, mais fundo: a pressão que a gente sente de estar sempre disponível, de responder na hora, de não perder a mensagem. Pergunta honesta: quantas vezes você olhou o celular no meio de uma tarefa hoje, não por emergência, mas por hábito, porque vibrou? Esse hábito tem um custo que a gente não percebe.",
+    "caso": "Deixa eu explicar uma coisa sobre atenção que muda como a gente vê isso. Toda vez que o celular vibra e você olha, mesmo que por um segundo, mesmo que você não responda, a sua atenção foi arrancada da tarefa e jogada pro celular. E aqui está o problema que a ciência mostrou: depois que a atenção é interrompida, ela não volta pra tarefa instantaneamente. Ela leva um tempo pra reengatar, e nesse intervalo você está fazendo o serviço no automático, com a cabeça ainda no que viu na tela ou pensando no que vai responder. Ou seja, uma olhada de um segundo no celular te tira da tarefa por muito mais que um segundo. Num serviço perigoso, esse intervalo de reengate é onde o acidente entra. E tem a raiz do problema, que é a sensação de urgência: a gente sente que tudo no celular é urgente e precisa de resposta imediata, quando na verdade quase nada é. A mensagem espera, a ligação retorna, o grupo continua lá depois. Um trabalhador se acidentou logo depois de olhar uma notificação que não era nada, uma mensagem qualquer, porque a atenção dele ainda não tinha voltado pro serviço quando o perigo apareceu.",
+    "regra": "As regras: durante tarefa que exige atenção, e principalmente tarefa de risco, o celular fica guardado, no silencioso ou desligado, longe do alcance fácil, porque se ele estiver no bolso vibrando, a tentação de olhar vence. Reserva momentos pra olhar o celular, nas pausas, longe da operação, e resolve tudo de uma vez ali, em vez de olhar de dez em dez minutos no meio do serviço. Combina com a família e com quem precisa te achar um jeito de contato pra emergência de verdade, pra você ter a tranquilidade de que o que é importante te alcança, e o resto pode esperar. E desconfia da urgência: antes de largar o que está fazendo pra olhar o celular, pergunta se aquilo realmente não pode esperar dez minutos. Quase sempre pode. A regra que resume: o celular guardado durante o serviço não é sobre regra da empresa, é sobre a sua atenção estar inteira onde o perigo está.",
+    "discussao": [
+      "Quantas vezes por turno você olha o celular por hábito, não por necessidade?",
+      "A gente sente que tudo é urgente e precisa responder na hora? De onde vem essa pressão?",
+      "Como a gente organiza pra o que é emergência de verdade alcançar a pessoa, e o resto esperar?"
+    ],
+    "frase": "A olhada dura um segundo. A atenção leva bem mais que isso pra voltar pro serviço.",
+    "fechamento": "Combinado de hoje: durante tarefa de risco, celular guardado e no silencioso, e o que precisa olhar você olha na pausa, de uma vez. Combina um contato pra emergência de verdade. Quase nada é tão urgente quanto parece. Bom trabalho, pessoal."
+  },
+  {
+    "id": 153,
+    "titulo": "O frio que também adoece",
+    "setores": ["industria", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. A gente falou bastante de calor. Hoje é o contrário: quem trabalha no frio intenso, em câmara fria, em frigorífico, em ambiente refrigerado, ou exposto ao frio na rua. Pergunta pra quem trabalha gelado: você trata o frio como um risco de saúde, ou só como um desconforto que dá pra aguentar? Porque o frio intenso e prolongado adoece de verdade, e de vários jeitos.",
+    "caso": "Deixa eu explicar o que o frio faz com o corpo de quem trabalha nele o tempo todo. O frio intenso contrai os vasos sanguíneos das mãos e dos pés, e com o tempo isso pode causar problemas de circulação, dor, dormência, e piorar quadros como aquele dedo branco que a gente viu na vibração. As articulações e os músculos ficam mais rígidos e doloridos no frio, o que aumenta o risco de lesão em esforço e de dor crônica, principalmente na coluna e nas articulações. O frio prolongado nas extremidades pode causar lesão por frio nos casos extremos. E tem o efeito na atenção e na destreza: mão gelada perde sensibilidade e força, fica difícil segurar direito, e isso vira risco na operação, pessoa deixa cair ferramenta, não sente bem o que está pegando. Além disso, a mudança brusca de temperatura, entrar e sair do gelado pro ambiente normal várias vezes, estressa o corpo e favorece problemas respiratórios. Um trabalhador de ambiente refrigerado tratava o frio como algo que 'faz parte', sem proteção adequada, e foi acumulando dor nas articulações e nas mãos que ele achava normal, quando era o frio cobrando.",
+    "regra": "As regras: vestimenta térmica adequada pro nível de frio, em camadas, protegendo principalmente as extremidades, mãos, pés, cabeça e orelhas, e pescoço, que é por onde o corpo mais perde calor. Luva térmica que permita trabalhar sem perder a mão de frio. Calçado térmico e que não escorregue no piso gelado, que costuma ter gelo. Reveza a exposição, alternando tempo no frio com tempo em ambiente aquecido pra o corpo se recuperar, e não fica horas seguidas no gelado sem intervalo. Bebida quente e ambiente aquecido pra pausa ajudam. Movimenta-se pra manter a circulação, porque parado no frio é pior. E atenção aos sinais: dormência que não passa, dor persistente nas mãos e nos pés, pele muito pálida ou arroxeada nas extremidades, tudo isso é sinal pra sair do frio, aquecer e, se persistir, procurar avaliação. Frio, igual calor, não é só desconforto, é risco de saúde.",
+    "discussao": [
+      "Quem trabalha no frio aqui tem vestimenta térmica adequada, principalmente pras mãos e pés?",
+      "A gente reveza o tempo no frio com tempo no aquecido, ou fica horas seguidas no gelado?",
+      "Alguém sente dor ou dormência nas mãos e pés que piora no frio?"
+    ],
+    "frase": "O frio intenso não é só desconforto. Ele contrai, endurece e cobra nas articulações e nas mãos.",
+    "fechamento": "Combinado de hoje: quem trabalha no frio usa vestimenta térmica de verdade, protege as extremidades, reveza com tempo no aquecido e se movimenta. Dormência e dor que não passam são sinal de sair e aquecer. Bom trabalho, pessoal."
+  },
+  {
+    "id": 154,
+    "titulo": "EPI não se empresta sem cuidado",
+    "setores": ["geral", "industria"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje o DDS é sobre uma coisa prática do dia a dia: o EPI compartilhado, aquele que mais de uma pessoa usa, ou que a gente empresta pro colega numa emergência. Pergunta: você já usou o protetor auricular, a máscara, o óculos, a luva de outra pessoa, ou emprestou o seu, sem pensar duas vezes? Tem EPI que dá pra compartilhar com cuidado, e tem EPI que não deveria ser compartilhado, e vale saber a diferença.",
+    "caso": "Deixa eu explicar. Alguns EPIs têm contato íntimo com o corpo e podem transmitir problemas de uma pessoa pra outra quando compartilhados sem higiene. O protetor auricular de inserção, aquele que entra no ouvido, compartilhado sem higienização, pode transmitir infecção de ouvido de uma pessoa pra outra. A máscara e o respirador têm contato com o rosto, a boca e o nariz, e compartilhar sem higiene transmite problema respiratório e de pele. O óculos encosta no rosto, e em conjuntivite, por exemplo, o compartilhamento passa de um pro outro. Capacete e sua carneira, luva, tudo que fica em contato com pele e suor, compartilhado sem higiene, pode transmitir problema de pele e fungo. Um trabalhador pegou uma infecção de ouvido depois de usar, numa emergência, o protetor de inserção de um colega que estava com problema, sem higienizar. Não foi nada gravíssimo, mas foi um incômodo e um afastamento totalmente evitável. E vale também o contrário: EPI compartilhado e mal ajustado protege menos, porque cada pessoa tem um tamanho, e o que veda no rosto de um pode não vedar no de outro.",
+    "regra": "As regras: EPI de uso individual é individual mesmo, cada um tem o seu, com o seu tamanho, o seu ajuste, identificado quando possível. Isso vale principalmente pro que tem contato íntimo: protetor de inserção, máscara e respirador, óculos, capacete com carneira. Quando um EPI é necessariamente compartilhado, como alguns de uso pontual, ele tem que ser higienizado entre um uso e outro, com o produto adequado, e alguns têm partes descartáveis que se troca. Protetor auricular de inserção reutilizável se limpa; o descartável não se compartilha, se usa e descarta. Cuida da higiene e da guarda do seu EPI, não deixa jogado onde suja e contamina. E se você precisa de um EPI e o seu não está disponível ou está danificado, a solução não é pegar emprestado sem higiene, é me procurar que eu providencio o certo pra você. A regra que resume: EPI protege, mas EPI compartilhado sem cuidado pode transmitir problema, então cada um cuida do seu.",
+    "discussao": [
+      "A gente compartilha protetor, máscara ou óculos sem higienizar às vezes?",
+      "Cada um tem o seu EPI individual, com o tamanho e ajuste certos, ou é um monte pra todo mundo pegar?",
+      "Como a gente guarda o EPI? Fica jogado sujando, ou tem lugar limpo pra guardar?"
+    ],
+    "frase": "EPI protege, mas o compartilhado sem higiene pode passar problema de um pro outro.",
+    "fechamento": "Combinado de hoje: EPI de contato íntimo é individual, cada um com o seu, no seu tamanho. Compartilhado só com higienização, e descartável não se compartilha. Faltou o seu ou danificou, me procura, não pega emprestado sem cuidado. Bom trabalho, pessoal."
+  },
+  {
+    "id": 155,
+    "titulo": "A pausa que o corpo precisa",
+    "setores": ["geral", "frota", "industria"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje o DDS é sobre uma coisa que parece besteira e é segurança de verdade: a pausa, o intervalo, o descanso durante a jornada. Pergunta honesta: você tira as suas pausas de verdade, para pra comer com calma, descansa, ou você emenda, come rápido, pula o intervalo pra adiantar serviço, acha que parar é perder tempo? Porque pular pausa não é dedicação, é preparar acidente.",
+    "caso": "Deixa eu explicar por que a pausa é segurança. O corpo e a mente têm um limite, e trabalhar sem parar, por horas a fio, sem comer direito e sem descansar, faz a atenção cair, o reflexo piorar, o cansaço acumular, exatamente as coisas que a gente já viu que causam acidente. A pausa não é luxo, é o que recarrega a atenção pra segunda parte do turno. Quem pula a pausa pra adiantar serviço faz a segunda metade do dia mais cansado, mais lento e mais distraído, e o pouco que adiantou pulando o intervalo ele perde em produtividade e ganha em risco. E tem a alimentação: pular refeição ou comer muito mal e muito rápido baixa a energia, dá moleza, dá tontura, e um corpo sem combustível trabalha pior e mais perigoso. Um trabalhador tinha o hábito de pular ou encurtar o intervalo pra 'render mais', e se acidentou justamente numa tarde, cansado, com fome, com a atenção baixa por não ter parado pra descansar e comer direito. Ele achava que estava sendo dedicado. Estava se colocando em risco.",
+    "regra": "As regras: tira as suas pausas e o seu intervalo de refeição, de verdade, porque eles existem pra sua saúde e sua segurança, não são tempo perdido, são tempo que garante a segunda parte do turno. Come com calma, se alimenta direito, se hidrata, porque corpo sem combustível trabalha pior e mais perigoso. Faz pausas curtas ao longo do dia também, principalmente em trabalho pesado, repetitivo ou de muita atenção, porque pausa curta e frequente recarrega melhor. Respeita os intervalos que a lei garante, que existem exatamente por causa disso. E do lado de quem organiza o trabalho: forçar as pessoas a pular pausa pra cumprir meta é comprar risco, é gente cansada e com fome operando, e isso cobra em acidente. A regra que resume: pausa não é o oposto de produtividade, é o que mantém você seguro e produtivo até o fim do turno.",
+    "discussao": [
+      "Você tira as suas pausas de verdade, ou pula e encurta pra adiantar serviço?",
+      "A gente sente pressão pra pular pausa pra cumprir meta?",
+      "Como você se sente na segunda parte do turno quando não parou direito na primeira?"
+    ],
+    "frase": "Pular a pausa não é dedicação. É fazer a segunda metade do turno cansado, com fome e distraído.",
+    "fechamento": "Combinado de hoje: tira as suas pausas, come com calma, se hidrata, descansa, porque isso é o que te mantém seguro até o fim do turno. Pausa não é tempo perdido, é atenção recarregada. Bom trabalho, pessoal, e parem pra descansar hoje."
+  },
+  {
+    "id": 156,
+    "titulo": "O balancim que depende de cada nó",
+    "setores": ["construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é andaime suspenso, o balancim, aquela plataforma que fica pendurada por cabos pra fazer serviço em fachada de prédio, pintura, limpeza, revestimento. Pergunta pra quem trabalha ou já viu: o que segura o balancim lá em cima? Cabo, motor, sistema de suspensão. E o que acontece se um desses falhar? Hoje é sobre o equipamento onde cada detalhe é a diferença entre trabalhar e cair de muito alto.",
+    "caso": "Deixa eu explicar por que o balancim é um dos trabalhos em altura mais críticos. Diferente do andaime apoiado no chão, o balancim fica pendurado no ar, sustentado por cabos e por um sistema de fixação lá no topo do prédio. Isso quer dizer que a segurança inteira depende de cada parte desse conjunto estar certa: a estrutura de sustentação no topo bem fixada e dimensionada, os cabos em bom estado, o sistema de subida e descida funcionando, e os contrapesos ou a ancoragem corretos. Se qualquer elo falhar, a plataforma despenca ou tomba de uma altura que é quase sempre fatal. E tem o detalhe que salva vida: além do cabo que sustenta a plataforma no dia a dia, o trabalhador usa cinto ligado a um cabo de segurança independente, o cabo-guia com trava-quedas, que é separado do sistema do balancim. Por quê? Porque se o sistema principal do balancim falhar e a plataforma cair, esse cabo independente segura a pessoa. Existe caso de balancim que tombou ou caiu, e quem morreu foi quem não estava com o cinto ligado ao cabo de segurança independente, enquanto quem estava ligado ficou pendurado e foi resgatado.",
+    "regra": "As regras: balancim é montado, inspecionado e operado por gente treinada e habilitada pra isso, com projeto, não é improviso. Antes de cada uso, inspeciona todo o conjunto: estrutura de sustentação no topo, cabos, sistema de suspensão, trava, contrapeso ou ancoragem. O trabalhador usa cinto ligado a um trava-quedas em um cabo de segurança independente do sistema do balancim, ancorado separadamente, porque esse é o que segura se o balancim cair. Respeita a capacidade de carga, pessoas mais material. Não sobrecarrega, não improvisa a fixação no topo, não usa com vento forte, e junta com todas as regras de trabalho em altura. E ninguém entra num balancim que não tem o cabo de segurança independente, porque é ele que faz a diferença entre ficar pendurado e cair. A regra que resume: no balancim, você nunca confia só no sistema que te sustenta, você tem sempre o segundo, independente, que te segura se o primeiro falhar.",
+    "discussao": [
+      "A gente usa balancim aqui? Quem monta e opera é treinado e habilitado?",
+      "Vocês sabiam que o cinto tem que estar num cabo de segurança independente do balancim?",
+      "Antes de usar, a gente inspeciona todo o conjunto, inclusive a fixação lá no topo?"
+    ],
+    "frase": "No balancim, o que te salva se ele cair não é o cabo que te sustenta. É o segundo, independente.",
+    "fechamento": "Combinado de hoje: balancim só com gente treinada, conjunto inteiro inspecionado antes, e cinto sempre num cabo de segurança independente do sistema. Sem esse segundo cabo, ninguém entra. Bom trabalho, pessoal."
+  },
+  {
+    "id": 157,
+    "titulo": "O cigarro e o que ele espera",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o DDS é sobre cigarro, e eu quero deixar claro de novo: não é sermão sobre a vida de ninguém. O que cada um faz é escolha de cada um. Eu quero falar de dois lados que são segurança de verdade, o do risco imediato de fumar no lugar errado, e o da saúde a longo prazo, com respeito por quem fuma e vontade de ajudar quem quer parar.",
+    "caso": "Deixa eu começar pelo risco imediato, que é o mais direto. Cigarro é fonte de fogo, brasa e faísca, e a gente já viu em vários DDS o quanto uma faísca pequena importa: perto de inflamável, de combustível, de gás, de vapor, de poeira que explode, de área classificada, um cigarro aceso é ignição na certa. Muito incêndio e muita explosão começaram com uma bituca em lugar que não podia. Por isso existe local certo pra fumar, longe dessas áreas, e isso não é implicância, é a diferença entre uma tragada e uma explosão. E tem o descarte: bituca jogada em qualquer lugar, ainda acesa, em mato seco, em lixo, em material combustível, começa incêndio. Agora o outro lado, o da saúde: o cigarro é uma das maiores causas de doença evitável que existe, câncer, problema de coração, problema de pulmão, e para quem já trabalha exposto a poeira, a fumo, a produto químico, o cigarro soma com essas exposições e multiplica o risco no pulmão. Um trabalhador que já respirava poeira no serviço e ainda fumava juntou os dois danos no mesmo pulmão. Não é sobre julgar, é sobre a conta somar.",
+    "regra": "Então o combinado tem as duas partes. A parte do risco imediato, que é regra e não é opcional: fumar só no local designado, longe de área com inflamável, combustível, gás, vapor, poeira combustível e área classificada, e descartar a bituca apagada, no lugar certo, nunca acesa e nunca em qualquer canto. Isso protege todo mundo, fumante ou não, de incêndio e explosão. E a parte da saúde, que é convite e apoio, não cobrança: se você fuma e quer parar, saiba que tem ajuda, o sistema de saúde oferece tratamento gratuito pra parar de fumar, e parar de fumar melhora a saúde de um jeito enorme, em qualquer idade, mesmo depois de anos fumando. Se isso é algo que te interessa, me procura que eu te ajudo a achar o caminho. E quem não fuma, respeita quem fuma sem pressão, e quem fuma respeita quem não quer o cigarro por perto. A regra que resume: cigarro no lugar certo é questão de segurança de todos, e parar de fumar, pra quem quiser, é uma ajuda que existe e está disponível.",
+    "discussao": [
+      "A gente respeita os locais certos pra fumar, longe das áreas de risco?",
+      "Tem descarte de bituca correto, ou tem gente jogando em qualquer lugar?",
+      "Alguém aqui quer parar de fumar e não sabia que existe tratamento gratuito pra isso?"
+    ],
+    "frase": "No lugar errado, o cigarro é a faísca que faltava. E no pulmão, ele soma com tudo que você já respira.",
+    "fechamento": "Combinado de hoje: fumar só no local certo, longe de risco de incêndio, bituca apagada no lugar certo. E quem quer parar, tem ajuda gratuita e minha porta aberta pra te orientar. Sem julgamento, com respeito e com apoio. Bom trabalho, pessoal."
+  },
+  {
+    "id": 158,
+    "titulo": "Consertar antes de quebrar",
+    "setores": ["industria", "frota"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje o DDS é sobre manutenção, e sobre uma diferença de cabeça que muda a segurança: consertar quando quebra, ou cuidar pra não quebrar. Pergunta pra vocês: a gente conserta o equipamento quando ele para de funcionar, ou a gente cuida dele antes, pra ele não parar num momento perigoso? Porque a hora que o equipamento escolhe pra quebrar costuma ser a pior possível.",
+    "caso": "Deixa eu explicar por que esperar quebrar é perigoso. Quando a gente só conserta depois que quebrou, o equipamento vai falhar sozinho, sem escolher a hora, e muitas vezes ele falha justamente quando está sendo mais exigido, com carga, em movimento, com gente por perto. O freio que só é trocado quando falha, falha na frenagem que você precisava. O cabo que só é trocado quando arrebenta, arrebenta com a carga suspensa. A proteção que só é olhada quando dá problema, já deu problema com alguém. Já a manutenção preventiva, que cuida antes, troca a peça pelo desgaste antes dela falhar, pega o problema enquanto ele é pequeno e num momento controlado, na oficina, com o equipamento parado de propósito, e não no meio da operação. Um equipamento foi usado até quebrar porque 'ainda estava funcionando', e quebrou no pior momento, causando um acidente que uma manutenção preventiva teria evitado, porque o desgaste já estava lá, visível, esperando. E tem a ligação com o que a gente já falou: a checagem pré-operacional é a primeira linha dessa prevenção, é você pegando o problema antes de ele te pegar.",
+    "regra": "As regras: leva a sério a manutenção preventiva, aquela que é feita por tempo ou por uso, mesmo com o equipamento funcionando, porque ela troca a peça antes de ela falhar num momento perigoso. Não usa equipamento até quebrar só porque 'ainda está funcionando', principalmente se você já notou sinais, um barulho diferente, uma folga, um vazamento, um desgaste, porque esses sinais são o aviso antes da falha. Reporta esses sinais assim que notar, não espera piorar, porque o problema pequeno reportado hoje é a falha grande evitada amanhã. Faz a checagem pré-operacional de verdade, que é prevenção diária. E do lado de quem decide: adiar manutenção pra economizar ou pra não parar a produção é apostar que o equipamento não vai quebrar na hora errada, e essa aposta se perde em acidente. A regra que resume: é sempre mais barato e mais seguro consertar antes de quebrar do que remediar depois do acidente.",
+    "discussao": [
+      "A gente cuida dos equipamentos antes de quebrar, ou conserta só quando param?",
+      "Tem equipamento aqui dando sinal de problema, barulho, folga, vazamento, que ninguém reportou?",
+      "A gente adia manutenção pra não parar a produção às vezes?"
+    ],
+    "frase": "O equipamento não escolhe uma hora boa pra quebrar. Ele quebra quando está sendo mais exigido.",
+    "fechamento": "Combinado de hoje: manutenção preventiva levada a sério, e sinal de problema reportado na hora, não deixa piorar. Checagem pré-operacional sempre. Consertar antes de quebrar é mais barato e mais seguro que remediar o acidente. Bom trabalho, pessoal."
+  },
+  {
+    "id": 159,
+    "titulo": "A poeira de madeira também conta",
+    "setores": ["industria", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje o DDS é pra quem trabalha com madeira: marcenaria, serraria, movelaria, corte e lixamento de madeira. Pergunta: aquela poeira de madeira, o pó da serra e da lixadeira, aquele cheiro de serragem no ar, você trata como poeira inofensiva, coisa natural da madeira? Porque a poeira de madeira também faz mal ao pulmão e ainda tem outro risco que quase ninguém liga a ela.",
+    "caso": "Deixa eu explicar, porque a poeira de madeira engana por parecer natural. A gente acha que, por ser madeira, coisa da natureza, o pó é inofensivo, diferente de poeira química ou de pedra. Mas a poeira fina de madeira, respirada por muito tempo, causa problema respiratório, alergia, asma ocupacional, e a poeira de algumas madeiras, principalmente as de lei e as tratadas quimicamente, é associada a risco maior, inclusive a câncer nas vias respiratórias com a exposição prolongada. Ou seja, a serragem que a gente respira ano após ano vai fazendo o mesmo tipo de estrago silencioso das outras poeiras. E tem o segundo risco, que a gente já viu falando de pó: a poeira de madeira fina e acumulada é combustível, e em concentração alta no ar pode até explodir, e um monte de serragem acumulada perto de fonte de calor ou faísca pega fogo com facilidade. Uma marcenaria trabalhava com bastante pó no ar e serragem acumulada por todo lado, sem aspiração e sem máscara adequada, tratando como coisa natural, e juntava o risco à saúde de longo prazo com o risco de incêndio ali mesmo.",
+    "regra": "As regras: trata a poeira de madeira como poeira que faz mal, porque faz. Usa aspiração acoplada às máquinas, que puxa o pó no ponto onde nasce, que é a melhor solução, e é comum em máquina de marcenaria justamente por isso. Respirador adequado pra poeira fina onde a aspiração não dá conta, não a máscara de pano. Ventilação do ambiente. E cuida do acúmulo de serragem, por causa do risco de incêndio e de explosão de pó: limpa regularmente, não deixa montanha de serragem perto de fonte de calor, de motor, de instalação elétrica, e limpa sem levantar nuvem, sem usar ar comprimido, como a gente já viu. Cuidado com a serragem impregnada de óleo e verniz, que pega fogo mais fácil. E atenção especial com madeira tratada quimicamente, cujo pó é mais nocivo. A regra que resume: serragem parece inofensiva por ser natural, mas ela faz mal ao pulmão e ainda é combustível, então merece o mesmo cuidado das outras poeiras.",
+    "discussao": [
+      "A gente trata a poeira de madeira como inofensiva por ser natural?",
+      "Nossas máquinas de madeira têm aspiração de pó, ou o pó fica todo no ar?",
+      "Tem serragem acumulada perto de fonte de calor, motor ou instalação elétrica aqui?"
+    ],
+    "frase": "A serragem parece inofensiva por ser natural. Mas ela faz mal ao pulmão e ainda pega fogo.",
+    "fechamento": "Combinado de hoje: poeira de madeira faz mal, então aspiração nas máquinas, respirador adequado, e cuidado com o acúmulo de serragem por causa do incêndio. Limpa sem levantar nuvem e sem ar comprimido. Bom trabalho, pessoal."
+  },
+  {
+    "id": 160,
+    "titulo": "Falar sem medo salva",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o DDS é sobre uma coisa que decide se tudo que a gente conversa aqui funciona ou não: a liberdade de falar. Pergunta honesta pra vocês, e pensem de verdade: aqui, quando alguém vê um perigo, aponta um erro, recusa uma tarefa insegura ou reporta um quase, essa pessoa se sente à vontade, ou ela tem medo de sobrar pra ela, de ser vista como encrenqueira, de perder pontos? Porque essa resposta é a base de toda a segurança.",
+    "caso": "Deixa eu explicar por que isso é o alicerce de tudo. Todos esses DDS, todas essas regras, dependem de uma coisa pra funcionar na prática: as pessoas falarem. Falar quando veem um perigo, reportar um quase, avisar o colega em risco, recusar uma tarefa que está insegura, apontar uma condição ruim, dizer 'isso aqui não está certo'. Se as pessoas têm medo de falar, tudo isso morre, e a empresa fica cega pros seus próprios perigos, porque quem está no chão vendo o risco não abre a boca. E o medo de falar aparece de vários jeitos: medo de ser chamado de encrenqueiro, de fresco, de estar 'atrapalhando a produção', medo de retaliação, de perder o emprego, de ser marcado. Em muitos acidentes graves, depois se descobre que várias pessoas sabiam do perigo e não falaram, ou falaram e não foram ouvidas, ou foram ouvidas e foram punidas por falar. Um trabalhador sentiu que uma tarefa estava perigosa, teve vontade de recusar, mas ficou com medo de ser visto como o que não quer trabalhar, e fez mesmo assim. Se acidentou. O medo de falar custou caro.",
+    "regra": "Então o combinado de hoje é o mais importante de todos, e ele é uma via de mão dupla que exige coisa dos dois lados. Do lado de quem lidera: aqui, ninguém nunca vai ser punido, marcado ou ridicularizado por apontar um perigo, reportar um quase, recusar uma tarefa insegura ou avisar um colega. Pelo contrário, quem faz isso está ajudando a todos e merece reconhecimento. Recusar tarefa que representa risco grave e iminente à vida não é indisciplina, é um direito, e é o certo. Do lado de todos: você fala, você reporta, você avisa, mesmo com receio, porque o seu silêncio pode custar a sua segurança ou a do colega. E a gente cria junto um ambiente onde falar é normal e bem-visto, onde perguntar não é vergonha e apontar risco não é encrenca. A regra que resume tudo, e que sustenta todos os cento e sessenta DDS que a gente já fez: uma equipe segura é uma equipe que fala sem medo, porque o perigo que ninguém aponta é o que acaba machucando alguém.",
+    "discussao": [
+      "Sendo honesto: você se sente à vontade pra apontar um perigo ou recusar uma tarefa insegura aqui?",
+      "O que a gente pode fazer pra falar de segurança ser normal e bem-visto, e não encrenca?",
+      "Já teve situação em que alguém sabia de um perigo e não falou por medo? Como mudar isso?"
+    ],
+    "frase": "O perigo que ninguém aponta é justamente o que vai machucar alguém.",
+    "fechamento": "Combinado de hoje: aqui a gente fala sem medo. Apontar perigo, reportar quase, recusar tarefa insegura, avisar colega, nada disso é encrenca, é cuidado, e ninguém é punido por isso. Uma equipe que fala sem medo é uma equipe segura. Bom trabalho, pessoal."
   }
 ]
