@@ -2188,5 +2188,165 @@
     ],
     "frase": "A máquina não sabe quem está perto. Só quem aciona pode olhar. Se ele não olha, ninguém olha.",
     "fechamento": "Combinado de hoje: antes de acionar, ligar ou movimentar qualquer coisa, uma olhada em volta. Tem alguém em zona de risco, avisa e espera sair. Usa o aviso sonoro. Vira hábito, porque o dia distraído é o que mais precisa. Bom trabalho, pessoal."
+  },
+  {
+    "id": 141,
+    "titulo": "A carroceria também é altura",
+    "setores": ["logistica", "frota", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é subir na carroceria do caminhão pra carregar, descarregar, amarrar ou conferir carga. Pergunta pra vocês: a carroceria de um caminhão fica a quanto do chão? Um metro, um metro e meio? A gente não pensa nela como altura, mas cair de lá é cair de altura, e é uma das quedas que mais afasta gente no transporte, muito mais que qualquer acidente espetacular.",
+    "caso": "Deixa eu explicar por que a carroceria é traiçoeira. A gente respeita telhado, andaime, laje, mas a carroceria do caminhão a gente sobe e desce sem nenhum cuidado, porque parece baixa e porque a gente faz isso o tempo todo. Só que cair de um metro e meio de cabeça, ou de costas, ou torcendo o pé na descida, machuca sério. E lá em cima tem vários agravantes: a superfície pode estar escorregadia de graxa, de chuva, de produto derramado; a carga é irregular e a pessoa anda sobre ela ou entre ela, com risco de tropeçar e cair pra fora; a lona, o encerado, obriga a pessoa a se equilibrar em pontos instáveis; e não tem guarda-corpo nenhum, é uma plataforma alta e aberta. Um trabalhador estava em cima da carroceria amarrando carga, andou de costas pra ajeitar uma cinta, pisou num ponto irregular da carga e caiu pra fora, direto no chão. Caiu daquela altura 'baixinha' que ninguém respeita, e quebrou o braço e bateu a cabeça. Outro caso muito comum: escorregar na descida e torcer ou fraturar o tornozelo, porque desceu de qualquer jeito, pulando ou de costas.",
+    "regra": "As regras: trata a carroceria como o que ela é, um trabalho em altura. Sobe e desce pelos degraus e apoios próprios do caminhão, de frente pro veículo, com três pontos de apoio e mãos livres, nunca pula da carroceria pro chão. Onde existe, usa a escada de acesso adequada. Em cima, cuidado redobrado com superfície escorregadia, com a borda, e com andar sobre carga irregular. Onde é possível, existe sistema de proteção contra queda pra trabalho em cima de carga, como plataformas com guarda-corpo nos locais de carregamento, linha de vida, e vale usar. Não carrega peso descendo da carroceria, desce primeiro e recebe depois. E o principal: não trata a carroceria como chão só porque é 'baixa', porque a queda de lá tira gente de circulação por meses.",
+    "discussao": [
+      "Como vocês sobem e descem da carroceria hoje? Pelos degraus ou pulando?",
+      "A superfície da carroceria e da carga costuma estar escorregadia? De quê?",
+      "Nos nossos pontos de carregamento tem alguma proteção contra queda, ou é a carroceria aberta?"
+    ],
+    "frase": "A carroceria parece baixa, mas cair de lá é cair de altura. E ninguém respeita essa altura.",
+    "fechamento": "Combinado de hoje: carroceria é trabalho em altura. Sobe e desce pelos apoios, de frente, três pontos, sem pular. Cuidado com superfície escorregadia e borda. Não trata como chão só porque parece baixa. Bom trabalho, pessoal."
+  },
+  {
+    "id": 142,
+    "titulo": "O que protege os seus pés",
+    "setores": ["geral", "industria", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje o DDS é sobre o EPI que a gente mais usa e menos pensa: o calçado de segurança. Pergunta pra vocês: você olha o estado da sua bota como olha o resto do EPI? Sabe pra que serve cada parte dela? Porque o pé é uma das partes que mais se machuca no trabalho, e a bota certa e em bom estado é o que separa um susto de uma lesão que deixa sequela.",
+    "caso": "Deixa eu explicar o que a bota de segurança faz, porque ela protege de várias coisas ao mesmo tempo. A biqueira, aquela parte dura na ponta, protege os dedos de material que cai em cima e de esmagamento, e sem ela um objeto pesado no pé quebra os dedos com facilidade. O solado protege de perfuração, de pisar em prego e em material pontiagudo, e tem solado com palmilha de proteção justamente pra isso. O solado antiderrapante segura em piso escorregadio, e um solado gasto, careca, escorrega como se fosse liso, sendo uma das causas de queda. Tem bota com isolamento elétrico pra quem trabalha com energia, e bota condutiva pra quem trabalha onde estática é risco, e usar a errada pra função anula a proteção. Um trabalhador usava uma bota velha, com o solado completamente gasto e careca, e escorregou num piso levemente molhado que uma bota em bom estado teria segurado. Caiu e se machucou. A bota estava lá, ele estava usando, mas ela já não protegia, igual qualquer EPI vencido.",
+    "regra": "As regras: usa o calçado de segurança adequado pra sua função, e mantém ele fechado e amarrado direito, porque bota aberta ou frouxa protege menos e ainda faz tropeçar. Confere o estado: solado gasto e careca escorrega e se troca; biqueira exposta ou danificada não protege; cano rasgado, sola descolando, tudo isso é sinal de troca. Bota molhada por dentro, além de desconforto, favorece problema de pele no pé, então cuida da higiene e da secagem. Usa a bota certa pro risco: isolante pra energia, com proteção pra perfuração onde tem material pontiagudo no chão, antiderrapante onde escorrega. E não improvisa com calçado comum, tênis, chinelo, em área que exige bota de segurança, porque o pé desprotegido é um dos que mais se machuca com queda de material e com pisada em coisa pontiaguda. Bota gasta ou errada, me procura que a gente troca.",
+    "discussao": [
+      "Olha a sua bota agora: o solado está gasto e careca, ou ainda tem desenho que segura?",
+      "Alguém aqui está com bota rasgada, sola descolando ou biqueira exposta?",
+      "A gente usa a bota certa pra cada risco, tipo isolante pra energia?"
+    ],
+    "frase": "Solado careca escorrega igual chão liso. A bota gasta está no seu pé, mas não protege mais.",
+    "fechamento": "Combinado de hoje: calçado de segurança adequado, fechado e amarrado, com solado que ainda segura. Bota gasta, rasgada ou errada pro risco, me procura que a gente troca. O pé desprotegido é dos que mais se machuca. Bom trabalho, pessoal."
+  },
+  {
+    "id": 143,
+    "titulo": "Energia mesmo com tudo desligado",
+    "setores": ["construcao", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é pra quem trabalha em telhado e cobertura que tem placa de energia solar, os painéis fotovoltaicos, que estão cada vez mais comuns. Pergunta pra quem mexe com isso: dá pra desligar a energia de um painel solar? A resposta assusta muita gente: enquanto tiver luz do sol batendo nele, o painel está gerando energia, e não tem disjuntor que desligue o sol.",
+    "caso": "Deixa eu explicar por que isso é diferente de tudo que a gente já falou sobre energia. Em instalação elétrica comum, você desliga o disjuntor, trava, testa, e a coisa fica sem energia. No painel solar é diferente: o painel gera eletricidade sempre que recebe luz, e você não tem como 'desligar' a fonte, porque a fonte é o sol. Mesmo com o sistema desconectado da rede, os painéis e a fiação entre eles continuam energizados enquanto houver claridade, inclusive em dia nublado. E a tensão gerada por um conjunto de painéis é alta o suficiente pra dar choque grave. Então o trabalhador que sobe no telhado pra instalar, limpar, ou fazer manutenção, e que mexe na fiação achando que 'está desligado porque desliguei o sistema', pode levar choque de uma fiação que ele julgava morta. Um técnico foi mexer na parte de corrente contínua de um sistema solar, a parte entre os painéis, confiando que tinha desligado tudo, e levou choque porque aquela parte continuava energizada pela luz do dia. Some a isso o risco de estar em cima de um telhado, e um choque ou um susto ali pode causar uma queda.",
+    "regra": "As regras: trabalho em sistema fotovoltaico é serviço especializado, feito por quem é treinado e conhece as particularidades, não é pra improvisar. Trata a fiação do lado dos painéis, a parte de corrente contínua, como energizada sempre que houver luz, mesmo com o sistema desconectado da rede, porque ela está. Usa os procedimentos e o EPI específicos, inclusive luva isolante e ferramenta isolada, e existe procedimento pra cobrir os painéis ou trabalhar em horário de menor geração quando aplicável. Junta com todas as regras de trabalho em altura e cobertura que a gente já viu, porque quase sempre é em telhado: cinto, não pisar direto na telha, atenção à claraboia. E a regra que resume: no painel solar, você não desliga a fonte, então você nunca confia que a parte dos painéis está sem energia, você se protege como se estivesse sempre energizada.",
+    "discussao": [
+      "A gente tem ou vai ter serviço em painel solar? Quem faz é treinado pra isso?",
+      "Vocês sabiam que o painel gera energia sempre que tem luz, mesmo com o sistema desligado?",
+      "A gente junta o cuidado com a energia e o cuidado com a altura nesse tipo de serviço?"
+    ],
+    "frase": "Não existe disjuntor pro sol. Enquanto tem luz, o painel está energizado.",
+    "fechamento": "Combinado de hoje: painel solar é serviço especializado, e a fiação dos painéis é tratada como energizada sempre que tem luz, porque está. EPI e ferramenta isolados, mais todo o cuidado de altura. Não confia em desligado do lado do sol. Bom trabalho, pessoal."
+  },
+  {
+    "id": 144,
+    "titulo": "O quase que salva o próximo",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. A gente já falou de quase-acidente aqui, e hoje eu quero voltar nele por um outro lado, porque é o conceito mais poderoso e mais desperdiçado da segurança. Pergunta pra vocês: pra cada acidente grave que acontece, quantos quase-acidentes vocês acham que aconteceram antes, avisando? A resposta é assustadora e é a razão de eu insistir tanto nisso.",
+    "caso": "Deixa eu explicar uma coisa que os estudos de segurança mostraram e que mudou o jeito de pensar acidente. Antes de um acidente grave, com afastamento ou morte, quase sempre aconteceram muitos acidentes pequenos, e antes desses, aconteceram centenas de quase-acidentes, aqueles sustos em que quase deu errado mas não deu. Ou seja, o acidente grave não cai do céu, ele é o topo de uma pirâmide. Embaixo dele tem uma montanha de avisos que foram ignorados. Cada quase-acidente é o mesmo perigo que causou o acidente grave, só que dessa vez a pessoa teve sorte. A diferença entre o quase e a tragédia é só a sorte, e sorte acaba. Então quando alguém tem um quase e não reporta, essa pessoa está jogando fora um aviso de graça, um aviso que poderia consertar o perigo antes de ele pegar alguém de verdade. Num setor, aconteceram vários quase-acidentes no mesmo ponto, um escorregão que quase virou queda, um material que quase caiu na cabeça de alguém, e ninguém reportou nenhum, porque 'não aconteceu nada'. O perigo continuou ali, intacto, até o dia em que o mesmo ponto causou um acidente de verdade, com afastamento. Todos aqueles quases tinham avisado. Ninguém escutou.",
+    "regra": "A regra é: reportar quase-acidente é tão importante quanto reportar acidente, porque o quase é a chance de consertar antes que machuque. E pra isso funcionar, precisa de duas coisas. Primeiro, da sua parte: quando você tiver um quase, um susto, uma coisa que quase deu errado, você reporta, mesmo que pareça bobagem, mesmo que 'não tenha dado em nada', porque justamente o que não deu em nada hoje é o que pode dar em tudo amanhã. Segundo, e essa responsabilidade é de quem recebe o reporte: quem reporta um quase nunca pode ser punido, culpado ou ridicularizado por isso, porque no minuto que reportar vira dor de cabeça pra quem reporta, ninguém mais reporta, e a gente fica cego. Reportar quase-acidente tem que ser fácil, bem-visto e sem punição. A regra que resume: o quase-acidente é o acidente te dando uma segunda chance de graça, e quem reporta um quase pode estar salvando o colega da próxima vez.",
+    "discussao": [
+      "Teve algum quase com você ou perto de você essa semana que não foi reportado?",
+      "Aqui, reportar um quase é fácil e bem-visto, ou dá trabalho e pode sobrar pra quem reporta?",
+      "Tem algum ponto ou tarefa que já deu vários sustos e a gente nunca consertou de verdade?"
+    ],
+    "frase": "A diferença entre o quase e a tragédia é só a sorte. E sorte acaba.",
+    "fechamento": "Combinado de hoje: reporta o quase, mesmo o que pareceu bobagem, porque é aviso de graça. E aqui quem reporta nunca é punido nem ridicularizado. O quase é a segunda chance que o acidente te dá. Me tragam os quases de vocês. Bom trabalho, pessoal."
+  },
+  {
+    "id": 145,
+    "titulo": "A chapa corta parada",
+    "setores": ["industria", "construcao"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é o manuseio de chapa, telha metálica, perfil, e material de metal com borda cortante. Pergunta pra quem mexe com isso: você pega chapa e telha com luva adequada, ou com a mão nua porque é rápido? Porque a borda de uma chapa metálica corta parada, sem esforço nenhum, igual uma lâmina, e é um dos cortes mais comuns em quem trabalha com metal.",
+    "caso": "Deixa eu explicar. A borda de uma chapa de metal cortada, de uma telha metálica, de um perfil, é fina e afiada como uma faca, mesmo estando parada ali quietinha. Não precisa de força, não precisa de movimento: basta você deslizar a mão sobre a borda, ou segurar de um jeito que a borda corra pela sua pele, pra ter um corte fundo. E tem um agravante: chapa e telha são pesadas e difíceis de segurar, então quando ela escorrega da mão, o instinto é agarrar, e agarrar uma chapa que está caindo é passar a mão na borda cortante com o peso dela ajudando a cortar. Um trabalhador estava movendo umas telhas metálicas empilhadas, sem luva, porque ia ser rápido. Uma telha começou a escorregar da pilha, ele agarrou por instinto pra não deixar cair, e a borda correu pela palma da mão dele, abrindo um corte fundo que precisou de pontos. A telha estava parada, ela não fez nenhum movimento agressivo. Foi a mão dele que correu pela borda, com o peso ajudando.",
+    "regra": "As regras: manuseio de chapa, telha, perfil e material de metal com borda se faz com luva adequada, resistente a corte, sempre, mesmo pro serviço rápido. Segura pelas partes seguras, e onde a borda é muito cortante, existe proteção pra colocar na borda durante o transporte. Cuidado ao carregar chapa grande, que além de cortar é pesada e o vento pega nela como uma vela. Se uma peça começar a escorregar e cair, e a queda não vai machucar ninguém, deixa cair, não agarra pela borda, porque agarrar é o movimento que corta, e chapa se repõe, mão não, exatamente como a gente falou de ferramenta caindo. Empilha e guarda chapa de um jeito que a borda não fique exposta na altura da mão e do corpo de quem passa. E confere as bordas antes de pegar, porque rebarba e ponta cortam ainda mais fácil.",
+    "discussao": [
+      "Vocês pegam chapa e telha com luva de corte ou com a mão nua quando é rápido?",
+      "Já teve corte de chapa ou telha aqui? Como aconteceu?",
+      "A gente guarda chapa de um jeito que a borda cortante não fica exposta pra quem passa?"
+    ],
+    "frase": "A borda da chapa corta parada. Quem corre a mão nela é você, e o peso ajuda.",
+    "fechamento": "Combinado de hoje: chapa, telha e metal com borda, luva de corte sempre, mesmo pro rápido. Segura pelas partes seguras, e se escorregar sem risco pra ninguém, deixa cair, não agarra pela borda. Bom trabalho, pessoal."
+  },
+  {
+    "id": 146,
+    "titulo": "O ar que precisa ser trocado",
+    "setores": ["industria", "geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é a qualidade do ar no ambiente de trabalho fechado, e não estou falando de espaço confinado nem de gás perigoso específico, estou falando do ar do dia a dia num galpão, numa sala, num setor fechado. Pergunta: o ar do lugar onde você trabalha é renovado, entra ar de fora e sai o de dentro, ou é sempre o mesmo ar circulando o dia inteiro?",
+    "caso": "Deixa eu explicar por que a renovação do ar importa mais do que parece. Num ambiente fechado onde tem gente trabalhando, máquina funcionando, processo acontecendo, o ar vai acumulando várias coisas ao longo do dia: gás carbônico da respiração das pessoas, calor, umidade, poeira, vapores dos produtos usados, fumos de processos, cheiros. Se esse ar não é renovado, se não entra ar novo de fora e não sai o velho, o ambiente vai ficando abafado, a concentração dessas coisas vai subindo, e isso causa desde desconforto, dor de cabeça, sonolência, cansaço, queda de concentração, até problemas respiratórios e maior transmissão de doenças no ar. E tem uma relação direta com segurança: pessoa num ambiente abafado, com dor de cabeça e sonolenta, tem a atenção e o reflexo piores, e isso vira risco na operação. Um setor trabalhava num ambiente fechado, com pouca renovação de ar, e o pessoal vivia se queixando de dor de cabeça, sonolência e cansaço no fim do dia, sem entender direito o porquê, tratando como coisa normal do trabalho. Parte do problema era simplesmente o ar que não era trocado.",
+    "regra": "As regras: ambiente de trabalho fechado precisa de renovação de ar, entrada de ar novo e saída do ar velho, seja por ventilação natural bem planejada, seja por sistema mecânico, exaustão e insuflação. Onde tem processo que gera vapor, fumo, poeira ou calor, precisa de exaustão específica que capte no ponto onde nasce, e a gente já falou disso em solda e em poeira. Ar condicionado que só recircula o mesmo ar, sem trazer ar de fora, refresca mas não renova, e precisa de manutenção e limpeza dos filtros, porque filtro sujo espalha o que deveria reter. Não bloqueia as entradas e saídas de ar, as grelhas, os exaustores, com material empilhado na frente. E se o ambiente vive abafado, com o pessoal com dor de cabeça e sonolência sem explicação, isso é sinal de que o ar precisa de mais renovação, e vale reportar, porque ar de qualidade também é segurança e saúde.",
+    "discussao": [
+      "O ambiente onde vocês trabalham é renovado, ou fica abafado ao longo do dia?",
+      "Alguém sente dor de cabeça, sonolência ou cansaço que pioram em ambiente fechado?",
+      "Tem entrada ou saída de ar, grelha ou exaustor, bloqueada por material aqui?"
+    ],
+    "frase": "Ar que não se renova vira o mesmo ar o dia todo. E o mesmo ar vai ficando pesado.",
+    "fechamento": "Combinado de hoje: ambiente fechado precisa de ar renovado, não só refrescado. Exaustão onde tem processo, entradas e saídas desobstruídas. Abafado com dor de cabeça e sono sem explicação é sinal, me reportem. Bom trabalho, pessoal."
+  },
+  {
+    "id": 147,
+    "titulo": "Empurrar é melhor que puxar",
+    "setores": ["logistica", "industria", "geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje o DDS é sobre uma coisa que a gente faz o dia todo e nunca parou pra pensar no jeito certo: mover carrinho, palete, carga com rodinha, qualquer coisa que a gente empurra ou puxa. Pergunta: quando você move um carrinho pesado, você empurra ou puxa? A maioria puxa, e puxar é justamente o jeito que mais machuca a coluna e o ombro.",
+    "caso": "Deixa eu explicar a diferença, porque é simples e muda tudo. Quando você empurra uma carga, você usa o peso do seu corpo e a força das pernas a seu favor, e a sua coluna fica numa posição mais protegida, com a força distribuída. Quando você puxa, você força o ombro e a lombar numa posição ruim, muitas vezes torcendo o corpo pra ver pra onde vai, andando de costas ou de lado, e você não consegue usar o peso do corpo, só a força do braço e das costas. Puxar sobrecarrega a coluna e o ombro, e ainda tem o risco de, andando de costas, você tropeçar em algo que não viu, ou a carga vir por cima de você se ela parar de repente e você continuar. Um trabalhador movia carrinhos pesados puxando, o dia todo, de costas, porque era como ele sempre fez. Foi acumulando dor no ombro e na lombar, até virar uma lesão. Se ele empurrasse, com a mesma carga, o esforço na coluna seria bem menor, e ele estaria de frente, vendo o caminho.",
+    "regra": "As regras: sempre que possível, empurra, não puxa, usando o peso do corpo e a força das pernas, com a coluna reta e os braços firmes. Empurrando você fica de frente, vê o caminho, e protege a coluna. Puxar só quando realmente não dá pra empurrar, e mesmo assim com cuidado. Antes de mover, confere o caminho, se está livre, se tem desnível, rampa, piso ruim, porque carga pesada com rodinha descendo rampa ganha velocidade e pode arrastar você ou atropelar alguém. Rodinha em bom estado e bem calibrada faz diferença enorme, porque rodinha travada, empenada ou emperrada multiplica o esforço; roda ruim, reporta. Não sobrecarrega o carrinho além do que dá pra controlar. E carga muito pesada, mesmo com roda, pede mais de uma pessoa ou equipamento motorizado, sem forçar sozinho. A regra que resume: empurrar protege a coluna e te deixa de frente pro caminho; puxar castiga a coluna e te deixa cego pra onde vai.",
+    "discussao": [
+      "Vocês empurram ou puxam os carrinhos e a carga com roda aqui?",
+      "As rodinhas dos nossos carrinhos e paletes estão boas, ou tem umas travadas e empenadas?",
+      "Tem rampa ou desnível no caminho onde a gente move carga pesada?"
+    ],
+    "frase": "Empurrando, você usa o corpo e vê o caminho. Puxando, você castiga a coluna e anda cego.",
+    "fechamento": "Combinado de hoje: sempre que der, empurra em vez de puxar, coluna reta, usando as pernas e o peso do corpo. Confere o caminho antes, cuidado com rampa. Roda ruim me reporta. Carga pesada demais, chama ajuda. Bom trabalho, pessoal."
+  },
+  {
+    "id": 148,
+    "titulo": "O pátio é uma rua movimentada",
+    "setores": ["logistica", "frota", "industria"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje o assunto é o pátio, aquela área externa onde manobra caminhão, empilhadeira, carro, e onde ao mesmo tempo circula gente a pé. Pergunta pra vocês: vocês tratam o pátio como uma rua movimentada, com o mesmo cuidado que teriam atravessando uma avenida, ou tratam como 'área da empresa', onde relaxam? Porque no pátio circula o mesmo perigo de uma rua, e às vezes pior.",
+    "caso": "Deixa eu explicar por que o pátio engana. Na rua, a gente sabe que é perigoso, então redobra o cuidado, olha pros dois lados, respeita o trânsito. No pátio da empresa, por ser 'nosso', por ser 'de casa', a gente relaxa: atravessa no meio, anda distraído, passa atrás de veículo, para pra conversar em local de manobra, mexe no celular andando. Só que no pátio tem caminhão manobrando, empilhadeira circulando carregada com ponto cego, veículo dando ré, tudo isso a gente já viu que é perigoso, e ainda por cima muitas vezes tudo junto, num espaço apertado, com pouca sinalização e com o pessoal a pé achando que está em casa. Um trabalhador atravessou o pátio distraído, no meio, fora de qualquer rota de pedestre, confiando que os veículos iam desviar porque ele estava 'em casa'. Foi atingido por um veículo em manobra cujo motorista não o viu. O pátio tem o perigo de uma rua movimentada, com o agravante de todo mundo baixar a guarda por estar em ambiente conhecido.",
+    "regra": "As regras: trata o pátio como uma rua movimentada, com o cuidado que você teria numa avenida. Anda nas rotas de pedestre demarcadas, atravessa nos pontos certos, olha pros dois lados. Nunca passa atrás de veículo que pode manobrar, e faz contato visual com o motorista antes de cruzar na frente de máquina, como a gente já falou. Nada de celular na mão andando pelo pátio, nada de parar pra conversar em local de manobra. Atenção redobrada à noite, com chuva e com neblina, quando a visibilidade cai. Usa colete refletivo onde é exigido, pra ser visto. E do lado de quem dirige no pátio: velocidade baixa, atenção total aos pedestres, uso do sinal sonoro, porque no pátio o pedestre está distraído justamente por se sentir em casa. A regra que resume: o pátio não é extensão do refeitório, é trânsito, e trânsito exige o mesmo respeito dentro e fora da empresa.",
+    "discussao": [
+      "A gente trata o pátio como rua movimentada, ou relaxa por ser 'área da empresa'?",
+      "Tem rota de pedestre demarcada no nosso pátio? A gente usa?",
+      "Onde no pátio a gente mais vê gente a pé e veículo dividindo o mesmo espaço apertado?"
+    ],
+    "frase": "O pátio tem o perigo de uma avenida, com o agravante de todo mundo se sentir em casa.",
+    "fechamento": "Combinado de hoje: pátio é rua movimentada. Rota de pedestre, olhar pros dois lados, sem celular andando, sem passar atrás de veículo. E quem dirige no pátio, devagar e atento ao pedestre. Bom trabalho, pessoal, e cuidado lá fora hoje."
+  },
+  {
+    "id": 149,
+    "titulo": "Os primeiros minutos de uma queimadura",
+    "setores": ["geral", "industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é o que fazer nos primeiros minutos de uma queimadura, porque queimadura é comum no trabalho, de calor, de fogo, de vapor, de produto químico, e o que se faz nos primeiros minutos muda muito o resultado. Pergunta: se um colega se queimar agora, você sabe o que fazer? E principalmente o que NÃO fazer? Porque tem um monte de crendice que piora a queimadura.",
+    "caso": "Deixa eu começar pelo que NÃO fazer, porque é onde mora o erro. Na queimadura, muita gente ainda passa pasta de dente, manteiga, borra de café, clara de ovo, pó, esses remédios caseiros que passam de geração em geração. Todos eles pioram a queimadura: eles retêm o calor, aumentam o risco de infecção, e atrapalham o atendimento médico depois, porque o médico tem que limpar tudo aquilo da ferida machucada. Outra coisa que se faz errado é estourar a bolha, que deveria ser deixada intacta porque ela protege a pele por baixo, e furar abre porta pra infecção. E tem quem coloque gelo direto na queimadura, que também é errado, porque o gelo em contato direto pode machucar mais a pele já ferida. Um trabalhador se queimou e um colega, querendo ajudar, passou uma pasta caseira na hora. Além de não aliviar, aquilo agravou a lesão e complicou o atendimento. A boa intenção, sem saber, piorou.",
+    "regra": "As regras do que fazer numa queimadura: a primeira coisa é resfriar com água corrente, em temperatura ambiente ou fresca, não gelada, por bastante tempo, uns dez a vinte minutos, porque isso para o calor de continuar queimando por baixo e alivia a dor. Remove com cuidado anéis, relógio, pulseira e roupa que não esteja grudada na queimadura, antes de inchar, mas nunca puxa tecido que grudou na pele. Cobre a área com pano limpo, seco e que não solte fiapo, sem apertar. E o que NÃO fazer: nada de pasta de dente, manteiga, borra de café, pó, nenhum remédio caseiro; não estoura bolha; não põe gelo direto; não puxa roupa grudada. Queimadura grande, profunda, no rosto, nas mãos, nas articulações, nas vias respiratórias, ou por produto químico e elétrica, é atendimento médico sempre. Em queimadura química, a água corrente por muito tempo é ainda mais importante, com a ressalva que a gente já viu de produtos que reagem com água, que estão na ficha. A regra que resume: água corrente por bastante tempo, pano limpo, e nada de crendice em cima.",
+    "discussao": [
+      "Quem aqui já passou ou viu passar pasta de dente ou manteiga em queimadura? Isso piora.",
+      "Vocês sabiam que a água corrente por bastante tempo é a primeira e melhor coisa?",
+      "A gente tem água acessível perto das áreas onde tem risco de queimadura?"
+    ],
+    "frase": "Água corrente por muito tempo salva a pele. Pasta de dente e manteiga só pioram.",
+    "fechamento": "Combinado de hoje: queimadura, água corrente por bastante tempo, pano limpo por cima, e nada de pasta, manteiga, gelo direto ou estourar bolha. Queimadura séria é atendimento médico. Guardem isso, é simples e evita muito estrago. Bom trabalho, pessoal."
+  },
+  {
+    "id": 150,
+    "titulo": "Segurança é coisa de time",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje a gente chega no DDS de número cento e cinquenta, e eu quero fazer um de fechar um ciclo, sobre a ideia que amarra todos os outros: segurança não é cada um por si, é coisa de time. Pergunta pra vocês: de que adianta você fazer tudo certinho, todo o seu cuidado, se o colega do lado faz tudo errado num serviço que também te afeta? Segurança individual perfeita, num time descuidado, não protege ninguém.",
+    "caso": "Deixa eu explicar por que segurança é coletiva. Ao longo de todos esses DDS, a gente viu vários casos em que a pessoa fez tudo certo e se machancou por causa do erro de outro: o vigia que salva quem está dentro, o cadeado de cada um na máquina, a passagem de turno, o sinaleiro único, a carga suspensa que passa por cima. Em quase todo acidente, tem mais de uma pessoa envolvida, e a segurança de cada um depende do cuidado de todos. O soldador que não avisa põe em risco quem está do lado. A pilha que um empilha errado cai em cima de quem passa. O quase que um não reporta pega o próximo. A proteção que um burla machuca quem chega depois. Ou seja: o seu cuidado protege os outros, e o cuidado dos outros protege você. Segurança funciona como uma corrente, e uma corrente arrebenta no elo mais fraco. Não adianta você ser um elo forte se deixa o elo fraco do lado sem ninguém puxar. Um time onde cada um só olha pro próprio umbigo, mesmo com cada um se cuidando, é um time cheio de elos desconectados. Um time de verdade é onde um cuida do outro.",
+    "regra": "Então o combinado que fecha tudo é sobre o que significa ser um time seguro. Primeiro: você avisa o colega quando vê ele em risco, curto, sem plateia, falando do perigo e não da pessoa, e quando te avisam, você agradece, porque aquele colega cuidou de você. Segundo: você reporta os perigos, os quases, as condições ruins, porque o que você reporta protege todo mundo que vem depois. Terceiro: você não facilita o erro do outro, não burla proteção que o próximo vai encontrar, não deixa armadilha montada pra quem chega. Quarto: você olha pelos mais vulneráveis, o novato, o terceirizado, quem está distraído, quem está passando por um momento difícil, e chega perto. E quinto: você dá o exemplo, porque num time o que os outros veem você fazer vale mais que o que você fala. A regra que resume tudo, e que eu quero que fique de todos esses DDS: aqui a gente não se cuida sozinho, a gente se cuida junto, e o objetivo de todo dia é um só, todo mundo voltar pra casa inteiro, sem exceção.",
+    "discussao": [
+      "A gente é um time que se cuida, ou é cada um por si aqui?",
+      "O que a gente pode fazer, na prática, pra cuidar mais uns dos outros no dia a dia?",
+      "De todos esses DDS, o que mais mudou o jeito de vocês de olhar pra segurança?"
+    ],
+    "frase": "Segurança é uma corrente. Não adianta ser o elo forte se o elo do lado está solto.",
+    "fechamento": "Combinado de hoje, e é o que resume todos: aqui a gente não se cuida sozinho, se cuida junto. Avisa o colega, reporta o perigo, não deixa armadilha pro próximo, olha pelo mais vulnerável, dá exemplo. O objetivo de todo dia é um só: todo mundo voltar pra casa inteiro. Bom trabalho, pessoal, e obrigado por esses cento e cinquenta dias de cuidado."
   }
 ]
