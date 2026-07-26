@@ -2508,5 +2508,165 @@
     ],
     "frase": "O perigo que ninguém aponta é justamente o que vai machucar alguém.",
     "fechamento": "Combinado de hoje: aqui a gente fala sem medo. Apontar perigo, reportar quase, recusar tarefa insegura, avisar colega, nada disso é encrenca, é cuidado, e ninguém é punido por isso. Uma equipe que fala sem medo é uma equipe segura. Bom trabalho, pessoal."
+  },
+  {
+    "id": 161,
+    "titulo": "O engate que soltou na descida",
+    "setores": ["frota", "logistica"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é engate, acoplamento de carreta, reboque, semirreboque, aquela conexão entre o cavalo e a carga, ou entre o veículo e o reboque. Pergunta pra quem engata: você confere o travamento do engate depois de acoplar, ou confia que engatou porque ouviu o barulho? Porque engate mal travado é uma das falhas que causa acidente grave, com a carga se soltando em movimento.",
+    "caso": "Deixa eu explicar como o engate falha e por que é tão perigoso. A conexão entre o cavalo mecânico e o semirreboque, ou entre um veículo e um reboque, tem um sistema de travamento que precisa engatar por completo. O problema é que existe uma situação traiçoeira: o chamado falso engate, quando parece que travou, o motorista ouve um barulho e acha que encaixou, mas na verdade a trava não fechou por completo, ficou apenas apoiada. Aí a carreta anda alguns metros, algumas quadras, ou até quilômetros parecendo firme, até que num solavanco, numa descida, numa freada, numa lombada, a conexão que não estava realmente travada se solta. E aí a carga inteira se desprende do cavalo em movimento. Um motorista fez o acoplamento com pressa, ouviu o barulho, achou que estava travado e saiu. A conexão era um falso engate. Numa descida, com o peso empurrando, o semirreboque se soltou e desgovernou. Além do falso engate, tem o desengate acidental por falta de conferência, e tem o risco na hora de acoplar e desacoplar, momento em que o trabalhador fica entre os veículos, num ponto de esmagamento, exatamente aquele que a gente já falou.",
+    "regra": "As regras: depois de acoplar, você confere fisicamente se o engate travou por completo, não confia só no barulho, faz o teste de tração, puxando levemente pra frente com o freio do reboque acionado pra ver se está preso mesmo, e confere visualmente a trava. Conecta e testa o sistema de freios e as luzes do reboque antes de sair, porque reboque sem freio e sem luz é acidente na certa. Ao acoplar e desacoplar, cuidado com o ponto de esmagamento entre os veículos, não fica no vão com o veículo podendo se mover, calça as rodas. Confere pinos, travas e a altura antes. E na estrada, atenção redobrada em descida e com carreta carregada, que é onde o peso mais exige o engate. A regra que resume: engate você não confia no barulho, você confere que travou de verdade, porque o falso engate anda um tempo parecendo firme antes de soltar.",
+    "discussao": [
+      "Você confere o travamento do engate depois de acoplar, ou confia no barulho?",
+      "Vocês conheciam o falso engate, quando parece que travou e não travou?",
+      "Na hora de acoplar e desacoplar, a gente cuida do ponto de esmagamento entre os veículos?"
+    ],
+    "frase": "O falso engate anda um tempo parecendo firme. Ele só solta quando o peso empurra.",
+    "fechamento": "Combinado de hoje: depois de acoplar, confere que travou de verdade, faz o teste de tração, não confia no barulho. Testa freio e luz do reboque. E cuidado com o esmagamento ao acoplar. Bom trabalho, pessoal, e boa estrada."
+  },
+  {
+    "id": 162,
+    "titulo": "Quando a luz apaga de repente",
+    "setores": ["industria", "geral", "logistica"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. Hoje o DDS é sobre uma coisa que dura segundos e pode causar acidente: a queda de energia, a luz apagando de repente no meio do serviço. Pergunta pra vocês: se a luz apagar agora, nesse instante, no meio de uma tarefa, o que acontece? Você para no escuro seguro, ou fica no meio de um movimento perigoso sem enxergar nada?",
+    "caso": "Deixa eu explicar por que a queda de luz repentina é perigosa, além do óbvio. Quando a energia cai de repente, o ambiente fica escuro instantaneamente, e o olho da gente leva um tempo pra se adaptar ao escuro, durante o qual você praticamente não enxerga nada. Se nesse momento você estava no meio de uma tarefa, subindo uma escada, carregando peso, perto de uma máquina, atravessando um corredor, você fica preso num movimento perigoso sem visão. E tem o agravante das máquinas: algumas param quando a energia cai, mas outras, ou partes delas, podem ter comportamento inesperado, e o mais perigoso é o religamento, quando a energia volta e a máquina que estava acionada volta a funcionar de repente, pegando alguém que se aproximou no escuro achando que estava desligada. Um trabalhador estava numa tarefa quando a luz caiu, ficou no escuro no meio de um movimento, e se machucou tentando se mover às cegas, ou foi surpreendido quando a energia voltou. Por isso existe iluminação de emergência, aquelas luzes que acendem sozinhas quando a energia cai, justamente pra dar visão nesses segundos críticos e pra iluminar a rota de fuga.",
+    "regra": "As regras: se a luz cair de repente, a primeira coisa é parar onde está, não se mexer às cegas, principalmente se você estava em altura, carregando peso, ou perto de máquina e de risco. Espera o olho se adaptar minimamente ou a iluminação de emergência acender antes de se mover, e se mover com cuidado em direção a um lugar seguro. Não se aproxima de máquina no escuro achando que ela está desligada, porque quando a energia voltar ela pode religar. A iluminação de emergência tem que existir onde precisa, estar funcionando e ter a bateria carregada, e ilumina principalmente as saídas e a rota de fuga, então não bloqueia essas luzes com material. Vale ter lanterna acessível em pontos críticos. E quando a energia voltar, cuidado com o religamento de máquinas e equipamentos, confere antes de retomar. A regra que resume: luz apagou de repente, para onde está, não se mexe às cegas, e cuidado com a máquina que pode religar quando a energia voltar.",
+    "discussao": [
+      "Se a luz apagar agora, você está num lugar seguro pra parar, ou no meio de algo perigoso?",
+      "A gente tem iluminação de emergência funcionando? Ela ilumina as saídas?",
+      "As máquinas aqui podem religar sozinhas quando a energia volta? Vocês sabem quais?"
+    ],
+    "frase": "No escuro repentino, o olho não enxerga por segundos. E a máquina pode religar quando a luz voltar.",
+    "fechamento": "Combinado de hoje: luz apagou de repente, para onde está, não se mexe às cegas, espera enxergar. Não se aproxima de máquina no escuro. E cuidado com religamento quando a energia voltar. Vamos conferir a iluminação de emergência. Bom trabalho, pessoal."
+  },
+  {
+    "id": 163,
+    "titulo": "O maçarico e o botijão que alimenta",
+    "setores": ["industria", "construcao"],
+    "tempo": 10,
+    "abertura": "Bom dia, pessoal. Hoje o assunto é corte e aquecimento a maçarico, com aquele conjunto de mangueiras e cilindros de gás, oxigênio e acetileno ou GLP. Pergunta pra quem usa: você confere as mangueiras e as conexões antes de acender o maçarico, ou acende e vai? Porque nesse conjunto, o vazamento que você não vê é o que causa o incêndio e a explosão.",
+    "caso": "Deixa eu explicar os riscos desse conjunto, porque são vários e sérios. Primeiro, o vazamento nas mangueiras e conexões: mangueira ressecada, furada, com conexão frouxa, deixa escapar gás inflamável, que se acumula e explode com a própria chama do maçarico ou com uma faísca. Segundo, o retrocesso de chama, quando a chama volta pra dentro da mangueira em direção ao cilindro, o que pode fazer o conjunto explodir, e por isso existem os dispositivos contra retrocesso, as válvulas antirretorno, que têm que estar instaladas. Terceiro, o acetileno é um gás especialmente instável e perigoso, que exige cuidados próprios. Quarto, os cilindros, que a gente já falou, com todo o risco de válvula e de tombamento, mais o oxigênio que não pode ter contato com óleo e graxa. E quinto, a própria chama e o material aquecido, com todo o risco de trabalho a quente que a gente já viu, a faísca que viaja, o incêndio que começa depois. Um trabalhador acendeu o maçarico sem conferir as mangueiras, e uma delas tinha um vazamento por ressecamento. O gás que escapava acumulou e pegou fogo, causando queimadura.",
+    "regra": "As regras: antes de acender, confere mangueiras, sem ressecamento, furo ou corte, e conexões firmes, e testa vazamento com água e sabão, não com chama, vendo se forma bolha. Dispositivos contra retrocesso de chama, as válvulas antirretorno, instalados e funcionando. Cilindros em pé, presos, com capacete de válvula, transportados em carrinho, e oxigênio longe de óleo e graxa, tudo que a gente já viu. Acende na ordem correta e com o acendedor próprio, o chisqueiro, nunca com isqueiro ou fósforo perto do bico. Todos os cuidados de trabalho a quente: área liberada de combustível, extintor à mão, e vigilância depois. EPI adequado, óculos ou máscara com filtro correto pra o brilho da chama, luva e avental. E ao terminar, fecha os cilindros e alivia a pressão das mangueiras. A regra que resume: no maçarico, o perigo maior é o vazamento que você não vê, então você confere antes de acender, não depois.",
+    "discussao": [
+      "A gente confere mangueiras e testa vazamento antes de acender o maçarico?",
+      "Nossos maçaricos têm as válvulas antirretorno de chama instaladas?",
+      "Os cilindros estão em pé, presos, e o oxigênio longe de óleo e graxa?"
+    ],
+    "frase": "No maçarico, o que explode é o vazamento que você não viu porque não conferiu antes de acender.",
+    "fechamento": "Combinado de hoje: antes de acender o maçarico, confere mangueira e conexão, testa vazamento com água e sabão. Válvula antirretorno instalada, cilindro seguro, oxigênio longe de graxa. E todos os cuidados de trabalho a quente. Bom trabalho, pessoal."
+  },
+  {
+    "id": 164,
+    "titulo": "Horas na mesma posição ao volante",
+    "setores": ["frota"],
+    "tempo": 5,
+    "abertura": "Bom dia, turma. A gente falou de ergonomia sentado e em pé. Hoje é pra quem passa horas dirigindo, na mesma posição, segurando o volante, com o pé nos pedais. Pergunta pra quem roda: você termina uma viagem longa com dor nas costas, no pescoço, nas pernas, com o corpo travado? Isso não é só cansaço da estrada, é o corpo cobrando pela posição parada por horas, e tem como aliviar.",
+    "caso": "Deixa eu explicar o que dirigir por horas faz com o corpo. Ficar sentado na mesma posição por muito tempo, como a gente já viu, prejudica a coluna e a circulação. No motorista, isso se soma com a vibração do veículo, que castiga a coluna, com a tensão de dirigir concentrado, que trava os ombros e o pescoço, e com o banco muitas vezes mal ajustado, que força a postura. As pernas ficam paradas nos pedais, e a circulação nas pernas piora, com risco de inchaço e, em viagens muito longas, até de problemas mais sérios de circulação. Um motorista de longa distância foi acumulando dor crônica na lombar e no pescoço ao longo dos anos, além do cansaço nas pernas, tratando tudo como inevitável da profissão. Boa parte disso vinha do banco mal ajustado, da falta de pausa pra sair e movimentar, e da postura travada por horas. A vibração e a posição parada foram cobrando devagar, do jeito que a gente já viu em outros DDS.",
+    "regra": "As regras: ajusta o banco corretamente, com distância pros pedais que deixe a perna levemente flexionada, encosto que apoie bem a coluna, e altura e distância do volante que deixem os braços confortáveis e os ombros relaxados, sem esticar nem encolher. Usa o apoio de cabeça na altura certa, que protege o pescoço, inclusive numa batida. Faz pausas pra sair do veículo, andar, alongar, movimentar as pernas e a coluna, e essas pausas se juntam com as pausas contra o sono que a gente já falou, matando dois problemas de uma vez. Durante a direção, muda pequenas coisas na postura de vez em quando, mexe os ombros, não fica completamente travado. Mantém a coluna apoiada, não dirige encurvado nem escorregado no banco. E cuida da saúde geral, porque peso, sedentarismo e má alimentação pioram tudo isso. A regra que resume: dirigir por horas castiga a coluna e as pernas, então banco bem ajustado e pausa pra movimentar não são luxo, são o que te mantém inteiro na profissão.",
+    "discussao": [
+      "Você ajusta o banco direito, ou dirige do jeito que está?",
+      "Você faz pausa pra sair e movimentar em viagem longa, ou tenta emendar direto?",
+      "Quem aqui tem dor crônica nas costas, pescoço ou pernas de tanto dirigir?"
+    ],
+    "frase": "A estrada não castiga só com sono. A posição parada por horas cobra na coluna e nas pernas.",
+    "fechamento": "Combinado de hoje: banco bem ajustado, apoio de cabeça na altura certa, coluna apoiada, e pausa pra sair, andar e alongar, que ainda ajuda contra o sono. Dor crônica de dirigir tem como aliviar, me procura. Bom trabalho, pessoal, e boa estrada."
+  },
+  {
+    "id": 165,
+    "titulo": "Quando o enxame ataca",
+    "setores": ["construcao", "geral", "frota"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. A gente já falou de bicho peçonhento. Hoje é sobre um específico que é mais comum do que a gente imagina em quem trabalha na área externa, no mato, em obra, em telhado, em poda: abelha e vespa, principalmente o ataque de enxame. Pergunta: se um enxame de abelhas atacar você agora, o que você faz? A resposta errada, que é o instinto de muita gente, pode ser fatal.",
+    "caso": "Deixa eu explicar, porque o comportamento certo num ataque de enxame salva vida. Quando alguém mexe, sem querer, com uma colmeia ou um vespeiro, com uma roçadeira, uma poda, uma vibração, uma fumaça, as abelhas ou vespas podem atacar em grande número. E aqui está o perigo: não é uma ferroada, são muitas, e muitas ferroadas de uma vez injetam bastante veneno, o que pode ser grave e até fatal, principalmente em quem tem alergia, mas também em quem leva ferroadas demais. Além disso, algumas pessoas têm alergia grave e reagem forte até a uma única ferroada, com risco de choque. Agora o comportamento: o instinto de muita gente ao ser atacado é agitar os braços, se debater, tentar espantar, mas isso irrita ainda mais o enxame e atrai mais ataque. Outro erro é pular na água achando que se salva, mas as abelhas esperam a pessoa subir pra respirar e continuam. Um trabalhador mexeu sem querer numa colmeia durante um serviço externo e foi atacado, e se debateu tentando espantar, o que piorou.",
+    "regra": "As regras num ataque de enxame: a orientação é proteger o rosto e a cabeça, principalmente olhos, nariz e boca, com os braços ou com a roupa, e sair correndo em linha reta pra longe, buscando abrigo fechado, um veículo, uma construção, onde dê pra se fechar. Corre bastante, porque o enxame persegue por uma distância. Não fica se debatendo e agitando os braços parado, porque isso irrita mais. Não pula na água. Ao chegar num abrigo, fecha, mesmo que algumas entrem junto, é melhor lidar com poucas dentro do que com o enxame fora. Depois, procura atendimento se levou muitas ferroadas, se tem sinais de reação alérgica como inchaço no rosto, dificuldade de respirar, tontura, ou se é alérgico conhecido, e nesses casos é emergência. Na prevenção: atenção a colmeia e vespeiro antes de roçar, podar, mexer em telhado, forro, caixa, tronco oco, e se achar, não mexe, aciona quem sabe remover. A regra que resume: atacou, protege o rosto e corre em linha reta pra um abrigo fechado, não se debate e não pula na água.",
+    "discussao": [
+      "Vocês sabiam que se debater e pular na água pioram o ataque de enxame?",
+      "A gente verifica se tem colmeia ou vespeiro antes de roçar, podar ou mexer em telhado e forro?",
+      "Tem alguém aqui que sabe ser alérgico a picada de abelha ou vespa?"
+    ],
+    "frase": "Atacou o enxame, protege o rosto e corre reto pra um abrigo. Debater e pular na água só piora.",
+    "fechamento": "Combinado de hoje: ataque de enxame, protege rosto e cabeça, corre em linha reta pra abrigo fechado, não se debate, não pula na água. Muitas ferroadas ou sinal de alergia é emergência. E antes de roçar e podar, olha se tem colmeia. Bom trabalho, pessoal."
+  },
+  {
+    "id": 166,
+    "titulo": "Parado no acostamento é alvo",
+    "setores": ["frota"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é a parada de emergência na estrada, quando o veículo quebra, fura pneu, ou você precisa parar no acostamento. Pergunta pra quem roda: você já parou no acostamento de uma rodovia movimentada e ficou ali, ao lado do veículo, mexendo no pneu, esperando socorro? O acostamento parece seguro porque está fora da pista, e é um dos lugares mais perigosos que existe.",
+    "caso": "Deixa eu explicar por que o acostamento mata tanto. Quando você para no acostamento de uma rodovia, os veículos continuam passando ao seu lado em alta velocidade, a poucos metros. E acontece o seguinte: motoristas distraídos, com sono, bêbados, ou que se assustam e desviam, acabam invadindo o acostamento e atingindo quem está parado ali, seja a pessoa, seja o veículo parado, que é jogado por cima da pessoa. Existe até um fenômeno conhecido, em que motoristas cansados ou hipnotizados pela estrada tendem a dirigir na direção de uma luz que veem parada, ou seja, o pisca-alerta e a lanterna de quem está parado podem, em vez de alertar, atrair o veículo distraído. Muita gente que trabalha na estrada morreu parada no acostamento, trocando pneu, olhando o motor, esperando socorro do lado de fora, atingida por um veículo que invadiu. Um motorista parou pra trocar um pneu e ficou entre o veículo e a pista, agachado no pneu, de costas pro trânsito, exatamente na pior posição, e foi atingido por um veículo que invadiu o acostamento.",
+    "regra": "As regras da parada de emergência: se der, tenta chegar até um lugar mais seguro pra parar, um posto, uma área de escape, longe de curva e de lugar sem visibilidade, mesmo que tenha que rodar um pouco com o problema. Ao parar, sinaliza bem: pisca-alerta, triângulo colocado a uma boa distância atrás, na distância que a velocidade da via exige, pra dar tempo do outro ver e desviar. Sai do veículo pelo lado oposto ao trânsito, nunca pelo lado da pista. E o mais importante: afasta-se do veículo e do acostamento, vai pra trás da defensa, pro barranco, pra um lugar afastado da pista, e espera o socorro ali, longe, não ao lado do veículo, porque quem fica ao lado é quem é atingido. Se possível, não troca pneu do lado da pista numa rodovia movimentada, espera o socorro que faz isso em segurança ou reboca. Colete refletivo. E nunca fica de costas pro trânsito trabalhando no veículo. A regra que resume: parou na estrada, sinaliza, sai pelo lado seguro e se afasta pra longe do veículo, porque parado ao lado dele no acostamento você é alvo.",
+    "discussao": [
+      "Quando você para no acostamento, fica ao lado do veículo ou se afasta pra longe?",
+      "Vocês sabiam que o pisca-alerta pode atrair o motorista distraído em vez de alertar?",
+      "A gente coloca o triângulo na distância certa, bem atrás, pra dar tempo do outro ver?"
+    ],
+    "frase": "No acostamento, quem fica ao lado do veículo é alvo. O seguro é longe dele, atrás da defensa.",
+    "fechamento": "Combinado de hoje: parou na estrada, sinaliza com pisca e triângulo bem atrás, sai pelo lado oposto à pista, e se afasta pra longe do veículo pra esperar socorro. Não troca pneu do lado da pista movimentada. Bom trabalho, pessoal, e parem seguro."
+  },
+  {
+    "id": 167,
+    "titulo": "O EPI sujo de veneno",
+    "setores": ["geral", "industria"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje o DDS é sobre um detalhe que muita gente não pensa: o EPI depois que ele fez o trabalho dele. A luva, a máscara, a roupa que protegeram você do produto químico, agora estão contaminadas com aquele produto. Pergunta: o que você faz com a luva e a roupa que ficaram sujas de produto? Guarda de qualquer jeito, leva pra casa pra lavar, tira sem cuidado? Porque o EPI contaminado ainda tem o veneno nele.",
+    "caso": "Deixa eu explicar, porque o EPI protege durante o uso, mas depois vira uma fonte do próprio produto que ele barrou. A luva que você usou pra manusear um produto químico está com o produto na superfície. Se você tira ela de qualquer jeito, encostando a parte de fora na pele, você se contamina justamente com o que a luva tinha barrado. Se você guarda ela junto com suas coisas, contamina o que estiver perto. Se você leva a roupa contaminada pra casa e lava junto com a roupa da família, contamina a roupa de todo mundo, inclusive a das crianças, com resíduo de produto químico. Isso é uma via real de intoxicação que atinge a família do trabalhador sem ela nem saber. Um trabalhador levou a roupa de trabalho impregnada de produto pra casa e lavou junto com a da família, e o resíduo do produto passou pras outras roupas. Além disso, o descarte errado de EPI contaminado, jogado no lixo comum, contamina quem recolhe e o meio ambiente.",
+    "regra": "As regras: tira o EPI contaminado com cuidado, pela técnica certa, tocando só na parte de dentro, que não foi contaminada, e removendo de forma que a parte suja não encoste na pele, na roupa e no rosto. Lava as mãos depois de tirar. EPI reutilizável contaminado é higienizado do jeito certo, com o procedimento adequado pro produto, antes de guardar e de reutilizar. EPI descartável contaminado vai pro descarte correto, em recipiente próprio, não no lixo comum, pra proteger quem recolhe. Roupa de trabalho contaminada não vai pra casa: onde há esse risco, a empresa deve fornecer a higienização adequada, e a roupa é trocada e lavada de forma que não contamine a roupa da família, jamais lavada junto em casa. Guarda o EPI limpo separado do contaminado. E toma banho e troca de roupa quando o trabalho com produto exige, antes de ir pra casa. A regra que resume: o EPI protegeu você, mas depois ele carrega o produto, então tira, guarda, higieniza e descarta com o mesmo cuidado que você teve pra usar.",
+    "discussao": [
+      "Como vocês tiram e guardam a luva e a máscara usadas com produto químico?",
+      "Alguém leva roupa de trabalho contaminada pra lavar em casa junto com a da família?",
+      "A gente descarta EPI contaminado no lugar certo, ou vai pro lixo comum?"
+    ],
+    "frase": "O EPI protegeu você. Mas agora ele carrega o veneno, e leva pra casa se você deixar.",
+    "fechamento": "Combinado de hoje: tira o EPI contaminado com cuidado, tocando só na parte limpa, lava as mãos, higieniza o reutilizável e descarta o descartável no lugar certo. Roupa contaminada não vai pra casa junto com a da família. Bom trabalho, pessoal."
+  },
+  {
+    "id": 168,
+    "titulo": "O calor que vem do forno",
+    "setores": ["industria"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o assunto é pra quem trabalha perto de forno, fundição, caldeira, estufa, fonte de calor intenso. A gente já falou de calor ambiente e de superfície quente. Hoje é sobre o calor radiante forte e constante desse tipo de trabalho, que castiga de um jeito específico. Pergunta: quem trabalha nesse calor sente o corpo cobrar de um jeito diferente do calor comum?",
+    "caso": "Deixa eu explicar o que o calor radiante intenso faz. Perto de um forno ou de metal derretido, além do ambiente quente, você recebe o calor radiante, aquele que vem direto da fonte quente e aquece o seu corpo mesmo à distância, como o sol aquece mesmo sem encostar. Esse calor intenso e constante sobrecarrega o corpo muito rápido, e junta todos os riscos de calor que a gente já viu, desidratação, exaustão, insolação, mais o risco de queimadura por respingo de material derretido, por contato com superfície muito quente, e por explosão quando material derretido encontra umidade. Água em contato com metal líquido causa uma explosão violenta de vapor, então uma ferramenta úmida, uma gota de suor, água no cadinho, tudo isso é perigo. Um trabalhador de área quente foi sentindo os sinais de sobrecarga de calor, tontura, dor de cabeça, mas continuou porque era 'normal do setor', e teve uma intermação, exatamente como a gente viu em calor. Some a isso o risco constante de queimadura grave que esse ambiente tem.",
+    "regra": "As regras: vestimenta e EPI específicos pra calor radiante, que refletem e isolam o calor, protegem de respingo, mais luva, avental, perneira e proteção facial adequados, e essa roupa é diferente da comum. Barreiras e anteparos que bloqueiam o calor radiante entre a fonte e o trabalhador, que é proteção coletiva e reduz muito a exposição. Reveza a exposição com pausa em local fresco pra o corpo se recuperar, hidrata muito, e não fica tempo demais no calor intenso sem intervalo. Cuidado absoluto com umidade perto de material derretido, ferramenta e molde secos, sem água, sem suor pingando no metal líquido, porque a explosão de vapor é violenta. Atenção aos sinais de sobrecarga de calor, que a gente já viu, e sai ao primeiro sinal. E respeita a sinalização de superfície e material quente. A regra que resume: no calor de forno e fundição, você tem o calor que sobrecarrega o corpo mais o risco de queimadura e de explosão com água, então proteção específica, revezamento, hidratação e nada de umidade perto do metal líquido.",
+    "discussao": [
+      "Quem trabalha em área quente tem a vestimenta específica pra calor radiante e respingo?",
+      "A gente tem barreiras e anteparos que bloqueiam o calor entre a fonte e a pessoa?",
+      "Todo mundo sabe do risco de explosão quando água ou umidade encontra material derretido?"
+    ],
+    "frase": "Perto do forno, o calor sobrecarrega o corpo. E uma gota de água no metal líquido explode.",
+    "fechamento": "Combinado de hoje: área quente com vestimenta específica, anteparos que bloqueiam o calor, revezamento com pausa no fresco e muita hidratação. E nada de umidade perto de material derretido, que explode. Sai ao primeiro sinal de sobrecarga. Bom trabalho, pessoal."
+  },
+  {
+    "id": 169,
+    "titulo": "O deixar pra depois que não chega",
+    "setores": ["geral"],
+    "tempo": 5,
+    "abertura": "Bom dia, pessoal. Hoje o DDS é sobre um hábito nosso, humano, que na segurança é perigoso: o deixar pra depois. Aquele reparo que dá pra fazer depois, aquela proteção que a gente coloca depois, aquele risco que a gente arruma depois. Pergunta honesta: quantas coisas de segurança aqui estão esperando um 'depois' que nunca chega? Porque o acidente não espera o depois, ele acontece no meio-tempo.",
+    "caso": "Deixa eu explicar por que o deixar pra depois é traiçoeiro na segurança. A gente vê um risco pequeno, uma coisa pra arrumar, e pensa 'depois eu resolvo, agora estou ocupado, agora não dá, não é urgente'. E o depois vai empurrando: o corrimão solto que ia ser apertado depois, a luz queimada que ia ser trocada depois, o piso escorregadio que ia ser resolvido depois, a proteção que ia ser recolocada depois, o EPI danificado que ia ser trocado depois. Cada um parece que pode esperar, porque não aconteceu nada ainda. Mas o risco fica ali, ativo, o tempo todo, esperando. E o acidente não marca hora, ele acontece justamente num daqueles momentos em que o problema ainda não tinha sido resolvido, no espaço entre o 'vou fazer depois' e o depois que não chegou. Num setor, várias pequenas correções de segurança foram sendo empurradas pra depois, cada uma parecendo sem urgência, e o acidente aconteceu num desses pontos que estava esperando conserto havia tempo. A investigação mostrou que todo mundo sabia do problema e todo mundo estava esperando o depois.",
+    "regra": "As regras contra o deixar pra depois: risco pequeno que dá pra resolver na hora, resolve na hora, porque a hora é agora, e o depois não tem hora marcada. O que você não pode resolver sozinho, reporta imediatamente, não espera, porque reportar é rápido e tira o risco do 'depois' e coloca ele na fila de quem resolve. Não normaliza o risco que está esperando conserto, não passa por ele todo dia achando que faz parte, porque quanto mais tempo ele fica, mais a gente para de ver ele. Trata a correção de segurança com a mesma prioridade da produção, porque produção sem segurança para no acidente. E cria o hábito de, ao ver um risco, agir na hora, nem que seja só sinalizar e reportar, em vez de guardar pra um depois que compete com mil outras coisas e perde. A regra que resume: na segurança, o depois é onde o acidente mora, então o que dá pra fazer agora, faz agora, e o que não dá, reporta agora.",
+    "discussao": [
+      "Quantas coisas de segurança aqui estão esperando um 'depois' que não chega?",
+      "Tem risco que a gente já normalizou, que passa todo dia e não vê mais?",
+      "O que impede a gente de resolver ou reportar na hora, em vez de deixar pra depois?"
+    ],
+    "frase": "O acidente não espera o depois. Ele acontece no meio-tempo, no risco que ficou esperando conserto.",
+    "fechamento": "Combinado de hoje: risco pequeno que dá pra resolver, resolve agora. O que não dá, reporta agora, não deixa pro depois. Segurança tem a mesma prioridade da produção. O depois é onde o acidente mora. Bom trabalho, pessoal."
+  },
+  {
+    "id": 170,
+    "titulo": "Voltar depois de se machucar",
+    "setores": ["geral"],
+    "tempo": 10,
+    "abertura": "Bom dia, turma. Hoje o DDS é sobre um momento delicado que muita gente aqui já viveu ou vai viver: voltar ao trabalho depois de um afastamento, de uma lesão, de uma cirurgia, de um problema de saúde. Pergunta pra quem já passou por isso: quando você voltou, voltou fazendo tudo igual a antes, no mesmo ritmo, ou teve um cuidado com o corpo que ainda estava se recuperando? Porque a volta mal feita é onde muita gente se machuca de novo.",
+    "caso": "Deixa eu explicar por que o retorno é um momento de risco. Quando a pessoa se afasta por uma lesão ou uma cirurgia e depois volta, o corpo dela muitas vezes ainda não está cem por cento. A musculatura enfraqueceu no tempo parado, a região lesionada ainda está frágil, o movimento ainda não voltou completo. Só que a pessoa volta com vontade de mostrar que está bem, com medo de parecer que não dá conta, às vezes com pressão pra render igual antes, e faz tudo no ritmo e no esforço de antes do afastamento. Aí a região que ainda estava se recuperando não aguenta, e a lesão volta, muitas vezes pior, ou aparece uma nova por compensação, porque a pessoa força outra parte do corpo pra proteger a que dói. Um trabalhador voltou de uma lesão na coluna e, pra mostrar que estava recuperado, voltou pegando peso igual antes, no primeiro dia. A coluna, ainda frágil, não aguentou, e ele se afastou de novo, dessa vez por mais tempo. A vontade de provar que estava bem foi o que atrapalhou a recuperação de verdade.",
+    "regra": "As regras pra um retorno seguro: voltar respeitando as orientações médicas, as restrições, o tempo de recuperação, sem pressa de provar nada, porque o corpo ainda está se refazendo mesmo que a dor tenha passado. Quando há restrição médica, ela é respeitada, e a função é adaptada, com trabalho mais leve, sem o esforço que ainda não dá, e isso é responsabilidade da empresa oferecer, o chamado retorno gradual e a readaptação. A pessoa não deve fazer o esforço completo antes de estar realmente pronta, e não deve ter vergonha de dizer que ainda não consegue algo, porque isso não é frescura, é proteger a recuperação. Os colegas ajudam quem está voltando, sem cobrar ritmo, sem gozar, dando o tempo que a pessoa precisa. E quem está voltando fala com franqueza sobre o que consegue e o que ainda não consegue. A regra que resume: voltar de uma lesão exige respeitar a recuperação, porque forçar antes da hora pra provar que está bem é o caminho mais curto pra se machucar de novo.",
+    "discussao": [
+      "Quem aqui já voltou de um afastamento? Voltou com cuidado ou forçando pra mostrar que estava bem?",
+      "A gente adapta a função de quem está voltando, ou cobra o ritmo de antes na hora?",
+      "Como a gente pode apoiar quem está retornando de uma lesão sem fazer sentir que não dá conta?"
+    ],
+    "frase": "Forçar pra provar que está bem é o caminho mais curto pra se machucar de novo.",
+    "fechamento": "Combinado de hoje: voltar de lesão respeitando a recuperação, as restrições e o tempo, sem pressa de provar. Função adaptada quando precisa, e colega apoiando sem cobrar ritmo. Dizer que ainda não consegue não é frescura, é proteger a recuperação. Bom trabalho, pessoal."
   }
 ]
