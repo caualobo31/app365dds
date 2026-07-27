@@ -6,6 +6,7 @@ import { getDdsForDayOfYear, TOTAL_DDS } from "@/lib/dds";
 import type { Dds } from "@/data/dds.schema";
 import { SECTOR_LABELS } from "@/data/dds.schema";
 import { formatDateLong, getDayOfYear } from "@/lib/day";
+import { DdsPrintSheet } from "@/components/DdsPrintSheet";
 import { MarkDoneButton } from "@/components/MarkDoneButton";
 import { ZebraBar } from "@/components/ZebraBar";
 
@@ -64,6 +65,10 @@ export default function HomePage() {
 
       <div className="mt-4">
         <MarkDoneButton dds={dds} />
+      </div>
+
+      <div className="pb-8 pt-3">
+        <DdsPrintSheet dds={dds} />
       </div>
     </main>
   );

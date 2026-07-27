@@ -54,3 +54,33 @@ body {
     scroll-behavior: auto !important;
   }
 }
+
+/* Folha de impressão do DDS — oculta na tela, vira a página inteira ao
+   imprimir. Usa o truque clássico de esconder tudo e reexibir só a
+   folha, em vez de marcar cada componente da UI como "não imprimir". */
+.print-sheet {
+  display: none;
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 15mm;
+  }
+
+  body * {
+    visibility: hidden;
+  }
+
+  .print-sheet,
+  .print-sheet * {
+    visibility: visible;
+  }
+
+  .print-sheet {
+    display: block;
+    position: absolute;
+    inset: 0;
+    width: 100%;
+  }
+}

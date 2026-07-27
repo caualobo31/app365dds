@@ -183,3 +183,17 @@ export function SmartphoneIcon({ className }: IconProps) {
     </svg>
   );
 }
+
+export function PrinterIcon({ className }: IconProps) {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <path
+        d="M6 9V4h12v5M6 18H4.5a1 1 0 0 1-1-1v-5.5a1 1 0 0 1 1-1h15a1 1 0 0 1 1 1V17a1 1 0 0 1-1 1H18M6 14h12v7H6v-7Z"
+        stroke="currentColor"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+}

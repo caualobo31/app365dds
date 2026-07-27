@@ -4,6 +4,7 @@ import { ddsList, getAdjacentDds, getDdsById } from "@/lib/dds";
 import { SECTOR_LABELS } from "@/data/dds.schema";
 import { DdsBlock } from "@/components/DdsBlock";
 import { DdsDiscussao } from "@/components/DdsDiscussao";
+import { DdsPrintSheet } from "@/components/DdsPrintSheet";
 import { MarkDoneButton } from "@/components/MarkDoneButton";
 import { ZebraBar } from "@/components/ZebraBar";
 import { ChevronLeftIcon, ChevronRightIcon } from "@/components/icons";
@@ -83,8 +84,12 @@ export default async function DetalhePage({
         Ninguém respondeu? Veja o guia de condução →
       </Link>
 
-      <div className="pb-10 pt-4">
+      <div className="pt-4">
         <MarkDoneButton dds={dds} />
+      </div>
+
+      <div className="pb-10 pt-3">
+        <DdsPrintSheet dds={dds} />
       </div>
     </main>
   );
