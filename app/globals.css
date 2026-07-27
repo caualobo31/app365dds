@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "./print-sheet.css";
 
 @theme inline {
   /* Código de cores de segurança — NR-26 / ABNT NBR 7195 */
@@ -55,17 +56,21 @@ body {
   }
 }
 
-/* Folha de impressão do DDS — oculta na tela, vira a página inteira ao
-   imprimir. Usa o truque clássico de esconder tudo e reexibir só a
-   folha, em vez de marcar cada componente da UI como "não imprimir". */
+/* Folha de impressão do DDS — oculta na tela, vira a(s) página(s) inteira(s)
+   ao imprimir. Usa o truque clássico de esconder tudo e reexibir só a
+   folha, em vez de marcar cada componente da UI como "não imprimir".
+   O layout interno da folha (.folha, .cab, .bloco etc.) está em
+   print-sheet.css — aqui só o liga/desliga entre tela e impressão. */
 .print-sheet {
   display: none;
 }
 
 @media print {
+  /* Margem zero: cada .folha já tem o próprio padding em mm fazendo
+     as margens da página, igual no modelo original. */
   @page {
     size: A4;
-    margin: 15mm;
+    margin: 0;
   }
 
   body * {

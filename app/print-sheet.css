@@ -1,0 +1,429 @@
+/* ==========================================================
+   Folha de impressão do DDS — CSS dedicado, escopado em
+   .print-sheet pra nunca vazar pro resto do app. Fica oculta na
+   tela (ver .print-sheet em globals.css) e vira as duas páginas
+   impressas via window.print(). Medidas em mm porque a folha é
+   sempre A4. Reaproveita as fontes e cores já carregadas pelo
+   app (--font-heading/--font-body/--font-mono, --color-*), sem
+   nenhuma fonte ou asset externo — funciona offline.
+   ========================================================== */
+
+.print-sheet {
+  --linha: #c9c6c0;
+  --linha-forte: var(--color-graphite);
+  --cinza: #6b6862;
+  --papel: #ffffff;
+}
+
+.print-sheet * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.print-sheet .folha {
+  width: 210mm;
+  min-height: 297mm;
+  background: var(--papel);
+  padding: 12mm 13mm 10mm;
+  display: flex;
+  flex-direction: column;
+  color: var(--color-graphite);
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+/* cabeçalho */
+.print-sheet .cab {
+  display: grid;
+  grid-template-columns: 34mm 1fr 40mm;
+  border: 1.5pt solid var(--linha-forte);
+  min-height: 22mm;
+}
+.print-sheet .cab-logo {
+  border-right: 1pt solid var(--linha-forte);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3mm;
+}
+.print-sheet .cab-logo img {
+  max-width: 100%;
+  max-height: 16mm;
+  display: block;
+}
+.print-sheet .logo-slot {
+  width: 100%;
+  height: 14mm;
+  border: 1px dashed var(--linha);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-mono), monospace;
+  font-size: 6pt;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--cinza);
+  text-align: center;
+  line-height: 1.4;
+}
+.print-sheet .cab-titulo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3mm 4mm;
+  text-align: center;
+}
+.print-sheet .cab-titulo h1 {
+  font-family: var(--font-heading), sans-serif;
+  font-size: 16pt;
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 1;
+  letter-spacing: 0.01em;
+}
+.print-sheet .cab-titulo p {
+  font-size: 8pt;
+  color: var(--cinza);
+  margin-top: 1.5mm;
+  line-height: 1.35;
+}
+.print-sheet .cab-data {
+  border-left: 1pt solid var(--linha-forte);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3mm 2mm;
+  text-align: center;
+}
+.print-sheet .cab-data .rot {
+  font-family: var(--font-mono), monospace;
+  font-size: 6.5pt;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--cinza);
+}
+.print-sheet .cab-data .dia {
+  font-family: var(--font-heading), sans-serif;
+  font-size: 15pt;
+  font-weight: 800;
+  line-height: 1;
+  margin-top: 1mm;
+}
+.print-sheet .cab-data .semana {
+  font-family: var(--font-mono), monospace;
+  font-size: 7pt;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-top: 1mm;
+}
+
+/* faixa zebrada — assinatura visual do app, versão da folha */
+.print-sheet .zebra {
+  height: 3.5mm;
+  background: repeating-linear-gradient(
+    45deg,
+    var(--color-safety-yellow) 0 5mm,
+    var(--color-graphite) 5mm 10mm
+  );
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+/* linha de identificação (empresa / unidade / responsável) */
+.print-sheet .ident {
+  display: grid;
+  grid-template-columns: 1fr 1fr 34mm;
+  border: 1pt solid var(--linha-forte);
+  border-top: 0;
+}
+.print-sheet .ident > div {
+  padding: 2.5mm 3mm;
+  border-right: 1pt solid var(--linha-forte);
+}
+.print-sheet .ident > div:last-child {
+  border-right: 0;
+}
+.print-sheet .ident .rot {
+  font-family: var(--font-mono), monospace;
+  font-size: 6.5pt;
+  font-weight: 600;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--cinza);
+  display: block;
+  margin-bottom: 0.8mm;
+}
+.print-sheet .ident .val {
+  font-size: 10pt;
+  font-weight: 600;
+}
+
+/* tema do dia */
+.print-sheet .tema {
+  margin-top: 6mm;
+}
+.print-sheet .tema .num {
+  font-family: var(--font-mono), monospace;
+  font-size: 7.5pt;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--cinza);
+}
+.print-sheet .tema h2 {
+  font-family: var(--font-heading), sans-serif;
+  font-size: 26pt;
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 0.95;
+  margin-top: 1mm;
+}
+
+/* corpo / blocos */
+.print-sheet .corpo {
+  margin-top: 7mm;
+  flex: 1;
+}
+.print-sheet .bloco {
+  margin-bottom: 4.5mm;
+  break-inside: avoid;
+}
+.print-sheet .bloco .rot {
+  display: inline-block;
+  font-family: var(--font-mono), monospace;
+  font-size: 6.8pt;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  background: var(--color-safety-yellow);
+  color: var(--color-graphite);
+  padding: 1mm 2.2mm;
+  margin-bottom: 1.8mm;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.print-sheet .bloco p {
+  font-size: 10.5pt;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+/* discussão — numeração via contador CSS, funciona com 2 a N perguntas */
+.print-sheet .bloco ol {
+  list-style: none;
+  counter-reset: d;
+  margin-top: 0.5mm;
+}
+.print-sheet .bloco ol li {
+  counter-increment: d;
+  font-size: 10.5pt;
+  line-height: 1.45;
+  padding: 1.4mm 0 1.4mm 8mm;
+  position: relative;
+  border-bottom: 0.5pt dotted var(--linha);
+}
+.print-sheet .bloco ol li:last-child {
+  border-bottom: 0;
+}
+.print-sheet .bloco ol li::before {
+  content: counter(d);
+  position: absolute;
+  left: 0;
+  top: 1.4mm;
+  font-family: var(--font-mono), monospace;
+  font-size: 8pt;
+  font-weight: 600;
+  width: 5mm;
+  height: 5mm;
+  line-height: 5mm;
+  text-align: center;
+  background: var(--color-graphite);
+  color: #fff;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+/* frase de destaque — só existe quando o DDS tem o campo "frase" */
+.print-sheet .frase {
+  border-left: 2.5mm solid var(--color-safety-yellow);
+  background: #fafaf8;
+  padding: 3.5mm 4mm;
+  margin: 5mm 0 4mm;
+  break-inside: avoid;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.print-sheet .frase .rot {
+  font-family: var(--font-mono), monospace;
+  font-size: 6.5pt;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--cinza);
+  display: block;
+  margin-bottom: 1.5mm;
+}
+.print-sheet .frase p {
+  font-family: var(--font-heading), sans-serif;
+  font-size: 15pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.08;
+}
+
+/* rodapé da folha 1 */
+.print-sheet .rodape {
+  margin-top: auto;
+  padding-top: 4mm;
+  border-top: 1pt solid var(--linha-forte);
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 6mm;
+}
+.print-sheet .rodape .assina {
+  flex: 1;
+  max-width: 70mm;
+}
+.print-sheet .rodape .assina .linha {
+  border-bottom: 0.8pt solid var(--color-graphite);
+  height: 9mm;
+}
+.print-sheet .rodape .assina .rot {
+  font-family: var(--font-mono), monospace;
+  font-size: 6.5pt;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--cinza);
+  margin-top: 1.2mm;
+  display: block;
+}
+.print-sheet .rodape .marca {
+  font-family: var(--font-mono), monospace;
+  font-size: 6.5pt;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--cinza);
+  text-align: right;
+  line-height: 1.5;
+}
+
+/* folha 2 — lista de presença */
+.print-sheet .presenca-topo {
+  margin-top: 6mm;
+}
+.print-sheet .presenca-topo .num {
+  font-family: var(--font-mono), monospace;
+  font-size: 7.5pt;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--cinza);
+}
+.print-sheet .presenca-topo h2 {
+  font-family: var(--font-heading), sans-serif;
+  font-size: 24pt;
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 1;
+}
+.print-sheet .presenca-topo p {
+  font-size: 9.5pt;
+  color: var(--cinza);
+  margin-top: 1.5mm;
+}
+
+.print-sheet table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 5mm;
+}
+.print-sheet thead th {
+  font-family: var(--font-mono), monospace;
+  font-size: 7pt;
+  font-weight: 600;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  background: var(--color-graphite);
+  color: #fff;
+  padding: 2.5mm;
+  text-align: left;
+  border: 1pt solid var(--color-graphite);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.print-sheet tbody td {
+  border: 0.8pt solid var(--linha);
+  height: 9.5mm;
+  padding: 0 2.5mm;
+  font-size: 9pt;
+}
+.print-sheet tbody tr:nth-child(even) td {
+  background: #fafaf8;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.print-sheet .col-n {
+  width: 10mm;
+  text-align: center;
+  font-family: var(--font-mono), monospace;
+  font-size: 8pt;
+  color: var(--cinza);
+}
+.print-sheet .col-mat {
+  width: 28mm;
+}
+.print-sheet .col-ass {
+  width: 62mm;
+}
+
+.print-sheet .presenca-fim {
+  margin-top: 6mm;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8mm;
+}
+.print-sheet .presenca-fim .campo .linha {
+  border-bottom: 0.8pt solid var(--color-graphite);
+  height: 10mm;
+}
+.print-sheet .presenca-fim .campo .rot {
+  font-family: var(--font-mono), monospace;
+  font-size: 6.5pt;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--cinza);
+  margin-top: 1.2mm;
+  display: block;
+}
+.print-sheet .obs {
+  margin-top: 6mm;
+  border: 0.8pt solid var(--linha);
+  padding: 3mm;
+}
+.print-sheet .obs .rot {
+  font-family: var(--font-mono), monospace;
+  font-size: 6.5pt;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--cinza);
+  display: block;
+  margin-bottom: 2mm;
+}
+.print-sheet .obs .linhas div {
+  border-bottom: 0.5pt dotted var(--linha);
+  height: 7mm;
+}
+
+@media print {
+  .print-sheet .folha {
+    page-break-after: always;
+  }
+  .print-sheet .folha:last-child {
+    page-break-after: auto;
+  }
+}
